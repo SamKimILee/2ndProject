@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312659</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피구 시합</title>
+            <author id="P12659" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이연우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190513" subclass="학교">
+        <p>
+            <s>피구시합</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>오늘은 7반과 피구 시합을 했다</s>
+            <s>경기 전, 서로 인사를 하고</s>
+            <s>네모난 경기장 안으로 들어갔다</s>
+        </p>
+        <p>
+            <s>여기저기서</s>
+            <s>“아웃!” “땅볼이야~” “안공!” “아~”</s>
+            <s>이런 소리가 들렸다.</s>
+        </p>
+        <p>
+            <s>첫 번째 게임, “6반 승!”</s>
+            <s>두 번째 게임, “7반 승!”</s>
+            <s>무승부였다. 누구도 지고 이기지 않아서 기분이 좋았다.</s>
+        </p>
+    </text>
+</SJML>

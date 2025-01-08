@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611474</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비오는 날</title>
+            <author id="P11474" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이나경</author>
+        </sourceInfo>
+    </header>
+    <text date="20190731" subclass="null_비">
+        <p>
+            <s>제목: 비오는 날</s>
+            <s>지음: &name1&</s>
+            <s>톡톡! 비가온다</s>
+        </p>
+        <p>
+            <s>뚝뚝! 비가온다</s>
+        </p>
+        <p>
+            <s>똑똑똑! 비가 창문열어 달라고</s>
+            <s>창문을 노크한다</s>
+        </p>
+        <p>
+            <s>우리는 창문을 꼭꼭 잠근다</s>
+        </p>
+        <p>
+            <s>우산을안 쓰고 비오는날</s>
+            <s>밖에 나가면창문안</s>
+            <s>열어 줬다고 비를 내리게</s>
+            <s>한다</s>
+        </p>
+    </text>
+</SJML>

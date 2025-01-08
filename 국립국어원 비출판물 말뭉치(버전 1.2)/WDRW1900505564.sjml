@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900505564</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손이 무섭다</title>
+            <author id="P05564" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">박재현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>
+            <s>손이 무섭다</s>
+            <s>칼이 쥐어진 손이 무섭다</s>
+        </p>
+        <p>
+            <s>손이 무섭다</s>
+            <s>때릴곳 없는 자그만 아이를 때린 손이 무섭다</s>
+        </p>
+        <p>
+            <s>손이 무섭다</s>
+            <s>어쩌면 요리를 하고있는 요리사의 칼든 손이</s>
+        </p>
+        <p>
+            <s>손이 무섭다</s>
+            <s>어쩌면 모기를 잡아준 인자한 어머니의 손이</s>
+        </p>
+        <p>
+            <s>손이 무섭다</s>
+        </p>
+        <p>
+            <s>어쩌면 무지한 이들을 가르치는</s>
+            <s>백성을 그토록 사랑한 이가 만든 40자가</s>
+        </p>
+        <p>
+            <s>손이 무섭다</s>
+            <s>어쩌면 칼보다도</s>
+        </p>
+        <p>
+            <s>유리벽 뒤에서 글쓰는 이들의 안보이는 손이</s>
+        </p>
+        <p>
+            <s>검은 300자를 치는 손들이</s>
+        </p>
+    </text>
+</SJML>

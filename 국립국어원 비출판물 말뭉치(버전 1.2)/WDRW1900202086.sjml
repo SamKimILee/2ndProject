@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202086</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기원문</title>
+            <author id="P02086" age="17" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">최수민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="나누다">
+        <p>
+            <s>아픕니다</s>
+            <s>빤히 태양을 쳐다보아도</s>
+            <s>내 눈만 멀 뿐</s>
+            <s>빛은 스며들지 않습니다</s>
+            <s>가장 오래된 겨울날처럼</s>
+            <s>나를 조그맣고 보잘 것 없게 만듭니다</s>
+        </p>
+        <p>
+            <s>그래도 언젠가</s>
+            <s>눈 먼 어둠에도</s>
+            <s>빛 들 날이 있기를</s>
+            <s>이 천장이 산산히 부서져</s>
+            <s>빛 들 날 있기를</s>
+            <s>아프지 않기를 바라기보다</s>
+            <s>행복을 바라는 마음이 차오르기를</s>
+            <s>내 행복을 바라기보다</s>
+            <s>타인의 기쁨을 비는 날이</s>
+            <s>선뜻 다가오기를</s>
+            <s>책장이 넘어가는 것처럼</s>
+            <s>자연스레 당도하기를</s>
+            <s>그렇게 바라고도 바랍니다</s>
+        </p>
+    </text>
+</SJML>

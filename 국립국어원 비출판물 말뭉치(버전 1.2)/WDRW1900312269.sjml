@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어버이 날</title>
+            <author id="P12269" age="63" occupation="전업주부" sex="F" submission="온라인" handwriting="No">박병희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_어버이날">
+        <p>
+            <s>일찍 부모님을 여윈, 나의 유년시절,</s>
+            <s>그 가슴에 빨간 카네이션을 달아 주는게 소원이었습니다.</s>
+            <s>그리고 내 자식에게는 그런 한을 심어주지 말아야지 했습니다.</s>
+        </p>
+        <p>
+            <s>근데 지금 나의 소원은 이루었지만,</s>
+            <s>함께 받아야 할 사람이 없습니다.</s>
+        </p>
+        <p>
+            <s>둘이 자식을 낳아 함께 기르고, 여기까지 왔건만</s>
+            <s>그 카네이션과 선물은 나 혼자 받고 있습니다.</s>
+        </p>
+        <p>
+            <s>자식이 준 것을 함께 나누고</s>
+            <s>"이거 주까?저거주까?" 실랭이하던 그때가 그립습니다.</s>
+        </p>
+        <p>
+            <s>날 바라보고 웃는 사진 속의 모습을 보고,</s>
+            <s>자식들이 주는 어버이 선물을 함께 나누며 ,</s>
+            <s>뿌듯함을 느껴봅니다.</s>
+        </p>
+        <p>
+            <s>그리고 "여보 미안해! 나혼자 호강해서~~ "</s>
+        </p>
+    </text>
+</SJML>

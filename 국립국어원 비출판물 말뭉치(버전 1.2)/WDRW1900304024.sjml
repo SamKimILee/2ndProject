@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304024</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>젊은 사람들이 시장에 잘 안 가는 이유는</title>
+            <author id="P04024" age="27" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시장">
+        <p>젊은 사람들이 시장에 잘 안 가는 이유는 가격이 안 써있어서 같다. 전화 하는것도  힘들어하는 세대한테 가격을 묻고 원하는 가격이 아닐 때 흥정하거나 그냥 가는 건 너무 너무 너무 힘든 일일 것이다.</p>
+    </text>
+</SJML>

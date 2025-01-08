@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111610</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 제일 좋아하는 인물</title>
+            <author id="P11610" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">오승빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190707" subclass="null_세종대왕">
+        <p>7/7(일) 제목:내가 좋아하는인물</p>
+        <p>나는 세종대왕이 제일 좋아한는 인물이다.</p>
+        <p>왜냐하면세종대왕은 글씨를 만들었고 한글이라는 글자 도 만들었고 나를 위해서가 않이라 남을위해서 한글을 만들다니 역시 세종대왕 이다. 나도 나를 위해서가 않이라 남을위해서 하기로 결심했다.집편전 학자들이랑 같이 한글 을 같이 오랬동안 만들었고 생각을 아주많이했다 그리고 나도 세종대왕처럼 책을많이 읽어야겠다.</p>
+    </text>
+</SJML>

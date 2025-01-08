@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한 순간</title>
+            <author id="P12094" age="67" occupation="전업주부" sex="F" submission="온라인" handwriting="No">백종순</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_순간">
+        <p>
+            <s>7호선 신풍역에서 차가 멈췄다 한다</s>
+            <s>걷고 걸어서 천왕역 근방이다</s>
+            <s>두리번 거리다 앗!  퍽</s>
+            <s>한 눈판 대가가 너무 크다</s>
+        </p>
+        <p>
+            <s>순간 창피보다 아퍼서  못 일어나겠다</s>
+            <s>모르는 사람들이 몰려와 부축해 일으킨다</s>
+            <s>착한 사람들 !</s>
+            <s>고맙다는 인사를 바람처럼하고 자리를 떳다</s>
+            <s>구정을 앞두고 이게 무슨 일이람</s>
+            <s>할 일도 많은데</s>
+        </p>
+        <p>
+            <s>양력 1월1일 70줄에 들어 섰으니</s>
+            <s>황금빛 꽃길을 걷듯 우하하게  가야겠다는 다짐이 무색하다</s>
+        </p>
+        <p>
+            <s>평온한 일상이 얼마나 행복인가를</s>
+            <s>다시금 새긴다</s>
+            <s>2020. 1. 22</s>
+        </p>
+    </text>
+</SJML>

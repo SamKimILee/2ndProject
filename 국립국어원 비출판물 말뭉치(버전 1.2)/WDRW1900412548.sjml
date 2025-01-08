@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구가 소중한 이유</title>
+            <author id="P12548" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김수영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>친구가소중한이유 1.친구는 하나밖에 없기 때문에 2.착하니까 3.잘해주니까 4.외로우니까5.내편을들어주니까 6.힘들때도와주니까7.울때위로해 주니까8.하나님의 아이니까9.생명이한개밖에 없으니까10.소중한존재니까 끝</p>
+    </text>
+</SJML>

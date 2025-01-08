@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104948</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책</title>
+            <author id="P04948" age="36" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_책">
+        <p>힘든 날에는 책을 살펴본다</p>
+        <p>책꽂이 앞에서 주르륵 지나가며 책을 살피다 보면 마음이 편안해진다. 책 제목만 훑어보아도 마음이 차분해진다.</p>
+        <p>유독 자주 읽는 책이 있다. 꼭 같은 기분이 들게 하는 그 책. 이제는 너무나 많이 읽어 어떤 마음일 때 그 책을 읽는지 왜 그 책을 찾는지 내 마음보다 손끝이 먼저 반응하는 책.</p>
+        <p>한 때 슬픈 순간을 받아들일 수 없어 힘겨워 하고 있던 나에게 친구가 권한 그 책.</p>
+    </text>
+</SJML>

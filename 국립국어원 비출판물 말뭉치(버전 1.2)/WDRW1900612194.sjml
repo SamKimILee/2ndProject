@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612194</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>특별한 영어</title>
+            <author id="P12194" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효주</author>
+        </sourceInfo>
+    </header>
+    <text date="20171201" subclass="null_영어">
+        <p>12월 1일 금요일</p>
+        <p>오늘은 영어할 때 &name1&와 &name2&이가 같이 영어를 했다. 왜냐하면 &name1&와 &name2&이가 월요일에 못 왔기 때문이다. &name1&는 제주도에 가서 못 왔고 &name2&이는 아파서 못 왔다. &name1&와 금요일에 영어해서 좋고 좋고 좋았다.</p>
+    </text>
+</SJML>

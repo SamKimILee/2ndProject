@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312358</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>20년 뒤 나의 모습 상상하며 일기쓰기</title>
+            <author id="P12358" age="10" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">이루니</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_상상">
+        <p>4월 17일 (금) 4교시 창체</p>
+        <p>과제: 20년 뒤 나의 모습 상상하며 일기쓰기</p>
+        <p>나는 오늘 국립과학관에서 새로운 로봇을 만들어 보았다. 로봇의 종류에는 심리치료 로봇, 애완용로봇, 운동용 로봇 등 다양한 로봇들이 있는데 그중 나는 나무 심는 로봇을 발명하고 있다. 왜냐하면 요즘 환경이 나빠졌기 때문이다. 그래서 인지 자주 덥기도 하고 춥기도 하다. 차들도 많이 좋아져서 인터넷도 되고 하늘, 땅, 물위, 물 속을 자유롭게 다닌다. 우주선 기능도 추가하려는데 꽤 힘들다. 내일은 땅을 넓히는 로봇을 만들어야겠다.</p>
+    </text>
+</SJML>

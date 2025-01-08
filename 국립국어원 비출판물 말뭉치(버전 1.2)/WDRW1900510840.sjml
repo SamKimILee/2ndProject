@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510840</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>야간비행</title>
+            <author id="P10840" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">백영은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_여행">
+        <p>
+            <s>떠나버린 태양을 찾아 떠나는 여행</s>
+            <s>발 아래 펼쳐진 별들이 보이는가</s>
+            <s>하이웨이의 가로등들이 보이는가</s>
+            <s>대관람차의 들뜬 속삭임이 들리는가</s>
+        </p>
+        <p>
+            <s>날개를 번쩍이며 날아도 빛은 멀어져만 가고</s>
+            <s>어둠 속에 덜컹이는 나</s>
+        </p>
+        <p>
+            <s>나의 여행이 어땠느냐고 물으신다면</s>
+            <s>집으로 돌아오는 길이었다고 말하겠어요</s>
+            <s>해를 만나려거든 로케트에 올라야 할 거예요</s>
+            <s>난기류를 만나면 흔들려주세요</s>
+        </p>
+        <p>
+            <s>마치 흔들리는 것만이 당신의 일인 것처럼</s>
+            <s>어둠 속에 덜컹이다 마침내 목적지에 도착하는 것처럼</s>
+        </p>
+    </text>
+</SJML>

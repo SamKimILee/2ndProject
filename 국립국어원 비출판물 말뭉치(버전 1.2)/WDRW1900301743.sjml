@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301743</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>주말</title>
+            <author id="P01743" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_주말">
+        <p>내일은 토요일이다. 정확히 말하자면 한 시간 그리고 십구 분 뒤에 토요일이 된다. 나에게 금요일 밤은 매우 설레이는 시간이었다. 그러나 현재는 그렇지 않다. 토요일은 제일 괴로운 날이다. 아침부터 국어 학원을 갔다, 수학 학원에서 밤을 맞이하고 집을 오면 11시에 가까운 시각이 되어버린다. 그리고 자고 일어나면 또 과학 학원을 간다. 끝나면 또 바로 수학 학원행. 수학 학원에서 보내는 시간이 가장 길지만 (아마 일주일에 50시간은 족히 되지 않나 싶다) 그렇지만 난 일주일에 세 시간밖에 없는 과학 학원에서의 시간이 가장 싫다. 나는 왜 그렇게 과학이 싫은지 모르겠다. 내가 관심 있어하는 분야는 정말 재밌으나 그 외의 과학은 정말 재미없다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>대게</title>
+            <author id="P11201" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권묘정</author>
+        </sourceInfo>
+    </header>
+    <text date="20200208" subclass="null_대게">
+        <p>(데게)</p>
+        <p>이모부가 데게를 사쥬셨다. 맛있었다. 난다리부분이 맛있다. 빼는겄도 재미고, 달아서그런겄도있다.그리고 또 게살복음박도 해쥬셨다. 할머니는요리를잘하시긴하지만게살복음밥은... 이모부게 최고다.</p>
+    </text>
+</SJML>

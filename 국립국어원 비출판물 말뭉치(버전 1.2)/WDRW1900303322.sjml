@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303322</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 여행기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제주도 여행기3</title>
+            <author id="P03322" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_먹그리 투어">
+        <p>제주도 여행에서 우리가 목표로 한 것은 '즐거운 음식을 먹을 것' 그리고 '아름다운 풍경을 보고 오는 것' 이 두 가지 였다. 비행기에서 내리고 공항에서 멀지 않은 숙소에 짐을 내리자마자 찾아 간 곳은 고기국수 가게였다. 제주도에서만 먹을 수 있는 혹은 지역색이 짙은 음식을 찾는다면 고기국수는 나쁘지 않은 선택이라 믿어 의심치 않는다. 오랜 시간을 기다려 들어간 좁디 좁고 허름한 가게는 음식이 나오자 그 감상이 바뀌었다. 큰 그릇에 담겨진 흰 국수 위에 올려진 큰 고기들은 어쩐지 면을 뒤적거리자 끝도 없이 생겨나는 듯 했다. 진하지만 거북하게 무겁지는 않았던 국물과 함께 들이켰던 국수는 기다렸던 시간이 전혀 아깝지 않은 맛이었다.</p>
+    </text>
+</SJML>

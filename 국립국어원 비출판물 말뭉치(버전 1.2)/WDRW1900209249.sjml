@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>표류</title>
+            <author id="P09249" age="21" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>
+            <s>나는 우울이라는 바닷위에서</s>
+            <s>혼자 초라한 돛단배를 타고</s>
+            <s>표류하는것은 아닐까</s>
+            <s>누군가가 나를 구하러 와주길 기다리며</s>
+            <s>구멍난 돛단배 위에 홀로 누워</s>
+            <s>하늘을 바라본다.</s>
+        </p>
+    </text>
+</SJML>

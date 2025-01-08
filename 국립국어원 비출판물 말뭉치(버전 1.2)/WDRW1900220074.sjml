@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220074</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>워터파크</title>
+            <author id="P20074" age="8" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_워터파크">
+        <p>워터파크에 놀러 갔었다 수영을 할줄 모르니까 구명조끼와 튜브를 타고 놀았다</p>
+        <p>파도가 밀려와서재미있었다 아이고 물도 몇번 먹었다</p>
+    </text>
+</SJML>

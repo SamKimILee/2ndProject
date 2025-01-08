@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212676</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>찾으니까 없네</title>
+            <author id="P12676" age="66" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_기억">
+        <p>
+            <s>다 찾아봐도 없어</s>
+            <s>어디다 착착 접어서 놓았는 것 같애</s>
+            <s>태우지는 않았는데 없어졌어</s>
+            <s>식탁 위도 없고 서랍에도 없고</s>
+            <s>아무리 생각해도 기억이 안나</s>
+            <s>나이탓인가봐</s>
+            <s>나도 늙어서</s>
+        </p>
+        <p>
+            <s>옛날에 좋던 그 머리는 어디로 가고</s>
+            <s>하얗게 새카맣게 잊어버렸어</s>
+            <s>잡생각만 나</s>
+        </p>
+        <p>
+            <s>글 써놓은 것만 잊어버린 것이 아니야</s>
+            <s>물건 놓고 잊어버리고 까마득히 잊어버리지</s>
+        </p>
+        <p>
+            <s>시장가서도 뭘 사러 왔는지 적어놓지 않으면 몰라</s>
+        </p>
+        <p>
+            <s>달력에다 표시를 해 놔도 달력 보는 것을 잊어버려서 몰라</s>
+            <s>손주들 생일도 잊어버려서 지나가고 나서 알아</s>
+        </p>
+        <p>
+            <s>내일은 3자 들어가는 날이라 마스크 사러 가는 날 메모지에 써놨어</s>
+            <s>내일은 잊지 않고 일찍 일어나야지</s>
+        </p>
+    </text>
+</SJML>

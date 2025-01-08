@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111123</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 달에게</title>
+            <author id="P11123" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">박현진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="사랑">
+        <p>
+            <s>스스로 빛을 내지 않아도 좋으니 너는 그저 가만히 네 모습만 비춰다오</s>
+            <s>너의 뒷면까지도 내가 사랑할테니</s>
+        </p>
+    </text>
+</SJML>

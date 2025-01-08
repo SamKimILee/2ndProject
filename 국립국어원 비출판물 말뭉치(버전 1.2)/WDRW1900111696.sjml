@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111696</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 설날</title>
+            <author id="P11696" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최은민</author>
+        </sourceInfo>
+    </header>
+    <text date="202001025" subclass="null_용돈">
+        <p>나의설날</p>
+        <p>우리 집에 할아버지가 오셨다. 우리는 세배 하고 밥먹고 간식을 먹었다. 할아버지 한테 20000원 엄마한테 10000원 아빠한테 50000원을 받았다. 용돈을 모아서 재벌이 되고 말거다. 엄마, 아빠, 온 가족을 다 초대 할 것이다. 그래서 온 집안이 재벌이 되는 것이다. 선생님도 돈 줄깨요. 재벌 가족 친구들도 초대 완전 완전 초대 모두 오세요. 이러다간 집 꽉 차겠다.</p>
+    </text>
+</SJML>

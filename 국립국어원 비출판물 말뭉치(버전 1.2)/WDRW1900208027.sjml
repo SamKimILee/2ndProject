@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900208027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어제의 나 오늘의 나</title>
+            <author id="P08027" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>
+            <s>어릴적 나는 그랬다</s>
+            <s>"날고싶다"</s>
+            <s>날아오르는 새들이 부러웠다</s>
+        </p>
+        <p>
+            <s>나는 날 수 없다</s>
+            <s>"너는 새가 아니야"</s>
+            <s>나의 날개가 부러졌다</s>
+        </p>
+        <p>
+            <s>간직해온 꿈이 무너졌다</s>
+            <s>"너는 별이 아니야"</s>
+            <s>나는 할 수 없다</s>
+        </p>
+        <p>
+            <s>반짝거리는 별들이 부러웠다</s>
+            <s>"하고싶다"</s>
+            <s>오늘의 나는 그랬다</s>
+        </p>
+    </text>
+</SJML>

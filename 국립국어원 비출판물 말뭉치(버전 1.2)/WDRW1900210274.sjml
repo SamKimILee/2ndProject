@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210274</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>왜 욕심 부리면 안되나요?</title>
+            <author id="P10274" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_동화책">
+        <p>제목:왜 욕심부리면 안되나요?</p>
+        <p>지음:&name1&   그림: &name2&</p>
+        <p>이 책은 &lt;왜 안되나요?&gt; 시리즈중 한권인데 동화책으로 만들어진 아이들을 위한 책이다. 동화책 이니 만큼 이야기로 되어 있다. 처음에 어떤아이가 욕심을 부리자 그게 계속이어지면서 다른아이가  다른아이에게 욕심을 부린다. 그런 아이들 앞에 욕심도깨비가  나타난다. 그뒤로 아이들은 욕심을 부리지 않고 사이좋게 지낸다. 그러자 도깨비는 도망가고 아이들만 남아서 사이좋게 논다.</p>
+        <p>욕심을 부려서 얻는 조금에 혜택보다는 조금의 혜택을 버리고 많은행복을 얻는게 나을것 같다.</p>
+    </text>
+</SJML>

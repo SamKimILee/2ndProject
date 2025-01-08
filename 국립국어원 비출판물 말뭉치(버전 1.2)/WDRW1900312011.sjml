@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312011</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 1박2일 PD면 어디로 갈까?</title>
+            <author id="P12011" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190522" subclass="null_PD">
+        <p>2019/5/22/수</p>
+        <p>&lt;내가1박2일 PD면 어디로 갈까?&gt;</p>
+        <p>내가 1박 2일 PD 면 먼저 울진으로 갈것이다.</p>
+        <p>왜냐하면 울진 바닷가에서 물놀이를 한다음 맛있는 음식을 먹을거기 때문이다.</p>
+        <p>물놀이는 바닷속 에  들 어가서 물고기와 전복을 캐온 다음 그걸로 구워먹고 다시놀것이다.</p>
+        <p>그리고 울진 맛집에 가서 해산물과 해산물 라면을 먹고 잘것이다.</p>
+        <p>그다음날 엄마 아빠와 수영하고 놀다가 다시 집으로 갈 것이다.</p>
+        <p>그날이빨리오면 좋겠다</p>
+        <p>그리고 여름이니 놀기 딱좋을 것 같다.</p>
+        <p>그리고 거기서 다자면 나 몰래 밖에나가서 휴식을 취하면서 사방치기 돌던지기를 할것이다.</p>
+        <p>그리고 거기서 쪼그만한 배를 만들어서 바닷가 에 띄어놓고 아주 재미있게 놀것이다.</p>
+        <p>물놀이는 물속에서 스노쿨링  대회를하고 낚시 대회를 할것이다.</p>
+        <p>정말재미있을거같다.</p>
+    </text>
+</SJML>

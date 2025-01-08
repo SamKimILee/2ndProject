@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900704094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿈을 꿨다</title>
+            <author id="P04094" age="13" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_꿈">
+        <p>이해받는 꿈을 꿨다</p>
+        <p>말없이 교실을 나선 나를 따라나와 '자살할 거냐고', 다 알고 말려주는, 그런.</p>
+        <p>나가서 스스로를 상처를 입히고, 안아주고 걱정하는 소리를 내고.</p>
+        <p>그런 말을 해줄 정도로 상냥한 친구가 아니고</p>
+        <p>그걸 눈치채고 걱정해줄 만큼 섬세한 아이가 아니고</p>
+        <p>내가 바라보는 마음은 헤아리기 힘들 정도로 깊지만</p>
+        <p>정작 나를 바라봐주는 마음은 내 기대에 반도 못 미칠 지 모르는.</p>
+        <p>그런 소중한 친구가, 내 상처가 나다 못해 아예 곪아버린 마음을</p>
+        <p>이해해주고, 그렇게 이해받는 꿈을 뀠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210406</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>교사라는 직업</title>
+            <author id="P10406" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">양우림</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_교사">
+        <p>스스로 느끼기에 나는 교사 체질은 아니다. 가르치는 것도, 교육의  책임도 버겁다. 선생님들은  일 년 돌본 학생들을 한 날 떠나보내고 다시 새 인연 만나기를 반복하셨겠지. 예년을 추억해도 현재에 최선을 다하실 테다. 순식간에 바뀌는 사람들과 다시 노력을 쌓야야 하는 관계로 돌아가는 일. 그 분들은 어떻게 헤쳐나가시는 걸까, 하다 보니 되는 걸까.</p>
+        <p>나는 잘 모르겠다. 그 피곤한 일을 어떻게 매년 반복할 수 있는지.</p>
+        <p>그리고 그닥 하고 싶지도 않다.</p>
+        <p>하지만, 어쩌면 그래서 내 천직인지도 모른다. 줄곧 원하던 게 아닌가? 조금만 비틀어져도, 약간만 마음에 들지 않아도 바로 새 시작을 상상하는 그 내가 원하던 것.</p>
+        <p>조금만 기다리면 다시 시작할 수 있어, 모든 것은 새로이, 리셋.</p>
+    </text>
+</SJML>

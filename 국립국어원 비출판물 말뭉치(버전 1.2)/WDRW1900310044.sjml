@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310044</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안경</title>
+            <author id="P10044" age="12" occupation="중학생" sex="F" submission="온라인" handwriting="No">신소율</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="바꾸다">
+        <p>오늘 안경도수와 테를 바꿨다.</p>
+        <p>도수가 뭔지는 잘 모른다.</p>
+        <p>테는 투명하고 민트색이다.</p>
+        <p>사실 내가 고른건 아니다.</p>
+        <p>보라,검정,파랑,흰색등 여러가지 색깔이 있었는데 엄마께서 투명한게 어울리는것 같다고 하셔서 골랐다.</p>
+        <p>엄마가 패션을 더 잘 아니까...</p>
+        <p>그리고 주인 아저씨는 그걸로 알겠다고  몇분만 기다리라고 했다.</p>
+        <p>그사이 마트를 둘러보고 잠시뒤...</p>
+        <p>진짜 몇분만에 안경이 완성됐다. 진짜 잘보였다.</p>
+        <p>"세상이 이렇게 밝았나?? 짱 잘보여!"</p>
+        <p>새거를 쓰니까 로봇이 되는 것 같은걸~</p>
+        <p>친구들은 어떤 반응일까??라는 생각이 막 떠올랐다.</p>
+        <p>이쁘다고  말해주면 좋겠다.</p>
+        <p>새것은 기분이 좋았다.</p>
+    </text>
+</SJML>

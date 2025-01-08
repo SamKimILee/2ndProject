@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310908</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무릎 다친날</title>
+            <author id="P10908" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시호</author>
+        </sourceInfo>
+    </header>
+    <text date="20180716" subclass="null_다친무릎">
+        <p>제목: 무릎 다친날.</p>
+        <p>오늘은 정말 한가롭고 1000원을 주워서 하루가 정말 좋다고 생각했는데....ㅠ_ㅠ 무릎을 다쳤다. 피가멈춘후 소독을 계속했다. 피가 한방울 한방울 나오긴 했지만 계속 휴지로 닦았다.</p>
+        <p>너무 소독약이 아팠다. 이제는 꼭~ 어디든 안다치면 좋겠지만 그게 맘대로 되지 않는다 ㅠㅠ슬프다. - 인생은 맘대로 되어지지 않는다.</p>
+    </text>
+</SJML>

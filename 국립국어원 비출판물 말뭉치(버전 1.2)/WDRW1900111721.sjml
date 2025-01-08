@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111721</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>다이아몬드헤드</title>
+            <author id="P11721" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">손동현</author>
+        </sourceInfo>
+    </header>
+    <text date="20181201" subclass="null_하이킹">
+        <p>&lt;다이아몬드 헤드&gt;</p>
+        <p>숙소근처에 있는 다이아몬드헤드하이킹을 다녀왔다. 다이아몬드가 있을 거라고 믿어서 이름이 지어졌다. 2차 세계대전때에는 군사적으로 중요한 장소였지만 지금은 하이킹코스로 인기가 많다.</p>
+        <p>날씨가 유난히 덥고 습해서 힘들었다. 괜히 짜증나고 화났다. 정상에 올라가니 넓은 태평양도 보이고 와이키키해변이보여서 기분이 조금 나아졌다. 내려올때는 바람도 불어서 휠씬 수월했다.</p>
+        <p>저녁에는 시청에서 열리는 크리스마스 점등식을 보러 갔다. 1시간을 걸었더니 다리가 부러질 정도로 힘들었다. 반 밖에 못봤지만 여름에 크리스마스를 즐길수 있어 헛수고는 아니었다.</p>
+        <p>내일은 힘들지 않았으면 좋겠다.</p>
+    </text>
+</SJML>

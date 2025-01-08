@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일파티</title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_부페">
+        <p>부페에서 생일파티를 했다. 생일파티를 일찍했다. 망고 아이스크림은 달콤했다. 그리고 예뻤다. 소시지도 먹었는데 맛있었다. 수프도 따뜻하고 맛있었다. 생일파티를 해서 최고로 기쁜날이었다.</p>
+    </text>
+</SJML>

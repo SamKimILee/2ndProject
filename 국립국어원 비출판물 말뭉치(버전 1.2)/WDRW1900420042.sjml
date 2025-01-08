@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420042</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>날씨</title>
+            <author id="P20042" age="64" occupation="전업주부" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_날씨">
+        <p>4. 날씨가 너무 좋아 운동나가다 고양이 에게 말을 걸었지만 미동도 하지 않고 졸고만있다</p>
+        <p>심심해진 나는 자전거 도로를 조금만 걷다 오자는 작정으로 나갔다 햇살이 봄볕치고 너무 따끈 따끈 하였다. 지하철 역을 지나다 갑자기 어디론가 가고싶다는</p>
+        <p>충동이 생겼지만 이런 몰골로 어디를 가 하고 내 마음에게 핀잔을 주었다</p>
+    </text>
+</SJML>

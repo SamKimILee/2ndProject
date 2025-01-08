@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204855</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>살아난 이야기</title>
+            <author id="P04855" age="24" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_회복">
+        <p>다시 눈을 뜬 곳은 의료 센터였다. 와본 횟수를 손으로 꼽을 수 있을 만큼 건강하게 지냈는데 왜 이런 곳에 누워있는 거지? 눈을 깜빡이고 있으면 높은 천장에 나란히 달린 전등이 보였다. 눈이 아플 만큼 밝은 조명을 정통으로 맞고 인상을 찌푸리는 것과 거의 동시에 인기척을 느꼈다.</p>
+        <p>"움직이는 걸 보니 회복은 잘 되고 있고... 아, 일어났나? 자네는 일주일 전의 사건으로 입원한 상태야."</p>
+        <p>가운을 입은 사람의 입에서는 어려운 의학용어가 끝없이 쏟아졌다. 그게 의학용어라는 걸 알아차릴 수 있었던 것만으로도 스스로를 대견하게 여겨야 할 정도였다.</p>
+    </text>
+</SJML>

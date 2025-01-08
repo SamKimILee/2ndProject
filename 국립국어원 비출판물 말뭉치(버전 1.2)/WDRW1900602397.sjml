@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900602397</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사람같은 사람</title>
+            <author id="P02397" age="19" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사람">
+        <p>나는 그냥 사람이 되고싶어서</p>
+        <p>남들처럼 사람다움을 연기했다</p>
+        <p>그런데 다들 내가 마음에 들지 않는대</p>
+        <p>이런이런 게 과하다</p>
+        <p>이런이런게 서툴다</p>
+        <p>이런이런게 재수없다</p>
+        <p>그럴거면 차라리 인공지능이랑 살았으면 좋겠어</p>
+        <p>사람은 서로 존중하며 사는거지</p>
+        <p>음식 평가원이 평가하는 음식이 된 기분이 들도록</p>
+        <p>멋대로 해석하고</p>
+        <p>멋대로 의식하고</p>
+        <p>멋대로 평가하고</p>
+        <p>멋대로 강요하고</p>
+        <p>어느 장단에 맞춰 춤을 춰야하는지</p>
+        <p>소통도 존중도 없는 관계는</p>
+        <p>마치 스프링이 달린 지뢰게임 체험장같다</p>
+    </text>
+</SJML>

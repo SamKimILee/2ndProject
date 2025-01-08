@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>레고 전시회에 갔다.</title>
+            <author id="P12638" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_레고">
+        <p>레고 전시회에 갔다. 멋진 레고 작품이 많았다. 그중에서 아이언맨 레고가 제일 멋있었다.</p>
+        <p>입체감이 있고 나도 만들어 볼 수 있을 것 같다. 집에가서 그림일기로 쓰려고 사진도 찍었다 빨리 만들어 보고 싶다. 도전!</p>
+    </text>
+</SJML>

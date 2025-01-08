@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구</title>
+            <author id="P11277" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">오은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>
+            <s>내가 눈물을 흘릴 때 마다</s>
+            <s>옆에서 괜찮냐며</s>
+            <s>나를 다독여주는 고마운 친구</s>
+            <s>내가 슬플때나 기쁠때나</s>
+            <s>항상 내 곁에 있어주는</s>
+            <s>나의 소중한 친구</s>
+        </p>
+        <p>
+            <s>나에게 친구는 없어서는</s>
+            <s>안될 소중한 존재</s>
+            <s>친구란 그런 존재</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈</title>
+            <author id="P05026" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="차">
+        <p>
+            <s>번쩍이며 무언가를 좇는 듯</s>
+            <s>일제히 앞으로 달려나가는게</s>
+        </p>
+        <p>
+            <s>같은 곳을 바라보는 듯</s>
+            <s>모두 다르게 생긴게</s>
+        </p>
+        <p>
+            <s>번쩍이는 여러개의 눈에서는</s>
+            <s>광기를</s>
+        </p>
+        <p>
+            <s>겨우 빛을내는 눈 하나에서는</s>
+            <s>애환을</s>
+        </p>
+        <p>
+            <s>다 죽은 눈에서는</s>
+            <s>처연함을</s>
+        </p>
+        <p>
+            <s>밤새 수많은 눈들이 번쩍거린다</s>
+        </p>
+    </text>
+</SJML>

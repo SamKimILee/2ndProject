@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111794</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>송년회</title>
+            <author id="P11794" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20181231" subclass="null_소원">
+        <p>12월 31일 월요일</p>
+        <p>날씨:맑음</p>
+        <p>제목:송년회</p>
+        <p>오늘 저녁이 왔다. 내일은 2019년이다. 난 9살이 돼기 싫은데 우리는 2019년을 마지하고 각자 소원을 말했다. 내소원은 우리가족 100살 넘게살고 행복하고 건강한 거다. 과연 그 소원은 이루어질까?</p>
+    </text>
+</SJML>

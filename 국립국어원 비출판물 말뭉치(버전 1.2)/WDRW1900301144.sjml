@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301144</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그런 사람</title>
+            <author id="P01144" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">노진영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사람">
+        <p>
+            <s>지금까지 내가 그런 사람들만 만나서 그런거라고.</s>
+        </p>
+        <p>
+            <s>그런 사람이 뭔데.</s>
+        </p>
+        <p>
+            <s>오히려 이 정도면 나한테 문제가 있는거 아냐?</s>
+        </p>
+        <p>
+            <s>그들이 아니라 내가 이상한거 아니냐고.</s>
+        </p>
+        <p>
+            <s>사실은 그런 건 나였던게 아닐까.</s>
+        </p>
+        <p>
+            <s>그들이 그런 게 아니라, 내가 그런 사람이 되어 버린 것 같아서 역겨워졌다.</s>
+        </p>
+        <p>
+            <s>내 자신이.</s>
+        </p>
+    </text>
+</SJML>

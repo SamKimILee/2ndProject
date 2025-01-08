@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410504</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할머니의 여름휴가</title>
+            <author id="P10504" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_바다">
+        <p>
+            <s>할머니의 여름휴가</s>
+            <s>&name1&</s>
+            <s>할머니 소라껍때기에</s>
+            <s>들어가</s>
+            <s>바다수영하고</s>
+            <s>수박먹고</s>
+            <s>햇빛쬐고</s>
+            <s>바닷바람스위치 사와</s>
+            <s>고장난선풍기에 끼웠더니</s>
+            <s>바다냄새 솔솔~~</s>
+        </p>
+    </text>
+</SJML>

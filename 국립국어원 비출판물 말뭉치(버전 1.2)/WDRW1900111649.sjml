@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>야구 NC VS  삼성</title>
+            <author id="P11649" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김준혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20180914" subclass="null_야구">
+        <p>&lt;야구 NC VS 삼성&gt;</p>
+        <p>태권도를 마치고 자기 전에 야구 점수를 보려고틀었는데 점수는 10 VS 11로 지고 있었다.불행히도 나성범 삼진, 지석훈 뜬공으로 2아웃이 되었다. 하지만 스크럭스가 볼 넷으로 나가고 모창민의 2루타로 스크럭스가 홈으로 들어오면서 11 VS 11! 11회초는 손시헌 선수의 좋은 수비로 3아웃이 되었다. 11회말에 선두 타자 박석민 선수는 아웃이 되었다. 그리고 손시헌 선수도 아웃이 되었다. 그리고 김성욱 선수도 아웃되었다. 이번에도 삼성은 삼자범퇴로 끝났다. 나성범은 뜬공, 강진성도 뜬 공으로 2아웃! 스크럭스는 삼진이 되면서 3아웃! 결국 무승부였다. 내일은 꼭이겼으면 좋겠다</p>
+    </text>
+</SJML>

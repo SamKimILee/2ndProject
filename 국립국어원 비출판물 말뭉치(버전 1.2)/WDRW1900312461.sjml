@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312461</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>숲체험.</title>
+            <author id="P12461" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_숲체험">
+        <p>숲 체험</p>
+        <p>1학년 친구들이랑 같이 숲체험에갔다.</p>
+        <p>우리는 애발레 잡기 놀이를 했다. 초록색은자기목을 보호하기 위해 나뭇잎에 있어서요.</p>
+        <p>갈색 애밸래도 자기몸을 지키기 위해 나무에 애벌레가 붙어있었어요. 간식 먹고 애벌레 들을 풀어주었어요. 나의 마음 애벌레들이 움지긴건도있어서 불쌍해 보였어요. 다음에 또 재미있는 놀이을 하고싶어요.</p>
+    </text>
+</SJML>

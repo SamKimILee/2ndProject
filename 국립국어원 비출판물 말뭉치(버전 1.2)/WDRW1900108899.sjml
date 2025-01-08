@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900108899</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시간의 상대성</title>
+            <author id="P08899" age="26" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="시간">
+        <p>인간에게 가장 공평하게 주어지는 것이 시간이라는데 나는 동의하지 않는다.</p>
+        <p>같은 24시간을 얼마나 밀도높게 사느냐, 얼마나 가치있게 사느냐는 개개인에 따라 편차가 아주 크니까.</p>
+        <p>수치상으로야 똑같다. 24시간. 1주일이 7일인 것도 같고 일년도 똑같이 365일이니까.</p>
+        <p>하지만 그 삶을 살아내는 인간이 다르다.</p>
+        <p>어떻게 같을 수가 있겠나. 빈자와 부자의 시간이 다르고, 학생과 직장인의 시간이 다르고, 환자와 건강한 사람의 시간이  다른데.</p>
+        <p>수많은 요소를 한데 뭉뚱그려 수치가 똑같다고 하기엔 그 공평한 시간을 너무나도 다르게 살아가는 생이 있고 있었고 있을 것이니까.</p>
+        <p>같다고 할 수 없다.</p>
+    </text>
+</SJML>

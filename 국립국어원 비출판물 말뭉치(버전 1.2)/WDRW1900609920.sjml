@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900609920</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈</title>
+            <author id="P09920" age="63" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_눈">
+        <p>눈이라는 책은 눈이 세상에서 가장 예쁘다고 하지만 달님이 바람과 비가 예쁠 때도 있다고 했다. 그리고 눈 때문에 힘든 친구도 있으니까 눈은 많이 내리지 않고 적당히 내리면 좋겠다.</p>
+    </text>
+</SJML>

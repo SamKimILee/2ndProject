@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900509999</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>떡볶이</title>
+            <author id="P09999" age="11" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_떡볶이">
+        <p>엄마께 떡볶이를 사달라고 하였더니 떡볶이를 만들어 주셨다. 엄마께서는 떡볶이에 양배추랑 당근을 넣으시는데 정말 맛있다. 하지만 오늘은 엄마께서 늦게 오셔서 9시쯤에 만들기를 하였는데 채소는 너무 많고 국물은 너무 없고 해서 실패하였다. 근데 생각보다 맛은 괜찮았다. 아니 엄청 맛있었다. 역시 세상애 나쁜 떡볶이는 없다고 정말 맛있었다. 비록 라면 사리가 안 들어가고 양배추가 조금 질기긴 했지만 그게 뭐 대순가? 떡이랑 어묵이랑 당근이 맛있어서 별로 신경 안 썼다. 떡볶이가 맛있어서 두 그릇이나 먹고 그것도 한 가득 담았다. 그 덕분에 내 배도 한 가득 찼고, 음식물 쓰레기도 줄었다. 오늘 내가 엄마께 떡볶이를 먹고 싶다고 하지 않았으면 그렇게 맛있는 떡볶이는 먹지 못했을 것이다.</p>
+    </text>
+</SJML>

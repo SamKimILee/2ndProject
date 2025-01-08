@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811804</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이와 &name2&와 육개장하고 젤리 먹었던 날</title>
+            <author id="P11804" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방성연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200114" subclass="null_친구">
+        <p>태권도가 킅낫다. 근 대 &name1&이를 만났어 엄마한테 일층에서 물어반는데 엄마가뒀뒀다고 했어서 &name1&이랑 놀았는데 씨유에서 육개장이랑젤리랑주수를머었는데 엄마가와서 육개장만먹고 가라고했다. 근데 우리 집에서해어젔다</p>
+    </text>
+</SJML>

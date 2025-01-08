@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210455</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기차</title>
+            <author id="P10455" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190928" subclass="null_나들이">
+        <p>가족들과 기차를 타고 남창 옹기종기시장에 갔다. 시장에서 핫도그도 먹고 국수도먹었다. 강가에서 돌로 만든 징검다리도 건넜다. 징검다리를 건너서 작은꿈을 이룬 겄 같다.</p>
+    </text>
+</SJML>

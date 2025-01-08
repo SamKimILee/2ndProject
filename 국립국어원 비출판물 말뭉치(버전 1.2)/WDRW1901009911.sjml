@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901009911</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>후배에게</title>
+            <author id="P09911" age="59" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">황금연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_후배에게 전하고 싶은 말">
+        <p>두가지를 짊어지고 가야하는 후배들에게 먼저 경험한 사람으로 전하구 싶은 말이 있다 균형을 잡아라 어려운 주문이지만 노력은 필요하다 순간순간 잊기 쉽다 항상 마음속에 담아놓고 실천해야 하는데 잘 잊는게 문제다</p>
+    </text>
+</SJML>

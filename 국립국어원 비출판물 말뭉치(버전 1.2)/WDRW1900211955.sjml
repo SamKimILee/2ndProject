@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211955</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 취미생활</title>
+            <author id="P11955" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송율</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나, 일상">
+        <p>제목: 나의 취미 생활</p>
+        <p>나의취미생활은 배틀그라운드 게임이다. 왜냐하면 코로나 19 때매 학원도 못가고 학교도 늦어지고해서 집에서 누나와 사촌형,사촌누나랑 모바일로 한 팀이 돼여 게임을 한다. 매일 일상이 같다. 그래서 매일 매일 너무 심심하다. 집에만 있고 밥먹고 핸드폰하고 밥먹고 TV보고 밥 먹고 공부하고 자고 일상이 같아서 재미없고 심심하고 학원도가고 싶고 학교가서 5학년 새 친구들과 놀고싶고 문구점도 가고싶고 엄마와 마트도 같이 가고 싶고 자전거도 타고 싶고 줄넘기와 운동, 태권도 학원도 가고 싶다</p>
+        <p>우리나라에서 빨리치료제도 만들고 더좋아져 코로나가 사라졌으면좋겠다.</p>
+    </text>
+</SJML>

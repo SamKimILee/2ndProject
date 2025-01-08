@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200352</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안 지치며 일하는것도 능력이다.</title>
+            <author id="P00352" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">서유경</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_능력">
+        <p>지치지 않는 다는 것은 잘 먹고, 잘 자고, 체력이 떨어지지 않게 운동하며 관리한다는 것이 필요조건인데 일이 많아지면 너무 쉽게 식사와 수면과 운동을 할 시간을 포기하게 된다.</p>
+        <p>그럼 거기서부터 체력이 떨어지고 일의 능률이 떨어지고, 다시 물리적 시간을 확보하기 위해 체력관리를 등한시 하게되는 악순환이 발생한다.</p>
+        <p>결국엔 일을 적게 하거나, 많은 일을 잘 처리하는 능력이 있어야 할것이다. 지치지 않으면서 일하는것도 능력이라는 생각이 요새 자꾸 든다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>짜장떡볶이</title>
+            <author id="P12509" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190831" subclass="null_놀이">
+        <p>놀이터에서 놀고 &name1&이네 집에가서 짜장떡볶이를먹었다. 짜장떡복이가 정말 맛있었다. 또 엄마아빠놀이도 했다. 친구와 함께먹은 떡볶이도 함께한 놀이도 즐거웠다. 오늘은 정말 행복하다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312739</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>라디오에 뽑히다.</title>
+            <author id="P12739" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_신청곡">
+        <p>제목 라디오에 뽑히다.</p>
+        <p>엄마께서 라디오에 신청곡을 보내셨다. 요즘 나랑 엄마가 좋아하는 해리포터와 마법사의돌에 나오는 노래를 신청하셨다. 그런데 신기하게도 우리 노래가 뽑혀서 라디오에 나오게 되었다. 그리고 우리는 커피구폰도 받았다. 기분이 정말 좋았다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201144</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이유</title>
+            <author id="P01144" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">노진영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이유">
+        <p>
+            <s>하나 하나 좌절하다보니</s>
+        </p>
+        <p>
+            <s>손에 남는 게 없어서</s>
+        </p>
+        <p>
+            <s>그게 무서웠다.</s>
+        </p>
+        <p>
+            <s>가진 게 아무것도 없는 내가, 나 자체가</s>
+        </p>
+        <p>
+            <s>내쳐지는 그 수 많을 이유 중 하나가 되어버릴까봐.</s>
+        </p>
+    </text>
+</SJML>

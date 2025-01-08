@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212122</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소소가</title>
+            <author id="P12122" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김하늘</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_소소가">
+        <p>오늘은 소소가에 갔다. 처음에는 낯선 고양이가 꼬리를 세워서 조금 무서웠는데 나중엔 그 고양이랑 놀고싶어 졌다. 그래서 내가 다가갔는데 고양이가 내 발을 돌돌 감더니 앞에 있는 호수로 뛰어들 었다.</p>
+        <p>그리고 저녁밥을 먹으러간 곳에서 나의 라임오렌지 나무라는 책을 빌렸다. 그리고 그책을 다 읽고 가족이랑 TV로 만화를 봤다. 그리고 잤다.</p>
+        <p>내일 할 빵도마에 그림그리기가 기대된다</p>
+    </text>
+</SJML>

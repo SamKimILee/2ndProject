@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202779</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>파일럿은</title>
+            <author id="P02779" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_파일럿">
+        <p>
+            <s>하얀 붓 속에서</s>
+            <s>맑고 푸른 캔버스에</s>
+            <s>올곧은 직선들을 긋는</s>
+        </p>
+        <p>
+            <s>파일럿은</s>
+            <s>선 밖에 모르는 추상파 화가다</s>
+        </p>
+        <p>
+            <s>크고 하얀 배로</s>
+            <s>높은 바다를 가르며</s>
+            <s>목표를 향해 조타하는</s>
+        </p>
+        <p>
+            <s>파일럿은</s>
+            <s>보물을 향해 나아가는 해적이다</s>
+        </p>
+        <p>
+            <s>그리고</s>
+            <s>하얀 비행기에</s>
+            <s>내 몸을 실고</s>
+            <s>어디론가 가고 있는</s>
+        </p>
+        <p>
+            <s>나는</s>
+            <s>그런 파일럿이 되고 싶었다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711556</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감사의 편지 엄마 아빠께</title>
+            <author id="P11556" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마, 아빠">
+        <p>감사의 편지 엄마 아빠께♡ &name1&이 가 ♡i</p>
+        <p>엄마 아빠 우리 때문에 고생많으시죠?</p>
+        <p>제가 엄마 아빠에 손발이 되어드릴 게요.♡</p>
+        <p>제가 커서 잘 해드리고 다리도 안마도다해드릴게요.</p>
+        <p>왜나 하면 엄마 아 빠가 돌봐주시고, 키워주시고 하셧 자나요.</p>
+        <p>우리 낳을때 좀 미안 해요 병원에 서도 아픔을 참고 했잤아 요.</p>
+        <p>전는 엄마 아빠가 재일 좋아요.</p>
+        <p>재가 뭐 나쁜 습 관 이면 고칠 ♥려 노력 할게요</p>
+    </text>
+</SJML>

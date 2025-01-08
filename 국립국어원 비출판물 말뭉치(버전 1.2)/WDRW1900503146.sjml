@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900503146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P03146" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_녹음">
+        <p>소리를 녹음할 수 있다는 건 신기하다 파장을 녹음할 수 있다는 건 신기하다 빛을 1초에 24번 기록할 수 있다는 건 신기하다</p>
+    </text>
+</SJML>

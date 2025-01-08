@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912326</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>너무 흔해서 </title>
+            <author id="P12326" age="73" occupation="무직" sex="F" submission="온라인" handwriting="No">이복희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>'사랑'  너무 흔해서 낡은 옷가지처럼 누추하다. 분명 아름다운 단어임에도 불구하고.  사랑이 제대로 대접받으려면 어떤 종류의, 어떤 형태의 것이든 진정성이 있어야 하겠지.  지금 기하급수적으로 늘어나는 코로나 증상자들에 대한 많은 의료진과 봉사자들에게서는 그 진정성과 뜨거움으로 사랑이 가슴으로 다가온다.  남녀의 사랑도 그럴 것이다.</p>
+    </text>
+</SJML>

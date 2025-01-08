@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220145</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어려운 사람</title>
+            <author id="P20145" age="15" occupation="고등학생" sex="F" submission="오프라인" handwriting="No">이연재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_어려운사람">
+        <p>
+            <s>어려운 사람</s>
+        </p>
+        <p>
+            <s>어렵게 살아온 사람들은 마음의 여유가 없다.</s>
+            <s>어렵게 살아온 사람들은 어딘지 모르게 피해의식도 있다.</s>
+            <s>어렵게 살아온 사람들은 실패할까 늘 두려워한다.</s>
+            <s>이미 누군가의 실패의 결과로 어렵게 살아온 것이니까.</s>
+            <s>그럼에도 그들이 살아온 건 역설적이게도 실패 덕분이다.</s>
+            <s>실패가 없었더라면 지금의 세상은 없음에 틀림없기에</s>
+            <s>나는 그런 사람들의 딸로, 그런 사람들의 친구로, 그런 사람들의 형제로.</s>
+            <s>서로 박차를 가해주는 것을 지향한다.</s>
+            <s>내가 그들이고, 그들이 나니까.</s>
+        </p>
+    </text>
+</SJML>

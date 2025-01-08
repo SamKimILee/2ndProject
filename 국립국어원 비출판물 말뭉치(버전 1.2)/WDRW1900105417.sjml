@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105417</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>12월7일</title>
+            <author id="P05417" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_애견 미용">
+        <p>오늘은 오전 열시에 미용 예약이라 아침에 이모 차 타고 갔다. 미용실이 강아지 천국이여서 애기를 두고 오는 게 너무 미안했다. 미용은 앞머리+배+똥꼬+발바닥 미는데 만원! 너무 싼데 깔끔하게 잘 해주셔서 좋았다. 우리 애기가 너무 귀여워졌다. 근데 집 와서 보니 배에 작은 상처가 있어서 약을 발라줬다. 가라앉긴 했지만 너무 미안했다.. 산책은 미용 후에 동백섬 한 바퀴를 했다. 뷰가 너무 좋았다. 그리고 차 타고 삼락공원 드라이브도 했다. 애기가 피곤한지 엄청 잘 자서 보람차다.</p>
+    </text>
+</SJML>

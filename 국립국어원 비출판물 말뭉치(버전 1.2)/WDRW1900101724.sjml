@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101724</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빛</title>
+            <author id="P01724" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_촛불">
+        <p>내 마음의 슬픔을 몰아내는 단 하나의 촛불. 너는 그래. 너는 항상 나에게 그런 존재야. 어둠과 그림자를 심지 삼아 빛을 발하는... 손에 닿아도 뜨겁지 않고, 바람에 흔들리지도 않는 유일무이한 불꽃.</p>
+    </text>
+</SJML>

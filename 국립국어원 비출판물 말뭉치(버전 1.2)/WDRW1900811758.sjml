@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811758</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 설명문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐겁고 행복한 우리 학교</title>
+            <author id="P11758" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">노현철</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_학교">
+        <p>즐겁고 행복한 학교를 만들려면 신나게 놀 수 있어야 됩니다.</p>
+        <p>- 공부만 하면 머리가 아프니 쉬고 놀 수 있는 시간도 있어야 합니다.</p>
+        <p>- 친구들과 신나고 재밌게 놀면 친구 사이가 좋아져서 신나고 재밌게 놀아야 된다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712458</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년 2월 18일 (화)</title>
+            <author id="P12458" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200218" subclass="null_태권도">
+        <p>2020년 2월 18일 (화)</p>
+        <p>오늘 태권도를 갔다 품세도 하고 스트레칭, 달리기 많이했다</p>
+        <p>오늘은 우리가 엄마 학교로 간다</p>
+        <p>가면서 마트들렸다 엄마가 아이스크림 사줬다 맛있었다.</p>
+        <p>그리고 게임도 했다 재밌었다.</p>
+    </text>
+</SJML>

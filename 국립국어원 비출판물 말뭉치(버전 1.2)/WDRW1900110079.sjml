@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>팝콘</title>
+            <author id="P10079" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_팝콘">
+        <p>
+            <s>팝콘</s>
+            <s>글 &name1&</s>
+        </p>
+        <p>
+            <s>팝콘이  팡팡</s>
+            <s>먹을대  바삭바삭</s>
+        </p>
+        <p>
+            <s>먹고 나니</s>
+            <s>하늘 로 둥~</s>
+            <s>떠 올 른 다.</s>
+        </p>
+        <p>
+            <s>만들 때  펑펑</s>
+            <s>냠 냠  하늘로</s>
+            <s>가 게  만 드 는</s>
+            <s>팝 콘</s>
+        </p>
+    </text>
+</SJML>

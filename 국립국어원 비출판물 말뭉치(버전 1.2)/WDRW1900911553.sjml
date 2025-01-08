@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900911553</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>울산도서관</title>
+            <author id="P11553" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김래형</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_울산 도서관">
+        <p>나는 울산 도서관에 갔다. 제일 먼저 카페에 들어갔다. 카페에서 빵을먹었다. 카페에 책이 있어서 책을 읽었다. 내용이 재미있었다. 변신 가방은 로봇과 잠수함,비행기,오토바이로 변신할 수 있다. 나도 변신 가방을 갖고싶다.</p>
+        <p>변신 가방을 갖고있다면 여행을 가고싶다. 영국으로</p>
+    </text>
+</SJML>

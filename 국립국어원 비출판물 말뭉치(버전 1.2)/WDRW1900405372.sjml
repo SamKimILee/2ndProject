@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405372</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>백년초</title>
+            <author id="P05372" age="28" occupation="군인" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_백년초">
+        <p>
+            <s>언제부터인지 모르겠으나</s>
+            <s>나는 사막에 내던져진 채 홀로 살아가고 있소</s>
+            <s>눈길 한 줌 없이 제 갈 길만 달려가는 해와 달</s>
+            <s>사방으로 펼쳐진 지평선 위</s>
+            <s>찾는 이 없는 쓸쓸한 선인장이라오</s>
+        </p>
+        <p>
+            <s>저 너머 아스라한 신기루 한 폭</s>
+            <s>가시 박힌 손 내밀면 닿을 듯 말 듯</s>
+            <s>쏟아지는 은하수 한 모금 삼켜 갈증 달래고</s>
+            <s>소리 없이 흐느끼지만</s>
+            <s>밤공기마저 얼어붙은 모래사막은</s>
+            <s>메아리 하나 없이 새하얗기만 하다오</s>
+        </p>
+        <p>
+            <s>태양이 온몸을 내리쬐는 어느 날</s>
+            <s>백 년의 고독 끝에 그대를 만났소</s>
+            <s>와락 끌어안고 싶으나 행여 그대 다칠까</s>
+            <s>그저 바라볼 뿐이오</s>
+        </p>
+        <p>
+            <s>열매가, 줄기가, 수액이 필요하다면</s>
+            <s>내 몸 쪼개어 가져가시오</s>
+            <s>그대 없는 백 년보다</s>
+            <s>그대와의 하루가 더 행복하리니</s>
+        </p>
+    </text>
+</SJML>

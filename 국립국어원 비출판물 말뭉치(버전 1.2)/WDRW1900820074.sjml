@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900820074</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내생일</title>
+            <author id="P20074" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190308" subclass="null_생일">
+        <p>3월8일 일요일 날씨(맑음)(서울)내생일</p>
+        <p>오늘은 내생일이다. 어제친구집에서 자고 오전 11시쯤에 집에 왔다. 엄마가 오늘 &name1& 이 생일인데 알고있니? 하고 물었다. 아침에 뭐 먹어야고 빨리 씻고점심먹으로나가자고 했다.</p>
+        <p>친구네 식구들과 점심 약속이 있다고 하셨다.</p>
+        <p>만나 삼겹살을 맛있게 먹고 어른들은 커피마시러 가시고 우리는 놀이터에서 놀았다.</p>
+        <p>놀이터에서 3~4시간 놀았다. 신나게 놀고 &name2&이 이모가아이스크림케익을사주셔 우리집에서 생일을 축하해 주셨다. &name3&이모는 용돈을 삼만원이나 주셨다. 엄마아빠는 미리 생일선물로 인형을 사주셨다.</p>
+        <p>오늘 하루는 신나고 재미있는 하루~</p>
+        <p>나의생일날이였다~~~~~~</p>
+    </text>
+</SJML>

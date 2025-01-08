@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901011583</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐거운 설날</title>
+            <author id="P11583" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200125" subclass="null_설">
+        <p>오늘은 설날이다. 친척들이모두모여세배를 하고, 덕담도 듣고, 맛있는 음식도 먹고, 세뱃돈도 받았다.</p>
+        <p>친척 누나, 동생들과 축구를 했는데, 땀을 너무 흘려서 속옷까지 젖었지만 너무 신이 났다.</p>
+        <p>짧은 만남을 끝으로 헤어졌지만 곧 또 외갓집에 가서 할머니 할아버지께 세배를 하고, 사촌 &name1&이와 2019가족어워드 시상식을 했다.</p>
+        <p>영예의 대상은 할머니가 받으셨다.</p>
+        <p>가족모두 즐거워한 재미있는설이었다.</p>
+    </text>
+</SJML>

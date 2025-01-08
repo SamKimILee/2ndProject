@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비밀친구 </title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="친구">
+        <p>비밀친구를 뽑았다. 비밀친구한테 일주일간 몰래 도와주어야 한다. 비밀친구를 알려주면 안 된다. 발표하는 날은 다음 주 목요일이다. 선물을 준비해야 하는데 뭘 좋아하는 지 몰라서 고민이다.</p>
+    </text>
+</SJML>

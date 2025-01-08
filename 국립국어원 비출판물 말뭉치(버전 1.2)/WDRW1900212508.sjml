@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212508</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감사합니다.</title>
+            <author id="P12508" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">홍소원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_감사">
+        <p>주제-감사합니다.</p>
+        <p>나는 엄마가 매일 밥해주고 살아있어 주어서 감사합니다. 왜냐면 그 걸 하나라도 하는 일이 어려울때가 있기 때문입니다. 나는 엄마가 장난감을 사주어서 감사합니다. 왜냐면 1명이 사면 3명이 가개되기 때문입니다.나는 &name1&가 사탕을 줄때감사하다.왜냐면 &name1&이는 사탕을많이 받을수 없기 때문입니다. 나는 선생님이 사탕을 주는데 28명을 다주기 때문입니다. 나는 할머니가 크리스 마스 트리를 선물해주셔서 감사합니다.왜냐면 할머니와 할아버지가 미국에서 한참찾아 찾은 것이고 할아버지와할머니가 돈을 모아서 제일 비싼 트리와 장식을사주었기 때문이다</p>
+    </text>
+</SJML>

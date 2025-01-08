@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211726</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일파티</title>
+            <author id="P11726" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이종현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191214" subclass="null_생일파티">
+        <p>제목:생일파티</p>
+        <p>친구들이랑 올림픽태권도 장예서 생일파티를했다. 태권도 장에서 밥도 먹고레크리에이션도 했다.</p>
+        <p>&name1&이춤을췄는데너무웃겼다. 끝날때는 관장님이 선물을주었다. 생일잔치가 끝난다음 친구들이랑 나뭇잍 놀이터에서 총놀이를했다.</p>
+        <p>놀이터에서친구들이랑 헤어저 집에 와서 총가지고 놀고 있는데 총을위치를 잘못해서 아빠얼굴에 총알이날아갔다. 그래서 아빠가 내총을뿌셨다. 그래서속상했다.</p>
+    </text>
+</SJML>

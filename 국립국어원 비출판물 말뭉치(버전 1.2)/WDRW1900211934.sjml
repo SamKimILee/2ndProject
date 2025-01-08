@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211934</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠엄마에게</title>
+            <author id="P11934" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">양태민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_엄마 아빠">
+        <p>TO&name1&</p>
+        <p>아빠엄마에게,사랑해요. 한달동안 돌봐주셔서 감 사 해요.</p>
+        <p>효도를못해서 좨송 해요,</p>
+        <p>곳여행 가서, 만날시간이 없지만 효도 든 뭐든 잘할게요.</p>
+        <p>엄마도 기억해요 이걸!</p>
+    </text>
+</SJML>

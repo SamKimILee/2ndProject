@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312519</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마와 성적표</title>
+            <author id="P12519" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_성적표">
+        <p>오늘 엄마가 성적표를 봐라고해봤다. 나는 엄마가 가끔싫을때도있다. 왜내성적표를 아줌들 만모여있는데 올리는 것지 나는 그걸보고 조금 화가낫다 엄마가 관심 받으려고 그러는건지 모르겠지만지금도 좋다.</p>
+        <p>그냥 엄마는 다정하고 화낼때는 화도잘내고 그냥 좋다. 근데 나는 풀하우스 맴버들을 꼭 만나고 싶다. 특히 스테파니 를만나고 싶다. 그냥 다 만나고 싶다.</p>
+    </text>
+</SJML>

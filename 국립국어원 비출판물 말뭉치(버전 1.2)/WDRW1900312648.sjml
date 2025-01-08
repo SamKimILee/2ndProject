@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312648</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 반  아이들</title>
+            <author id="P12648" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="아이">
+        <p>
+            <s>우리반 아이들</s>
+            <s>3학년 3반 &name1&</s>
+        </p>
+        <p>
+            <s>공부를잘하는 아이들</s>
+        </p>
+        <p>
+            <s>말장난을많이 하는 아이들</s>
+        </p>
+        <p>
+            <s>평범한 아이들</s>
+        </p>
+        <p>
+            <s>밥을 잘 먹는 아이들</s>
+        </p>
+        <p>
+            <s>우리반에는 다양한 아이들이 있다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111622</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새이빨</title>
+            <author id="P11622" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191225" subclass="null_새이빨">
+        <p>나는 아침에 일어나 보니, 트리 밑에 선물이 놓여 있었다. 정말 산타할아버지가 있나 보다.</p>
+        <p>나는 엄마와 얘기를 나누는데 엄마가 "&name1&아 새이나온다!"라고 말했다. 5개월 후에 드디어 앞니가 나왔다. 엄마는 "산타할아버지가 선물이랑 새이랑 같이 주셨네"..라고</p>
+    </text>
+</SJML>

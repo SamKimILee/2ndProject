@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212009</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미용실</title>
+            <author id="P12009" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임지유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_미용실">
+        <p>미용실</p>
+        <p>오늘 엄마와 미용실에 갔다. 머리를 폈다.</p>
+        <p>머리펴는 약이 독했지만 참고 견뎠더니 예뻐졌다.</p>
+        <p>올때 날씨가 흐렸다.</p>
+        <p>왜나하면 눈이 내렸기 때문이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211717</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교 숙제</title>
+            <author id="P11717" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="201801024" subclass="null_숙제">
+        <p>학교 숙제로 노래 가사를 만들었다. 유명한 동요의 멜로디에 ‘화산 분출에 관한 내용을 노래로 만들었다. 어려웠지만 엄마의 도움으로 할수있었다.그리고 화산분출 대해 알아볼수 있었던 좋은 기회였다. 어려운 숙제를 마치고 나니 뿌듯했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310419</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한살백일상 </title>
+            <author id="P10419" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이지윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190105" subclass="null_백일">
+        <p>2019년 1월 5일 일요일</p>
+        <p>생생 날씨: 눈들이 소복소복 내 발이 뽀득뽀득</p>
+        <p>나만의 제목: 한 살 백일상</p>
+        <p>하늘이 홍시처럼 붉은빛깔 뽐낼 때쯤 백일을 축하해 주러 고모네 갔다. 갈때는 3시간 차를타야해서</p>
+        <p>지루하기도 했지만 가는길에 휴게소에 들려 핫도그와 꽈배기를먹어 기분이 한층 나아졌다. 고모네 도착했더니</p>
+        <p>강릉할아버지, 할머니, 고모, 고모부 그리고</p>
+        <p>마지막에는 주인공 인 &name1&가 있었다.</p>
+        <p>&name1&의 백일상을보고맛있겠다,라는 생각이 들었다. 그리고 나는 문득 궁금했다.</p>
+        <p>나도어렸을 때 백일잔치했나?</p>
+        <p>집에와서 엄마와 왜 백일잔치하나 찾아보았더니 엄마배속의있는10달과 백일을합하면 1살이되는 날이기 때문의라고한다.</p>
+    </text>
+</SJML>

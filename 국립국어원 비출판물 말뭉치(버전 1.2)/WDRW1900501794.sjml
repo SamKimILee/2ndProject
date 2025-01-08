@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900501794</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제발 배려하자</title>
+            <author id="P01794" age="18" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_배려">
+        <p>제발 배려하자.</p>
+        <p>아르바이트 생이나, 서비스업 종사자들이나  조금 어린애들한테  만만하다고 반말 함부로 쓰지 말자.</p>
+        <p>제발 배려하자.</p>
+        <p>나와 정치적 이념이 다르다고, 나와 생각하는 것이 다르다고 제발 차별하지 말자.</p>
+        <p>제발 배려하자.</p>
+        <p>나와 생김새가 다르다고, 나보다 공부를 못한다고, 나보다 공부를 잘한다고 제발 차별하지 말자.</p>
+        <p>차별보단 배려를 실천하자.</p>
+    </text>
+</SJML>

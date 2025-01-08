@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412196</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>없음 / 달팽이 관찰</title>
+            <author id="P12196" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효은</author>
+        </sourceInfo>
+    </header>
+    <text date="201909018" subclass="null_달팽이 관찰">
+        <p>오늘은 잠자리몰이하기 딱좋은날이다 그래서밖에서 뛰었다 그런데 &name1&이가발목을다쳐서불안했다 &name1& 괜찮어</p>
+        <p>오늘은달팽이관찰했다. 달팽이는연체동물이다. 오늘배웠다. 재미있고신기했다.</p>
+    </text>
+</SJML>

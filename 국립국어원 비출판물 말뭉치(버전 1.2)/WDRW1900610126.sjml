@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610126</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>매운 떡볶이</title>
+            <author id="P10126" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조유나</author>
+        </sourceInfo>
+    </header>
+    <text date="20200218" subclass="null_매운 떡볶이">
+        <p>오늘은 매운 떡볶이가 있어서 물도 많이 있었다. 아빠가 먹고 물 먹고 먹고 물 먹으라고 했다. 하지만 난 너무 맛있어 보였다. 엄마가 물배 채우겠다.라고  말했다. 떡볶이 쏘쓰가 매운 거였다. 떡볶이는 엄마가 사 온거다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> TV</title>
+            <author id="P11691" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190602" subclass="null_TV">
+        <p>앞으로 꼭 발명되어야 하든 발명품은 똑똑상자 TV입니다. 왜냐하면 제가 TV를 좋아해서 머리가 나빠질수도 있으니까 TV를 봐도 머리가 안나빠지고 좋아지는 TV가 꼭 발명 되어야 하는 발명품입니다. (나 때문에)</p>
+    </text>
+</SJML>

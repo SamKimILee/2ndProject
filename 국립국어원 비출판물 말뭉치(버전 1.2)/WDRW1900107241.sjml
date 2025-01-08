@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900107241</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>누구일까</title>
+            <author id="P07241" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">김해인</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="인간">
+        <p>
+            <s>여기 사람이 한 명 있습니다</s>
+            <s>누구인지 다들 궁금해합니다</s>
+            <s>한 아이가 말합니다</s>
+            <s>"머리가 짧네! 남자일 거야."</s>
+            <s>그러자 청년이 말합니다</s>
+            <s>"아니야, 화장을 했으니 여자일 거야"</s>
+            <s>그러자 할아버지가 말합니다</s>
+            <s>"걸음걸이가 씩씩하니 남자군!"</s>
+            <s>옆에 할머니가 고개를 저으며 말하네요</s>
+            <s>"저렇게 손톱을 화려하게 칠했는데 무슨! 젊은 처자군"</s>
+            <s>모두가 고개를 쭈욱 내밀고선</s>
+            <s>짧은 머리에 곱게 치장해서 씩씩하게 걸어가는 사람에게 묻습니다.</s>
+            <s>"당신은 누굽니까?"</s>
+            <s>그 사람은 씨익 웃습니다</s>
+            <s>누구일까요?</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610150</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>컴퓨터 공부!</title>
+            <author id="P10150" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김희재</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_컴교실, 개구리게임">
+        <p>&lt;컴퓨터 공부!&gt;</p>
+        <p>오늘 컴교실에가서 컴퓨터공부하고개구리 게임도 했다.</p>
+        <p>아주 아주 재미있었다.</p>
+        <p>제일재미있었던 거는 개구리 게임이다.</p>
+        <p>개구리게임을어떤1학년인가2학년인가</p>
+        <p>모르겠지만은 도와주어서</p>
+        <p>무척고마웠다.</p>
+        <p>고마워정말 정말 고!마!워!</p>
+        <p>나는이렇게 착한동생이라고믿는다.</p>
+    </text>
+</SJML>

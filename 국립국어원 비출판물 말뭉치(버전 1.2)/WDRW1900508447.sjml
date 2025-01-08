@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900508447</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어렴풋이</title>
+            <author id="P08447" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">정세빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="우리">
+        <p>
+            <s>생각해보면, '우리'로 시작할 문장들이 이세상에는 참 많아요.</s>
+            <s>너랑 첫 만남은 아주 어릴때는 아니였더라도,</s>
+            <s>수많은 우연속에 찾은 '우리'의 인연은요,</s>
+            <s>사랑이든 우정이든 깊게사귀고 있음이</s>
+            <s>확고해질때, 난, 어렴풋이 행복한 상상에 빠져요.</s>
+            <s>그게 추억을떠올리는게 아니더라도</s>
+            <s>너와 함께있는 현재와 함께 있을 미래는</s>
+            <s>정말 영원할 뫼비우스 띠처럼</s>
+            <s>또 다시 행복한 상상을 하고있다고</s>
+            <s>너에게 말해줄거에요</s>
+        </p>
+    </text>
+</SJML>

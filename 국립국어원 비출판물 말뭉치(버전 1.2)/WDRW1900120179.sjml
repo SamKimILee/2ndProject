@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120179</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>길</title>
+            <author id="P20179" age="17" occupation="고등학생" sex="M" submission="오프라인" handwriting="No">이지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_길">
+        <p>
+            <s>길</s>
+            <s>-&name1&-</s>
+        </p>
+        <p>
+            <s>누군가는 길은 돌아가야 한다 하며</s>
+            <s>어떤 이는 길을 지켜봐야만 한다 하며</s>
+            <s>다른 이는 길이 이미 정해져 있다하지</s>
+            <s>없어져 버린 꿈들은 우리가 바라보지 못하는 세상</s>
+            <s>나의 두려움과 너의 두려움에 점철된 세상</s>
+            <s>때론 돌아가야 할 것 같기도 하고</s>
+            <s>어쩔 땐 지켜봐야만 할 것 같으며</s>
+            <s>가끔은 정해져 있는 것 같기도 하다</s>
+            <s>너의 눈앞에 펼쳐진 현실</s>
+            <s>너의 뒤에 펼쳐진 과거</s>
+            <s>너의 발목을 잡는 이 길</s>
+            <s>하지만 이 길을 걸을 때가 진정 너의 때가 된다면</s>
+            <s>이 길의 모든 것을 돌아봐 주었으면 한다</s>
+            <s>비록 쓰러지고 실패하더라도</s>
+            <s>우리가 남긴 이 길은 발자국이 되어 당신을 이끌어</s>
+            <s>우리는 계속 나아갔다는 것을</s>
+            <s>우리는 멈추지 않았다는 것을</s>
+            <s>우리의 길은 이어지리라는 것을</s>
+            <s>우리의 두려움은</s>
+            <s>우리를 멈출 수 없다는 것을.</s>
+        </p>
+    </text>
+</SJML>

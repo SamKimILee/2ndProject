@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511375</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>해바라기</title>
+            <author id="P11375" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">백선영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_해바라기">
+        <p>
+            <s>나는 언제나 바라보는 것 밖에 못하는</s>
+            <s>해바라기</s>
+        </p>
+        <p>
+            <s>너가 있을때는 너만 바라보고</s>
+            <s>너가 없을때는 그저 땅만 바라본다</s>
+        </p>
+        <p>
+            <s>이렇게 항상 바라보는 것 밖에 못하는</s>
+            <s>해바라기지만</s>
+        </p>
+        <p>
+            <s>나는 언제나 너만 바라보고</s>
+            <s>너만 원할테니</s>
+        </p>
+        <p>
+            <s>너도 언젠가 나를 바라보게되는</s>
+            <s>날이 오지 않을까</s>
+            <s>하염없이 기다려본다</s>
+        </p>
+    </text>
+</SJML>

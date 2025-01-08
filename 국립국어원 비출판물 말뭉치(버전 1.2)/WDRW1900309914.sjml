@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309914</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비바람.</title>
+            <author id="P09914" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">현민서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="변화">
+        <p>오늘은 해가 오고</p>
+        <p>내일은 비가 온다하고,</p>
+        <p>그다음날은 바람이 세게 분다던데</p>
+        <p>난 내일 소풍에 갑니다.</p>
+        <p>그다음날이나 오늘과 내일을 바꿔주세요.</p>
+    </text>
+</SJML>

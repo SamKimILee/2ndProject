@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빼빼로 사온 날</title>
+            <author id="P20073" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_빼빼로">
+        <p>빼빼로 사온날</p>
+        <p>오늘은 아빠가 빼빼로, 마카롱을 사오셨다.</p>
+        <p>마카롱에는 살색에다 웃고있는게 들어있었다.</p>
+        <p>그리고여러가지 색도 있었다. 빼빼로 맛은?</p>
+        <p>화이트초코, 초코, 바닐라맛 있었다. 정말정말맛있었다. 다음에 또 먹고 싶다.</p>
+    </text>
+</SJML>

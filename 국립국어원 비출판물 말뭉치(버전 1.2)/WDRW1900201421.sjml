@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201421</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어떤 순간</title>
+            <author id="P01421" age="25" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_순간">
+        <p>어떤 기억은 사람을 영영 그 순간에 가둔다.</p>
+        <p>내리쬐던 햇빛, 볼 위로 흐르던 눈물방울, 차가워지던 손발.</p>
+        <p>그런 것들, 이미 잊었다고 생각했던 것들이 되살아나서 나를 덮치고, 나를 삼킨다.</p>
+        <p>이제 극복했니? 하고 덮어두었던 그닥 두껍지도 않던 장막을 걷으면, 그동안 쌓아두었던 시간이 일주일이든, 일 개월이든, 일 년이든 그 모든 시간을 뛰어넘어 그 순간은 다시 찾아온다.</p>
+        <p>그 장막을 걷어도 아무렇지 않은 날. 모든 사람은 그 날을 위해 살아가고 있는 건지도 모른다.</p>
+    </text>
+</SJML>

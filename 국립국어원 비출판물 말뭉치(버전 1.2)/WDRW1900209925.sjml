@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209925</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마지막 생일선물</title>
+            <author id="P09925" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">곽재준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_생일 편지">
+        <p>
+            <s>매년마다  한 번씩</s>
+            <s>찾아오는 너의 생일</s>
+            <s>오늘 하루 특별하지?</s>
+        </p>
+        <p>
+            <s>매년마다 한 번씩</s>
+            <s>너에게만 보내는</s>
+            <s>생일편지</s>
+        </p>
+        <p>
+            <s>매년마다 한 번씩</s>
+            <s>보내는 생일편지</s>
+            <s>같은 편지 다른 내용</s>
+        </p>
+        <p>
+            <s>너에게 보내는</s>
+            <s>생일편지 보내면</s>
+            <s>너는 어떤 생각할까?</s>
+        </p>
+        <p>
+            <s>편지 말고 선물도</s>
+            <s>주려고 했었지만</s>
+            <s>나에겐 편지가 선물</s>
+        </p>
+        <p>
+            <s>선물이 꼭 고급스러운</s>
+            <s>그런 게 아닌</s>
+            <s>마음이 담긴 선물</s>
+        </p>
+        <p>
+            <s>지금도 너는</s>
+            <s>편지를 읽고</s>
+            <s>있지 않을까?</s>
+        </p>
+        <p>
+            <s>오늘도 너에게 보내는</s>
+            <s>편지는 마지막 편지</s>
+            <s>너에게 보내는 마지막 선물</s>
+        </p>
+    </text>
+</SJML>

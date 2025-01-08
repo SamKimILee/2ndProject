@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320074</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 마음을 모르는 참새</title>
+            <author id="P20074" age="8" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_참새">
+        <p>
+            <s>제목: 내 마음을 모르는 참새</s>
+            <s>연자그마한 참새한마리 훨훨 도서실로 날아왔어요./2연짹짹 길을 읽었나 봐요. 눈동자가 뱅글뱅글</s>
+            <s>연짹짹 사람이 무서연가봐요 발걸음이 우왕좌왕 4연 너를 도와줄거야 말해도 못들은 척해요. 5연 섭섭해서 눈물이 핑 돌아요. 내 마음도 몰라주고.</s>
+        </p>
+    </text>
+</SJML>

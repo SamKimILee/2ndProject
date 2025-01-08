@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612080</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도와주기</title>
+            <author id="P12080" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_봉사">
+        <p>오늘은 학교에서 도서실 봉사를 했다 물티슈로열심이했다. 힘들긴했지만 친구들과 함께해서 기분이좋았다. 다음에또하고 싶은 마음이들었다. 그리고 태권도를 어제 끈었다 그레서오늘 않했다. 집에와서 동생들을봐주었다.</p>
+        <p>뿌듯했다. 다음에도 동생들을봐주고싶다.</p>
+        <p>그리고 책도봤다. 소리내서 읽고 마음속으로도 읽었다. 꼼꼼이 읽어서 더 재미있었다.</p>
+    </text>
+</SJML>

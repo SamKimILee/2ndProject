@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811629</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&안녕?</title>
+            <author id="P11629" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_친구">
+        <p>&name1&아 안녕? 나는 &name2&이야!</p>
+        <p>앞으로 친하게 지내자! 너는 글씨를 잘 쓰고 공부를 잘 해! 그리고 키가 커서 부러워! 너는 참 착한 것 같아!</p>
+        <p>삼학년 때도 너랑 같은 반이 되고 싶어! 나는 네가 좋아. 다음에 만나면 같이 재미있게 놀자! &name1&이에게</p>
+        <p>&name2&이가</p>
+    </text>
+</SJML>

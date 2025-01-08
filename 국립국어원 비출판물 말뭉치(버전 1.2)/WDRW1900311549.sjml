@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311549</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1& 선생님의 좋은점</title>
+            <author id="P11549" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤혜림</author>
+        </sourceInfo>
+    </header>
+    <text date="20181218" subclass="null_선생님">
+        <p>2018년 12월 18일 날씨:</p>
+        <p>제목: &name1& 선생님의 좋은점</p>
+        <p>1. 목요일마다 강당에 간다.</p>
+        <p>2. 재밌는 활동을 많이한다.</p>
+        <p>3. 잘하면 간식을 주신다.</p>
+        <p>4. 앞의 알림판을 다 하면 포켓몬 스티커나 학용품 같은 걸 주신다.</p>
+        <p>5. 독서 말고 사이시간같은걸 해서 안 지루하다.</p>
+        <p>6. 어디를 갔다와서 수업시간 종이 치면 조금 쉴 수 있게 해준다.</p>
+        <p>7. 잘하면 포켓몬 스티커를 주셔서 기분이 좋다.(예뻐서)</p>
+        <p>8. 우리 선생님이 다른반 선생님보다 좋아서 좋다.</p>
+        <p>9. 위의 사항을 잘 지켜주셔서 좋다.</p>
+    </text>
+</SJML>

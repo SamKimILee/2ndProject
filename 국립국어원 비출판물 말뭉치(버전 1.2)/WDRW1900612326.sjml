@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612326</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>늘 다니던 길인데</title>
+            <author id="P12326" age="73" occupation="무직" sex="F" submission="온라인" handwriting="No">이복희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="길">
+        <p>현관을 나서면 세 갈래길, 그 중 하나를 골라 걷다 보면 내 삶의 영역은 확장된다. 지금은 바라만 본다.</p>
+    </text>
+</SJML>

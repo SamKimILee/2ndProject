@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212174</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 동네는 마술사</title>
+            <author id="P12174" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">진하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_우리 동네">
+        <p>
+            <s>우리동네는 마술사</s>
+        </p>
+        <p>
+            <s>&name1&</s>
+            <s>꼬르륵 꼬르륵 배꼽시계 울리네</s>
+            <s>수리수리 마수리 짜잔</s>
+            <s>케러스 빵집 나타니</s>
+            <s>맜있는 빵 주네</s>
+        </p>
+        <p>
+            <s>알록달록 예쁜 옷을 입을까</s>
+            <s>수리수리 마수리 짜잔</s>
+            <s>마루옷집 나타나</s>
+            <s>예쁜 옷주네</s>
+        </p>
+        <p>
+            <s>지루해 지루해 심심해 죽겠네</s>
+            <s>수리수리 마수리 짜잔</s>
+            <s>키즈카페 나타나</s>
+            <s>내기분도 업업!</s>
+        </p>
+        <p>
+            <s>우리동네는 마 술사처럼</s>
+            <s>내가 원하는 것을 다준다.</s>
+        </p>
+    </text>
+</SJML>

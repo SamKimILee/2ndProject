@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소리 내어 우는 법</title>
+            <author id="P11175" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_울음">
+        <p>
+            <s>울음을 참는 데에도 연습이 필요하다는 걸 아시나요. 나는 심해의 끝을 본 적이 있답니다 . 얼마나 고요하던지 내가 울고 있는 것도 잊어버렸지 뭐예요! 물 속에선 아무리 울어도 티가 나지 않고, 처음 마주한 바다의 밑바닥은 아름다웠으므로</s>
+            <s>나는 그저 울었어요</s>
+            <s>아주</s>
+            <s>오랫동안</s>
+        </p>
+        <p>
+            <s>깊</s>
+            <s>고</s>
+        </p>
+        <p>
+            <s>느</s>
+            <s>릿</s>
+            <s>하</s>
+            <s>게</s>
+            <s>.....</s>
+        </p>
+    </text>
+</SJML>

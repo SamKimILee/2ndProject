@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>튤립; 영원한 애정</title>
+            <author id="P05079" age="19" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>
+            <s>우리가 서로를 사랑하는 크기가 다를지 몰라도, 너는 내게 항상 사랑이었다. 작은 씨앗으로 솟아난 감정은 나도 모르게 뿌리를 내렸고, 어여쁜 꽃을 피우더라. 참 웃기지, 나도 모르는 사이에 내 사랑이 이렇게 어여쁘게 자라날 줄이야. 바람에 스쳐지나가는 마음인 줄 알았더니, 바람에 씨앗이 날아왔더라. 몽글몽글 자라난 그 씨앗이 결국 날 삼키고 말았어.</s>
+        </p>
+        <p>
+            <s>내 모든 시간을 쏟을 수 있는 내 사랑아, 내 사랑들아.</s>
+            <s>난 네 손짓 하나, 숨결 하나에도 사랑을 느껴.</s>
+        </p>
+        <p>
+            <s>우리,</s>
+            <s>어여쁜 마음이 무너지는 그날에도 나를 기억해 줘.</s>
+        </p>
+    </text>
+</SJML>

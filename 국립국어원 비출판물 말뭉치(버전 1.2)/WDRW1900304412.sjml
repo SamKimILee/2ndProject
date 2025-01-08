@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>네일아트</title>
+            <author id="P04412" age="28" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>이 죽일 놈의 네일아트.</p>
+        <p>안하면 지저분해보이고 하면 손톱이 자꾸 깨지고</p>
+        <p>이게 더 좋다느니 저게 더 편하다느니</p>
+        <p>젤네일 했다가 스티커 붙여봤다가 붙이는 인조네일도 써보고 이거저거 다 해봤는데</p>
+        <p>가짜 덕지덕지 붙이는 건데 편하고 좋은 게 어디있겠어 다 좆같지.</p>
+    </text>
+</SJML>

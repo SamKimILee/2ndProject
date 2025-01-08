@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112069</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하와이에서 집으로 오는 날</title>
+            <author id="P12069" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_귀가">
+        <p>오늘은 하와이에서집으로 돌아오는날이다! 집으로가는데아주아주 오래걸렸다.먼저공항에갔다가, 기다렸다가 ,비행기에탑승하고, 10시간동안타고, 인천국제공항에 내리고, 또자동차타고 1시간동안타고 내려서 집에도착했더니PM10시10분이다됐다그래서 목욕을하고 너무졸려서 꿀잠을잤다.</p>
+    </text>
+</SJML>

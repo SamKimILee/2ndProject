@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510347</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비오는 날</title>
+            <author id="P10347" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조영욱</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_어느날">
+        <p>글그림; &name1&  비오는 날</p>
+        <p>어느날</p>
+        <p>눈을뜨니 우두둑우두욱</p>
+        <p>창문에있는커튼을 열어보니비가 와장창 내려서요.</p>
+        <p>나는, 아침밥을먹고, 학교에 갔다.</p>
+        <p>나는, 학교 갈 준비를 하고,그다음에,나는아침밥,을간단,하게 먹어서요.</p>
+        <p>나는, 학교를마치고, 학원에 갔다.</p>
+        <p>책읽는 시간, 1교시국어, 2교시 수학,</p>
+        <p>3교시 점심시간, 4교시 알림장</p>
+    </text>
+</SJML>

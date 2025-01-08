@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201932</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>집가는길</title>
+            <author id="P01932" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">송한슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="집">
+        <p>
+            <s>노란 꽃이</s>
+            <s>흐드러지게 피어난</s>
+            <s>이 길은</s>
+            <s>집에 가는 길</s>
+        </p>
+        <p>
+            <s>푸른 하늘이</s>
+            <s>부드럽게 펼쳐진</s>
+            <s>이 길은</s>
+            <s>집에 가는 길</s>
+        </p>
+    </text>
+</SJML>

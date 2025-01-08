@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305376</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>심야의 쉼터를</title>
+            <author id="P05376" age="21" occupation="무직" sex="M" submission="온라인" handwriting="No">배정주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="인간">
+        <p>사람들이 쉼을 원하는 그런 시간대 아침의 활력이 없고 다들 집으로 돌아가려는 움직임이 활발한 퇴근 시간</p>
+        <p>그런 시간에 가게를 운영하는 사람이 있다면 어떨까?</p>
+        <p>퇴근시간부터 새벽까지 운영하는 그런 가게</p>
+        <p>그 가게는 술집이어도 좋겠고 찻집이어도 좋겠고 커피를 파는 카페여도 좋을것이고... 또는 단순히 음식을 파는 식당이여도 좋을것이다. 아니면 말했던 전부를 파는 그런  가게여도 좋을것이다.</p>
+        <p>그런 가게에 찾아오는 사람은 낮 시간에 지쳐 밤의 고요함을 원하거나...자신과 같은 부류랑 이야기를 나누고 싶어하는 사람들일것이다.</p>
+        <p>그런 가게가 있다면 어떨까...?</p>
+        <p>단순히 미디어 매체로만 보던 그런 심야의 쉼터가 있으면 좋겠다...</p>
+        <p>현실에선 그런 가게는 쉼터가 아닌 그냥 유흥업소거나...야식전문점이겠지...</p>
+    </text>
+</SJML>

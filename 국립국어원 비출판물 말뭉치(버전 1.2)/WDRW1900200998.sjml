@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200998</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책</title>
+            <author id="P00998" age="30" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_책">
+        <p>작은 방 안에 책들은 두서없이 꽂혀 있었다. 옷장 옆 온갖 잡동사니들이 들어있는 커다란 수납장 2칸, 화장대 옆 아이보리색 3단짜리 책장, 책상 위로 연결된 낡은 책꽂이 4칸. 책이 꽂혀 있는 그 가구들을 보고 있으면 아무런 순서도 질서도 느낄 수 없었다. 작가별, 연도별, 심지어 크기 순도 아니고 그냥 손 닿는 대로 꽂아놓은 것 같았다. 소설이 가장 많았지만 고전부터 로맨스, 법정소설, 판타지, 칙릿까지 일관성이라고는 없이 마구잡이로 그렇게 줄지어 있었다. 드라마나 영화 관련 비평서, 시집, 교양서적, 에세이, 웹툰도 드문드문 끼어 있었기에 책 주인의 취향을 파악할 수 있는, 그런 흔한 부류의 책꽂이가 아니었다. 나는 그 무질서함과 불규칙성이 마음에 들었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302423</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무제</title>
+            <author id="P02423" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_오일 파스텔">
+        <p>오일파스텔로 스케치를 하다 이걸 산지 벌써 7년이 됐다는 사실을 떠올렸다. 그렇게 됐구나. 너무 생각하지 말고, 물건을 쓰자. 새로이 들이지 말고 지금 있는 것들을 하나씩 더 쓰자. 너무 많은 의미를 부여하지 말자. 그렇게 하자.</p>
+        <p>그림도 마찬가지야. 회화에 어떤 의미를 부여하려고 노력하지 마. 하고싶은 걸 하자. 진부한 말이지만 삶은 짧으니까.</p>
+    </text>
+</SJML>

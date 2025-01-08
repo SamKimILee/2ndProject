@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310081</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>햇빛</title>
+            <author id="P10081" age="16" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_햇빛">
+        <p>
+            <s>밤이 지나고</s>
+            <s>낮이 되어 해가 떠오를 때면</s>
+            <s>햇빛은 한 나무를 환하게 비춘다</s>
+            <s>나무는 햇빛을 한껏 받아들인다</s>
+            <s>온통 무채색이던 나무는</s>
+            <s>제 색을 찾아 밝게 빛난다</s>
+            <s>둘의 거리는 멀지만</s>
+            <s>둘은 그렇게 빛이 난다</s>
+        </p>
+        <p>
+            <s>해가 밝게 빛나는 날에</s>
+            <s>햇빛이 그러듯</s>
+            <s>넌 나를 환하게 비추고</s>
+            <s>나무가 그러듯</s>
+            <s>난 한껏 너를 받아들인다</s>
+        </p>
+        <p>
+            <s>어두웠던 시간은 지나고</s>
+            <s>우리는 그 무엇보다 밝게</s>
+            <s>서로만을 바라보며</s>
+            <s>사랑을 나누고 있다</s>
+        </p>
+        <p>
+            <s>우리는 그렇게 빛나고 있다</s>
+        </p>
+    </text>
+</SJML>

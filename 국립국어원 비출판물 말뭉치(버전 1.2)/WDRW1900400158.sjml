@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400158</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>선생님 </title>
+            <author id="P00158" age="38" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">김환</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_선생님">
+        <p>고등학교 2학년 담임선생님 이셨던 &name1& 선생님! 한참 방황하던 시절에 바른길로 인도하여 주셨던 선생님의 은혜 평생 잊지 않도록 할께요! 선생님께서 항상 하시던 말씀 중에 가능하다고 생각하면 이루어질 것이고 불가능하다고 생각하면 절대 이루어지지 않는다고 강조하셨던 말씀이 아직도 귓가에 선명하네요. 그만큼 모든일은 마음 먹기에 달려 있다는 것을 세상을 살아가면서 선생님의 가르침을 새삼 느끼게 됩니다. 선생님의 높으신 은혜에 보답하기 위해서라도 항상 긍정적인 마음가짐으로 하루하루 열심히 살아갈 수 있도록 최선을 다하겠습니다. 선생님, 진심으로 감사하고 사랑합니다.</p>
+    </text>
+</SJML>

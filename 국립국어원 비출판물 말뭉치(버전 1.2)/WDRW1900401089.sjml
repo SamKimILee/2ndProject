@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401089</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소리</title>
+            <author id="P01089" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="소리">
+        <p>나는 소리를 잘 듣는다. 부모님의 귓속말이나 언니들이 날 욕하는 소리도 너무 잘들려서 문제다. 어쩌면 듣고싶지 않은 것을 듣는 능력이 있는 걸지도 모른다.</p>
+        <p>정작 듣고싶은 칭찬이나 나에대한 이야기는 듣지못한다. 그런 것도 들리면 좋을텐데.</p>
+    </text>
+</SJML>

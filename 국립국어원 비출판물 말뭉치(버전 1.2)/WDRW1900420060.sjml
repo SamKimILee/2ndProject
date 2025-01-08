@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420060</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감기걸린 일</title>
+            <author id="P20060" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_감기">
+        <p>제목: 감기 걸린 일</p>
+        <p>나는 오늘 감기에 걸렸다. 너무 목이 아프다ㅠㅠ 오늘 감기에 걸려서 집과 가까운 이비인후과에 갔다.(학교 끝나고 감.)</p>
+        <p>이비인후과에는 환절기라 그런지 사람이 정말 많았다.</p>
+        <p>그래서 좀 더웠다. 얼마후, 내 차례가 되어서 나는 엄마와 같이 진료실에 들어갔다. 의사선생님께서 내 목과 코를 보시더니 감기 초기라고 하셨다. 나는 진료가 끝나고, 약국에 가서 약을 받았다. 그리고 집에 와서 바로 약을 먹었다! 그런데... 약이 너-무 썼다ㅠㅠ</p>
+        <p>빨리 감기가 나았으면 좋겠다.~</p>
+    </text>
+</SJML>

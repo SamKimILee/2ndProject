@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900602476</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘의 꿈</title>
+            <author id="P02476" age="27" occupation="무직" sex="F" submission="온라인" handwriting="No">김에녹</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꿈">
+        <p>아침에 너무 기분 좋고 상쾌하게 눈 떴는데 9시 좀 넘은 시간이었다.</p>
+        <p>이 기세 그대로 밤낮 바꿔야지 안 그러면 몸도 멘탈도 힘들어,,,</p>
+        <p>꿈에서 기차 타고 미국까지 다녀오는 꿈을 꿨다.</p>
+        <p>탑승 후 내 자리가 어딘지 잘 몰랐는데 어떤 사람이 이 곳은 정해진 자리가 없고 아무나 앉는 곳이기니까 다른 사람이 앉기 전에 너가 얼른 여기에 앉으라고 내 자리를 맡아주는 꿈이었다.</p>
+        <p>그런데 내 자리는 누워서 갈 수 있는 침대같은 좌석이었다.</p>
+        <p>그래서 푸우욱 자다 보니 미국까지 도착을 했고, 미국에서 한국으로 다시 올 때에도 푸우욱 자다 도착을 했다.</p>
+        <p>신기한 것은 난 한국으로 도착한다길래 서울로 도착하는 줄 알았는데 오산으로 도착을 했던 것이다.</p>
+        <p>기차를 타고 가는 도중인가 오는 도중에 잠깐 교실같은데 가서 수학문제를 풀었던 기억이 난다.</p>
+    </text>
+</SJML>

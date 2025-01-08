@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611583</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>최고의 크리스마스</title>
+            <author id="P11583" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191225" subclass="null_크리스마스">
+        <p>오늘은 기다리던 크리스마스이다.</p>
+        <p>산타할아버지께 책선물도 받고, 어른들께도 가지고 싶었던 레고와,너프건을 받았다. 1시가되자 이모가족과 숲속에있는 가창 카페에 갔다가외할머니댁에가서 저녁을 먹고 이월드에 갔다. 바쁘게 보내다 보니 하루가 금방 지나갔다. 선물도 마음에 들고, 재미있는 하루를 보낸 최고의 크리스마스였다.</p>
+    </text>
+</SJML>

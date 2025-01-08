@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212477</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘은 날씨가 조금 추웠다.</title>
+            <author id="P12477" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">전해인</author>
+        </sourceInfo>
+    </header>
+    <text date="20190206" subclass="null_친구">
+        <p>오늘은 날씨가 조금 추웠다.</p>
+        <p>그래서 아빠가 사준 털 목도리를 하고갔다.</p>
+        <p>목도리는 정말 뽀송뽀송 하고 포근~했다.</p>
+        <p>그래서 그런지 오늘 하루도 뽀송뽀송 하고 포근~하고 정말 좋았다.</p>
+        <p>하지만 반에서 &name1&이의 장난이 세지고 있는 것을 느꼈다.</p>
+        <p>왜냐하면 엄마 말대로 &name1&이가 &name2&이에게 귓속말로 속닥속닥 거리는 것을 그냥 그려려니~하고 넘어 갔는대 주사위로 계속 머리애 던지고 머리를 잡아당겨서 참을수가 없었기 때문이다.</p>
+        <p>&name1&이는 왜 여자 친구들만 괴롭히는 것일까?</p>
+        <p>나랑 친해지면 좋을탠데...</p>
+        <p>&name1&이와 친해지는 방법은 없을까?</p>
+    </text>
+</SJML>

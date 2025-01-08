@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310042</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>걷다</title>
+            <author id="P10042" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">채지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_함께 걷기">
+        <p>
+            <s>“우리 같이 걸을까?"</s>
+            <s>참 로맨틱한 말이지.</s>
+            <s>꽃들 사이를 걸어도 쨍한 햇빛 아래를 걸어도</s>
+            <s>떨어지는 낙엽 위를 걸어도 하얀 눈 위를 걸어도</s>
+            <s>너와 함께라면 참 즐겁고 좋아.</s>
+            <s>그래서 말인데,</s>
+        </p>
+        <p>
+            <s>우리 같이 걸을까?</s>
+        </p>
+    </text>
+</SJML>

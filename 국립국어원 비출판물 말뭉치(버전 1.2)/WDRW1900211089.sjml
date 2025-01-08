@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211089</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>회색빛 도시</title>
+            <author id="P11089" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김가희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_터널">
+        <p>누구는 그래 인생은 길고 긴 터널을 나 혼자 걷는 거라고. 아니야 다른 누구는  인생은 끝없는 바다 속에서 헤엄치는 거라고... 걷는 것도 헤엄치는 것도 다 틀린 거야. 우리는 주체적이지 않으니까... 우리는 영국 산업혁명 때부터 바삐 돌아가는 기계에 불과해. 우리의 자아는 있는 게 아니야. 더 이상 성찰하는 걸 멈춰. 깨달음은 절망을 가져올 거야. 내가 있는 이곳은 모던 타임즈야. 눈물 하나 없는 도시에서 흐르는 건 빗물 뿐.</p>
+    </text>
+</SJML>

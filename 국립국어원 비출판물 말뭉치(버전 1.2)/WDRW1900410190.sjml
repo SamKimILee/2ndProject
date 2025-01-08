@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410190</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>글을 쓰는것은 달콤한 일이다.</title>
+            <author id="P10190" age="16" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="쓰다">
+        <p>글은 쉽게 쓰여지는 것이 가장 매력이며 재밌다고 느껴진다. 글을 쓰면 나는 조금이라도 내 감정을 덜어내 표현할 수있다는게 좋다. 특히 나는 짧은 조각글들을 이어서 쓰는 것을 즐겨한다.글이 내 취미고 내 일상이 되어버린것처럼 어느새 재미가 있어졌다. 어릴 적 그 흔한 책들도 거들떠보지도 않았다만 이 행위가 즐거워지고 도리어 커가면서 책을 읽게되면서 책의 인용구나 좋은 글귀를 보면 마음이 사로잡히는 기분이 들기도 하다.글, 볼수록 즐겁고 쓸 수록 흥미가 생긴다</p>
+    </text>
+</SJML>

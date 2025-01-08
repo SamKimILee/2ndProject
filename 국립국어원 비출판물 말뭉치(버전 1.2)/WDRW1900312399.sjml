@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312399</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울대학교에 갔습니다</title>
+            <author id="P12399" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이우진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_서울대학교">
+        <p>오늘은 내사촌형아가 서울대학교에 다녀서 서울대학교에 갔다 사촌형아가 서울대학교에 있는 많은걸 가르켜 줬다. 엄마가가서 연필, 지우개,수첩을 사주셨다. 서울대학교엔 엄청 많은데가 있다. 내가 공부를 해서 서울대학교를 가고싶다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100722</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>산</title>
+            <author id="P00722" age="15" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20110000" subclass="null_생각">
+        <p>
+            <s>생각의 산이 쌓이고 쌓인다.</s>
+            <s>덩어리 덩어리가 모여서 커다란 산을 이룬다.</s>
+            <s>끝없이 펼쳐진 녹색의 거대한 광야 한 가운데의</s>
+            <s>생각의 산은 커지고 커져서 어느새 광야를 뒤엎을 정도로 커져만간다.</s>
+        </p>
+        <p>
+            <s>산은 폭풍과 비와 바람 뜨거운 햇볕과 차디 찬 얼음의 눈을 정면으로 맞아낸다.</s>
+            <s>끝없이 닥치는 폭풍에 산은 무너지고 다시 바람에 의해 쌓이고 쌓여만 간다.</s>
+        </p>
+        <p>
+            <s>그 산을 찾는 이 아무도 없고 오직 흙만 나뒹굴며 자갈소리만 달그닥거린다.</s>
+            <s>공허하고 폐허가 된 산은 노오란 햇빛과 대지의 물으로 새롭게 변해만가길 원한다.</s>
+        </p>
+    </text>
+</SJML>

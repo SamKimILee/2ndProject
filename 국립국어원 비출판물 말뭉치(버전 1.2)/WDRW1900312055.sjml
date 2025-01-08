@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312055</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바쁜 일요일</title>
+            <author id="P12055" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191201" subclass="null_게임">
+        <p>12.1 일요일</p>
+        <p>제목: 바쁜일요일</p>
+        <p>일요일이다, 사촌동 생 &name1&이와 게임을하기 위해서 엄청 열심히 공부한다. 수학,영어,일기,책꿈,숙제 등 많은 일을한다.</p>
+        <p>'꼭' &name1&이와 게임을 할 거라는 마음으로, 수학,책꿈 (아! 영어안돼지!) 다했다.</p>
+        <p>나는 엄청 급하다. 지금으로부터 약 1시간 30분후는 &name1&이가  자는시간이기 때문이다.</p>
+        <p>나는 급하게 쓰다가, (날짜) 아빠한테 꾸지람들을 까봐 (그러면 시간이 지체되니까) 예쁘게 쓰고 있다. 나는 내 혼신의 힘으로(?) 밥도 거의, 맨밥만 먹고, 뛰쳐나왔다.</p>
+        <p>같이할수있었으면 좋겠 다.</p>
+    </text>
+</SJML>

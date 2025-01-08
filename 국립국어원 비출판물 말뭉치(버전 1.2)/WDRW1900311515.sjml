@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311515</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>팬케이크 만들기</title>
+            <author id="P11515" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김예원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190115" subclass="null_팬케이크">
+        <p>제목:팬케이크</p>
+        <p>오늘은 팬케이크를 직접구웠다.</p>
+        <p>먼저 계란 한 개, 우유 30ml, 팬케이크 믹스를 넣고</p>
+        <p>잘 섞었더니 달콤한 반죽이 되어서 벌써부터 팬케이크가 기대됐다.</p>
+        <p>그 다음에는 반죽을 국자로 퍼서 후라이팬 위에 올려 놓고,</p>
+        <p>노릇하게 구웠는데 혹시나 망칠까봐 걱정되었다.</p>
+        <p>다행히 카라멜 색이 아주 예쁜 팬케이크가 완성되었다!</p>
+        <p>시럽을 뿌리고 접시에 놓으니 정말 광고 속의 팬케이크가 부럽지 않을 정도로 멋진 핫케이크로 보였다.</p>
+        <p>달콤한 게 너무  맛있어서 다음에 다시 한 번 굽고 싶다!</p>
+    </text>
+</SJML>

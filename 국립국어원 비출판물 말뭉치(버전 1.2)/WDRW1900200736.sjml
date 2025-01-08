@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200736</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>길과 흙과 하나</title>
+            <author id="P00736" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김예지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>
+            <s>네가 행인이라면, 나는 길이 되겠다.</s>
+            <s>네가 나를 밟으며 지나가도록</s>
+            <s>번쩍번쩍 갈고 닦으며 너만을 위해 펼쳐지기를 기다리는 길이 되겠다.</s>
+        </p>
+        <p>
+            <s>네가 길가의 들꽃이라면, 나는 흙이 되겠다.</s>
+            <s>네가 나를 뚫고 일어서도록</s>
+            <s>온갖 방해에도 소중히 품어온 너를 끝까지 덮고 지키는 흙이 되겠다.</s>
+        </p>
+        <p>
+            <s>네가 99라면, 나는 1이 되겠다.</s>
+            <s>네가 나를 거쳐 100을 완성하도록</s>
+            <s>기어이 나는 작은 것이 되어 너의 일부에 스며들고  자리를 지키는 1이 되겠다.</s>
+        </p>
+        <p>
+            <s>바다에 파도가 치는 것처럼</s>
+            <s>하늘에 바람이 이는 것처럼</s>
+            <s>나에게 있어 너무도 당연한 네가</s>
+            <s>내 안에 수놓이고</s>
+            <s>벅차오르는 내 마음으로 빚은 눈덩이는</s>
+            <s>몸집을 불린다.</s>
+        </p>
+        <p>
+            <s>흔히들 말하는 사랑이라는 감정,</s>
+            <s>네 덕분에 피어난다.</s>
+        </p>
+    </text>
+</SJML>

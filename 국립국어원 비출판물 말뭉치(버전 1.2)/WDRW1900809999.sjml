@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900809999</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>해리포터 영화</title>
+            <author id="P09999" age="11" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_해리포터">
+        <p>&name1&가 해리포터 영화를 사 달라고 떼를 썼다. 엄마께서는 처음에는 거절하셨지만 결국 &name1&의 떼를 견디지 못 하시고 마지못해 허락하여 주셨다. 원래 처음에는 '해리포터: 혼혈왕자'편만 사려고 하였지만 나는 1편도 못 봤기 때문에 나도 떼를 써서 1편부터 8편까지 전부 다 샀다. 그래서 내려받자 마자 1편부터 보기 시작했다. &name1&는 엄~청 지루해 하였지만 나는 재미었었다. 그렇게 열심히 보고 있는데 5개쯤 보고 있을 때 아주 아주 컴컴해졌다. 해리포터가 생각보다 재미있어서 시간 가는 줄 몰랐나 보다. 남은 3개는 내일 보아야 하는데 전혀 못 기다릴 것 같다. 나는 자려고 누우면 내가 본 데까지의 뒷 이야기를 꾸며 낼 생각이다. 재밌을 것 같다.</p>
+    </text>
+</SJML>

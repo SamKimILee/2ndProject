@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712034</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>백두산 생초를 읽고</title>
+            <author id="P12034" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">구도현</author>
+        </sourceInfo>
+    </header>
+    <text date="20180806" subclass="null_효">
+        <p>아들이 어머니 의 목숨 을 구했다</p>
+        <p>아들이 착한 마음씨도 가졌다</p>
+        <p>하지만 아들이 할머니의</p>
+        <p>말을 거절 했다면 장생초 를</p>
+        <p>못구 했을거고 어머니의 병은 못</p>
+        <p>고쳤을거다</p>
+        <p>나도 엄마의 효자가 될 것이다</p>
+    </text>
+</SJML>

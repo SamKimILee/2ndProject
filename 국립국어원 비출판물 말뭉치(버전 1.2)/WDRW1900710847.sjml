@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바람</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바람">
+        <p>
+            <s>어디에서 불어온 바람</s>
+            <s>너가 들은 사람들의 이야기를 들려주렴</s>
+        </p>
+        <p>
+            <s>어딘가로 불어가는 바람</s>
+            <s>너가들은 희망의 노랫소리를 사람들에게 들려주렴</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512477</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학예회를 했다.</title>
+            <author id="P12477" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">전해인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191120" subclass="null_학예회">
+        <p>학예회를 했다. 학예회 의상은 배가 보이는 티였지만 나는 하얀색 티셔츠를 입고와서 배가 덜 보였다. 학예회 전에는 무대에 나갈 생각에 떨렸다. 하지만 곳 울상이 되었다. 왜냐하면 1,2줄이 시간차를 틀렸기 때문이다. 오늘은 학여회라서 급식도 조랑 같이먹고 영어 방과 후에서도 영화를 보았다. 그리고 우리반 선생님이 내일이나 내일모래에 과자파티를 한다고 했다. 하지만 나는 은이빨이 흔들려서 못 먹을것같다.</p>
+    </text>
+</SJML>

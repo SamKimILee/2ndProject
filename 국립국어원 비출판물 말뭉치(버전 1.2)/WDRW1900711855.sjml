@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711855</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꽃사과</title>
+            <author id="P11855" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김려진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190408" subclass="null_꽃사과">
+        <p>4/8어제는언니와 함께 관찰을 했다. 아주재미있었다. 꽃사과 라는꽃이 있었는데 아주 에뻤다. 많은꽃을 알아서 좋았다. 하지만 돌아와서는 실엇다 왜냐하면 씩었기 때문이다.</p>
+        <p>씻기는 싫었지만 관찰을 해서 아주 좋았다.</p>
+    </text>
+</SJML>

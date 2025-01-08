@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312141</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>"알쏭달쏭 나"  안녕</title>
+            <author id="P12141" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김선후</author>
+        </sourceInfo>
+    </header>
+    <text date="20190403" subclass="null_공개 수업">
+        <p>오늘은 학부모공개 수업을 했다.</p>
+        <p>난 아빠가 왔다.(엄마가 학교 선생님이다. 아빠가 우리 때문에 회사을 안갔다) 내가 발표할 차래다. 내 뒤에 아빠가 있다. 아빠는 나 끝나고 오빠 공개수업에  가야한다 휴....</p>
+        <p>나 발표가 끝났다. (공개수업 끝 )</p>
+        <p>아빠가 가야 한다. 아빠 고생했어</p>
+    </text>
+</SJML>

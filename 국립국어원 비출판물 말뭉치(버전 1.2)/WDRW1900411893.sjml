@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411893</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>없음</title>
+            <author id="P11893" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장재인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191009" subclass="null_점심, 요들">
+        <p>10월8일 화요일</p>
+        <p>오늘도 학교를 않간건 안다 오늘은 어제와 다르게 시간표를 짰다 그런데 점심 시간을 11시로 옮겼다 밥을더 일찍먹어서인지 더 좋은겄 같다</p>
+        <p>10월9일 수요일</p>
+        <p>오늘은 요들을 갔는데 배에 너무힘을줘서 배가 아팠다</p>
+    </text>
+</SJML>

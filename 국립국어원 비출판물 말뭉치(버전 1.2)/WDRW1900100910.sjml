@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100910</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>퇴근</title>
+            <author id="P00910" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">권아란</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족">
+        <p>작은 방에 두 사람이 축구를 보고 았다.</p>
+        <p>방 안이 다 큰 두 사람의 몸집과 소리로 가득 찼다.</p>
+        <p>골을 넣을 때 웃으며 환호하는 모습을 보면,</p>
+        <p>마치 어린아이 같다. 진정 행복해보이는 모습/</p>
+        <p>이제 저런 미소와 웃음 지을 때가 저 사람들이</p>
+        <p>정말 즐거워하고 좋아하는 모습이구나</p>
+    </text>
+</SJML>

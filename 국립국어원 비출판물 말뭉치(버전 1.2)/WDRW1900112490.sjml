@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112490</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>다른 가족들과 가족여행</title>
+            <author id="P12490" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>&name1&랑 같이 원카드 를했다 정말 재미있었다 다음 에또 &name1&랑 여행을하고 싶다. 큰 팬션에 수영장이 있어서 수영을 했다. 누나 형아 동생들이랑 같이 숨바꼭질도 했다. 가족들과 고기도 구워 먹었다. 정말 재미있었다.</p>
+    </text>
+</SJML>

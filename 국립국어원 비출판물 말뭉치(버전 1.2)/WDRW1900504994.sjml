@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900504994</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생각한다</title>
+            <author id="P04994" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_정리">
+        <p>내 생각을 정리해서</p>
+        <p>글 쓰기를 좋아하던 내가</p>
+        <p>니가 만든 끔찍한 기억이 떠오를까봐</p>
+        <p>혼자 생각에 잠기는 것은 물론</p>
+        <p>유튜브 소리 없이 잠자기도 할 수 없는 사람이 되었을 때,</p>
+        <p>다시 우울한 구름이 몰려왔다.</p>
+    </text>
+</SJML>

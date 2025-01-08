@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장마</title>
+            <author id="P11175" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_장마">
+        <p>
+            <s>더위 탓에 온몸이 끈적하고 무겁다. 몸을 일으켜 욕실로 향한다. 물을 튼다. 뜨겁지도 차갑지도 않은, 적당히 미적지근한 물이다. 욕조에 물을 받는다. 넘쳐흐르지 않을 정도로 적당히, 적당히. 그리고는 몸을 뉜다. 물이 흘러넘친다. 순간, 꿈을 꿨다. 해파리가 된 꿈. 머리 위에서 파도가 일렁인다. 그것은 순식간이었지만 무척이나 반짝였고, 불안했으며, 그저 그렇게 나를 스쳐갔다. 느릿한 손끝으로 다시 샤워기를 꽉 잡는다. 물을 튼다. 정신이 번뜩 들 정도로 아주 차가운 물이다. 떠나간 것들은 다시 돌아오지 않는다. 또 한 번 파도가 치는 것 같았다. 눈물을 샤워기에 대고는 흘렸다. 아니, 흘려보냈다. 한참을 그냥 흐르도록 두었다. 그리고는 혼잣말로 중얼거렸다. 오늘 밤은.... 그래, 장마가 오려나 보다.</s>
+        </p>
+        <p>
+            <s>어디 먼 곳에서 또</s>
+            <s>빗물 새는 소리가 들리잖니.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200716</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>차는 아직...무서워</title>
+            <author id="P00716" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="차">
+        <p>지금 나는 23살이고 주변 친구들 중에 운전면허를 딴 사람들이 꽤 있기도 하다. 이 사람들은 종종 차를 렌트해 놀러가자고 하는데 나는 내 또래가 모는 차를 타는 게 아직 무섭다.. 맨 처음 친구가 몰았던 차를 친구의 어머니와 같이 탄 적이 있는데 난 뒷자석이었다. 어느 평탄한 길에 들어섰는데 친구네 어머니가 여기서는 그냥 쭉 직진만 하며 가면 된다고 하셨고 친구는 그렇냐고 하고는 신호등 마저 안 보고 달리다가 정말 아찔하게 사고가 날 뻔한 적이 있었기 때문이다. 나는 정말 이렇게 죽을 수도 있겠다라는 생각을 처음 했다. 그 후로 초보자가 모는 차에 타면 몸이 경직되는 걸 느낀다. 내가 운전한 것도 아닌데 다음날 어깨가 아프고.. 다른 사람들이 면허 안 따냐고 물어보는데 이렇게 겁부터 먹어서 면허 딸 생각이 들긴 할까 싶다.</p>
+    </text>
+</SJML>

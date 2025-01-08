@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302693</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>콘서트를 다녀와서</title>
+            <author id="P02693" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">고은유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_콘서트">
+        <p>2019년의 마지막날에</p>
+        <p>나는 2019를 보람차게 끝내기위해 내가 좋아하는 아이돌의 콘서트를 마지막날에 다녀왔다 정말 잘보이고 제일 기억에 남은 무대가 세훈 찬열 무대였다 그리고 마지막이기에 찬열이 영상편지를 준비했는데 정말 모두가 다 울었다 정말 슬펐다 준면이가 울면서 하고싶은말 다 하는데 진짜 기절할뻔했다 그때만 생각하면 눈물이난다 ㅠ 하지만 재미있었고 정말 2019년을 보람차게 마지막까지 보낸거같아 뿌듯했다</p>
+    </text>
+</SJML>

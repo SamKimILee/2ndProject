@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901012509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>체육대회</title>
+            <author id="P12509" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191018" subclass="null_체육대회">
+        <p>체육대회를 했다. 먼저 큰공 굴리기를 했다. 하지만 청팀이 승리 했다. 우리반 개인 달리기는 1등을 했다</p>
+        <p>쉬는 동안에 모두 잘했다고 쥬스를 주셨다</p>
+        <p>쥬스를 먹고 다시 운동장으로 가서 전체 이어달리기를 했다. 원래 4등 이었는데 마지막에 5등으로 바뀌었다. 2학년때는 꼭 1등 하고 싶다.</p>
+    </text>
+</SJML>

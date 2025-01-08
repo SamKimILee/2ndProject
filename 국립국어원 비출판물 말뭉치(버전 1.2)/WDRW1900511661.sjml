@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511661</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외할아버지 생신에 간 날</title>
+            <author id="P11661" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="202002015" subclass="null_외할아버지 생신">
+        <p>외할어버지 생신에 갔다. 친척들과 만나서 밥을 같이먹고 내집에와서 티비를 보고, 과자도 먹고, 개임도 했다. 다음에 내 생일때 외할아버지 생신처럼 게임을 하고싶다. 할아버지 생신일때 돈을 받아서 기분이 좋았다.</p>
+    </text>
+</SJML>

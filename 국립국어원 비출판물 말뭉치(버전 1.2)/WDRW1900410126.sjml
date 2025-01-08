@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410126</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그림</title>
+            <author id="P10126" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조유나</author>
+        </sourceInfo>
+    </header>
+    <text date="20191217" subclass="null_그림">
+        <p>오늘은 그림을 그렸다. 라이온 수학책을 그렸다. 조금 어려웠는데 계속 하다 보니 재밌었다. 기분이 나쁘지 않았다. 그림을 그렸는데 엄청 예뻤다.</p>
+        <p>언니 보다는 잘 못그린다. 엄마 보다는 예쁠 것 같다. 엄마는 그림을 잘 못그린다 라고 했다.</p>
+    </text>
+</SJML>

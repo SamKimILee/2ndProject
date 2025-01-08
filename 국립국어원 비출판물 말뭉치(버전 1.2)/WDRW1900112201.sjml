@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>햄버거</title>
+            <author id="P12201" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191004" subclass="null_햄버거">
+        <p>오늘은 엄마가 햄버거를 만들어 먹었다 재료는 떡갈비랑 치즈랑 양상추랑 케찹이랑 피클은 없었다 왜냐하면 깜박하고 피클재료가 빠젔다. 햄버거에 맜은 굿 이였다.</p>
+    </text>
+</SJML>

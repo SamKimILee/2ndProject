@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511607</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책읽기</title>
+            <author id="P11607" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_알사탕책">
+        <p>밤에 씻고나서 아빠가 책을 읽으라고 했다. 동생이 알사탕책을 읽어달라고 해서 알사탕책을 읽어 주었다. 알사탕은 신기했다. 알사탕을 입에 넣으니 소파랑 강아지가 말을 했다. 알사탕이 만약에 있으면 게임기에게 무슨 게임이 재미 있는지 물어보고 싶다.</p>
+    </text>
+</SJML>

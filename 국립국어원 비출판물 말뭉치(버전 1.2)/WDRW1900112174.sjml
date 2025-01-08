@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112174</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 동네는 한 편의 음악</title>
+            <author id="P12174" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">진하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_우리 동네">
+        <p>
+            <s>우리동네 시 2</s>
+        </p>
+        <p>
+            <s>우리동네는 한 편의 음악</s>
+            <s>&name1&</s>
+            <s>선수촌 사거리는 멋진 오선지</s>
+            <s>여기저기 사람들은 4분음표</s>
+            <s>사거리 건물들은 2분쉼표</s>
+            <s>방방이 타는 아이들은 스타카토</s>
+            <s>하굣길 아이들은 재잘재잘 크레센도</s>
+            <s>주인 쫒아가는 강아지는 되돌임표</s>
+            <s>사거리 오선지에 꽉 차게 그려진다</s>
+            <s>우리 동네는 한 편의 음악</s>
+        </p>
+    </text>
+</SJML>

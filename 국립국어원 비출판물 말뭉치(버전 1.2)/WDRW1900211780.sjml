@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211780</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P11780" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">유수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191222" subclass="영화">
+        <p>일요일에는 정말 영화천국이였다. 아침에도 영호 낮에도 영화 저녁에도 영화였다. 아침에는 겨울왕국2였는데 영화관에서 형이랑 나랑 봐서 좀 무서웠다. 낮에는 집에서 어벤져스를 봤다 악당과 싸우는 모습이 멋졌다 저녁 에 는 스머프를 봤다. 스머프들이 너무 귀 여 웠 다. 정말 즐 거운 하 루 였다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210229</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 아버지</title>
+            <author id="P10229" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="아버지">
+        <p>나는 어린시절, 다른 친구들의 아버지처럼 회사에 다니지 않으시고 부전시장에서 일을 하시며, 다른아버지들보다 키가 작으시고 뚱뚱하신 아버지를 친구들에게 공개하기 부끄러워했다. 그래서 친구들을 집에 데려오지도 않고, 아빠가 내 축구대회, 내 친구들과 있는데 온다고 하면 아빠에게 오지 마라고도 하는 일이 있었다. 그러나 지금은 다르다. 그 누구보다 우리 아빠가 좋다. 겉은 거칠어 보이시지만 그 누구보다도 우리 아버지는 나를 좋아하시고 나를 위해서 헌신하신다는 것을 깨달았기 때문이다. 지금은 친구들도 우리집에 잘 데려오고, 아빠께 인사하라고 시키기도 하지만 그때를 생각하면 아버지를 부끄러워했던 내가 너무나 부끄럽고 아버지께 죄송하다. 우리아버지 사랑합니다</p>
+    </text>
+</SJML>

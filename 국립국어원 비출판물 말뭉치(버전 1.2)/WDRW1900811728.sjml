@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811728</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 친구</title>
+            <author id="P11728" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>영국에 한국 친구들 있어요. 내가 제앨친한 한국 친구가 있어요. 그건 바로 &name1&입니다. &name1&이는 포캣몬 카드를 좋아에요, 축구, 테니스,Wii 커비도 좋아해요. &name1&이는 영국에서 7살 입니다. &name1&이는 키가 크고, 얼굴이 납작하고 웃겨요. 다른 친구도 있어요.</p>
+        <p>그건 바로 &name2&입니다.</p>
+    </text>
+</SJML>

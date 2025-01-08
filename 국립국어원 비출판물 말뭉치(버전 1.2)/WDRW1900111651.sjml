@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111651</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 가족</title>
+            <author id="P11651" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">한우진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="우리">
+        <p>우리 가족</p>
+        <p>엄마는 예뻐요. 아빠는 고치는 것을 잘해요. 아빠가 장난감을 고쳐주셨어요. 그때 제마음은 행복했어요. &name1&이는 노는것을 잘해요. &name1&이는 자동차 놀이를잘해요. 저는 똑똑해요. 영어를 잘해요. RAIN을 다 읽었어요.</p>
+    </text>
+</SJML>

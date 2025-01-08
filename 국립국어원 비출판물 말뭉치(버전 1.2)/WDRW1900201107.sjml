@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201107</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>당신의 사진 앞에서</title>
+            <author id="P01107" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_발자국">
+        <p>
+            <s>당신은 당신은 당신은</s>
+            <s>끝끝내 부르지 못한 이름</s>
+        </p>
+        <p>
+            <s>걷기 힘든 다리를 지닌 채 태어나</s>
+            <s>눈을 감고 뜰 때마다 우는</s>
+            <s>당신은 적막의 비명소리</s>
+        </p>
+        <p>
+            <s>비틀어진 무릎과 부어오른 근육은</s>
+            <s>당신의 묘비 그리고 유언</s>
+        </p>
+        <p>
+            <s>인감과도 같은 발자국은</s>
+            <s>그저 표면일 뿐</s>
+            <s>진실은 당신만이 아는 머릿속 심해의 내용</s>
+        </p>
+        <p>
+            <s>왜</s>
+            <s>풋내나는 삶은 걷지 못하고</s>
+            <s>향내나는 삶은 걸어가는지</s>
+            <s>그 연민과 애도는 그저 호기심</s>
+            <s>그저 장례식의 건배사 대용</s>
+        </p>
+    </text>
+</SJML>

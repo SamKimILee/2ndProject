@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> 통화</title>
+            <author id="P11531" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김온유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200401" subclass="null_통화">
+        <p>&lt; 통화 &gt;</p>
+        <p>선생님과 통화를 했다, 첫통화였다.</p>
+        <p>근데 4월인데 선생님을 한번도 못봤다.</p>
+        <p>한번 보긴 했지, 사진으로 ... 근데 선생님이 사진보다 안예쁘다고 했다. 그 말이 재밌었다.</p>
+        <p>코로나를 빨리 이겨서 학교에 가야겠다.</p>
+        <p>그러기 위해서 난 내일도 집콕방콕</p>
+    </text>
+</SJML>

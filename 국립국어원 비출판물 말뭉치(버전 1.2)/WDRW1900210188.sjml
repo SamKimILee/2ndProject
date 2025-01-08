@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210188</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈</title>
+            <author id="P10188" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="눈">
+        <p>눈이 왔으면 좋겠다. 제발 펑펑 내렸음 좋겠다.</p>
+        <p>새하얀 눈에 첫 발자국도 못 찍어보고 올해를 시작하는건가. 내 소망은 전기장판 위에서 귤 까먹으면서 함박눈 내리는 걸 보는 거 였는데,</p>
+        <p>큰 소망도 아니었는데 하늘은 좀 들어주시지</p>
+        <p>학교에서 친구들이랑 눈싸움 하고싶다.</p>
+        <p>눈 뽀득뽀득 밟으며 노래들으면서 걷고 싶다.</p>
+        <p>하얀눈 만지느라 손이 빨개진 줄도 모르면서 친구랑 즐겁게 놀고싶다. 눈 좀 내려주라</p>
+    </text>
+</SJML>

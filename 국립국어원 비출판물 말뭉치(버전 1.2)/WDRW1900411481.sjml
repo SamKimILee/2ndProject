@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411481</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 동네 까마귀</title>
+            <author id="P11481" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장성인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_우리 동네 까마귀">
+        <p>
+            <s>우리동네 까마귀들</s>
+            <s>까마귀들이 나뭇가지에 앉아</s>
+            <s>‘까악가’를 부르고있다.</s>
+        </p>
+        <p>
+            <s>까악까악 까악까악</s>
+            <s>까아악 까아악</s>
+        </p>
+        <p>
+            <s>우리 동네 까마귀들</s>
+            <s>‘까악가’ 모르는 까마귀 없다.</s>
+        </p>
+        <p>
+            <s>‘까악가’모르면</s>
+            <s>우리동네 까마귀 아니다.</s>
+        </p>
+    </text>
+</SJML>

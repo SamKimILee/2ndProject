@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305416</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미워하는 마음</title>
+            <author id="P05416" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">임지혜</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_기다림">
+        <p>
+            <s>미워하는 마음속에 너의 불행은 담지 못했다</s>
+        </p>
+        <p>
+            <s>미워하는 마음속에 너의 행복도 담지 못했다</s>
+        </p>
+        <p>
+            <s>미워하는 마음속에 아직 그리워하는 나를 발견했기에,</s>
+            <s>내가 가엾고 애틋해 너를 아직은 기다리고있다</s>
+        </p>
+    </text>
+</SJML>

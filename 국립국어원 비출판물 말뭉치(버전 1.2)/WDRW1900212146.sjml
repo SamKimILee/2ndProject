@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책 읽어주는날!</title>
+            <author id="P12146" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강은호</author>
+        </sourceInfo>
+    </header>
+    <text date="20191127" subclass="null_책">
+        <p>11월 27일 수요일</p>
+        <p>&lt;책 읽어주는날!&gt;</p>
+        <p>와 오늘은 학예회 하루전이다! 나는 책 읽어주는 날이라는 단체이야기를 한다. 거기에는 &name1&, &name2&, &name3&, &name4& &name5&, &name6&이 참여한다. &name1&는 고슴도치, &name4&는 기린, &name6&이는 여자아이( 주인공 ) &name2&는 뱀, &name3&이는 타조, &name5&이는 개미다. 친구들이 가고 난 뒤 선생님과 이야기 연습을 했다.</p>
+        <p>드디어 학예회의 날이다. 점점 우리발표에 가까워진다. 드디어 시작! 우리차례 이야기를 하고 난 뒤 대망의 하이라이트 나와친구들은 "2학년2반 친구들 이 책처럼 용기를 내세요. " 말할때 협동과 배려가 느껴졌다.</p>
+    </text>
+</SJML>

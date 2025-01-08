@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212039</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일축하해</title>
+            <author id="P12039" age="70" occupation="자영업자" sex="M" submission="온라인" handwriting="No">박우홍</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_결혼기념일">
+        <p>딸아, 얼마 안되지만 케익도 사고 결혼기념일 행복하게 보내거라. 매 번 엄마, 아빠의 결혼기념일까지 챙기는  너희 내외 엄마, 아빠는 늘 고맙게 생각한단다. 이번 여행 엄마 아빠 정말 좋았단다. 잊을 수 없는 추억이 되겠지. 김서방한테도 항상 고맙고 맛난거 많이 사주었는데 이번 여행에서 갑자기 몸이 안 좋아지는 바람에 너희 부부 힘들게 했구나. 미안 다음엔 조심할께.... 사랑해</p>
+    </text>
+</SJML>

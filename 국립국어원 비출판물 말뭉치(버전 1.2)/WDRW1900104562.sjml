@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104562</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울공화국</title>
+            <author id="P04562" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">최금녕</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="서울">
+        <p>서울은 한국의 중심지이다. 많은 사람들이 모여 있고 드나드는 서울은 사람이 많은 만큼이나 한국에서 매우 중요하게 여겨진다. 그래서인지 서울공화국이라고 하는 말을 들어본 적이 있다. 서울공화국이라는 말은 다른 지역에 큰 일이 일어나면 뉴스에서 큰 일로 다루지 않지만 서울에는 작은 일만 일어나도 크게 다루는 듯한 한국의 뉴스, 한국인들 때문에 생겨났다고 생각한다. 실제로 작년, 태풍이 올 때 아래 지역의 사람들은 태풍 때문에 큰 피해를 입었지만 뉴스에서는 잘 보도하지 않았던 적이 있다. 물론 서울에 많은 사람이 모여 있는 만큼 중요한 것은 맞다. 하지만 서울이 아닌 다른 지역들도 모두 한국이고 빠질 수 없이 중요한 역할을 하고 있다고 생각하기 때문에 서울공화국이라는 단어가 하루빨리 사라질 수 있기 바란다.</p>
+    </text>
+</SJML>

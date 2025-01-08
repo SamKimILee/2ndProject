@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바다</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바다">
+        <p>
+            <s>너는 어찌도 그렇게 푸르럴까</s>
+            <s>한번 무너짐도 없이</s>
+            <s>햇빛을 받으면 반짝이는 모습이</s>
+            <s>별빛을 뿌린듯 보인다.</s>
+            <s>너가 품고있는 생명들이</s>
+            <s>끝을 알 수 없는 지평선이</s>
+            <s>나를 더욱이 작게 만든다.</s>
+            <s>나는 왜이리도 작은 마음일까</s>
+            <s>너를 본받는다.</s>
+        </p>
+    </text>
+</SJML>

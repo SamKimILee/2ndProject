@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901520027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190823" subclass="null_수영장">
+        <p>8월23일 금요일 날씨:선하 지만더운 날씨</p>
+        <p>나 는 학원을 같다 와 서 피아노 학원 을 같이 나니는 형과 놀았다 나는 친구들을 모아서 같이 수영장에도 같이 갔다왔다</p>
+        <p>수영 장에서는 술래잡기 도 하고 놀았다 나는 수영 장을 갔다온디 같이피구도 했다.</p>
+        <p>나는 피구 공을 많이 잡 긴 잡았지 만 너무 세었다 하지만 나는 나에 재미난 말 때 문에 모 두가 웃음 잔 치가 되었 다</p>
+        <p>나 는 오늘 하 루 가 정 말 즐 거 웠 다  나의 느낌점은 이런 시간을 보내니 정말 행복 하 면서 더더욱 기뻤다</p>
+    </text>
+</SJML>

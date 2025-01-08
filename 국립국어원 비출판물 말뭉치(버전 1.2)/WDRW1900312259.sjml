@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312259</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무인도 특강</title>
+            <author id="P12259" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180503" subclass="null_무인도">
+        <p>5. 3.목 제목 : 무인도특강</p>
+        <p>오늘은 무인도를 연구하시는</p>
+        <p>선생님을 보았다. 사막과 무인도를 가보고 살아갔다. 무인도와 사막에서 열심히노력한겄이 정말</p>
+        <p>멌있어서나도 선생님</p>
+        <p>처럼하고싶다.</p>
+        <p>선생님도포기하지않는다고</p>
+        <p>하였다. 다음에도또</p>
+        <p>듣고싶다.</p>
+        <p>나도선생님처럼 어른되면</p>
+        <p>무인도와 그 사막을</p>
+        <p>선생님처럼 가보고 싶다.</p>
+        <p>재밌는건 선생님이</p>
+        <p>영화 보여주신겄에서 핼프가</p>
+        <p>핼로로 되었다. 그겄이 정말 우꼈다.</p>
+    </text>
+</SJML>

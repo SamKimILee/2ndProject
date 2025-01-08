@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311698</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손가락</title>
+            <author id="P11698" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="201909018" subclass="null_손가락">
+        <p>손가락</p>
+        <p>과학시 간에 뛰어다니다가 벽에부디쳐서 손가락이 아팠다. 보건실로가서 아이스 팩을 받아왔다. 아직도 손가락이쑤셨다. 그래서 손가락 에 플라스틱으로 만들어진 손을고정 해주는장치를 했다.</p>
+        <p>점심시간에 급식 당번인데 병원을 가야 한다고 곧바로나갔다.</p>
+        <p>집에도착하자 손이더쑤셨다.</p>
+        <p>하지만 엄마는 병원에안 가도 된다고 하셨다.나는 손가락이아파서 급 당도빠진거라고했더니 엄마는 방과 후를다녀와서야 뒤늦게알겠다고 하셨다. 하지만 엄마가 부은 정도를보니 곧바로 생각을바꿔서 “그냥병원에 가지말고 지켜보자”라고 말씀하셨다. 급당을 빠져서 병원에갈려고 했는데 병원에 안가서 선생님이 혼내실까 정말걱정이 된다.</p>
+    </text>
+</SJML>

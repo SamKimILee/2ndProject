@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200525</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>선택</title>
+            <author id="P00525" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_선택">
+        <p>선택을 하는 것은 어렵다. 이것을 택할지 저것을 택할지. 결과가 두려운 걸 수도 있고 욕심이 많아 하나를 놓치기 싫은 걸 수도 있다. 어쨌든 내가 선택한 일이니 그것이 어떻게 되든 책임은 나에게 있다. 그래서 선택을 할 때 타인의 도움을 받을 수 있지만 결국 마지막 선택은 내가 해야 한다. 괜히 엄한 사람을 원망하지 않도록.</p>
+        <p>선택을 못한다는 것은 좋게 말하면 신중하다는 것이고 나쁘게 말하면 우유부단하다는 것이다. 신중한 것은 좋지만 고민하는 시간이 너무 길면 안 된다.</p>
+    </text>
+</SJML>

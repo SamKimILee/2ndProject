@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210568</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수증기</title>
+            <author id="P10568" age="56" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">박성중</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="자연">
+        <p>녹음이 짙은 대지에서 많은 수증기를 배출 또 다른 수증기를 만든다.</p>
+        <p>여름철 고온 다습한 지역에서 많은 수증기를 담은 구름들이 옹기종기 피어나서 대지에 다시금 비를 뿌린다.</p>
+        <p>하늘길을 막는 이러한 커다란 구름들이 때로는 높은 항로까지 확장하여 갈길을 차단하고</p>
+        <p>요동치는 기류로 손님들을 불편하게 한다.</p>
+        <p>항로를 우회하다 보면 멀리는 100km 이상을 우회하며 시간과 연료를 소모하게 되며</p>
+        <p>이로 인해 여름철 필수 항목이 추가 연료를 탑재하는 것이다.</p>
+        <p>오늘도 하늘길은 지속적으로 cb 구름이 앞길을 차단하고 방해를 하는구나</p>
+    </text>
+</SJML>

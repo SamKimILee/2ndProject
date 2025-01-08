@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900307946</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 사랑에 대한 나의 질문 </category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑 </title>
+            <author id="P07946" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">조희선</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사랑">
+        <p>사랑은 무엇일까?</p>
+        <p>사랑하고 아프고 하지만 또 거짓말 처럼 다시 사랑하고 또 아파하고</p>
+        <p>왜 아픈 사랑을 하면서도 우리는 사랑을 놓지 못하는 것 일까?</p>
+        <p>왜 사랑이 들어가면 왜 우리는 다시 아픔을 감수하며 서로를 사랑할까?</p>
+        <p>우리는 사랑이라는 망각을 하며 살아가기에 다시 또 바보같이 서롤 사랑하게 되는 걸까?</p>
+    </text>
+</SJML>

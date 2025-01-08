@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110347</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마와 집담</title>
+            <author id="P10347" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조영욱</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_잡담">
+        <p>오늘은 엄마와 오후에집담을 했다. 엄마가목이왜 켁켁거리냐고 물었다. 나는말했다. 유치원때친구가 목을조아서라고 말했다.엄마가 물었다왜 친구가조았냐고나는 아직 생각나지않는다고 말했다.</p>
+    </text>
+</SJML>

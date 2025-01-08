@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104098</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>'김지영'</title>
+            <author id="P04098" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">최혜빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="영화">
+        <p>김지영이 이상 증세를 보였던 건, 김지영이 '맘충'이라 불려야 했던 건, 김지영이 화장실에서 볼일을 보지 않고 나와야 했던 건, 김지영의 회사 복직은 혼자만의 일이 아니어야 했던 건, 선생님이 되고 싶었던 김지영의 엄마가 미싱일을 해야 했던 건 왜일까. 왜 여전히 계속 되고 있는 것일까. 우리는 이 이유를 알면서도 마주하려 하지 않지 않나. 수면 위로 올라오지 않도록 묻어두고 당연하고 자연스런 일인 양 굴지는 않나. 애써 외면하고 있지는 않나.</p>
+        <p>'김지영'이 단순히 이름에 불과할까. 우리 모두에게 여전히 남아있는 '지영이'는 언제쯤 모습을 감추게 될까. 나는 '지영이'가 아니고 싶다. '지영이'가 없었으면 한다.</p>
+    </text>
+</SJML>

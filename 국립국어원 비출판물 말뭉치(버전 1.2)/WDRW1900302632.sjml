@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302632</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>DEAD LEAVES </title>
+            <author id="P02632" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">서채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_후회">
+        <p>나를 더이상 당신의 일부라고 생각하지 않는 사람아.</p>
+        <p>나는 아직 당신을 애타게 기다리고 있다고 말하고 싶었다.</p>
+        <p>하지만 당신은 이미 내 곁을 떠난 뒤였고 나는 여전히 후회하고 있었다. 떠난 당신의 뒷 모습을 몇번이고 되새기며 마음속에 전하지 못한 그 한마디를 애써 삼켜내었다.</p>
+        <p>그 어떤 열매가 되지도,</p>
+        <p>하늘의 푸르른 빛을 머금지도 못한 나는</p>
+        <p>그렇게 떨어지는 나뭇잎이 되었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109849</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일선물</title>
+            <author id="P09849" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장민우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_생일선물">
+        <p>아빠에개아빠생일선물은엄마가3가지를골르레그레서골랏서현질 현질을아빠가할데난너무화가나그레서현질이야 그리고두번재는너푸건이야왜냐하면너푸건이너무재미있어더갔고십어 3번재는그증이엽에있어</p>
+        <p>자 전거야 지금 자전거가고장나어자전거야다른 거로사야대 &name1&가</p>
+    </text>
+</SJML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211547</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>예쁜 우리엄마</title>
+            <author id="P11547" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_우리 엄마">
+        <p>
+            <s>예쁜 우리엄마</s>
+            <s>이가 고르게 나서</s>
+            <s>더 예쁜 우리엄마</s>
+            <s>천하무적 우리엄마</s>
+            <s>내 책가방이 하나도 안무겁네</s>
+            <s>무서운 우리엄마</s>
+            <s>약속을 지키지 안으면 망태할아버지보다 더 무섭네</s>
+            <s>이것은 동시였습니다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자전거를 배운 날</title>
+            <author id="P12063" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20190428" subclass="null_자전거">
+        <p>오늘은 아빠하고 둘이서 자전거를 배웠다 구발자전거는 처음에는 무서웠다 하지만 아빠가 용기을 주워다 그래서 나줍에는 혼자서도잘탔다. 아빠가 아이스크림과장난감을사줘서기분이아주좋았다.</p>
+    </text>
+</SJML>

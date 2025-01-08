@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201429</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재능에 대한 생각</title>
+            <author id="P01429" age="27" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김인영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="의미">
+        <p>항상 이런 기분이다.</p>
+        <p>쓰고 싶은 내용과 쓰고 싶은 말이 너무나도 많은데</p>
+        <p>하얀 창을 보는 순간 내 머릿속도 하얗게 변해 버린다.</p>
+        <p>내가 글을 쓰려고 했다는 것을 기억하는 것은 아마 내 감정 뿐이겠지</p>
+        <p>내 감정만이 하얗게 변해버린 머릿속을 마치 원래부터 그랬던 것은 아니라는 듯이</p>
+        <p>끊임없이 요동치며 자신을 알아봐달라 하고있다.</p>
+        <p>'나를 꺼내줘 나를 써줘 나를 표현해줘'</p>
+        <p>애매한 재능은 저주라는 얘길 들은 적이 있다.</p>
+        <p>나야말로 저주받은 사람이 아닐까?</p>
+        <p>가지고 있는 마음에 비해 가지고 있는 능력이 부족해서 오늘도 숨이 찬다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310395</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세상에는</title>
+            <author id="P10395" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김정하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="똑같다">
+        <p>
+            <s>세상에는 똑같은 짝이</s>
+            <s>하나씩 있나 보다.</s>
+        </p>
+        <p>
+            <s>젓가락 두 짝</s>
+            <s>안경알 두 개</s>
+        </p>
+        <p>
+            <s>가위도 두 짝</s>
+            <s>내 손도 두 개</s>
+        </p>
+        <p>
+            <s>그리고 엄마와 나</s>
+        </p>
+        <p>
+            <s>세상에는 똑같은 짝이</s>
+            <s>하나씩 있다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>에디슨</title>
+            <author id="P20073" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_에디슨">
+        <p>에디슨은 어려서 달걀을 품었어요. 에디슨이학교를 입학하자 궁굼한것이 너무많았어요.</p>
+        <p>에디슨이 학교에서 너무 말이많아 학교에서놀림 받고 쫓겨 났어요. 그래서 엄마랑 공부 했어요. 에디슨이 커서 전등, 전화기를 만들었었어요. 발명한것이 모두 1000개가 넘어요.</p>
+        <p>와! 정말 대단해요.!</p>
+    </text>
+</SJML>

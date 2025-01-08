@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203983</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>중고서점</title>
+            <author id="P03983" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김신재</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="책">
+        <p>
+            <s>사람이 많은 중고서점</s>
+            <s>서점에는 새로운 책이 있지만</s>
+            <s>이곳에는 각자의 추억이 있다.</s>
+        </p>
+        <p>
+            <s>무언가를 받쳐 놓은 듯한</s>
+            <s>누군가에게 선물한 듯한</s>
+            <s>모두의 추억이 담긴 듯한</s>
+        </p>
+        <p>
+            <s>그러한 냄새 , 추억의 냄새가</s>
+            <s>나를 반겨준다.</s>
+        </p>
+    </text>
+</SJML>

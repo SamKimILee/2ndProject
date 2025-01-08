@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110421</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>慾</title>
+            <author id="P10421" age="16" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">고은채</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_나">
+        <p>
+            <s>나는 그닥 착하지 못한 편에 속했고</s>
+            <s>그닥 나쁘지 않은 편에도 속했다</s>
+            <s>선과 악 그 사이 간극에서</s>
+            <s>어디로 떨어질지 모르는</s>
+            <s>가느다란 줄 위에서 버티며</s>
+            <s>나는 둘 중 어느 것도 놓지 못했다</s>
+        </p>
+        <p>
+            <s>모두에게 다정하고 싶었지만</s>
+            <s>모두와 멀어지고도 싶었고</s>
+            <s>관계의 미학은 커녕</s>
+            <s>관계의 정의조차 내리지 못한 채로</s>
+            <s>나는 또 둘 중 어느 것도 놓지 못했다</s>
+        </p>
+        <p>
+            <s>입구가 좁은 통에서</s>
+            <s>한 움큼의 사탕을 꺼내려는 게</s>
+            <s>어리석은 행동임을 알면서도</s>
+            <s>손에서 사탕을 놓지 못한 이유는</s>
+            <s>치기어린 욕망이었을까</s>
+            <s>이기적인 집착이었을까</s>
+            <s>애처로운 갈구였을까</s>
+            <s>아니면 그 무엇도 아니었을까</s>
+        </p>
+        <p>
+            <s>안 될 걸 알면서도</s>
+            <s>꾸역꾸역 사탕을 쥐고 나온 결과는</s>
+            <s>잔뜩 발갛게 부어오른 손과</s>
+            <s>반쯤 남은 부서진 사탕들이고</s>
+            <s>내게 온전히 남은 건 없지만</s>
+            <s>난 또 다시 둘 중 어느 것도 놓지를 못한다</s>
+        </p>
+    </text>
+</SJML>

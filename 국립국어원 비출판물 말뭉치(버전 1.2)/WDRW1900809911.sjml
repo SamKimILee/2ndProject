@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900809911</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기술의 변화</title>
+            <author id="P09911" age="59" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">황금연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_기술 변화">
+        <p>피해갈수 없는 기술의 변화앞에 우리는 어떻게 적응하며 살아가야할까 끊없는 배움으로 쫒아가야 하는데 그 배움을 멀리할땐 사회의 주변인이 된다 어울려 생활하는것이 아닌 멀찌감치 떨어져 쳐다만 봐야하는 관망인이 된다</p>
+    </text>
+</SJML>

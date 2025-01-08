@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302867</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 기록</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>경서기</title>
+            <author id="P02867" age="52" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_경서기">
+        <p>경서기 글자체의 가장 큰 특징은 필사체의 형태를 띠는 것이라고 할 수 있으며, 위에 나열한 특징들 역시 많은 부분이 경서기에 나타나기 시작한 ‘붓글씨의 흔적’에서 기인한 것으로 보인다. 또한 낱자들의 형태적인 변화나 받침의 이동, 닿자와 홀자의 너비 변화로 인한 다양한 글자틀의 등장과 같은 구조적인 변화를 관찰할 수 있다는 점에서 경서기의 글자체는 이전의 기하학적인 형태의 한글에서 벗어나 현대에 사용하는 한글의 형태에 가까워지기 시작한 시기라고 생각한다.</p>
+    </text>
+</SJML>

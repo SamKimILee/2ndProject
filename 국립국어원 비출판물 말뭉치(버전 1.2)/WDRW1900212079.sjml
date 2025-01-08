@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>죽음이란 살아있는 것과 어떻게 다를까?</title>
+            <author id="P12079" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190519" subclass="null_죽음행복">
+        <p>제목 : 죽음이란. 살아있는 것과 어떻게 다를까?</p>
+        <p>죽음이란 것을 진지하게 생각해보았다. 죽으면</p>
+        <p>어떻게 될까? 죽으면 모든 것에 끝일까?</p>
+        <p>이번에 학원 형의 동생의 친구가 죽었다고 한다.</p>
+        <p>그래서 나도 죽음에 대해 상상해 보았다. 내가</p>
+        <p>가족을 보지 못하고 영원히 존재가 없다면...</p>
+        <p>이렇게 죽음을 생각하면 죽고싶지 않고 슬프다.</p>
+        <p>하지만 내가 살아있다는 걸 생각하니 멋진</p>
+        <p>기분이 든다. 그러니 우리는 우리의 인생에 감사하고 인생을 열심히 살아가야 한다.</p>
+        <p>그리고 죽는다고 끝이 아닐 수도 있다!</p>
+        <p>죽은 곳에서는 서로서로 미워하지 않고 행복할 것이다하고 생각하면 근사한 기분이다.</p>
+        <p>그래도 난 죽어도 행복을 잊지 않고 싶다.</p>
+        <p>그러므로 우리는 인생 하루하루에서 행복을 찾아야한다.</p>
+    </text>
+</SJML>

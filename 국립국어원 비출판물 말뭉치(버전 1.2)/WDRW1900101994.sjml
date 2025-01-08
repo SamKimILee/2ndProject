@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101994</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>막국수</title>
+            <author id="P01994" age="9" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="19990000" subclass="null_막국수">
+        <p>&name1&이 가족, 우리 가족이 같이 근처 식당으로 갔다. 아저씨께서 막국수를 시키셨다.</p>
+        <p>국수가 나왔다. 검은 면에 야채들이 있는데 거기에 무슨 국물과 식초를 막 뿌렸다. 먹어 보니 시큼시큼하며 맛없었다.</p>
+        <p>너무 먹기 싫은 나머지 조금 집어 엄마 안 볼 때 몰래 놔두었다. 이렇게 계속 반복하니 곧 그릇 바닥이 드러났다. 막국수와의 대결이 끔찍했다. '내가 앞으로 막국수 먹나 봐라'</p>
+    </text>
+</SJML>

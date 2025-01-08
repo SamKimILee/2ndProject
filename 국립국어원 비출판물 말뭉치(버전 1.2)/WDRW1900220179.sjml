@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220179</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그시절</title>
+            <author id="P20179" age="17" occupation="고등학생" sex="M" submission="오프라인" handwriting="No">이지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_그리움">
+        <p>
+            <s>그시절 &name1&</s>
+        </p>
+        <p>
+            <s>뒷산 가서 여기저기 뛰어놀고</s>
+            <s>아래 개울 가서 물놀이하고</s>
+            <s>아무 생각 없이 뛰어놀던 그 시절</s>
+            <s>그 시절이 그립다</s>
+        </p>
+        <p>
+            <s>비 오는 날 교실 창문을 두드리는 빗소리가 좋았던</s>
+            <s>그 시절이 그립다.</s>
+        </p>
+        <p>
+            <s>네모난 달력의 나의 모든 것을 가두어 두고</s>
+            <s>하루하루 반복되는 일상 속에서 무뎌지는 나 자신이 가엽다</s>
+        </p>
+        <p>
+            <s>그리운 그 시절 떠올리며</s>
+            <s>미래의 희망을 찾으려 눈을 감는다.</s>
+        </p>
+    </text>
+</SJML>

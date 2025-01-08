@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111608</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍  링링</title>
+            <author id="P11608" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤승원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_태풍">
+        <p>우리나라에 태풍이 왔다. 태풍이 오기전 유리창이 깨질까봐 겁을 먹었다. 집에 있으니 답답했다. 그래서 위게임을 했다. 탁구도하고 볼링도 하고 마리오도하고 위보드에 올라가 스케이트 게임을했다. 그만할시간이 됐다 정리를 하고 있는데 걱정했던 겁이사라졌다 내가 이렇게 말했다. 태풍 별거 아니 구먼~</p>
+    </text>
+</SJML>

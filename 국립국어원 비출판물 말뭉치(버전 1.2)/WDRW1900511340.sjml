@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511340</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빙글빙글 초밥</title>
+            <author id="P11340" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">송채은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_초밥">
+        <p>우리가족과 함께 초밥을 먹으러 초밥집에 갔다. 초밥집에는 내가 생각했던 초밥보다 더많은 초밥들이 있었다. 그런대 신기하게 초밥들이 빙빙 돌고 있었다. 내가먹은 초밥을 세어보니 다섯접시를 먹었다. 동생은 한 개만먹었다. 엄마는 초밥을 잘 먹는다그 칭찬해 주셨다.</p>
+    </text>
+</SJML>

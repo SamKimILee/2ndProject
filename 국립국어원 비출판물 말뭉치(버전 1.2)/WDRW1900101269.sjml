@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>봄바람</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_봄바람">
+        <p>
+            <s>바람이 분다</s>
+            <s>삭막한 저 하늘에도</s>
+            <s>메마른 이 마음에도</s>
+        </p>
+        <p>
+            <s>이미 와버린 봄을</s>
+            <s>도로 내쫓기라도 하려는지</s>
+            <s>매섭게도 분다</s>
+        </p>
+        <p>
+            <s>바람이여</s>
+            <s>그리 하려거든</s>
+            <s>꽃잎도 함께 날려주오</s>
+        </p>
+    </text>
+</SJML>

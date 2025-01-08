@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412381</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학예회</title>
+            <author id="P12381" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">백서희</author>
+        </sourceInfo>
+    </header>
+    <text date="20181204" subclass="null_학예회">
+        <p>오늘은 학예회를 했다. 학예회를 하기전앤 마음이 설레었지만 무대위에 올라가서는 부끄럽고 긴장되었다.</p>
+        <p>학예를 마치고 엄마아빠가 꽃다발을 주었다. 예쁘고 기분이 좋았다.</p>
+        <p>다음에 또하고싶다.</p>
+    </text>
+</SJML>

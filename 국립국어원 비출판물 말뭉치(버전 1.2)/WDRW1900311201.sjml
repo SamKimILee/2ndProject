@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감바스</title>
+            <author id="P11201" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권묘정</author>
+        </sourceInfo>
+    </header>
+    <text date="20200212" subclass="null_감바스">
+        <p>( 감바스 )</p>
+        <p>아빠가감바스라는요리를하다.근데느기하고, 짜다. 그레도 아빠안테 말하면 속상할까바 말은안 했다. 그리고 그냥맛있다고말했다. 어떤해냐면 “처음으로치곤 잘하고, 맛있어”라고말이다. 그레도 맛있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210873</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을 맞이</title>
+            <author id="P10873" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_가을">
+        <p>
+            <s>가을이 좋은 이유는 그 순간이 잠깐으로 흘러가기 때문일까. 조금씩 겨울향이 묻어나는 바람을 맞으면 괜스레 볼이 시려 온다.</s>
+        </p>
+        <p>
+            <s>가을이란 그 계절에 나는, 그 스쳐가는 계절에 나는.</s>
+            <s>다시 돌아올 뜨거움을 기다리며 다가오는 한기를 받아 들이겠지.</s>
+        </p>
+    </text>
+</SJML>

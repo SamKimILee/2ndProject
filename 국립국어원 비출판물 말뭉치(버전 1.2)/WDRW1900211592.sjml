@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211592</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠랑 두 발 자전거 도전 한 날</title>
+            <author id="P11592" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">남주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200118" subclass="null_두 발 자전거">
+        <p>제목: 아빠랑 두발자전거 도전 한날</p>
+        <p>나는 금요일에 아빠에게 두발자전거 연습을 토요일에 해달라고 부탁했다. 연습이 그리 쉽진 않았다. 넘어지고 또 넘어지고 또 넘어졌다. 아욱. 아파. 아빠는 중심을 잡고 다리를 내려서 두 발로 힘껏 세개 밀으라고 했다. 하지만 나한테는 그게 힘들다. ㅠㅜ 나는 생각했다.  ‘아, 갈 길이 참 멀구나.’... 앞으론 한달은 연습해야겠다.</p>
+    </text>
+</SJML>

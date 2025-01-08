@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901211597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우유</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_우유">
+        <p>
+            <s>우유</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>우유를</s>
+            <s>마시고</s>
+        </p>
+        <p>
+            <s>우유 갑이</s>
+            <s>남으면</s>
+            <s>잘라서</s>
+        </p>
+        <p>
+            <s>배도만들고</s>
+            <s>인형집</s>
+            <s>연필통도</s>
+            <s>된다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>볼링장</title>
+            <author id="P10570" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김아인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191230" subclass="null_볼링">
+        <p>볼링장에 갔다 처음으로 볼링을 했다. 나 랑누나는 6번공, 엄마는 8번 공, 아빠는 8,9,10번 공을 굴렸다. 스페어를 해서 좋았다. 학교에서VR로 했던볼링 보다 재미 있었다. 던지는 자세가 달랐다.아빠는 어떻게 이렇게 잘 하는지 몰르겠다.엄마는왜손을올리고 가는지모르겠다.엄마하태일점차이로 졌다.</p>
+    </text>
+</SJML>

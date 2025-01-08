@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312639</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>배</title>
+            <author id="P12639" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">신채은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200112" subclass="null_탐험">
+        <p>1월 12일 일요일</p>
+        <p>날씨 : 와우!~</p>
+        <p>제목: 배~(이~진짜!ㅋㅋㅋ)</p>
+        <p>아빠가 나를 깨웠다.</p>
+        <p>그때는(5시 )였다. 나는너무졸렸다. 왜깨워냐하면?</p>
+        <p>배를아침부터 점심까지</p>
+        <p>인레 호수에서 &lt;&lt;배&gt;&gt;을타고 탐험을 떠났다. 해뜨는 것 보소원도 빌어다.</p>
+        <p>목긴사람 빠다웅족밨다.</p>
+        <p>그리고 파오다밨다.</p>
+        <p>정말 재미있었던 하루였다.</p>
+    </text>
+</SJML>

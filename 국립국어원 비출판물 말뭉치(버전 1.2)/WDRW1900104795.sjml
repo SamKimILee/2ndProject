@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104795</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>8월 6일 일기</title>
+            <author id="P04795" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">나보은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_월요일">
+        <p>월요일은 대학생이 된 이후로 두렵지 않게 되었다.</p>
+        <p>대학도 공강에, 알바도 휴일.. 그래서 난 오히려 월요일을 좋아한다.</p>
+        <p>물론 주말에 비할바는 못 되지만, 뭐.. 생각하기 나름이다.</p>
+        <p>맞다! 오늘은 비가 왔다. 정말 사소한 이야기지만 그 덕분에 시원해졌으니 좋다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901011696</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시장놀이</title>
+            <author id="P11696" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최은민</author>
+        </sourceInfo>
+    </header>
+    <text date="201907012" subclass="null_시장놀이">
+        <p>시장놀이</p>
+        <p>신나는 시장놀이를 했다. 물건 사고파는게재미있었다. 나는 1800원을 벌었다. 진짜 부자가 되고 또 꿈도 이루고 싶다.</p>
+    </text>
+</SJML>

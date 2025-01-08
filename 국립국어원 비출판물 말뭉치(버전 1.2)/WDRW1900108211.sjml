@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900108211</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무기력증</title>
+            <author id="P08211" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이가영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_무기력증">
+        <p>요즘은 꿈을 꿔도 무슨 꿈을 꿨었는지 기억이 안 나고 멍하니 일어난다. 재밌고 행복한 꿈을 꿀 때면 즐겁게 일어나기도 하고 일어나서 꿈을 곱씹으며 의미도 생각해보고 일기에 적기도 한다. 또 다시 자야지 하면서 다시 꾸려고 노력도 해본다. 요즘은 몸이 많이 피곤한가보다 아무것도 기억이 나지 않는다. 몸이 물먹은 솜마냥 축축 쳐지고 기운이 없다. 머릿속에는 더러운 콧물이 가득 찬 느낌이다. 무기력증에 걸린 것 마냥 아무런 의지도 활력도 없다.</p>
+    </text>
+</SJML>

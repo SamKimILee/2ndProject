@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일축하해</title>
+            <author id="P02531" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_생일">
+        <p>24번째 생일 너무너무 축하해!! 내가 네 생일 날 함께 하진 못했지만 너의 소중한 사람들에게 많은 축하를 받으며 행복해 하는 널 보니까  나까지 행복했어. 네가 24번째 생일을 맞이하는 동안 우리가 함께 보낸 시간은 길지 않지만 앞으로 24년보다 훨씬 더 오랜 시간을 함께 보내고 오래 기억 할거니까, 부디 아프지 말고 항상 건강해줘. 네가 어떤 길을 걷든 나는 너의 마지막까지 함께 할게. 언제 어디에 있든, 나는 너의 존재만으로도 행복한 사람이니까 너는 내 행복도 다 가져갈 만큼 항상 행복했으면 좋겠다. 오래 보자!</p>
+    </text>
+</SJML>

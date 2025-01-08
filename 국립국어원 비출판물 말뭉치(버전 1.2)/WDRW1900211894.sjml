@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211894</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>군인아저씨께</title>
+            <author id="P11894" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_군인아저씨">
+        <p>돌아가신 군인아저씨게편지</p>
+        <p>돌아가신군인아저씨께</p>
+        <p>안녕하세요저는 아 인 초등학교에다니는3학년4반&name1&입니다. 먼저우리나라를지켜주셔서감사합니다. 통일을하면좋은데아쉽게도돌아가셨네요</p>
+        <p>슬프지만제가우리나라를 아끼고소중하게여길게요</p>
+        <p>고맙습니다</p>
+        <p>잊지않을게요</p>
+        <p>&name1&올림</p>
+    </text>
+</SJML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900509871</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안내면 진다 가위바위보</title>
+            <author id="P09871" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_가위바위보">
+        <p>가위바위보</p>
+        <p>안내면 진다 가위바위보</p>
+        <p>참새 이겼네</p>
+        <p>안내면 진다 가위바위보</p>
+        <p>참새 이겼네</p>
+        <p>참새야 한번 만 더</p>
+        <p>까마귀 말하네</p>
+        <p>가위바위보</p>
+        <p>참새 이겼네</p>
+        <p>까마귀 말하네</p>
+        <p>어차피 계속지네!</p>
+    </text>
+</SJML>

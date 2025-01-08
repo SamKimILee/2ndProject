@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211954</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>집에 피아노를 설치 했던날</title>
+            <author id="P11954" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최우성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_피아노">
+        <p>오늘 로켓배송에서 피아노를 샀다. 피아노를 설치할 때 어떤 아저씨 두명이 와서 피아노를 조립해주셨다. 피아노에는 패달, 검반이 잘 맞아야 고운 소리가 난다. 패달이 이상했다. 왜냐하면 패달을 밟으면 고운 소리가 나야 되는데 안나서 슬펐다. 엄마가 다시 전화해서 다행히 고쳤다. 다행이였다. 피아노를 쳤는데 고운 소리가 나와서 기분이 좋았다. 신기하게도 뭘 누르면 피아노의고운 소리가 나왔다. 피아노를 사니 정말 기뻤다.</p>
+    </text>
+</SJML>

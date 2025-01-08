@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900802397</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 천사</title>
+            <author id="P02397" age="19" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고양이">
+        <p>우리집 천사야</p>
+        <p>아침에도 밥달라 야옹</p>
+        <p>눈만 마주쳐도 그릉그릉</p>
+        <p>놀아달라고 야옹</p>
+        <p>너는 항상 사랑스러운</p>
+        <p>세상에 하나뿐인 천사</p>
+        <p>따스운 전기장판도</p>
+        <p>맛있는 간식도</p>
+        <p>재밌는 장난감도</p>
+        <p>부드러운 담요도</p>
+        <p>전부 너 줄게</p>
+        <p>아프지말고</p>
+        <p>먹고 놀고 자고 싸기만 하면되</p>
+        <p>사랑한다 천사야</p>
+    </text>
+</SJML>

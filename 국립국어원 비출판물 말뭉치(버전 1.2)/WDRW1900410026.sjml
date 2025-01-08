@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물통사망원인</title>
+            <author id="P10026" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신지율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_물통">
+        <p>오늘 학교를 마치고 &name1&랑 집에 가다가 복도에서 물통을 굴렸고 &name1&는 계단에서 한번 굴리고</p>
+        <p>&name1&는 한번만 더 한다고- 해서 시켜주었다. 또 한번만 더 라고 해서 막았고 &name1&는 굴려던 것도  막았다.</p>
+        <p>내가 한번만 해보았고 또 했다.</p>
+        <p>물통이 깨젔다.</p>
+    </text>
+</SJML>

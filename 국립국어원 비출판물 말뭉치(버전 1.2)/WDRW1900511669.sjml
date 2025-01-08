@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511669</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>멋진 발레공연</title>
+            <author id="P11669" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_발레공연">
+        <p>발레공연을 봤다. 참 멋진 발레공연이었다. 내 친구 가추는 공연이었다. 그런데 조금 무서웠다. 눈 위에가 파랗고, 노랗고, 분홍이었다. 입술도 엄청엄청 빨갔다. 나도 내년엔 할 건데 화장 때문에 겁난다. ‘화장 생각 지우자,’ 이 생각 도 많이 했지만, 마음대로 되지 않았다. 하지만 난 절대 포기하지 않을 거다. 난 내년에 도전!</p>
+    </text>
+</SJML>

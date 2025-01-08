@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312124</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>모기에게 협박편지 쓰기</title>
+            <author id="P12124" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김현빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20160112" subclass="null_모기">
+        <p>제목:모기에게 협박편지 쓰기</p>
+        <p>야! 이모기 놈아! 어디서 조그만 놈이 큰 사람을 괴롭혀!!아니면 너를 산채로 흙에 묻어 버릴 거야! 좀여름에 좀 나타나지마! 아으 간지러워.너때문에 간지러워 죽겠다! 또 나타나면 너의 날개를 부숴 주겠다. 알아 들었느냐? 모기야.여름에 너가싫어하는 냄새를 풍기고 다닐거야!</p>
+    </text>
+</SJML>

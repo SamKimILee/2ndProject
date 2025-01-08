@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412476</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>송도 축제 가다.</title>
+            <author id="P12476" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박주영</author>
+        </sourceInfo>
+    </header>
+    <text date="20191005" subclass="null_체험">
+        <p>갈때는 &name1&이네,&name2&이네, &name3&이네, 내집가족(아빠빼고)같이축제에 갔다.</p>
+        <p>거기에는 엄청많은 사람이 있었다.</p>
+        <p>&name4&이도 만나고 에코빽도 만들고 즐겁게 놀았다. 여러 체엄을 하고 놀면서손이 무거워졌는데 바닷가가 보이는벤치에서 &name5&이(내동생)과 &name6&이가 노는 걸보고 나와 &name1&도놀았는데동생들은 갔을때...</p>
+        <p>완벽히젖어서 엄마가 살짝혼냈다...</p>
+        <p>난 다리무릎위까지만 걷고 놀았다. &name1&이는 바지,옷(살짝)젖었고 난다리, 옷 살짝 젖었다.</p>
+        <p>엄청~나게 놀았다. &name6&이도 묻어서 모래인간이 될정도!ㅎㅎ 정말 재미있었다.</p>
+        <p>끝나고서&name5&이와나는 박박 씻었다.</p>
+        <p>&name5&이는 집와서 재빠르게 씼었다...</p>
+        <p>재미있었다.</p>
+    </text>
+</SJML>

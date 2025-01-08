@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202759</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 집</title>
+            <author id="P02759" age="6" occupation="고등학생" sex="F" submission="온라인" handwriting="No">신예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20100000" subclass="null_집">
+        <p>
+            <s>우리집에는 없는게 없어요</s>
+            <s>우리집에는요</s>
+            <s>삐꾸도 있고요</s>
+            <s>뽀로도 있고요</s>
+            <s>인형도 아주 많고요</s>
+            <s>접시도 많고요</s>
+            <s>빨래도 옷도 많아요</s>
+            <s>나도 있고요</s>
+            <s>우리 엄마아빠도 있어요</s>
+            <s>우리집에는 없는게 없어요</s>
+            <s>우리 가족은 모두 행복해요</s>
+        </p>
+    </text>
+</SJML>

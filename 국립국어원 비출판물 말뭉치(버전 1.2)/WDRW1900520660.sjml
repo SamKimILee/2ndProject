@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520660</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>회상</title>
+            <author id="P20660" age="16" occupation="고등학생" sex="F" submission="오프라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_감정">
+        <p>제목: 회상</p>
+        <p>아름다운 추억은 괴로운 오늘을 견디게 해준다. 후회와 회상은 똑같이 과거를 돌아보는 것이지만 전혀 다른 감정을 가져다 준다.</p>
+        <p>나의 아름다웠던 중학교 1학년 때 따스하게 비친 햇살에 빛나던 그 사람의 머리칼과 나를 보며 웃어주던 그 미소는 중1 나의 겨울방학을 살게 해주는 추억이 되었지만 어느새 비웃음과 경멸의 눈빛으로 바뀌어 오늘의 나를 죽이는 기억이 되었다.</p>
+        <p>왠지 모르게 울적한 기분이 들 때면 아름다운 추억의 주머니를 뒤지지만 모두 검은 색으로 물들어있어 회상의 시도는 후회의 결말을 맞이하고 나는 나의 생각을 죽여간다. 돌아보는 것은 나의 유일한 치료제인줄 알았는데 독약이었다. 또 생각을 죽인다.</p>
+        <p>회상으로부터 회피한다. 아군을 피해 달려가는 이유는 나에게 아군이 있을 리 없기 때문에.</p>
+    </text>
+</SJML>

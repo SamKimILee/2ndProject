@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105380</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울늪</title>
+            <author id="P05380" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">남지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="서울">
+        <p>나는 태어나서 단 한번도 서울에서 살아본 적이 없다. 내 고향은 서울에서 조금 떨어진 인천이다. 게다가, 나의 소속 학교는 경남 쪽에 위치해있기 때문에 '서울'이라는 도시는 더욱 멀게만 느껴졌다. 그럼에도 불구하고 서울은 내게 있어 꿈의 도시 그 자체이다. 서울에만 있는 공연장, 서울에만 있는 카페와 식당, 서울에만 있는 쇼핑몰... 그 모든 것들이 나를 포함한 모두의 발길을 서울로 끌어들인다. 그리고 열광하게 한다. 모두가 맹목적으로 서울을 원하게끔 한다. 어디서부터 잘못된 것인지조차 모를만큼 정교하게 쌓인 '인프라 격차'의 탑은 오늘도 우리를 유혹한다. 그 어느 곳에도 안주하지 말라고. 서울에 자취를 남기기 위해 무엇이든 하라고.</p>
+    </text>
+</SJML>

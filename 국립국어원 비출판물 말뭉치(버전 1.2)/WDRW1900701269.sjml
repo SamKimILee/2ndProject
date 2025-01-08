@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900701269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>너와 별을 헤던 밤</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_너">
+        <p>
+            <s>너와 함께</s>
+            <s>수많은 별들을 헤었지만</s>
+            <s>나는 아직도 너를 모른다</s>
+            <s>별을 헤는 척 너를 힐끔거렸음에도</s>
+            <s>그 밤하늘을 응시하는 까만 눈동자만</s>
+            <s>가슴속에 남을 뿐</s>
+        </p>
+        <p>
+            <s>너의 머릿속 깃드는 별이 무엇인지</s>
+            <s>나는 알 수 없었다</s>
+        </p>
+    </text>
+</SJML>

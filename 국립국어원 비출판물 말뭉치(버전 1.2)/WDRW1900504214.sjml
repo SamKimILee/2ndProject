@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900504214</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 단문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인간의 사랑</title>
+            <author id="P04214" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="인간">
+        <p>인간은 언젠가 사랑으로 자멸할 거다. 못 버티고 피를 토하며 죽거나, 어떤 이에게는 흔한 애정 한 줌 하나 받지 못하고 외로움에 목을 매다 또 죽겠지.</p>
+        <p>그렇게 넘쳐나는 사랑은 모두에게 독이 된다.</p>
+    </text>
+</SJML>

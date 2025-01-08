@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이스링크장</title>
+            <author id="P12201" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190818" subclass="null_아이스링크장">
+        <p>오늘 아이스링크장을 갔다 왔다. 교회 친구들이랑 갔다 왔다. 신발이 정말 트기하게셍겼다. 신발 밌태 칼이있고 서있기도 힘들었다. 그리고 거기는 너무 추웠고 미끌미끌 했다. 나는 서있지도 못했다. 재미있다.</p>
+    </text>
+</SJML>

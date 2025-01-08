@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611459</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>집안 치우기</title>
+            <author id="P11459" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20191118" subclass="null_가출">
+        <p>날짜: 11/18</p>
+        <p>제목: 집안치우기</p>
+        <p>지은이 : &name1&</p>
+        <p>생각및느낌</p>
+        <p>집을 치우기싫다고</p>
+        <p>집을 나가는건</p>
+        <p>아주위험하다는걸</p>
+        <p>알게되었다</p>
+        <p>왜?</p>
+        <p>가출을하면</p>
+        <p>먹을것도없고</p>
+        <p>놀것도없고</p>
+        <p>거지가 될것이다</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>쿠키 만들기</title>
+            <author id="P10493" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_쿠키 만들기">
+        <p>난 어제 쿠키를 만들었다 펭수도만들 었다 크리스마스 쿠키 도 만들 었다 전자레인지 에구 어야 하는데 몇(분초) 를 몰라서 후라이팬에 구었다 만이 먹지는 안았다 그다음날 에 만이 먹어다 빨리 만이 먹고싶어는 데 그만 먹으라고햇 다쓸거없는 쓸거없슴쓸거었음쓰고</p>
+    </text>
+</SJML>

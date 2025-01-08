@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412271</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>보라매 공원</title>
+            <author id="P12271" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김도연</author>
+        </sourceInfo>
+    </header>
+    <text date="20191221" subclass="null_보라매 공원">
+        <p>보라매 공원</p>
+        <p>2019년 12월 21일 토요일</p>
+        <p>어두은 밤</p>
+        <p>오후 5시에 보라매 공원에 갔다. 공원에서는 불빛이 반짝반짝거리고 있었다. 우리는 매년 12월달 마다 보라매 공원에서 불빛이 켜진다. 그래서 12월달 마다 보라매 공원에 간다. 별도있고 땅에 떨어진 별도 있었다. 장미꽃이 반짝반짝 빛났다. 그래서 좋았다.</p>
+    </text>
+</SJML>

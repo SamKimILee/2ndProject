@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404933</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>돈까스집</title>
+            <author id="P04933" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_돈가스">
+        <p>친구가 비싼 돈 주고 사준 돈까스가 진짜 유명한 집이었는데 홍대에서 먹었던 돈까스집이 훨씬 더 맛있었어서, 사주는 친구에게 큰 리엑션을 못 보여준 것 같아 미안했다. 하지만 등심과 안심중에 등심쪽이 너무 맛이 퍽퍽해서 그냥 평범한 돈까스 같았고 소스도 특별할 것 없는 느낌이라.... 꼭 다음에 친구 데리고 홍대가서 먹자고 할 것이다.</p>
+    </text>
+</SJML>

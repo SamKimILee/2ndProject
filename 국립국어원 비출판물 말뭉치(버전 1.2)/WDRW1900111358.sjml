@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111358</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가  만든 과일 주스 젤리 아이스크림 </title>
+            <author id="P11358" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강무찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아이스크림">
+        <p>오늘 나는 아이스크림을 만들었다. 내가 어떻게 만들었냐면 아이스크림통을 준비 하고 그다음에 사과쥬스를 넣고 젤리를 넣으면 완성!!!인제 냉동실에 약3시간 넣으면 끝!!!완성</p>
+        <p>난 엄청 맛있다고 생각했다.엄마도 맛있다고 했다. 과연맛은 새콤달콤이다.</p>
+    </text>
+</SJML>

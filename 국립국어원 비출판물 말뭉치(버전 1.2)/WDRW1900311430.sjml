@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311430</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우울증에게</title>
+            <author id="P11430" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">최효은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_우울증">
+        <p>안녕, 어느날 예상치 못하게 찾아온 우울증아.</p>
+        <p>처음에는 너 때문에 죽으려고 까지 했었는데 지금은 그럭저럭 너를 이해하고 공존 하는것 같아.</p>
+        <p>너를 만나서 비타민D도  꼬박꼬박 섭취하고 수면시간도 엄청늘렸어.</p>
+        <p>니가 없는 하루는 평범한 일상인데도 너무나 행복해서 평범한 하루의 소중함도 알았어.</p>
+        <p>너를 만나기 전에는 너에대한 이야기는 그냥 남의 이야기고 나랑은 상관없다고 생각했는데 막상 겪어 보니 이제는 내가 직접 너에 대해 알아보기 까지해. 이제는 너에게서 벗어나려는 내 노력과 시간의 힘 덕분에 괜찮아 졌는데 부디 니가 다시 나에게 찾아오지 않길바라. 우리 여기서 제발 이별하자. 만약에 라도 다시 한번 나에게 찾아온다면 이번 보다 훨씬 더 적극적으로 너에게서 벗어나려 애쓸거야. 잘가. 나의 우울아.</p>
+    </text>
+</SJML>

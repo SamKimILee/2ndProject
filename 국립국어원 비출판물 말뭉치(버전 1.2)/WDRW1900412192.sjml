@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412192</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>청귤 따기 체험을 한 날</title>
+            <author id="P12192" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이용민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190912" subclass="null_감귤농장">
+        <p>&lt;청귤 따기 체험을 한 날&gt;</p>
+        <p>오늘은 제주도에 있는 감귤농장에 가서 청귤따기 체험을 했다. 청귤은 노란귤이 되기전 귤로 청을 담글 수 있는 귤이다. 청색 껍질을 까보면 노란귤이 나오는데 맛을 보면 새콤새콤하니 맛있었다.</p>
+        <p>&lt;사려니 숲에 갔다&gt;</p>
+        <p>오늘은 할머니,할아버지가 좋아하시는 숲체험을 했다. 삼나무라고 하는 엄청큰 나무가 많이 있었고 나무에 버섯포자랑 이끼가 많이 있었다. 숲은 시원했지만 올라가는게 힘들었다. 그때 엄마가 포켓몬GO 라는 게임을 해주시고, 내려 가는 길에 아빠가 목마를 태워 주셨다.</p>
+    </text>
+</SJML>

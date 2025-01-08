@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311524</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꽈당꽈당 날</title>
+            <author id="P11524" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이지윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200105" subclass="null_인라인 스케이트">
+        <p>제목: 꽈당 꽈당 날</p>
+        <p>언니랑 나는 인라인 스케이트를 탔다. 그런데 조금 타다가 바로 꽈당! 또 조금 있다가 꽈당 넘어졌다.엉덩이가 너무 아팠다.</p>
+        <p>나는 인라인스케이트는 잘타지만 넘어지면 일어나지를 못한다. 그래서 언니에게 도와달라고 했는데 들은 척도 안했다.</p>
+        <p>언니가 너무 짜증났다.</p>
+        <p>하지만 내가 혼자서 노력해서 일어났다. 화가 났지만 참았다. 내가 일어 나니까 언니가 잘했다고 칭찬을 해줬다. 그래서 기분이 좋아졌다. 다 타고 집에 오니 너무 피곤하고 졸렸다.</p>
+    </text>
+</SJML>

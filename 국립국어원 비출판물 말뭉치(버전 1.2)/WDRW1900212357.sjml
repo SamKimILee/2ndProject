@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212357</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미래일기</title>
+            <author id="P12357" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강영서</author>
+        </sourceInfo>
+    </header>
+    <text date="20190602" subclass="null_바램">
+        <p>미래일기</p>
+        <p>5:00에눈을 뜬다.그러고선 영어공부를 한다.그리고 여유롭게 중학교로 간다 8:20분에 학생들이 오면 영어 진도를 어느정도 나가면 시험을 본다. 내가기대하는 점수는 80점밖이다.그리고 쉬는시간에는 나도 쉰다. 다음 영어공부는 해리포터 책을 차근차근 수업을 한다. 오늘 하루도 열심히 학생들을 가르쳤으니까 집에가서 영어공부를 조금하다 자야겠다. 다음날 오늘은 시험결과를 발표하는날, 이럴수가  1명만 100점이내 "얘들아 합격자를 발표하겠습니다. ○○이만 1등이네 그래도 99점도 잘한거야. 이제  어제 읽었던 해리포터책을 마저 읽을게요. This is a harry pother airplane 을 공책에 5번씩쓰도록 하세요."</p>
+        <p>"앗차! 틀린문제는   일기에 적도록 하자."</p>
+        <p>쉬는시간에 커피를 먹으면서 하와이에 온것처럼 달콤하게 쉬어야겠다.</p>
+    </text>
+</SJML>

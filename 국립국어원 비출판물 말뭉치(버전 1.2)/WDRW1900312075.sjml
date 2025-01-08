@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312075</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>최고의 만찬</title>
+            <author id="P12075" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191116" subclass="null_양꼬치">
+        <p>제목: 최고의 만찬</p>
+        <p>수능 담당자 이셨던 엄마와 시험 지옥에서 벗어난 나를 기념해 양꼬치를 먹으러갔다.</p>
+        <p>내 기억으로는 양꼬치를 먹은 적이 없는것 같았다.</p>
+        <p>생애 첫 양꼬치를 먹은 순간, 입안에서는 파티가 열리고, 고기가 입안에서 사르르녹았다.</p>
+        <p>사이다와 같이 먹으니 쌓여 있던 스트레스가 사삭 날아갔다. 나는 '이곳이야' 라고 생각하며 맛집 정보를 저장해 놨다. 또 볶음밥은 얼마나 맛있던지, 입안에서 행진이 열렸다. 진짜, 배가 터질 것같이 많이 먹었다. 생애 첫 양꼬치 대만족이 이었다. 나는 7꼬치나 먹었다.</p>
+        <p>다음에 오면 10꼬치를 먹어야 겠다고 생각했다.</p>
+    </text>
+</SJML>

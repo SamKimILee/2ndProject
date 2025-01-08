@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412371</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>폭포비</title>
+            <author id="P12371" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강선우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_비">
+        <p>오늘 폭포 같은 비가 내렸다. 우산 바깥으로 손을 내밀어 보았다. 거의 일초에 열 방울이 떨어지는것 같았다. 나는 생각해 보았다. 왜, 비는 내리는 걸까</p>
+        <p>난 처음에 하느님의 오줌인줄 알았다. 학교 가방 보니 가방이 흠뻑 젖어있었다. 나는 비가 싫다!“</p>
+        <p>물론 좋은점도 있다. 뭐냐면 비가오면 달팽이와 개구리를 볼수 있기 때문이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112202</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>평창동 에서</title>
+            <author id="P12202" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200125" subclass="null_설날">
+        <p>날짜: 2020.1.25 날씨:너무 추워서 몸이 얼 것 같은 날</p>
+        <p>제목: 평창동에서</p>
+        <p>오늘은 설날이다 떡국먹고 한 살더 먹는날.차를 타고 1시간 30분 거희 2시간 정도 가서 평창동에 간다. 평창동에는 어른 고양이 한 마리가 있다 작년에는 수수깡 만했는데 이젠 내 팔길이다. 처음엔 너무 눈이커서 좀 무서웠지만 지금은 아니다. 한 살 더먹어야 하니까 떡국을 먹어야하는데 아쉽게 떡국대신 전을 먹었다 그리고 사촌 언니가 우리 에게 초밥모양 지우게를 주었다.</p>
+    </text>
+</SJML>

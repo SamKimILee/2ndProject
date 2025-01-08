@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>알림</title>
+            <author id="P11355" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">홍지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_당신">
+        <p>
+            <s>내가 이 글을 당신에게 보내면</s>
+            <s>소리가 되어 전해질까요</s>
+            <s>기계의 울림에</s>
+            <s>당신도 나처럼 설레일까요</s>
+            <s>보지 않는 척</s>
+            <s>내 글이 오기를</s>
+            <s>나처럼 하염없이 기다릴까요?</s>
+            <s>오늘도 그대는 조용합니다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209923</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>풍선바이러스</title>
+            <author id="P09923" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_풍선 바이러스">
+        <p>풍선 바이러스에걸리면 좋기도 하고 안좋기도 할 것 같습니다. 왜냐면 좋은건날아다닐수 있고 싫은 건 너무 많니 웃 어서 지구 밖으로 날라가 버릴것 같아서입니다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301151</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2019년 마지말 날을 준비하는 날의 일기</title>
+            <author id="P01151" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이소희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="나">
+        <p>2019년 12월 30일  월요일</p>
+        <p>오늘은 30일이다. 2019년이 하루 남았다. 내일은 2019년의 마지막날.  22살 &name1&의 마지막 날이다.</p>
+        <p>또한 엑소를 만나는날. 섭섭하고 기대되는 날이다</p>
+        <p>축하해 &name1&야 이젠 23살이네 내일은 엑소를 보는 날이니까 오늘 미리 2019년을 정리하고 2020년을 맞아보자</p>
+        <p>23살의 난 지금의 나보다 발전할거야</p>
+        <p>오늘보다 내일 더 좋은 사람되 되고</p>
+        <p>매일 성장하는 사람이 되고</p>
+        <p>누구에게나 선한 사람이 되자</p>
+        <p>약자의 편에 설수 있는 사람이 되어</p>
+        <p>사람들에게 힘이 되는 사람이 되자</p>
+        <p>이 말은 23살 뿐만아니라 내가 살아가는 모든날의 내가 되어야 할거야</p>
+        <p>이 마음 변치말고 가져가</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201563</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무거운 날</title>
+            <author id="P01563" age="26" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">김정민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="현실">
+        <p>나이가 들어갈수록 가장 와닿는 현실은 돈이었다. 철 없는 대학생때 까지는 아무 걱정 없이 용돈이나 받으며 사치를 부리고, 놀러다니는 일상이 나의 전부였다. 하지만 집안이 무너지고, 경제 능력이 있는 것은 나 혼자. 모든것을 혼자 감당하기에는 너무나도 벅찬 하루하루. 매일 무겁고 무서운 날이다. 사실은 부러워. 능력 있는 부모 밑에서  평안한 삶을 살 수 있다는 것도, 실패를 딛고 다시 일어설 수 있는 것도 모두 여유가 있어야한다. 금전의 여유가 없는 사람에겐 실패조차 용납되지 않는다. 실패는 곧 재기할 수 없는 인생의 나락이니까.</p>
+    </text>
+</SJML>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110427</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2월의 아침</title>
+            <author id="P10427" age="58" occupation="무직" sex="M" submission="온라인" handwriting="No">함동석</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_통근 열차">
+        <p>
+            <s>아침 일곱 시 사십분 평야를 가르는 통근열차는</s>
+            <s>두 점 사이를 잇는 선분처럼 일직선을 긋는다.</s>
+        </p>
+        <p>
+            <s>들판과 낮은 구릉은 맵쌀가루 같은 서리를 덮고</s>
+            <s>면사포처럼 엷은 안개를 껴안은 채 동면에서 깨어나지 않고 있다.</s>
+        </p>
+        <p>
+            <s>문득 창백한 형광 빛이 스러지면서</s>
+            <s>주활색 눈부신 빛줄기가 실내를 압도한다.</s>
+        </p>
+        <p>
+            <s>동면을 깨우는 듯 현란한 알람소리가 울리자마자</s>
+            <s>나도 모르게 두 눈이 찡그려 진다.</s>
+        </p>
+        <p>
+            <s>방금 떠오른 햇살이</s>
+            <s>왼쪽 창문 열시 방향에서 쏘아 오는 것으로 보아</s>
+            <s>열차의 진행 방향은 거의 정남향임에 틀림없다.</s>
+        </p>
+        <p>
+            <s>나는 눈을 감은 채 눕힌 의자에 비스듬히 누워있고</s>
+            <s>대지는 아직 누운 채 막 잠에서 깨어나고 있는지도 모른다.</s>
+        </p>
+    </text>
+</SJML>

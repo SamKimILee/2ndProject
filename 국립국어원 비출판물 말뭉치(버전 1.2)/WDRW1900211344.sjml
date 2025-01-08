@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211344</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사필귀정</title>
+            <author id="P11344" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이솔하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="대화">
+        <p>대화 속에서 들어나는것은 자신의 생각이라고 하였다. 최근들어 sns의 활동이 활발해지면서 익명성을 무기로 타인에 대한 험담을 내놓는 자들이 많아졌다. 이 자들은 자신의 하는 말 하나하나에 자신의 신념과 생각이 있으면 언제가는 자신의 발언들이 자신을 향한 칼날이 되어 돌아올것임을 명심해야한다.</p>
+    </text>
+</SJML>

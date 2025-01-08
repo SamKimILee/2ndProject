@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511551</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할로윈파티</title>
+            <author id="P11551" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조서영</author>
+        </sourceInfo>
+    </header>
+    <text date="20191101" subclass="null_할로윈파티">
+        <p>오늘 영어학원에서 하는 할로윈파티에 갔다.</p>
+        <p>할로윈 파티에서나는 파란팀이였다.</p>
+        <p>1번째 게임은 해골조각 맞추기였는데 우리팀이 이겼고, 2번째 게임은 판뒤집기 였다. 그래서 또 우리 팀이 이겻고 3번째는 사탕가져 오기를했다. 그리고 탈쓴인형이 우리를 웃겨줘서 좋았지만 탈을 오래쓰고있어서 너무힘들었을 것 같다.</p>
+    </text>
+</SJML>

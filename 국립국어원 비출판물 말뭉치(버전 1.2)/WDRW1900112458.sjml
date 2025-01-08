@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112458</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년 2월 26일(수)</title>
+            <author id="P12458" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200226" subclass="null_코로나">
+        <p>&name1&</p>
+        <p>2020년 2월26일 (수)</p>
+        <p>오늘 미술안갔다. 코로나떼문에 못 갔다. 그래서 집에서 게임 했다. 티비도 봤다 재밌었다. 배그도 했 다. 브롤스타즈 도 했다. 이것 저것 다~~ 재 밌 다.</p>
+    </text>
+</SJML>

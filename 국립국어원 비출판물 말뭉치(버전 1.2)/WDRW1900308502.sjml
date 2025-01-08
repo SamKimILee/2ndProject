@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900308502</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>회상</title>
+            <author id="P08502" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">박주연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_회상">
+        <p>가슴이 먹먹해지는 이 감정의 정체를 도통 모르겠다. 매년 여름 밤이면 이런 기분이 들곤 한다. 바람이 선선히 부는 날이나 에어컨을 틀어둔 시원한 집에 들어올 때면. 옛 애인과의 기억이 떠오르기도 하고, 지나간 인연들과의 추억이 떠오르기도 한다. 현재에 살면서 과거를 바라보며 보이지 않는 눈물을 흘린다. 모르겠다. 정리가 안 돼서 뭐라 적지도 못하겠다. 왜이렇게 가슴이 먹먹한지 모르겠다. 금방이라도 눈물이 터져나올 듯이 답답하고 무언가 꽉 막힌 기분이 든다. 그립다. 돌아가고 싶다. 보고 싶다. 함께 이야기를 나누고 싶다. 이 현재에서 벗어나 그리운 과거로, 빛났던 시간으로 돌아가고 싶다</p>
+    </text>
+</SJML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212206</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생생 역사 수업</title>
+            <author id="P12206" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">황준기</author>
+        </sourceInfo>
+    </header>
+    <text date="20200113" subclass="null_역사 수업">
+        <p>오늘은 생생역사 수업을 들었다.</p>
+        <p>13일에는 아빠와같이 갔다. 13일 날엔</p>
+        <p>4.19 혁명을 배웠다. 4.19혁명은</p>
+        <p>민주주의를 주고 자유를 달라는 혁명이다.</p>
+        <p>그일로 이승만 대통령이 물러간 날이다.</p>
+        <p>그리고 만화도 만들었다.(고바우영감)</p>
+        <p>14일에는 박정희가 군사 쿠테타</p>
+        <p>를몰고 독재를 했지만 김제규가</p>
+        <p>총으로 박정희를 죽여 최규하가 대통령이 됬다가 12.12에전두완이 다시한번</p>
+        <p>군사쿠테타를몰고와 전두완이</p>
+        <p>7년동안 대통령을했다는걸알았다.</p>
+        <p>그리고 &name1&형아 친구인 &name2&이 형 아와</p>
+        <p>같이밥을 먹고 미술관에서 설 명을 듣고</p>
+        <p>&name2&이형과 &name1&형은 학원을가고  나와엄마는</p>
+        <p>kt본사에있다가. 저녁을 먹고 또 다른수업을했다.</p>
+        <p>15일에는 6월 항쟁을 막으려고</p>
+        <p>했던 정부 때문에 최류탄을 맞고</p>
+        <p>죽은 이한열 열 사와 박종철열사가</p>
+        <p>죽었다는걸알았다.</p>
+    </text>
+</SJML>

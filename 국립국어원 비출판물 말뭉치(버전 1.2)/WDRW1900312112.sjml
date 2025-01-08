@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312112</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제주 워터서커스를본날</title>
+            <author id="P12112" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">배서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20180812" subclass="null_워터서커스">
+        <p>8월12일일요일(맑음.비조금)</p>
+        <p>제목:제주워터서커스를본날</p>
+        <p>오늘 제주워터 서커스를 봤다. 무대 위에서 분수가 나오고, 수영장으로 바꼈다.</p>
+        <p>공중서커스에서 떨어질겄 같아서 떨렸다.</p>
+        <p>워터서커스 에선 여자 사람이 남자사람바지를 벗겼다. 웃겼다. 여자사람이 붕붕이를 타고 뛰어들었다. 신기하고 스릴 넘쳤다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410294</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인생</title>
+            <author id="P10294" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="어렵다">
+        <p>인생 정말 어렵다</p>
+        <p>흔들리지 않는게 정말 중요한 것 같다</p>
+        <p>그런데 그게 정말 어렵다</p>
+        <p>말로는 뭐든 쉽다고 할 수 있다</p>
+        <p>말보다 쉬운게 어디있을까</p>
+        <p>인생이 말처럼 쉬웠으면 좋겠다</p>
+    </text>
+</SJML>

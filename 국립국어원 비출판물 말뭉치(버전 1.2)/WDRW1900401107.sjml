@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401107</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>흡연중에.2019</title>
+            <author id="P01107" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_담배">
+        <p>
+            <s>지독한 연기 앞에서 나는 다짐했다지</s>
+            <s>너처럼은 살지 말아야지</s>
+            <s>남을 위로한답시고 괴로운 말을 쏟아내지는 말아야지</s>
+            <s>스스로 타들어가며 바닥에 떨어지지는 말아야지</s>
+            <s>눈물 몇방울에 송두리째 젖지는 말아야지</s>
+            <s>핑거스냅 몇 번에 몸뚱아리가 아작나지는 말아야지</s>
+            <s>밑바닥에서 밟히진 말아야지</s>
+        </p>
+        <p>
+            <s>골목길에서 연기를 마주하며 한 다짐</s>
+        </p>
+        <p>
+            <s>아 언젠가는 연기처럼 사라져야지</s>
+            <s>누군가의 기억에도 남지 않고 잠시 머물렀다가는 춤사위로</s>
+            <s>그렇게 살다가야지</s>
+            <s>연기처럼</s>
+        </p>
+    </text>
+</SJML>

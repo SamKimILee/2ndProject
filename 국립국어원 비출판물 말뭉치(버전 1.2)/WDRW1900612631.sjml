@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612631</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>jumanji</title>
+            <author id="P12631" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_쥬만지">
+        <p>12월14일에 쥬만지를 봤다. 그리고 4D를 봤는데 의자가 흔들렸고 연기, 눈내려서 재미있었다. 그리고 오른쪽왼쪽에서 화면이 나와서 신기했다. 나도 반짝이는 보석을 갖고싶었다. 쥬만지 3편이 나왔으면 좋겠다.</p>
+    </text>
+</SJML>

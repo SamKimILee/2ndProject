@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303152</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물속의 대화</title>
+            <author id="P03152" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">석조원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="대화">
+        <p>물에 잠기게 설계된 다리가 있다. 그 다리에는 난간이 없다. 너와 나는 그 다리에 서서 서로를 본다. 대화를 하기 위해서다. 위로 솟은 너의 머리카락이 검은 불같다고 생각한다. 불에게 어둠이 있다면 저런 모양일 것이라고 추측한다. 네가 작은 입을 벌려 나를 부를 때, 소리보다 물방울이 먼저 온다. 내가 너를 부를 때도 그렇다. 그러니 우리는 결국 같은 말을 하는 것 같다. 돌림 노래 같다. 너는 내 앞에 정면으로 서 있는 그림자 같다. 그리고 그 그림자도 나와 같은 말을 한다.</p>
+    </text>
+</SJML>

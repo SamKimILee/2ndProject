@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112426</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사방치기를 한날</title>
+            <author id="P12426" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사방치기">
+        <p>난 오늘 시민 의 숲에서 사방치기를 했다.순서는 나,동생,엄마,아빠 이렇게 순서를 정했다.나는 8단계 까지 성공 해서 하늘까지 갔다.동생도 나랑 똑같이 하늘 까지 갔다.아빠는 7단계 엄마는 8단계 까지 그래서 최종 우승자는 나랑 동생이 됬다.다음에는 더 연습해서 더 잘하고 싶다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901010515</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어머니</title>
+            <author id="P10515" age="18" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이민진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="어머니">
+        <p>어머니는 이름을 싫어하셨다. 정확히는 자신의 이름을, 누구보다 싫어하셨다. 어머니는 아름다웠고 젊었다. 낯선 이가 이름을 물어보는 자신을 &name1& 라고 칭했다. 나는 그녀의 본명이 &name2& 라는 것을 알고 있었지만 구지 정정해줄 필요는 없다고 느꼈다. 어린 내가 보기에도 어머니의 얼굴에 어울리는 이름은 &name2&가 아닌 &name1&였다. 어머니는 밤마다 거실바닥에 늘어지듯 누우며 푸념을 했다. 물론 손에는 반쯤 비워진 소주병이 들려진 채였다. 그녀는 이름이 사람의 운명을 따라간다는 말을 자주하곤 했다. &name2&는 박복한 삶을 살거야. 누구에게 하는지 모를 중얼거림을 연신 말하기도 했다. 나는 &name1&인 어머니와 &name2&인 어머니 둘 다 사랑했다. 이름이 어떻든,  내가 사랑하는 어머니의 모습은 늘 같은 형태를 띠웠고 늘 같은 색을 유지했다. 어머니는, 모두 아름다운 사람이다.</p>
+    </text>
+</SJML>

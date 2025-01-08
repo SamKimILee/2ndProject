@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412497</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코미디타운</title>
+            <author id="P12497" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코미디 타운">
+        <p>코미디타운에 갔다. 처음에는 그냥갔는데 가다보니 집중하게되었다. 놀이기구같이 되어있는몸개그도 있었고 복불복회전판과 게임기와 노래방 또 퀴즈까지 정말많아서 돈이아깝지않았다.또 거짓말 탐지기, 랜덤박스너무 많았다. 노래방에서 바람이 나와서 너무놀랐다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411630</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시험 </title>
+            <author id="P11630" age="12" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시험">
+        <p>
+            <s>시험</s>
+            <s>장동화</s>
+        </p>
+        <p>
+            <s>오늘은 시험보는 날</s>
+            <s>시험 보기 싫다.</s>
+            <s>이건가 저건가</s>
+            <s>무얼 적어야할지 모르겠다.</s>
+        </p>
+        <p>
+            <s>어떤건 어렵고</s>
+            <s>어떤건 쉽고</s>
+            <s>에이 모르겠다.</s>
+            <s>이건그냥 이거적자</s>
+        </p>
+        <p>
+            <s>시험은 정말 싫다</s>
+        </p>
+    </text>
+</SJML>

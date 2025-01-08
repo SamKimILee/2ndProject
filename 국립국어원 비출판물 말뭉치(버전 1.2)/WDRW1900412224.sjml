@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412224</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복한 매미</title>
+            <author id="P12224" age="10" occupation="중학생" sex="F" submission="온라인" handwriting="No">강현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_매미">
+        <p>
+            <s>매미는 오늘도</s>
+            <s>열심히 울고 있네.</s>
+        </p>
+        <p>
+            <s>사람도 동물도 행복하디만</s>
+            <s>매미는 슬프다네.</s>
+            <s>매미는 나무 위에서</s>
+            <s>언제나 슬프다네.</s>
+        </p>
+        <p>
+            <s>아무도 매미의 마음을 알 수 없지만</s>
+            <s>매미는 슬퍼ㅓ 우는 것이 아니라</s>
+            <s>행복하다네.</s>
+        </p>
+    </text>
+</SJML>

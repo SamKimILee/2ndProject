@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112268</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방학일기</title>
+            <author id="P12268" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200108" subclass="null_일정">
+        <p>2020년  8일  토요일</p>
+        <p>제목 일본 여행 가는날</p>
+        <p>오늘3시에 일어나서 빨리준 비를 하고 공 항으로 출 발 했다. 공항에 도착 했다. 도착하고 이겄저겄 하다보니 7시가 돼었다. 비행기 이륙 시간이 8시30분 이여서 좀더 빨리 움직였다. 비행기에 탑승했다. 조금 지나고나니 흔들리기 시작 했다. 그래서 난 깜짝 놀랐다. 그런데 그게 10분 동안 흔들렸다. 그러다 할머니께서 잡고개시던 콜라가 떨어졌다. 그래서 할머니 옷에 조금 흘렸다. 그리고 일본에 도착하고나니 기뻤다.</p>
+    </text>
+</SJML>

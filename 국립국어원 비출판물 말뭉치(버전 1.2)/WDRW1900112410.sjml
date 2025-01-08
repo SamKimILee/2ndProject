@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112410</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소원을들어주는항아리</title>
+            <author id="P12410" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안정빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190904" subclass="null_항아리">
+        <p>할아버지와 할머니가 항아리를 가져와서 궁금해하다가 소원을빌었는데이루어져서 신기했어요.  그리고</p>
+        <p>그래서 할머니가 욕심부려서빌었던 소 원이 다 없어져서실망한 이야기였어요.</p>
+        <p>져도 욕심을부리지않아야겠어요.</p>
+    </text>
+</SJML>

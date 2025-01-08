@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205611</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>허황된 꿈</title>
+            <author id="P05611" age="26" occupation="자영업자" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꿈">
+        <p>쉽게 볼 수 없는 고전 영화를 쉽게 보고 싶다. 쉽게 볼 수 없는 외화, 예를 들어 수입되지 않는 해외 영화제 초청작을 쉽게 보고 싶다.</p>
+        <p>가끔 그런 영화를 보겠다고 상암에 있는 영상자료원, 다른 독립영화관 따위나 국내에서 열리는 영화제에 가지만 제한된 상영스케줄에 맞춰 일정을 짜는 것부터 티켓팅까지 모조리 귀찮다.</p>
+        <p>항상 꿈꾼다. 돈 많은 누군가가 내가 보고 싶은 영화를 모조리 수입해서 멀티플렉스에서 정식으로 개봉하거나 VOD 서비스를 해줬으면 하는, 그런 허황된 꿈을.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510098</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>에너지. 절약</title>
+            <author id="P10098" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안성윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200130" subclass="null_에너지 절약">
+        <p>에너지 절약 일기장</p>
+        <p>오늘은 날씨가 너무 춥다. 집도 너무 춥다 그래서 집에 보일러를 돌렸다.</p>
+        <p>이번달 까스비가 많이 나올 것 같아 자기전에 보일러를 끄고 전기 장판을 2도로 켜고 잤다. 그래도 따끈하다. 에너지를 아꼈다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>얼굴</title>
+            <author id="P04412" age="28" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="얼굴">
+        <p>눈이 진하고 입술이 두껍다고 좋지도 나쁘지도 않은 얘기, 어쩔 때에는 나쁜 얘기도 듣고 했는데</p>
+        <p>어느 날 갑자기 나보고 눈이 너무 예쁘대. 요즘 유행하는 입술이래.</p>
+        <p>얼굴에도 유행이 있다는 게 너무 이상해.</p>
+        <p>이 유행 지나면 또 나보고 뭐라고 할까 두렵기도 해.</p>
+    </text>
+</SJML>

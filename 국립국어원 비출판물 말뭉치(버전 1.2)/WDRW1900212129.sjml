@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212129</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>3일만에 집에 오는날</title>
+            <author id="P12129" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200215" subclass="null_우리 집">
+        <p>2020년 2월 15일 토요일</p>
+        <p>제목: 3일만에 집에 오는 날 (샤워도 하고)</p>
+        <p>어그제도 어제도 맨~날 큰이모 댁에 있었다.</p>
+        <p>그리고 오늘 드디어! 3일 만에 집에왔다.</p>
+        <p>계단올라오는건 힘들어도 집에 온 것 만으로도 좋다. 이제 집에 들어갈시간! 이제야</p>
+        <p>살것같은 기분이 들었다. 왜냐면</p>
+        <p>큰이모 댁에선 샤워를 안 해서 찝찝 했는데</p>
+        <p>집에 와서 샤워를 하니 캬~</p>
+        <p>기분이 너무~ 상쾌했다. 이 기분 삼일 만에 느껴본다. 하~</p>
+        <p>이렇게 편안하게 이층 침대에</p>
+        <p>누워서 자는 것도 3일만에 느껴본다.</p>
+        <p>역시 우리 집 짱</p>
+        <p>!</p>
+    </text>
+</SJML>

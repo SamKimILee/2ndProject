@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710302</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> 내사랑 감자</title>
+            <author id="P10302" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190706" subclass="필요">
+        <p>2019년 7월 6일 토요일</p>
+        <p>날씨: 맑음</p>
+        <p>제목: 내사랑 감자♡♡♡</p>
+        <p>오늘아침에엄마랑 동생이랑 &name1&이랑 &name1&이엄마랑 감자를 캐러 갔다. &name1&이네보다 우리가 더더더 많이 캤다. 집에 와서 친구랑이모를 줫다. 내가 열심히 캤는데 엄마가 허락없이주니까 많이속상했다. 그래서 쉴새없이 울었다. 내사랑 감자~ㅠㅠㅠ♡♡♡♡♡ 친할머니와아빠가달래주었다.♡ㅠㅠㅠㅠㅠ♡</p>
+    </text>
+</SJML>

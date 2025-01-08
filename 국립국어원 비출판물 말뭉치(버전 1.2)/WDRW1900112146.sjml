@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바둑 승급 대회</title>
+            <author id="P12146" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강은호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190922" subclass="null_바둑 승급 심사">
+        <p>9월 22일 일요일</p>
+        <p>&lt;바둑 승급 대회&gt;</p>
+        <p>우리가족은 일요일 오후에 중구 구민 회관에 갔다. 왜냐하면 바둑 승급심사대회를 하기 때문이다. 나는 필기시험을 한후 바둑을 두었는데 2승1패가 되었다.</p>
+        <p>그다음에 밥을 먹으러 갔다.</p>
+        <p>아주 재미있었다..</p>
+    </text>
+</SJML>

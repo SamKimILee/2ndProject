@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320059</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>체게바라</title>
+            <author id="P20059" age="8" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">한은</author>
+        </sourceInfo>
+    </header>
+    <text date="20191104" subclass="null_체게바라">
+        <p>체게바라</p>
+        <p>이 책은 쿠바의혁 명가이자의사 였던 ‘체게바라’의 책이다.</p>
+        <p>게바라는천식, 어렸을때는폐렴 때문에 고생했는데 쿠바를위해싸운 체게바라가 존경스럽다.</p>
+        <p>천식.... 요즘도 괴로운 질병인데 얼마나 힘들었을까? ㅠnㅠ</p>
+        <p>우리 나라가 아닌데도 읽게된다.. 그리고 아무 죄가 없는 체게바가 불쌍하고 존경스럽다!</p>
+    </text>
+</SJML>

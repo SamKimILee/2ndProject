@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309872</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>성당에 간 날</title>
+            <author id="P09872" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김현준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_성당에 간 날">
+        <p>오늘 태풍때문에 바람이 불고 비가 와서 못 나갈줄 알았는데 엄마랑 반주하러 성당에 같이 갔다. 바람이 조금 불었는데도 우산이 뒤집어져서 누나랑 웃었다. 태풍바람은 다른거 같다. 태풍일때는 조심해야겠다.</p>
+    </text>
+</SJML>

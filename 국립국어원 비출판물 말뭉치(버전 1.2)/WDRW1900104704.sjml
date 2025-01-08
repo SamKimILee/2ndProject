@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104704</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>애완동물</title>
+            <author id="P04704" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">김현진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_강아지">
+        <p>나도 애완동물 키우고싶다. 오늘도 친구가 자기집 고양이 사진을 단톡방에 올렸다. 유기묘 두마리인데 잘 키우고 있는 모양이다. 나는 고양이보다는 강아지파다. 강아지 키우고싶다... 요새는 반려동물이라는 표현을 많이 써서 그런지 애완동물이라는 말이 어색하기는 하다. 근데 나한테는 반려까지는 아니다... 강아지는 보기엔 귀엽다. 귀엽긴한데,  생명하나를 온전히 책임 질 자신은 없다. 아예 혼자 안 둘수도 없고 걔 똥 치울생각 털 날릴거 오만 사고 다 칠거생각하면 사실 키울 생각이 사라지기는 한다. 막상 키우면 다 해볼 수 있지 않을까? 모르겠다... 책임 못 질 것 같으면 아예 안 데려오는게 맞는거긴 하다. 오늘도 이렇게 강아지 기를 생각만 하고 끝이났다. 애완동물은 유튜브로... 기술이 발달해서 홀로그램으로 털만지기 같은 일들이 가능했으면 좋겠다. 강아지야...</p>
+    </text>
+</SJML>

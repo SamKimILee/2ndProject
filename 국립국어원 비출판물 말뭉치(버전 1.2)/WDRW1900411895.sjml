@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411895</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나19 때문에 힘든 것들</title>
+            <author id="P11895" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>코로나19 때문에 힘든것들</p>
+        <p>&name1&</p>
+        <p>코로나19가 발견되서 사람들이 힘들어졌다.</p>
+        <p>예를들면 학교와 학원에 잘안가고 마스크를 사기위해 줄을 서고</p>
+        <p>사람이 많은 곳 에가지 않는다. 만약 코로나가 없었다면</p>
+        <p>이런일은 일어나지 않았을 것이다. 나는 이런점이 불편하다.</p>
+        <p>왜냐하면 한번 가가면 병에 걸릴수도있고 가고 싶은곳을</p>
+        <p>마음대로가지못하기 때문이다. 뉴스에도 확진자가</p>
+        <p>몇명인지 나오는데 이렇게 계속늘면 대한민국에는</p>
+        <p>코로나가 걸린사람이 걸리지않은 사람보다 더 많아</p>
+        <p>질거같다.또한 나도 걸릴수도 있다는 생각이 가끔 든다.</p>
+    </text>
+</SJML>

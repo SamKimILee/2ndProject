@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>개학식</title>
+            <author id="P12073" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김예성</author>
+        </sourceInfo>
+    </header>
+    <text date="20190821" subclass="null_개학">
+        <p>개학식</p>
+        <p>오랜 만에 친구들과 선생님을 만났다.</p>
+        <p>너무 기분이 좋고 공부 하는 것도 무척 재밌고 신났다.</p>
+        <p>선생님이 알뜰 시장을 한다고 해서 너무 기대가 됐다. 나는 00이와 함께 시장놀이를 하기로 했다.</p>
+        <p>하지만 00이도 같이 하고싶었는데 00가 안 된다고 했다. 부탁해도 안된다 했다. 나는 정말 속상했다. 하지만 어쩔수 없었다.</p>
+        <p>다음 부터 00와 친구들에게 더 잘해줘야 겠다.</p>
+    </text>
+</SJML>

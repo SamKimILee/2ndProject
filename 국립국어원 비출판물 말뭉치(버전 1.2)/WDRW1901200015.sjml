@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901200015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>성질급한 수탉</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191005" subclass="null_성질급한 수탉">
+        <p>수탉이 음식을가지고 맛없게 보여서 집을나갔는데 수탉이 안토라지고 감사한 마음으로 먹으면 좋겠다</p>
+    </text>
+</SJML>

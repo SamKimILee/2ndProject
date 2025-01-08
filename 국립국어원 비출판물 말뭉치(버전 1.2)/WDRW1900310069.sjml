@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310069</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이별</title>
+            <author id="P10069" age="66" occupation="무직" sex="M" submission="온라인" handwriting="No">양태인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이별">
+        <p>
+            <s>살아온  날들이  낙엽되어  쌓여갑니다.</s>
+            <s>잊혀졌던 사람들이</s>
+            <s>아픔으로  다가옵니다.</s>
+        </p>
+        <p>
+            <s>긴  시간  참는  여유도  배웠습니다.</s>
+            <s>누군가의  슬픔도  배웠습니다.</s>
+            <s>허나</s>
+            <s>내  마음을  다스리는  연습만은  하지  않았습니다.</s>
+        </p>
+        <p>
+            <s>겨울의  찬 바람을  이겨낸  순간순간들이</s>
+            <s>가슴  깊숙이  파고  들때</s>
+            <s>그들은  매정하게  떠나려고  합니다.</s>
+            <s>소중했던  사람들의  품을  떠나려고  합니다.</s>
+        </p>
+        <p>
+            <s>그토록 시랑했던  인연.</s>
+            <s>라일락  향기에  묻혀</s>
+            <s>추억이라는  발자욱만을  남기고</s>
+            <s>하나하나  잊혀져  가려고  합니다.</s>
+            <s>홀로  걷는 이 시간이  너무나  소중합니다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>언덕 위에서</title>
+            <author id="P10638" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_우리 둘">
+        <p>
+            <s>닿지 않는 땅 위로</s>
+            <s>두 발을 대롱대롱</s>
+            <s>높은 언덕에 걸터 앉은 우리 둘,</s>
+            <s>눈물을 머금고 속을 털어 놓았던 늦오후에</s>
+            <s>떨어진 네 슬픔은 보석처럼 반짝였어</s>
+            <s>노을에 번진 착각이었을까</s>
+            <s>그날 너를 안아줬어야 했는데</s>
+        </p>
+    </text>
+</SJML>

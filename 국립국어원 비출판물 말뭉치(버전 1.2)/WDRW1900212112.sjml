@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212112</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>퍼시픽렌드에간날</title>
+            <author id="P12112" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">배서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20180815" subclass="null_퍼시픽렌드">
+        <p>8월15 일수요일(날씨:맑음)</p>
+        <p>제목: 퍼시픽렌드에간날.</p>
+        <p>돌고래쇼를 보러 퍼시픽렌드에 갔다. 가서 원숭이쇼를 봤는대 원숭이가 춤을 췄다. 웃겼다. 2번째로 바다사자쇼를 봤다. 귀엽고 멋있었다. 재밌었다. 마지막으로 돌고래쇼를 봤다. 돌고래가 점프를 높게 뛰었다. 신기하고 좋았다. 되게 멋있었다. 또 보고 싶었다.</p>
+    </text>
+</SJML>

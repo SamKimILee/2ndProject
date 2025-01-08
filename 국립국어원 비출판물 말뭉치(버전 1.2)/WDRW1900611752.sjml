@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611752</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>크리스마스 파티</title>
+            <author id="P11752" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">손동재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_크리스마스 파티">
+        <p>할머니집에서 고모네 식구와 크리스마스 파티를 하였다. 할머니께 크리스마스 선물을 받았다. 읽으면서 바로 써먹는 어린이 영단어를 받았다. 내가 갖고 싶었던 책이라 매우 기뻤다. 내가 좋아하는 포테이토 피자를 먹어 너무 행복했다. 또 먹고 싶다. 사촌들과 게임도 하고 영화도 보았다. 최고의 크리스마스 파티였다.</p>
+    </text>
+</SJML>

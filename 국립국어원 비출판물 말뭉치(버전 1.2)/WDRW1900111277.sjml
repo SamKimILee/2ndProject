@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>대화소리</title>
+            <author id="P11277" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">오은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="대화">
+        <p>
+            <s>소곤소곤 웅성웅성</s>
+            <s>저마다 다른 사람들이</s>
+            <s>대화하는 소리들</s>
+        </p>
+        <p>
+            <s>집에서나 밖에서나</s>
+            <s>어딜가든 들려오는</s>
+            <s>사람들의 대화 소리</s>
+        </p>
+        <p>
+            <s>만약 우리가 살아가는데</s>
+            <s>소리가 안들리면 어떻게 될까</s>
+            <s>문득 이런 생각도 들게 된다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411820</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제리</title>
+            <author id="P11820" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김재연</author>
+        </sourceInfo>
+    </header>
+    <text date="20181028" subclass="null_강아지">
+        <p>&lt;제리&gt;</p>
+        <p>나에게는 귀여운 강아지 제리가있다. 제주시 잔치집에 갔다오는 길에 도순밭에 들려 제리를 만났다. 나를 만난 제리는 꼬리를 휭휭 흔들며 뛰어왔다. 나는 제리를 꼭 안아주었다. 그리고 같이 산책을 했다. 내 무릎 만 하던 자두나무가 하우스 천장까지 닿아 있어서 깜짝 놀랐다</p>
+    </text>
+</SJML>

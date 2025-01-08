@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712009</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>토마토 씨앗</title>
+            <author id="P12009" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">임지유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_토마토 씨앗">
+        <p>오늘 난 토마토씨앗을 심었어 사실은 나도 무슨 씨앗을 살까?많이고민 했어. 고민 끝에 토마토 씨앗 사기로 결정했어. 왜 토마토 씨앗으로 결정 했냐구? 나는 빨간색이 좋거든 근데 토마토 열매가 빨간 색이잖아 그래서 좋아. 토마토 씨앗 사고정선겄기르면 새싹 7일 뒤 새싹이 난대. 그래서 난요즘 친구가 생긴거 같아 방울토마토 친구 아직 이름은 못지었지만!</p>
+        <p>그래도 내일은 꼭 이름지어주어야 겠다. 방울토마토야 사랑해.</p>
+    </text>
+</SJML>

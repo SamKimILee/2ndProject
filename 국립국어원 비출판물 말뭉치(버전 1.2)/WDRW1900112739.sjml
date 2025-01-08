@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112739</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>키자니아에 간 날</title>
+            <author id="P12739" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_키자니아">
+        <p>나는 오늘 키자니아를 갔다. 가기전에 아이스크림을 먹고 들어갔다. 나는 직업 체험중에서 특수부대 훈련소가 제일 재밌었다. 큰것밖에 없어서 큰것을 입었는데 많이 컸지만 괜찮았다. 또 친구도 사귀었다. 다음에 또 가고싶다. 정말 재밌었다.</p>
+    </text>
+</SJML>

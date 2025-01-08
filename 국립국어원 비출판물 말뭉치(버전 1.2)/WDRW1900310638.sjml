@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달리기</title>
+            <author id="P10638" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_미래">
+        <p>
+            <s>아득한 출발점을 등지고</s>
+            <s>달려가는 네 앞에</s>
+            <s>환한 미래가 반겨주길</s>
+        </p>
+        <p>
+            <s>그 뜀박질 끝엔</s>
+            <s>오롯한 너의 미래가 서있기를</s>
+        </p>
+    </text>
+</SJML>

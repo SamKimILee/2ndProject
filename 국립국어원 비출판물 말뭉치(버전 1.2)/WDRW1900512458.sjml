@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512458</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년 3월 5일 (목)</title>
+            <author id="P12458" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_배그">
+        <p>2020년 3월5일 (목)</p>
+        <p>오늘 게임 했다. 배그 했다.</p>
+        <p>마녀 놀이도 했다 재밌었다. 오빠가 손님인데 나는 마녀다. 근데 식당을 한다. 치킨도 있고 스파게티도 있고 근데감이 엄~~~청 많다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110081</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달빛</title>
+            <author id="P10081" age="16" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_달빛">
+        <p>
+            <s>낮이 지나고</s>
+            <s>밤이 되어 달이 떠오를 때면</s>
+            <s>달빛은 한 나뭇잎에 은밀하게 손을 내민다</s>
+            <s>나뭇잎은 수줍어 하며 그 손을 잡는다</s>
+            <s>초록빛이어야할 나뭇잎이</s>
+            <s>푸르스름한 빛을 낸다</s>
+            <s>둘의 거리는 멀지만</s>
+            <s>둘은 그렇게 하나가 된다</s>
+        </p>
+        <p>
+            <s>달빛어린 밤에</s>
+            <s>달빛이 그러듯</s>
+            <s>넌 나에게 손을 내밀고</s>
+            <s>나뭇잎이 그러듯</s>
+            <s>난 너의 손을 잡는다</s>
+        </p>
+        <p>
+            <s>열정적이던 시간은 지났지만</s>
+            <s>우리는 그렇게 아무 말없이</s>
+            <s>서로를 바라보며</s>
+            <s>사랑을 나눌 뿐이다</s>
+        </p>
+        <p>
+            <s>우리는 그렇게 하나가 된다</s>
+        </p>
+    </text>
+</SJML>

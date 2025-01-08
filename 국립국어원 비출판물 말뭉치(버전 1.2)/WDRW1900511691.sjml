@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>통닭</title>
+            <author id="P11691" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190623" subclass="null_통닭">
+        <p>내가 1cm가 된다면 나는 통닭을 좋아하는데 통닭 한 마리를 시켜서 통닭 한 조각을 열달동안 먹어서 돈도 아끼고 오랫동안 먹을 것이다. 또 학교에서 공부 할 때 내가 1cm이면 30분 동안 아주 힘들게 공부를 해야 돼서 1cm가 되기 싫다</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811696</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>유교랜드</title>
+            <author id="P11696" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최은민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190801" subclass="null_유교랜드">
+        <p>유교랜드</p>
+        <p>외할머니 집에 내려가서 친척들과 유교랜드에 갔다. 한자 시험을 봤다. 6개 맞았는데 재미있었다. 오래 놀고 싶었다.</p>
+    </text>
+</SJML>

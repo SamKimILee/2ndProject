@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312238</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>평화공원</title>
+            <author id="P12238" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민기</author>
+        </sourceInfo>
+    </header>
+    <text date="20190427" subclass="null_평화공원">
+        <p>오랜만에 친구랑 평화공원에 갔다. 너무 재미있었다. 공 놀 이도 하고 친구가 들고 온 사슴벌레 애벌레도 구경 했다. 정말 재미 있었다. 가다가 풍뎅이도 보고 참나 무에서 진액도 봤다. 너무 신 기 했 다. 나는 그런거 보 질 못 해는데 처음 으로 봐서 좋 았다. 진짜 친구랑 오 니까 더 좋은 것 같다.</p>
+    </text>
+</SJML>

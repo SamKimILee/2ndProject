@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412650</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나19</title>
+            <author id="P12650" age="12" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나19">
+        <p>제목: 코로나 19</p>
+        <p>이번에는 코로나 19 사태때문에 초.중.고가 일주일 연기되었다고 또 2주연기되어서 입학식을 못하게 되어서 정말 슬픕니다. 그리고 학교를 못가는데 기분이 안좋은건 처음입니다. 그래서 집에서학교공부를 하고 밖에도 못나가고 하니 심심 지루합니다. 그리고 밖에서 바람을 느끼면서 놀고싶은 마음이 한결같습니다. 빨리 코로나 19 백신제가 나와서 상황이 좋아졌으면 좋겠고 학교도 가서 친구들 만나고 선생님께 설명을 들으며 공부하고싶습니다.</p>
+    </text>
+</SJML>

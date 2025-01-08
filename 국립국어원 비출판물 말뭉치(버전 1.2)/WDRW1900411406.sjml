@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411406</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>190130 일기</title>
+            <author id="P11406" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김한결</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_영화, 책">
+        <p>늦잠을 자서 12시가 돼서야 일어났다. 오늘은 처음으로 혼영을 하는 날이라 기분이 좋았다! 지하철이 늦게 와서 늦을 줄 알았는데 다행히 일찍 도착해서 여유롭게 입장을 했다. 코미디 장르라서 혼자 보기 눈치 보였는데 생각보다 혼자 웃으면서 잘 본 것 같다! 집 오는 길에 기흥 도서관에 들려서 대출 대기 했던 책도 대출해왔다. 오늘은 책을 읽다 잘 거다!</p>
+    </text>
+</SJML>

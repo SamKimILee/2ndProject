@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304105</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밤3</title>
+            <author id="P04105" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이주희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고백">
+        <p>
+            <s>사랑한다는 말만으로는 부족할 때가 있다</s>
+        </p>
+        <p>
+            <s>이불을 덮고 그대의 이름을 썼다 지웠다</s>
+        </p>
+        <p>
+            <s>새벽의 어둠이 부디 그대를</s>
+            <s>보살펴주기를 바라는 것이</s>
+            <s>모자란 고백을 완성해 줄 수 있을까</s>
+        </p>
+    </text>
+</SJML>

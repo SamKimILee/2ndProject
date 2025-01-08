@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312465</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방학 개학날</title>
+            <author id="P12465" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_학교">
+        <p>
+            <s>제목: 방학개학날</s>
+            <s>지은이:　&name1&</s>
+            <s>방학이 끝나고</s>
+            <s>학교 에간다.</s>
+            <s>비가온다.</s>
+            <s>학교에 왔다.</s>
+            <s>우산을 어디에 꽂는는지 까먹었다.</s>
+            <s>내가 몆번인지 까먹었다.</s>
+        </p>
+    </text>
+</SJML>

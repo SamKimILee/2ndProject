@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세상에서 젤 힘든날</title>
+            <author id="P10493" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_요즘">
+        <p>에제 너무나. 힘들얼다. 근데 &name1&이가 아파닸.</p>
+        <p>하지만. 다음날. &name2&이와 이모랑 먼저. 하고을 서닸나는그데. 동안 꿀잠을자고 을어다. 그리고, 수영장에서 재밌께 놀았다. 그리고. 또 다음날, 바다까에. 갔다. 감포해수욕장 으로갔다 나는. 돌을 컵에 넣었다. 마지맜 에. 모래 에무더닸. 그리고 또 바다에서, 앉았다 파도가 세서</p>
+    </text>
+</SJML>

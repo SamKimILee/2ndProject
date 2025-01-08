@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301085</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 병원</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>병원</title>
+            <author id="P01085" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_병">
+        <p>수요일부터 인후통과 두통이 있었습니다.</p>
+        <p>금요일 밤부터 열이 너무 높아서</p>
+        <p>토요일에 내과에 가서 처방을 받았어요.</p>
+        <p>일요일 저녁약까지 먹었는데</p>
+        <p>계속 열이 올랐다 내렸다하고 목이 더 아파져서 왔어요.</p>
+        <p>(38도가 넘게 올라갔다가 내렸다가를 매일 몇 번씩 했어요)</p>
+        <p>입 안이 헐고 아픈 부분이 몇 군데 있고,</p>
+        <p>(혀, 앞니 뒷부분, 아래쪽 맨 안 잇몸 양편)</p>
+        <p>가만히 있어도, 특히 뭔가를 삼킬때 목이 많이 아파요.</p>
+        <p>데인 건 아닌데 물만 삼켜도 화상을 입은 기분입니다.</p>
+        <p>말을 하기 힘들어요.</p>
+        <p>가능하다면 오늘 수액을 맞고 가고 싶어요.</p>
+        <p>오늘 아침밥과 약은 안먹고 왔습니다.</p>
+        <p>약 목록도 가져왔으니 필요하시면 말씀해주세요.</p>
+    </text>
+</SJML>

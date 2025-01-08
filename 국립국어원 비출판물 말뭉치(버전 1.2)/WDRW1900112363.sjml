@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112363</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이의 일기</title>
+            <author id="P12363" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이정민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190623" subclass="null_양귀비">
+        <p>&lt;양귀비 꽃&gt;</p>
+        <p>한강을 갔을때 나는 양귀비 꽃을 봤다.</p>
+        <p>나는 책을 봤는데 양귀비는 예뻐서 황제의 마음에 꼭 들었다고한다고</p>
+        <p>나는 꽃이예쁘 다고생각 됬다. 양귀비 꽃에 대해 잘 설명해줘서감사하다. 관찰력을 키워 똑똑해 지는 사람이된 것 같다.</p>
+    </text>
+</SJML>

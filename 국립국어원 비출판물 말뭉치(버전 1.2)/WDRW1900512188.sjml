@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512188</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>봉평(식당)</title>
+            <author id="P12188" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족">
+        <p>오늘 우리가족이랑 동물원을 갔다가 봉평메밀마당식당을 갔다. 식당에서는 기본이 5인분 이다. 그래서 우리가 식당을 갔는데 고기를 굽는대 우리가 아는 가족이 2가족이 왔다. 1가족은 &name1&이가족 또 한가족은 &name2&이 가족이왔다. 나는 봉평식당이 너무 맛있다.</p>
+    </text>
+</SJML>

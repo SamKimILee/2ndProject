@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204035</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사진</title>
+            <author id="P04035" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">박지연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_추억">
+        <p>
+            <s>사진이 있어 다행이다.</s>
+            <s>내 기억속에 남아있어서 다행이다.</s>
+            <s>내 기억 속에 보탬이 되어줘서 다행이다.</s>
+        </p>
+        <p>
+            <s>너무 예쁘다 추억</s>
+        </p>
+        <p>
+            <s>아픔도 시간이 지나면 추억으로 변하는게 .</s>
+        </p>
+    </text>
+</SJML>

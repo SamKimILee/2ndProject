@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412357</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>라면(2)</title>
+            <author id="P12357" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강영서</author>
+        </sourceInfo>
+    </header>
+    <text date="20191113" subclass="null_라면">
+        <p>
+            <s>라면</s>
+        </p>
+        <p>
+            <s>드디어 라면을</s>
+            <s>먹을수 있다</s>
+            <s>넘 오랜만 이다</s>
+        </p>
+        <p>
+            <s>후르릅 쩝쩝</s>
+            <s>아~오랜만에이</s>
+            <s>뜨끈뜨끈 아~</s>
+            <s>좋~다.</s>
+            <s>김치도 아삭아삭</s>
+        </p>
+        <p>
+            <s>이제돈내고</s>
+            <s>나가야지</s>
+            <s>얼마예요?</s>
+            <s>6550원입니다</s>
+        </p>
+        <p>
+            <s>헉 650원</s>
+            <s>밖에 없는데</s>
+            <s>여기서</s>
+            <s>알바해야겠다.</s>
+        </p>
+    </text>
+</SJML>

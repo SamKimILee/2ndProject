@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311856</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘은 내 생일 </title>
+            <author id="P11856" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조민상</author>
+        </sourceInfo>
+    </header>
+    <text date="20190808" subclass="생활">
+        <p>제목:오늘은 내 생일</p>
+        <p>오늘은 내 생일이다 점심에 돼지갈비 먹으러 식당에 갔다. 너무너무 맛있고 상쾌했다. 아빠가 휴가기간 때문에 회사를 안가신다. 수영을 갖다 왔더니 엄마가 케이크를 사 주셨다. 초코케익 2개가 1세트 였는데 토끼와 곰 캐릭터 두개를붙이니까 하트에 불이 들어왔다. 정말 멋있었다.</p>
+    </text>
+</SJML>

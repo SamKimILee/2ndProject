@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512739</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>롯데월드</title>
+            <author id="P12739" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_롯데월드">
+        <p>엄마와 롯데월드에 갔다. 거기서 황야의 무법자를 처음 타봤다.</p>
+        <p>엄마가 총쏘기에서 1등을 했다. 나는 총이 너무 무거웠고 버튼을 누르기조차 힘들었다. 그리고 민속박물관에 갔다. 민속박물관에서 신라, 백제, 조선 등의 다양한 시대를 보았다.</p>
+    </text>
+</SJML>

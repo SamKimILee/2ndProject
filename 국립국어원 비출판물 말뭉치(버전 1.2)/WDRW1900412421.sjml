@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412421</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 자라요</title>
+            <author id="P12421" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20191213" subclass="나">
+        <p>
+            <s>2019. 12. 13. 금</s>
+            <s>미세먼지종음</s>
+            <s>&lt;나는자라요&gt;</s>
+            <s>나는작아요 인형 만큼 작아요.</s>
+            <s>그렇지만 나는 자라요.</s>
+            <s>하루종일 아주 조금씩 자라요.</s>
+            <s>상자를 옥기는 순간 마음이 콩닥콩닥 나는 자라요.</s>
+            <s>그래도 키번호 5번이여도 나는 자라요.</s>
+            <s>글시를 일글때도 나는 자라요.</s>
+            <s>시험을 보때도 나는 자라요.</s>
+            <s>종일종일 나는 자라요.</s>
+            <s>태권도 품띠여도 나는자라요.</s>
+            <s>나는 자라요.</s>
+            <s>아빠가 안아도 나는 자라요</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310303</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목없는 글</title>
+            <author id="P10303" age="76" occupation="전업주부" sex="F" submission="온라인" handwriting="No">민정자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고백">
+        <p>
+            <s>,  ,</s>
+        </p>
+        <p>
+            <s>차마 하지 못한 말이 있습니다</s>
+            <s>편지를 쓸때에</s>
+            <s>남겨두는 자리가 있습니다</s>
+        </p>
+        <p>
+            <s>당신은 나의 가장 아름다운 구절</s>
+        </p>
+        <p>
+            <s>하얀 종이를 예민하게 스치며</s>
+            <s>흑심은 부끄러운 고백을 읊조립니다</s>
+        </p>
+        <p>
+            <s>안녕</s>
+            <s>세계가 열립니다</s>
+            <s>안녕.</s>
+            <s>다시 닫힙니다</s>
+        </p>
+        <p>
+            <s>한 마디의 말을 던지면 다시</s>
+            <s>한 마디의 여백으로 대답하는 당신</s>
+        </p>
+        <p>
+            <s>나는 끝까지 입을 열지 않을테지요</s>
+            <s>입안에 두고</s>
+            <s>치아로 씹고 붉은 혀 위에 굴리며</s>
+            <s>삼키지도 못하는 말을</s>
+        </p>
+        <p>
+            <s>밤을 지새우게 했던 노래나</s>
+            <s>내내 잊을 수 없던 말처럼</s>
+            <s>아, 차마 마침표를 찍을 수 없던 문장이 있습니다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1902100015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>키즈카페</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190221" subclass="null_키즈카페">
+        <p>오늘 &name1&누나랑 &name2&이형, &name3&, &name4&이랑 키즈카페에서 놀았다. 다시 갔으면 좋겠다.</p>
+    </text>
+</SJML>

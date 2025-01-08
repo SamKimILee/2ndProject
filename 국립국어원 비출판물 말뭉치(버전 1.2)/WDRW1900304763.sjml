@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304763</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>먹다</title>
+            <author id="P04763" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김혜진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="먹다">
+        <p>나에게 있어 스트레스와 음식을 먹는 행위는 밀접한 상관관계를 지니고 있다.</p>
+        <p>가령, 스트레스가 높아질 수록 음식을 자주 먹는다던가, 고칼로리의 음식을 찾게된다던가 하는 식이다. 그러나 이것도 어느정도의 박스권 안에서만 일어나는 규칙성을 지니고 있지 무한적인것은 아니다. 일정수치의 스트레스를 초과하는 순간 먹는 행위를 일절 멈추게 된다. 그렇게 좋아하는 음료도, 디저트도 그리고 햄버거도 아무것도 먹지 않는다. 물만 제외하고. 그러나 신기하게 아무것도 먹지 않지만 배가 고프지는 않다. 통탄할 노릇이다.</p>
+    </text>
+</SJML>

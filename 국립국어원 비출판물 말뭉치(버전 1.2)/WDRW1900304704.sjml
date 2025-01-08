@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304704</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P04704" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">김현진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화">
+        <p>요새는 영화를 잘 안본다.</p>
+        <p>보고싶은 영화가 없는건 아닌데,  예전에는 영화관가서 봐야지 였다면 지금은 VOD 나오면 봐야지로 바뀌었다. 은근히 2시간 정도 가만히 앉아있는게 싫단 말야. 그냥 집에서 큰 티비로 소음 내고 일시정지도 해가면서 보는게 편하다. 점점 티비는 커지고 화질도 발달해가는데 기술도 좋아지잖아? 그럼 진짜 나중에 영화관이 엄청 줄지도 모른다. 다같이 웃으면서 보는 재미도 있긴한데 역시 혼자 만끽하는 영화가 최고다. 지금은 미니언즈2 기다리고있다. 사는게 노잼이라 그런지 사회문제 지적하고 이러는 무거운 영화 보기싫다. 내 인생이 사회문제거든 욕나오는데 여기 욕써도되나요? 하... 어쨌든 그냥 웃긴거 보고싶다. 귀엽고 웃긴게 최고다.</p>
+    </text>
+</SJML>

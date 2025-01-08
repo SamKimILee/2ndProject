@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204500</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빨리 먹기</title>
+            <author id="P04500" age="22" occupation="군인" sex="M" submission="온라인" handwriting="No">신재훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="먹다">
+        <p>나는 체감하지 못하고 있었다. 내가 밥을 빨리 먹는다는 사실을. 그러나 많은 사람들과 함께 식사하는 자리에 가면 언제나 내가 가장 먼저 수저를 놓는다. 언제부터였을까. 학창시절부터 그래왔던 것 같다. 언제나 급식실을 먼저 나서고 가장 먼저 교실로 들어왔었다. 그러나 나는 빨리 먹는것이 좋은 습관이 아니란걸 안다.  오늘도 너무 배고픈 채로 먹은 치킨이 문제였던지, 속이 좋지 않다.</p>
+        <p>내 여자친구는 밥을 느리게 먹는 편이다. 그녀와 함께 식사를 할 때는 나도 의식적으로 천천히 먹곤 한다.  그럼에도 불구하고 내가 먼저 다 먹긴 하지만.</p>
+        <p>내 소화기관이 건강할지 문제가 있을지 모르겠다. 빠르게 먹는 것은 좋은 습관은 아니니, 자제해야겠다.</p>
+    </text>
+</SJML>

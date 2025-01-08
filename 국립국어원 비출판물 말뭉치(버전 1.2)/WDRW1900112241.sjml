@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112241</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>똥떡</title>
+            <author id="P12241" age="44" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임화영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="아이">
+        <p>준호는 똥통에 빠졌다. 그런 애들은 빨리 죽는다는데...</p>
+        <p>그래서 엄마께서 똥떡을 만들어주셨다.</p>
+        <p>뒷간귀신한테 절을하고 똥떡을 주셨다.</p>
+        <p>뒷간귀신은 맛있다고했다.</p>
+        <p>똥떡하면서 동네사람들에게 나눠주자. 그러면 복이 온다.</p>
+        <p>똥이 너무 끔찍했다. 나라면 엄청 깨끗하게 씻을거다.</p>
+    </text>
+</SJML>

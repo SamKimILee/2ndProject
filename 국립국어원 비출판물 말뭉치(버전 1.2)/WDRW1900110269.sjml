@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>두려워하지 말라</title>
+            <author id="P10269" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="쉽다">
+        <p>
+            <s>세상에 쉬운 것이 무엇이 있으랴</s>
+            <s>모든 것은 고난과 역경을 딛고 익숙해진 것이리라.</s>
+        </p>
+        <p>
+            <s>노력</s>
+            <s>땀</s>
+            <s>열정</s>
+            <s>시간</s>
+            <s>돈</s>
+            <s>많은 것들이 그것을 쉽게 만드는 데에 소모되었을 것이다.</s>
+        </p>
+        <p>
+            <s>그러니 남을 부러워하지 말라</s>
+            <s>그대도 그리 빛나는 원석을 품고 있지 않은가.</s>
+        </p>
+    </text>
+</SJML>

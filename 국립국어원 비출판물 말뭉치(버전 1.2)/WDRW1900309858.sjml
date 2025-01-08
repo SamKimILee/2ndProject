@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309858</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>개구리</title>
+            <author id="P09858" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">진승우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190826" subclass="null_개구리">
+        <p>8월26일 월요일 날씨: 더움</p>
+        <p>제목:개구리</p>
+        <p>금요일에 수학 학원이 끝났는데</p>
+        <p>비가 많이 왔다. 그래서</p>
+        <p>&name1&네 차를 타고 집으로 오고</p>
+        <p>자전거는 학원에 놔뒀다. 그날 저녁에 자전거를 가지러 갔는데 개구리가</p>
+        <p>있어서 잡아왔다. 내가 잡은 개구리는  ‘참개구리’ 다. 아빠가 비가 많이와서 창릉천에서 온거라고 했다. 그리고 울음주머니가 없어서 암컷인 것 같다.</p>
+        <p>어제 누나랑 같이 창릉천에 개구리를</p>
+        <p>놓아 주었다. 그런데 신발에 진흙이 뭍 었 다.</p>
+    </text>
+</SJML>

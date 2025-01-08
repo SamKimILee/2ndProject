@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도넛만들기</title>
+            <author id="P10026" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신지율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_도넛만들기">
+        <p>오늘은 누나와 엄마와 도넛 만들기를 하였다. 계란과 우유와 밀가루를넣고 잘저어서넣고 잘저어 섞어 준다.반죽을 짤주머니에 넣어서 기계에 짜넣고 부어준다. 그리고 초코펜으로 장식을 꾸며준다. 그러면 멋진 도넛 완성!</p>
+    </text>
+</SJML>

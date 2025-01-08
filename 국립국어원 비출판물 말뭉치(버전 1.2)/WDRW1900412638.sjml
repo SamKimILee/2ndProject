@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>산에 간 날</title>
+            <author id="P12638" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_산">
+        <p>산에 갔다. 산에서 막대기로 장난 쳤는데 정말 재미있었다. 또 줄넘기도 했다. 산길을 걷다가 토끼도 만났다.</p>
+        <p>먹을 것을 갖고오지안아 먹이를 못 줬다. 산에 내려가서놀이터도 갔다.</p>
+        <p>올라갈 때는 더웠지많 내려갈 때는 상쾌했다. 산은 정말 좋다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512041</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1& 에게</title>
+            <author id="P12041" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예나</author>
+        </sourceInfo>
+    </header>
+    <text date="20190503" subclass="null_친구">
+        <p>&name1& 에게</p>
+        <p>&name1&아 나 &name2&야 벌써 2학년이네 2학년인데 같은반이 아니라도 다른 친구랑 같이 사이좋게 놀아 한번씩 만나면 친하게 지내자 &name1&아 코로나 바이러스 조심해 엄마는 코로나 때문에 포항에 엄마가 놀로도 못와서 속상할거 같아 그레도 아빠랑 잘지내봐 &name1&이너랑놀이터에서 같이 놀때가 정말 제밌있어어 3학년이 되서 같은반이 되면 좋겠어 우리사이좋게 지내자</p>
+        <p>&name2&올림</p>
+        <p>12시30분</p>
+        <p>목요일 5일 3월</p>
+    </text>
+</SJML>

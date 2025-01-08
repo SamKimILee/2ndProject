@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412022</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그런사람</title>
+            <author id="P12022" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">최재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="관계">
+        <p>
+            <s>집으로 돌아오는 길에 문득 생각나</s>
+            <s>꽃한송이 꺾어 선물해주고 싶은 사람</s>
+        </p>
+        <p>
+            <s>길을 찾지 못해 방황할때</s>
+            <s>올바른 곳으로 가게 해줄 이정표 같은 사람</s>
+        </p>
+        <p>
+            <s>혼자 겪어야 할 슬픔을</s>
+            <s>더이상 혼자 견디지 않게 해줄 사람</s>
+        </p>
+        <p>
+            <s>나에게 너란, 그런 사람이고</s>
+            <s>나도 너에게, 그런 사람일까?</s>
+        </p>
+    </text>
+</SJML>

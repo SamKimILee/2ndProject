@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311659</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수두에 걸리다</title>
+            <author id="P11659" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송윤성</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_수두">
+        <p>수두에 걸리다.</p>
+        <p>몇일 전부터 몸에 점이 생기기시작 했는데, 나는그냥 일반적인 점인 줄 알고 부모님께말씀드리지 않았다.</p>
+        <p>그로부터 몇일후 몸전신에 그 점이나 있었다. 내 동생도 똑같은 현상이 몸에 일어났다.</p>
+        <p>그러자, 부모님이 병원에 가 보라고 말 하 셨다. 그래서 우리는 차를 타고 병원으로 같다. 병원에서 의사 선생님이 수두 라고 그러셨다.</p>
+        <p>그리고나서 나에게 전염병이니 밖에 나가지말라면서 격리 조치를 시키셨다. 몸에 있는 점이 모두 사라 질려면 시간이 걸린다고 지금까지도 집에만 있고 학원, 운동, 기타 등등 많은 스케줄을 못가게 되었다. 사실 태어나서 이렇게 피부에 무언가 난게 처음이라서 많이 놀랐는데 이제는 슬 슬 안 에만 있는게 지루하다.</p>
+    </text>
+</SJML>

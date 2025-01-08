@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901011546</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀이터</title>
+            <author id="P11546" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박경연</author>
+        </sourceInfo>
+    </header>
+    <text date="20191009" subclass="생활">
+        <p>어제 &name1&이랑 &name2&이랑 나랑 엄마 &name1&이 엄마랑 놀이터에서 놀다가 밥먹고 헬로방방에서 놀아다 정말재밌어다 나중에 또 가고 십다! -끝-</p>
+    </text>
+</SJML>

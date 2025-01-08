@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212163</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>롤러장</title>
+            <author id="P12163" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_롤러장">
+        <p>나와언니들이심심해서큰이모한테전화를걸었다. 그래서롤러장에가자고했다.신종바이러스때문에롤러장을못갈뻔했는데큰이모가이리갔다저리갔다해서엄마는아이정말!그냥롤러장가!‘라고’말했다.그런데!몬일로마스크를쓰고롤러을타야했다.그게다심한바이러스때문이다.그래서아쉬웠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311958</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재미있는 민속놀이</title>
+            <author id="P11958" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이준혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20191120" subclass="활동">
+        <p>재미있는민속놀이</p>
+        <p>1 2 3 4 5!쏙쏙 고리가 들어갔다. 남은 5개도 다 넣어야지! 파이팅</p>
+        <p>6 7 8 9 10 다 넣었다. "와 ~ 신난다." 역시 내 생일이야!</p>
+        <p>절구를 손으로 세게 찧으니 옥수수가 와르르 쏟아졌다 그때  들리던 바스락 바스락 나뭇잎 소리가 멋있었다  나는차힘이 넘치나보다.</p>
+    </text>
+</SJML>

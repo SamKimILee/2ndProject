@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204583</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>말</title>
+            <author id="P04583" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">임현주</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_관계">
+        <p>말하지 않아도 알아요, 라는 유명한 CM송이 있긴 하지만 사실 말하지 않으면 모르기 때문에 모든 관계에서 대화란 참 중요하다. 공통분모가 없는 관계에서는 더더욱.</p>
+        <p>내 생각과 감정을 오롯이 전달하는 것도 중요하지만 상대의 액션에 대한 리액션도 못지 않게 중요한데, 이는 상대의 다음 이야기를 들을 수 있을지 없을지를 결정하기 때문이다.</p>
+        <p>조금만 대화를 나눠봐도 더 이야기하고 싶은 사람과 그렇지 않은 사람이 확연히 갈린다. 나 또한 갈 길이 멀었지만 그래도 가야 할 길을 아는 사람은 좀 낫지 않나. 관계라는 것이 쌍방의 노력이 필요한 건데 그걸 하지 않겠다는 것은 관계를 지속하지 않겠다는 말로 봐도 무방한가.</p>
+    </text>
+</SJML>

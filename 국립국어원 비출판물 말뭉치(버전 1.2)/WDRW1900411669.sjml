@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411669</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자동차 연구소</title>
+            <author id="P11669" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_자동차 연구소">
+        <p>엄마랑 손잡고 자동차연구소 를 갔다. 처음엔 자동차 만들기가 쉬울줄 알았는데, 어려웠다.</p>
+        <p>자동차 만드는 기계는 꼭 기린처럼 생겼다. 기계가 아래로 숙이면, 기린이 풀뜯는 모습, 기계가 위로 들면 기린이 멀리 보는 모습 인거 같다.</p>
+        <p>나는 기계가 움직이는 게 신기하다. 기계는 시각도, 촉각도 없는데 어떻게 이어서&lt;1&gt; 알아서 척척할수있을까?음... ...그건 엄마 에게 물어봐야 이어서&lt;2&gt; 겠다.너무 재밌는 하루였다.다음에도 또 가고싶다</p>
+    </text>
+</SJML>

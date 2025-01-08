@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103515</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>심장이 사과였으면</title>
+            <author id="P03515" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이다예</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_심장이 사과였다면">
+        <p>
+            <s>심장이 사과였다면</s>
+            <s>괴로운 일이 있을 때</s>
+            <s>숨막히는 일이 있을 때</s>
+            <s>크게크게 다 먹어버려서</s>
+            <s>슬픈 감정도 아픈 감정도</s>
+            <s>다 없애버릴 수 있을텐데</s>
+        </p>
+        <p>
+            <s>심장이 사과였다면</s>
+            <s>힘든 일이 있을 때</s>
+            <s>더는 나아갈 수 없을 때</s>
+            <s>구석구석 난 상처들을 보면서</s>
+            <s>얼마나 힘들었는지</s>
+            <s>잘 버텨냈는지</s>
+            <s>깨닫게 해줄 수 있었을텐데</s>
+        </p>
+        <p>
+            <s>심장이 사과였다면</s>
+            <s>날카로운 말을 들을 때</s>
+            <s>상처되는 말을 들을 때</s>
+            <s>고이고이 잘 숨겨놓아서</s>
+            <s>더는 부서지지 않도록</s>
+            <s>눈물 흘리지 않도록</s>
+            <s>지켜줄 수 있었을텐데</s>
+        </p>
+        <p>
+            <s>심장이 사과였다면</s>
+            <s>심장이 사과였다면</s>
+        </p>
+    </text>
+</SJML>

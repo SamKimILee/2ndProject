@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새로운 도룡뇽 잡은 날</title>
+            <author id="P12638" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_도룡뇽">
+        <p>계곡에서 도룡뇽을 잡았다. 그동안 보았던 검은색 도룡뇽이 아니라 신기한 무늬를 가진 도룡뇽이었다. 하늘에 구름이 떠있는 색깔이었다. 하지만 도룡뇽이 금방 탈출해 버렸다. 너무 아쉬웠고 다음에 꼭! 다시 만나고 싶다 잘 지내라 ㅠㅠ도룡뇽</p>
+    </text>
+</SJML>

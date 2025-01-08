@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111780</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나눔바자회</title>
+            <author id="P11780" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">유수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191212" subclass="null_나눔바자회">
+        <p>12월 12일 목</p>
+        <p>날씨 바람훨훨</p>
+        <p>제목. 나눔바자회.</p>
+        <p>오늘은 3교시 부터 4교시까지 나눔바자회를 했다. 내가 판물건은, 딱지, 지우개, 장난감 등 을팔았다. 물건도잘팔리고 기부도 많이 했다. 너무너무 재밌었다.</p>
+    </text>
+</SJML>

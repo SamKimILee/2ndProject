@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711717</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자크 생일파티</title>
+            <author id="P11717" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="201809024" subclass="null_생일">
+        <p>오늘 &name1&생일에 갔다.</p>
+        <p>10시쯤에&name1&집에 갔다. 거기에서 &name2&,&name3&, 나, &name1&, 점심때 Cadbery World로 갔다. 피자랑 jelly를 먹었다. 3D영화도 밨다. 놀이터에서 잡기 놀이도 했다. 오늘이 잴 좋은 생일파티였다.</p>
+    </text>
+</SJML>

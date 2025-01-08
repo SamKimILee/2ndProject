@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201869</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미안합니다부치지못할편지가하나더늘었습니다</title>
+            <author id="P01869" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">백은진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_편지">
+        <p>
+            <s>부치지 못한 편지는 무덤이 되고</s>
+            <s>나는 정해진 날에 한 번</s>
+            <s>그 무덤에 가 새로히 장례를 치릅니다.</s>
+        </p>
+        <p>
+            <s>모든 종이는 축축하고</s>
+            <s>모든 글씨는 번져있지만</s>
+        </p>
+        <p>
+            <s>불씨만은 떨어뜨리지 못 하는 채로.</s>
+        </p>
+        <p>
+            <s>나는 그렇게 살아요.</s>
+        </p>
+        <p>
+            <s>희망은 불멸이라 죽지않고</s>
+            <s>행복은 단명이라,</s>
+        </p>
+        <p>
+            <s>모든 비극은 행복에서 시작되고</s>
+            <s>희망은 그 모든 것을 반복케 하여</s>
+        </p>
+        <p>
+            <s>죽지 못하도록 합니다.</s>
+        </p>
+        <p>
+            <s>사람들은 날 시체보듯 쳐다보고</s>
+            <s>난 괜찮아 익숙해져버렸으니</s>
+        </p>
+        <p>
+            <s>요즘엔 불행을 택할걸</s>
+            <s>차라리 후회를 합니다.</s>
+        </p>
+        <p>
+            <s>당신 없는 불행을 택했어야 했나.</s>
+            <s>쓸 수 없는 후회를 합니다.</s>
+        </p>
+        <p>
+            <s>그랬다면</s>
+            <s>무덤도</s>
+            <s>시체도</s>
+        </p>
+        <p>
+            <s>없었을까요?</s>
+        </p>
+    </text>
+</SJML>

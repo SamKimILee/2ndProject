@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211984</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마녀배달부 키키</title>
+            <author id="P11984" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_마녀배달부 키키">
+        <p>마녀배달부키키</p>
+        <p>마녀배달부키키를밨다. 재미있었다. 마녀배달부가진짜 있는지굼굼했다.</p>
+        <p>영화 볼 때 시끄럽게하면 방해되니까못말했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401829</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안락사</title>
+            <author id="P01829" age="26" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">정찬우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_안락사">
+        <p>
+            <s>날 죽여주오</s>
+            <s>미련을 버리기까지 참 많은 시간이 흘렀소</s>
+            <s>내 비록 신이 남겨둔 길</s>
+            <s>끝까지 가보지는 못했지만</s>
+            <s>결정하고 싶소</s>
+            <s>시작과 달리 끝은 내 의지로 말이오</s>
+            <s>이것이 내 마지막 권리요</s>
+            <s>나와 같이 함께 걷고 달려준</s>
+            <s>그대들에게 진심으로 고맙소</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511467</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠께</title>
+            <author id="P11467" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이현빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="아버지">
+        <p>아빠께</p>
+        <p>아빠 안녕하세요 저 &name1&이에요.</p>
+        <p>아빠 회사일 때문에 많이 힘드시죠?</p>
+        <p>우리가 아빠 말을 더욱더 잘 들을게요.</p>
+        <p>수학공부도 더욱더 열심히 할게요.</p>
+        <p>그런데 아빠 수학공부할때 잔소리는 하지 말아주셨으면 좋겠어요</p>
+        <p>그리고 아빠 생신땐 많이 멋진걸 만들어 드릴께요.</p>
+        <p>기대해주세요. 알았죠? 아빠 아빠가 나의 아빠라서 너무 행복해요 아빠 아주아주 많이 사랑해요.</p>
+        <p>-&name1&올림-</p>
+    </text>
+</SJML>

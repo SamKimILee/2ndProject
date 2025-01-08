@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203189</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하루가 저문다</title>
+            <author id="P03189" age="30" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">곽유경</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="사랑">
+        <p>두 손을 맞잡고 바람이 불어오는 다리 위를 천천히 걸었다. 석양이 지는 강은 반짝반짝 빛이 났고 물결은 잔잔한 파문을 남기며 조용히 흘렀다. 바람에 휘날리는 내 머리카락을 슬며시 넘겨 주며 웃는 네 모습이 좋아서, 그저 마냥 바라보고만 있었다. 마치 시간이 매우 느리게 흐르는 듯한 생경한 감각에 사로잡혔다.</p>
+        <p>그러다 문득 이렇게 하루가 가고 또 시간은 쉼없이 흘러가겠지만 그 유한함 속에서도 내가 네 곁에, 하루 더 함께할 수 있어 다행이라는 생각을 했다.</p>
+        <p>물론, 이런 맘 솔직하게 전하지 못해 "양화대교를 걸어서 건널 줄은 몰랐다"라며 "버스와 지하철도 있는데..."라고 허탈하게 웃는 너에게 아버지는 택시 드라이버~ 라는 시시한 농담을 던져 버린 나였지만 말이다.</p>
+    </text>
+</SJML>

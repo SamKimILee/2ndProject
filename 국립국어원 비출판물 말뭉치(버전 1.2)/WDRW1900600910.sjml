@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900600910</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바다가 보이는 집</title>
+            <author id="P00910" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">권아란</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바다">
+        <p>햇빛이 반짝이는 잔잔한 바다를 바라보면 우습게도 마음 또한 덩달아 잔잔해진다.</p>
+        <p>아주 잠시 나에게 위로가 된다</p>
+        <p>하지만 그 찰나일 뿐이다</p>
+        <p>돌아서면 다시 나는 우울과 절망 속으로 빠져 든다</p>
+        <p>바다가 보이는 집에 살면 어떨까</p>
+        <p>나의 우울을 떨쳐 낼 수 있을까</p>
+    </text>
+</SJML>

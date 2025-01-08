@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811729</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나를 좋아하는 사람들 내가 좋아하는 사람들</title>
+            <author id="P11729" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">한다경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사람">
+        <p>주제글 : 나를좋아하는 사람들 내가좋아하는 사람들</p>
+        <p>나를 좋아해주는 사람은 아빠, 엄마,동생 친할아버지, 친할머니, 외할아버지, 외할머니 이모, 이모부 너무 너무 많다.</p>
+        <p>거기에 친구들 까지 포함 하면 더 많다.</p>
+        <p>이렇게 적어보니 내가정말 사랑 받는 사람인것같아. 마음이 따뜻해지는 기분이 든다.</p>
+        <p>내가좋아하는사람은아빠,엄마, 친할아버지, 친할머니, 외할아버지, 외할머니, 동생이모, 이모부 친구들 나 자신 이다.</p>
+        <p>내가좋아하는사람도나를좋아해주는 사람들과 똑같은 것같다.</p>
+        <p>앞으로 내가 노력을 해서 나를좋아하는사람을 만들어내가좋아하는 사람도 많이생기게 해야겠다.</p>
+    </text>
+</SJML>

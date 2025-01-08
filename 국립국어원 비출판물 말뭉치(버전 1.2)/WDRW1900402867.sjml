@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402867</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새로운 분류법</title>
+            <author id="P02867" age="52" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_글자체">
+        <p>기존의 양식을 깨부수는 활자체들이 계속해서 나오고 있는 현실에서 기존의 방식만으로 글자체를 정의하고 분류하는 것은 그다지 효과적이지 못하다. 새로운 항목을 추가한다고 하더라도 그 항목에 부합하지 않는 새로운 것이 나오면 해당 분류법은 다시 한계에 직면할 수밖에 없다. 또한 지금의 분류법은 글자의 몇 가지 요소를 기준으로 카테고리를 부여하는 것으로 전문적인 지식이 없는 사용자는 이를 검색하고 선택하는 데 다소 어려움이 있다. 이제는 사용자가 글자체를 검색하고 선택하는 데에 실질적으로 도움이 되는 분류법이 필요하다고 생각한다.</p>
+    </text>
+</SJML>

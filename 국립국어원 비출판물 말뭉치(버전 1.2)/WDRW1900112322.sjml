@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112322</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>베이블레이드 대회</title>
+            <author id="P12322" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방하준</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_베이블레이드 대회">
+        <p>베이블레이드대회</p>
+        <p>베이블레이드 대회에 갔다. 처음 왔을 때는 목걸이와 자격증을을발급받고, 자유배틀을 했다. 그리고 2시~4시 까지 예선배틀을 했다.</p>
+        <p>다름 얘들은 다 나갔는데 나만 떨어져서 억울해서 짜증을 내고 기분이 않 좋았다.</p>
+        <p>그런데 엄마가 "짜증이 나는 것은 승부욕이 많아서 좋은 것이다." 라고 말하셔서 위로가 됐다.</p>
+        <p>다음 부터는 감정조절을 잘 해야겠다.</p>
+    </text>
+</SJML>

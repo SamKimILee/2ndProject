@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900701932</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>많다</title>
+            <author id="P01932" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">송한슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="많다">
+        <p>
+            <s>나는 나는</s>
+            <s>많아요!</s>
+        </p>
+        <p>
+            <s>친구가 많아요</s>
+            <s>장난감이 많아요</s>
+            <s>꿈도 많아요</s>
+            <s>옷도 많아요</s>
+        </p>
+        <p>
+            <s>나는</s>
+            <s>나는</s>
+            <s>뭐든게 다</s>
+            <s>많아요!</s>
+        </p>
+    </text>
+</SJML>

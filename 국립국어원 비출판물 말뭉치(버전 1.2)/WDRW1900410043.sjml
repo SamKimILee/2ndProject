@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410043</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>똑같은 성탄절</title>
+            <author id="P10043" age="10" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">최예선</author>
+        </sourceInfo>
+    </header>
+    <text date="20120000" subclass="null_성탄절">
+        <p>오늘은 성탄절. 뭐 다른 애들은 크리스마스라고 부모님께 선물 사달라고 조르거나 산타할아버지를 손꼽아 기다리겠지만 우리 가족의 성탄절은 해마다 같다. 먼저 예수님의 생신을 축하드리는 예배를 드리고 아빠의 친구들을 만나 맛있는 저녁을 먹는다. 그나마 이번엔 조금 평범하지 않았던 것 같다. 사업에 성공하여 부자가 되어 60층 넘게 높은 아파트에 사는 부자친구 집에 놀러갔다. 엘리베이터 올라가는데 침을 꼴딱꼴딱 삼키지 않으면 귀가 멍멍해질 정도로 높았다. 맛있는 오리고기를 먹었다. 그리고 그 오리고기집에 있는 놀이방에 추억의 오락 게임이 있었다. 격투게임은 역시 내가 최고였다. 똑같지만 재미있는 하루였다.</p>
+    </text>
+</SJML>

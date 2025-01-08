@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305190</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설명을 잘 합시다.</title>
+            <author id="P05190" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_설명">
+        <p>몇 주전 있었던 일이다. 친구와 함께 길을 걷던 중 한 친구가 '정말 귀엽다'고 좋아했다. 이 친구를 A라 하겠다.</p>
+        <p>아무튼 이 친구A는 귀엽다고 저것 좀 보라며 말했지만 내 눈엔 비둘기 한 마리만  보였다...</p>
+        <p>설마.. 저 비둘기를 말하는거야? 생각했다.</p>
+        <p>하지만 아니겠지 싶었다.</p>
+        <p>반응이 심상치않자 친구A는 '저 하얀 거 봐'라 말했다.</p>
+        <p>그 비둘기의 꼬리깃이 하얀색이었다.</p>
+        <p>그 순간 난 얘가 비둘기가 귀엽다고 한거구나! 했다. 어색하게 응...그러니... 대답을 하고 이야기를 해봤더니 서로 다른 걸 생각하고 있었다.</p>
+        <p>친구A가 말한 건 지나가던 하얀 개였다.</p>
+        <p>나와 친구B가 생각한 건 비둘기였다(심지어 생각도 똑같이 했다)</p>
+        <p>이 이야기를 하며 다같이 웃었다.</p>
+        <p>그리고 구체적으로 설명하게 되었다.</p>
+    </text>
+</SJML>

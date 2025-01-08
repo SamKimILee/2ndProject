@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111671</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한달에 한번 미술관 수업</title>
+            <author id="P11671" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_미술관">
+        <p>오늘은 미술관을 갔다. 미술관 에는 흥미로운게 많았다. 내가 보기에 가장 흥미로운것은 물감을 담는쟁반이였다. 옜날 선조들은 오늘날과는 다르게 접시에 물감을 담아서 썼다고한다. 옛날 선조들은 불편하지 않은가 힘들지 않은가 궁금해진다. 오늘은 참신기하고 흥미로운날이다. 다음달이빨리되서또 가고싶다.</p>
+    </text>
+</SJML>

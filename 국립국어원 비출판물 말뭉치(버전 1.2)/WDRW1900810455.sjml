@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810455</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한방울도소중해요. 놀이</title>
+            <author id="P10455" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190717" subclass="학교">
+        <p>오늘은 한방울도소중해요 놀이를했다. 그놀이는 물을떠오는거다.그놀이를했는데 우리팀이졌다. 우리팀은질서는다이겼지만 놀이는 졌다 한번은 한방울로졌다. 이제는 한방울도아껴야겠다그리고 다음에도했으면좋겠다.</p>
+    </text>
+</SJML>

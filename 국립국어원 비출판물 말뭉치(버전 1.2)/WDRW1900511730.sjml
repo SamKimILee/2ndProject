@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511730</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>각오</title>
+            <author id="P11730" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="학교">
+        <p>학교에 가고싶다.</p>
+        <p>너무너무 가고싶다.</p>
+        <p>본의 아니게 세 달의 방학을 집에서만 보내게 됐다.</p>
+        <p>덕분에 나 홀로 자기 주도 학습을 하게 됐다.</p>
+        <p>이번 기회에 열심히 해서 꼭 전교 1등 해야겠다!!</p>
+        <p>강당 앞에 나와서 전 과목 학력 우수 상을 받고 선망의 눈빛을 왕창 받는 장면을 상상하며 열심히 공부 해야겠다!!!!</p>
+    </text>
+</SJML>

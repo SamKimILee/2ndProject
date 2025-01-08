@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120096</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P20096" age="62" occupation="전업주부" sex="F" submission="오프라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20100701" subclass="null_수술">
+        <p>2010년 7월 1 일 일기- 진주경상대학병원에 팔 아픈거 결과 보러 가는날이다. 그런데 수술을 하자고 했다. &name1& 교수는 빨리 했으면 했는데 당장 7월 2일로 잡아줘서 여러가지 검사 받느라고 시간을 다 써버리고 집에 오니까 오후 6시가 넘었다. 심장검사까지 보고 나니까 혼자 가만히 생각하니 안하는게 낫다고 생각하고 &name2&이하고 알아보고 생각하기로 했다. 그런데 신경이 한쪽은 조금은 끊어지고 한쪽은 길게 고무줄처럼 늘어져있어 100%좋게 된다는 장담은 못한다고 했다. 차라리 안하는게 낫겟다고 생각해 안하기로 했다. 잘 모르지만 고생 덜 하고 후회를 덜 할것같다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612314</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>키즈 카페에 갔다.</title>
+            <author id="P12314" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정지후</author>
+        </sourceInfo>
+    </header>
+    <text date="20191106" subclass="null_키즈 카페">
+        <p>주산을갔다가키즈카페에서놀다가 &name1&이랑 &name2&랑 식당애서 우동을 맛있게 먹었다.</p>
+        <p>그리고집에 갔다가 할아버지집에 가서 족발을먹고집에 왔다.</p>
+        <p>나는 족발이 너무 맛있다.</p>
+    </text>
+</SJML>

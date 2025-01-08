@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210372</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사람과 삶 사이</title>
+            <author id="P10372" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사람">
+        <p>
+            <s>사람을 입력하다가</s>
+            <s>삶이 되버렸다</s>
+            <s>사실 신은 사람을 만들다가</s>
+            <s>'ㅏ' 만큼이나 중요한 한가지를 빼먹어서</s>
+            <s>스스로 삶을 살게된 것 아닐까</s>
+            <s>스스로 삶을 살기 위해</s>
+            <s>나는 무엇을 빼먹어야 할까</s>
+            <s>사람과 삶 사이의 무언가를</s>
+        </p>
+    </text>
+</SJML>

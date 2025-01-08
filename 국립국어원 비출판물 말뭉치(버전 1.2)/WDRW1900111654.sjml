@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111654</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태권도, 아빠랑 논 날</title>
+            <author id="P11654" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김준홍</author>
+        </sourceInfo>
+    </header>
+    <text date="20200128" subclass="null_태권도">
+        <p>&lt;태권도, 아빠랑 논 날&gt;</p>
+        <p>오랜만에 태권도를가서 재미있었다.</p>
+        <p>태권도는 역시 재미있다.오늘은 발차기와 스트레칭을 했다.관장님이 다리찌끼가 잘 된다고 하니 너무 기분이 좋았다.내일은 노는 날이다. 그래서 꼭우리팀이이길 것이다.오늘의 정말 멎진 하루였다.그리고 아빠랑 놀았다.</p>
+        <p>침대에서 레슬링을 했다.아빠가 팔꿈치로 어깨를 찍어서 너무 아팠다.그래 재미있게 아빠랑 진짜잘논 것이다. 내일 피구는 꼭! 일길거이다.</p>
+    </text>
+</SJML>

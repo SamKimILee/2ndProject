@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900601269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>뜨거운 우울</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_우울">
+        <p>
+            <s>가슴 속이 타들어간다</s>
+            <s>온몸을 집너삼킬 듯이</s>
+            <s>내 안의 불씨는 오늘도 점점 더 커져만 간다</s>
+            <s>나의 불씨는 산소가 아닌 분노에 의해 타오른다</s>
+            <s>괴롭게 속을 다  태워버리고,</s>
+            <s>또 차갑게 식는다</s>
+            <s>나의 뜨거운 우울</s>
+            <s>내일 밤이면 또 다시 타오르겠지</s>
+        </p>
+    </text>
+</SJML>

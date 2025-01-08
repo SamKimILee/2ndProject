@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101353</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>부산식당탐방기</title>
+            <author id="P01353" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_부산 식당">
+        <p>나는 부산에 거주하는 학생 A이다. 요즈음 밖에 나가서 식사할 일이 많아 최근에 들렸던 식당을 리뷰해보겠다</p>
+        <p>첫 번째로는 남천동의 '오사돈'. 오늘만 사는 돈끼스라는 의미로 제목 그대로 돈까스 전문점이다. 조그마한 2인 상이 있어 혼밥하기도 나쁘지 않았다. 가격은 6-8000원 대로 남천동에선 저렴한 편이다.</p>
+        <p>나는 2번을 방문해서 눈꽃치즈 돈까스와 돈까스카레를 주문했었는데, 일단 두 메뉴 다 원가를 아끼려고 하는 느낌은 들지 않았다. 고기 두께도 두툼하고 크기도 나쁘지 않았다. 그러나 너무 기본에 충실한 맛으로 가게 특이 요소가 아무것도 없어 심심했다. 시중의 레시피를 아주 정확하게 따라하면 나오는 맛이라고 해야 할까. 소스도 시중의 소스를 그대로 사용하고 있고, 육수도 제공받아 쓰는 것 같았다. 별점은 5점 만점의 3점.</p>
+    </text>
+</SJML>

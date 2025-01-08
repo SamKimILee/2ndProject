@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411654</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>운동회 뽑기 2일전 날</title>
+            <author id="P11654" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김준홍</author>
+        </sourceInfo>
+    </header>
+    <text date="20191005" subclass="null_운동회">
+        <p>&lt;운동회 뽑기 2일전 날&gt;</p>
+        <p>운동회 뽑기에서 내가 꼭!   일등할거다.</p>
+        <p>운동회에나가서 일등하면 좋겠다.</p>
+        <p>그래서 오늘 엄마랑 같이 축구를 하러 나갔다. 나가서 엄마와 같이 축구를 하다가 엄마는 겄고 나는 축구를 했다. 운동회에서 꼭 일등을 차지할거다.</p>
+        <p>화이팅!!</p>
+    </text>
+</SJML>

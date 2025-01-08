@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202192</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>발표 요약문에 대한 문의 메일</title>
+            <author id="P02192" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_요약문">
+        <p>라ㅇㅇ 교수님께</p>
+        <p>안녕하세요, 안ㅇㅇ입니다.</p>
+        <p>다름이 아니라 발표 요약문에 대해 궁금한 점이 있어 메일을 보내게 되었습니다.</p>
+        <p>자유 주제로 발표할 수 있도록 배려해 주셔서, 한국의 음식과 문화에 대한 발표를 간단히 준비했습니다. 아직까지는 일본어로 말하고자 하는 바를 정확히 전달하기가 어려워서, 학문적인 이야기보다는 흥미로운 이야기 위주로 준비하였는데.. 그 때문에 요약문을 따로 준비하기에는 발표의 내용상, 중요한 부분을 추려내는 것이 어렵다고 생각합니다.</p>
+        <p>때문에 발표에 관한 요약문을 반드시 준비하여야 하는지 여쭈어보고 싶습니다.</p>
+        <p>&name1& 올림</p>
+    </text>
+</SJML>

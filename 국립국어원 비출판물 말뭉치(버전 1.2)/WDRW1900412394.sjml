@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412394</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수학 선행</title>
+            <author id="P12394" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">서승연</author>
+        </sourceInfo>
+    </header>
+    <text date="20181115" subclass="null_선행">
+        <p>나는 오늘 쉬는시간에 &name1&이에게 얘기하려고 &name1&이 자리에 갔는데&name1&이가 수학문제집을 풀고있던것이다.</p>
+        <p>그것도 5학년1학기것을 내눈에는 흰종이에 알수없는 문구들이 있었다</p>
+        <p>그것은바로 최대공약수최소공배수였다</p>
+        <p>몇칠전엔 통분약분을 하더니 나는 최대공약수와 최소공배수가 너무나도궁금하였지만 무시당할까봐 물어보지 않고 아는척!을 하며 &name2&에게 갔다.&name2&에게 수학뭐푸냐고 물어보았다.</p>
+        <p>&name2&는 분수의 나눗셈을 한다고 했다.</p>
+        <p>헉 믿었던 수포자친구였는데 이젠 수학이 좋다고하고 심지어 &name2&는 5학년 2학기 것을 풀고 있다.</p>
+        <p>나만선행을 안하는 것 같다.</p>
+        <p>꼭  선행을 해야하는거야!!???</p>
+        <p>&name2&</p>
+    </text>
+</SJML>

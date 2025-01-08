@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109872</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구랑 논 날</title>
+            <author id="P09872" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김현준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_일기">
+        <p>공원에서 친구랑 놀았다. 축구를 했는데 공을 세게 차려다가 넘어졌다. 엉덩방아를 찍었는데 엉덩이는 안아프고 허리가 았팠다. 그리고 비행기를 날리며 놀았다. 비행기를 날려봤는데 앞으로 나가면서 하늘에 둥둥 떠있었다. 멀리 날라 가고 축구를 하다가 엉덩방아를 찍었지만 기분이좋았다.</p>
+    </text>
+</SJML>

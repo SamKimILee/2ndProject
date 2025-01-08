@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410567</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사촌동생이랑  논 날</title>
+            <author id="P10567" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">허다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190810" subclass="null_사촌동생">
+        <p>제목:사촌동생이랑논날</p>
+        <p>사촌동생이랑놀았다.여자이고3살이다 너무너무 귀엽다.재미있는 놀이를하였다.</p>
+        <p>숨박꼭질도하고, 자동차놀이도하고, 케익놀이등등을했다.저녁밥을먹었다.고기반찬을먹었다.늦은밤에 가족과 카페를 갔다.어른은 커피를먹고,나랑 사촌동생은팥빙수를먹었다.(빙수는어른들도같이먹었다.)사촌동생이랑헤어질시간이다.섭섭했지만좋은하루였다.(너무졸렸다)</p>
+        <p>일기 끝</p>
+    </text>
+</SJML>

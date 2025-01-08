@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612268</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삼촌이 오신날!</title>
+            <author id="P12268" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200127" subclass="null_삼촌">
+        <p>2020년 27일 목요일</p>
+        <p>제목: 삼촌이 오신날! 일본여행을 같다온지 1주일 만에 일본에 사시는 삼촌이 오셨다!</p>
+        <p>삼촌오셔 레고도 사주시고 나와&name1&이랑 같이 놀아주셨다. &name2&이모도 오셔서 새뱄돈도 주시고 놀아주셭다. 정말 재미있었다. 삼촌이 빨리 가셔서 아쉬웠다. 다음에도 오셨으면 좋겠다!</p>
+    </text>
+</SJML>

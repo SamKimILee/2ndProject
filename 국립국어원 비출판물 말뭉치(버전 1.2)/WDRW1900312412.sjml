@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>강아지 똥</title>
+            <author id="P12412" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">윤진희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190723" subclass="null_강아지 똥">
+        <p>1교시에 선생님께서강아지 똥 책을 읽어주었다.</p>
+        <p>가장 기억 남는 장면은 강아지 똥이 미들레 꽃안아는 장면이다.</p>
+        <p>강아지 똥 이혼자 있으니까 왜루어스 거같다.</p>
+    </text>
+</SJML>

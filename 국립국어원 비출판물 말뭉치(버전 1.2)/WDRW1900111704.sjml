@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111704</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>완벽한  연주회를 하고 싶어요!</title>
+            <author id="P11704" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지후</author>
+        </sourceInfo>
+    </header>
+    <text date="201909022" subclass="null_연주회">
+        <p>2019년 9월 22일 일요일 날씨:해와 비와 싸워서 이김</p>
+        <p>제목:완벽한 피아노 연주회를 하고 싶어요!!</p>
+        <p>내가 다니는 리틀쇼팽 음악학원에는 11월 16일에 피아노 연주회가 있다. 나는 그 연주회를 나가게 되었다. 처음 연주회라서 무지무지 떨린다. 아직 시간은 많지만 11월 16일날 틀리지 않고 완벽하게 곡을 치기 위해 엄청 열심히 연습을 했다. 나는 월,화,목에 헨델 반(내가 다니는 반)에 간다. 내가 치는 곡은 아주 어렵다.그리고 무려 6장이나 된다. 어렵지만 그 곡은 넘 재미있어서 자꾸 치고 싶어진다.지금 이 글을 쓰면서도 그 곡이 치고 싶어졌다. 앞으로도 많이많이 연습해서 꼭!</p>
+        <p>멋지고 완벽한 연주회를 하고 싶다!</p>
+    </text>
+</SJML>

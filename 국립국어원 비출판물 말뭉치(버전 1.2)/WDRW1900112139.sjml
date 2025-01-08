@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112139</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>주사위 게임</title>
+            <author id="P12139" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김상휘</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_주사위 게임">
+        <p>나는 오 늘 오전에 매우 심심했다.</p>
+        <p>매우 억 수로 심각하게 아주 심심했다.</p>
+        <p>그래서 아주 아주 아주 × 100 재 미 있는 주사위 게임을 만들 었다. 그것 은 신박하지만 재미 있었다. 그 주사위 게임을 내 동생이랑 같이 했다. 동생이 재미 있어했다. 동생이 재미 있어하니 나도 기분이 좋 아겼 었다</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410137</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>만두빚기</title>
+            <author id="P10137" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최준민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191223" subclass="null_만두빚기">
+        <p>제목:만두빗기</p>
+        <p>만드를 빗었다.처음에는 재미있었는데 갈수록허리가 아팠다.만두피 2통을다 빗어서누나가3통을 더사왔다.3통을더 만드니 허리가더아파 졌다.내가 한 만두를먹으니허리아픈게싹사라졌 다.좋은추억이되고 기뻤다. 다음에또만들고싶다.</p>
+    </text>
+</SJML>

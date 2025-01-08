@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111892</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마의 교통사고</title>
+            <author id="P11892" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_교통사고">
+        <p>&lt;생활글&gt;</p>
+        <p>엄마 교통사고</p>
+        <p>자유초등학교</p>
+        <p>2학년 3반</p>
+        <p>&name1&</p>
+        <p>나와 언니를 학교에 데려다주고 나서 엄마가 회사에가는데 접촉사고가 났다. 엄마는 입원을 했다. 나는 모르고 친구들과 신나게 놀고있었다. 점심도 맛있게 먹었다. 룰루랄라 집으로 갔다. 그런데 할머니께서 "윤진아, 엄마가 교통사고가 나서 입원했다. 그러니 오늘은 집에 가지말고 할머니랑 있자." 라고 말씀하셨다.</p>
+        <p>'어쩌면 좋아' 라고 생각했다. 동생은 으앙으앙 울었다. 다음날 엄마 병문안을 갔다. 나하고 동생은 엄마 팔을 주물러들였다. 나는 엄마 품으로 들어갔다. 너무 포근했다. 아빠는 엄마가 좋아하는 치킨과족발을 사주셨다. 동생은 양손에 치킨을 들고 뜯어먹었다. 참 맛있었다. 나는 엄마에게 물었다. "엄마 왜 사고가 났어요?"</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102422</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>상경</title>
+            <author id="P02422" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="서울">
+        <p>2014년 1월 20여년을 여수에서 살았던 나는 대학을 가기 위해 서울로 상경했다. 서울에서 직장을 다니는 누나 집에 기생했다. 그때부터 나는 그들의 골칫거리였을지도 모르겠다. 난 어서 취업을 하고 독립하고 싶다. 편해야하는 집안에서 눈칫밥을 먹는 일은 정말 고달프기 때문이다. 내가 독립을 하던가 아니면 그들이 결혼을 하던가. 올해 나의 가장 큰 소원이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새 학년이 되면 꼭 실천하겠다' 하는 것들</title>
+            <author id="P11509" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤여림</author>
+        </sourceInfo>
+    </header>
+    <text date="20191229" subclass="null_새 학년">
+        <p>2019년 12월 29일 일요일 날씨: 양호</p>
+        <p>주제: ‘새 학년이 되면 꼭 실천하겠다’ 하는 것들</p>
+        <p>1. 손톱을 뜯지 않겠다.</p>
+        <p>=&gt; 뜯고는 있는데 뜯으면 메스꺼워지고 다른 애들의 긴 손톱을 볼때마다 내 손톱을 보면서 비교하게 되기 때문이다.</p>
+        <p>2. 친구를 많이 사귀겠다.</p>
+        <p>=&gt; 전교에서 친구가 두명밖에 없고 두명밖에 없으니까 친구들이랑 노는 시간도 줄어들기때문이다.</p>
+        <p>3. 한 번 삐지면 남이 사과할때까지 삐져있지 않겠다.</p>
+        <p>=&gt; 자꾸 그러면 성격도 나빠지고 친구도 줄어들기 때문이다.친구가 자꾸 줄어들면 2번에 어긋난다.</p>
+        <p>4. 의젓한 4학년이 되겠다.</p>
+        <p>=&gt; 맨날 한 학년 올라갈때마다 의젓한 학년이 되겠다고 다짐했는데 항상 못지키기 때문이다.</p>
+    </text>
+</SJML>

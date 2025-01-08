@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611530</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>컴퓨터 시험</title>
+            <author id="P11530" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장원준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_컴퓨터 시험">
+        <p>&lt;제목: 컴퓨터시험&gt;</p>
+        <p>뚜둔! 드디어 컴퓨터 시험을 지는 날이다. 아침에 얼른일어나서 준비하고 어벤장스가 간다. 긴장돼서 머리가 띵~ 하다. 감독님이 설명을 마치고 한다. 7분후(아! 맞다. 시험시간은 40분이다)슬라이드1개 8분후 슬라이드 2개 3분후슬라이드3개 11분후 다완성! 그리고 틀린것을 확인하고 고치고 저장 찰칵! 시험이 끝났다. 뭔가 찜찜하지만 좋았다. 이대로 자격증 Go~ Go~!</p>
+    </text>
+</SJML>

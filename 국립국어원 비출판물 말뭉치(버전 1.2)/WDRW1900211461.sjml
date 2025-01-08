@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211461</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&에게</title>
+            <author id="P11461" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박하윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200214" subclass="null_천사">
+        <p>&name1&이에게</p>
+        <p>안녕? 나는 &name2&이야.시원하고 유쾌스러운 비행사 아니 착한 만년샤쓰야.자기가 입어야 할 옷을 벗어 다른 사람들에게 나누어 주는 착한 천사야,너는 자기보다 남을 더 챙겨주고 추워서 벌벌 떨면 자기의 몸이 꽁꽁 얼더라도 벗어 주고, 친구들을 웃게 만드는 하늘에서 보내주신 천사같아.어떻게 그렇게 착하게 행동할 수 있니? 나라면 할 생각도 못할 것 같아.너의 모습을 보니, 나도 착한 행동을 하고, 항상 나누어 주고, 베푸는 착한 어린이가 되어야겠어.다음에 만날 때는 꼭 착하고, 나누고, 베푸는 예의바른 어린이가 되어 있을게.</p>
+        <p>2월 14일</p>
+        <p>&name2&이가</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102309</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>짧막한 다독임</title>
+            <author id="P02309" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_위로">
+        <p>친구야,</p>
+        <p>감정은 이따금씩 바다 한가운데서 들이닥치는 폭풍우 같아. 잠잠하다가도 생각을 가눌 수 없을 만큼 거세게 휩싸고, 그러다 아무런 일 없었다는 듯이 잔잔해지고. 분명 우리의 일부임에도 제어할 수 없다는 사실이 때로는 속상하게 느껴져.</p>
+        <p>넘어졌다가 다시 딛고 일어서는 과정이 거듭되면 회의감에 지긋지긋해질지도 몰라. 인생은 거시적인 측면에서 순환하는 양상을 보이기도 하지만 항상 똑같은 자리를 맴도는 건 아닐 거라고 생각해. 우리는 날마다 변화하고 있으니까. 당장은 눈치채기 어려울 만큼 미미하더라도 시간이 쌓이고 쌓이면 두텁고 단단해질거야. 누가 봐도 알 수 있을 만큼! 지치고 힘들 때는 쉬어도 돼. 기계도 쉴 새 없이 가동하면 끝내 고장나는데 사람이라고 다를까. 기운이 돋으면 함께 조금씩 앞으로 나아가자.</p>
+    </text>
+</SJML>

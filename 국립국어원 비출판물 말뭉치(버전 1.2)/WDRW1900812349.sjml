@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812349</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>라면</title>
+            <author id="P12349" age="11" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_라면">
+        <p>
+            <s>&lt;라면&gt;</s>
+        </p>
+        <p>
+            <s>라면을 끓여서</s>
+            <s>맛있게 호로록</s>
+        </p>
+        <p>
+            <s>라면 국물은</s>
+            <s>밥으로 쩝쩝쩝</s>
+        </p>
+        <p>
+            <s>라면은 이렇게</s>
+            <s>먹어야 제 맛이지!</s>
+        </p>
+    </text>
+</SJML>

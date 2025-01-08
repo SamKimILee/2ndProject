@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412225</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삼식이 똥꼬털</title>
+            <author id="P12225" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시언</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_고양이">
+        <p>우리집에 삼식이라는 고양이가 있다. 삼식이는 처음에 밥그릇만 했지만 지금은 내가 못들 만큼 크다. 하지만 똥꼬에 똥이 묻을때가 있다. 그럴땐 삼식이가 설사를 했다는거다. 오늘 똥꼬에 똥이 묻어 물티슈로 닦으려고 했지만 난리를 쳐서 실패했다. 삼식이 털은 북실북실한데 똥꼬털에 똥이 묻어 냄새가 폴폴 났다. 똥꼬털에서 똥떼기가 힘들다.</p>
+        <p>"삼식아, 난리 치지 마라. 우리가 깨끗하게 해줄게."</p>
+    </text>
+</SJML>

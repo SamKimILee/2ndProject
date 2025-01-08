@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310468</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을 하늘</title>
+            <author id="P10468" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">서율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_가을">
+        <p>
+            <s>가 을 하늘</s>
+            <s>단풍나무에서</s>
+            <s>낙엽이떨어져 낙엽 밟으니</s>
+            <s>흰구름이 나를반기네</s>
+            <s>하늘 하늘 파랑 이네</s>
+            <s>저 구름에 파고들고 싶다.</s>
+        </p>
+    </text>
+</SJML>

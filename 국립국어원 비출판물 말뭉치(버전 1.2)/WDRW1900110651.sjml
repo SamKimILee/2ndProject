@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110651</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여름은 온다</title>
+            <author id="P10651" age="13" occupation="중학생" sex="M" submission="온라인" handwriting="No">이찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시기">
+        <p>지금은 매우매우 추운 겨울이다. 지나가는 사람들은 다 목도리를 돌돌 감고, 옷을 두껍게 입고 어디론가 나간다. 거리에는 여름에는 비닐로 쌓여있던 붕어빵가게가 문을 열고, 간혹 닭꼬치도 판다. 아 오늘은 군 고구마도 파는 걸 봤다. 여름에는 보기 어려웠던 음식들이 자연스럽게 거리를 활보한다. 여름에는 보기 힘들었던 것들이 당연하게 오는 시기가 오듯 우리도 그런 것 같다. 전학갔던 친구와 우연히 만나서 그때보다 더 친해지고, 영원히 손에 넣을 수 없을 것같은 기회를 잡고. 그래서 우리는 항상 좌절을 하고도 다시 일어서는 것 아닐까.</p>
+    </text>
+</SJML>

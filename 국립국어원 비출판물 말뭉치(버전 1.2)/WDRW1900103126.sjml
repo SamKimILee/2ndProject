@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103126</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>작은 내 반쪽</title>
+            <author id="P03126" age="25" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="만나다">
+        <p>
+            <s>눈 감고 누우면</s>
+            <s>가까워 지는 거리감에</s>
+            <s>장난치는 모습이 좋았다</s>
+        </p>
+        <p>
+            <s>머리카락에서 어렴풋이 느껴지는</s>
+            <s>작은 발, 보드라운 털, 까끌한 혀</s>
+        </p>
+        <p>
+            <s>내 옆에서 떠나지않는 너를 보며</s>
+            <s>언제부터 였는지</s>
+            <s>큰 존재감으로 가득찬다</s>
+        </p>
+        <p>
+            <s>너는 이미 내 반쪽이되어</s>
+            <s>내 삶에 스며들었고</s>
+            <s>생활의 기준이 되어 버린 존재</s>
+        </p>
+        <p>
+            <s>저 작은 눈 동자로 보는 세상이</s>
+            <s>나와 같기를</s>
+            <s>행복 하기를</s>
+        </p>
+        <p>
+            <s>눈 감고 누우면</s>
+            <s>어제와 같은 모습으로</s>
+            <s>함께 아침을 맞이 하고싶다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>롯데리아</title>
+            <author id="P12063" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20200112" subclass="null_햄버거">
+        <p>오늘은 롯데리아에 가서 햄버거를만들어 먹었다불고기버거도 만들고 감자튀김도만들었다 맛있었다 직접만들어 먹으니까너무맛이있었다 앞치마도 선물로받고 햄버거상품권도 받았다 기분이좋았다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512521</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년3월 10일 일기</title>
+            <author id="P12521" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">소희원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200310" subclass="null_소원">
+        <p>2020년 3월 10일</p>
+        <p>나의 소원</p>
+        <p>1 IKEA에 파는 큰 북금곰인형 ○내일</p>
+        <p>2 네방</p>
+        <p>3. 엄마가 힘들지 않게 ○오는</p>
+        <p>왜? 이유</p>
+        <p>1 네방이 생기면 엄마처럼 품어</p>
+        <p>안고 자고 네 친구들 것이다 큰 인형이 있어서</p>
+        <p>2 왜 내(사촌, 친구, 언니) 내가아는</p>
+        <p>사람거이다 있고 거실 방이 더럽지 않기 위해 네방도 께끗하고</p>
+        <p>3 엄마가 없으면 불안하고 무섭고 이레서 그리고 엄마를 많이 사랑하기 때문에</p>
+        <p>있은면 어뜨게 엄마에거해줄것인가</p>
+        <p>1 책읽기 30분 10분 소리내어 읽기</p>
+        <p>2 일주일에 3일은 할거 다하기</p>
+        <p>3 언제나 도와드리기 무료</p>
+        <p>4 아침 저녁 미아리산먹기</p>
+        <p>5 아침 저년 유산균 먹기</p>
+    </text>
+</SJML>

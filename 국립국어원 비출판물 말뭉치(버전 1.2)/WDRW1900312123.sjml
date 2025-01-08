@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312123</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>잠옷파티 한 날</title>
+            <author id="P12123" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이서은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_잠옷 파티">
+        <p>&lt; 잠옷 파티한날 &gt;</p>
+        <p>오늘은  친구와 오랜만에  잠옷 파티를 했다.</p>
+        <p>코로나 바이러스 때문에 못놀았었는데 친구와 오랜만에 만나서 좋았다. 한동안 밖에 나가지 못해서 심심했는데 친구랑 실컷노니까 평소에 놀던것보다 더 재미있는 느낌이 들었다. 친구와 함께 과자랑아이스크림도 먹고 영화도 봤다. 얼마전에 가족들이랑 영화를 봤었는데 오랜만에 보는 친구와 함께보니, 가족과 보는것보다 2배는더 재미있는것 같다. 친구와 잠을 잤는데 친구와 이야기를 나누다가 밤 2시가 되어서 잠이들었다.</p>
+        <p>그런데 아침에 7시30분에 일어나서 신기했다.</p>
+        <p>내일이면 친구가 벌써 가는날이다. 더 놀고싶다.</p>
+    </text>
+</SJML>

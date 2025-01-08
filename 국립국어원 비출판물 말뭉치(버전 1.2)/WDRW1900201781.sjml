@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201781</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아침 글쓰기 1일차</title>
+            <author id="P01781" age="26" occupation="자영업자" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_텔레비전">
+        <p>텔레비전 없는 삶을 살고 싶다. 알람이 아니라 아침마당을 들으면서 깨는 것이 심장 건강에는 더 좋을지도 모르겠으나....</p>
+        <p>을 다시 읽는 꿈을 꿨는데, 샤이어에서 시작하지 않아서 대단히 박진감 넘쳤다. 물론 실제와는 무관한 내 상상 속의 소설이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411709</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연필깎이</title>
+            <author id="P11709" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권예령</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_연필깎이">
+        <p>
+            <s>연필깎이</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>연필이 뚝! 뿌셔졌어!</s>
+            <s>이럴땐 연필깎이가 등장</s>
+            <s>하지! 연필깎이가 드륵륵드르륵~</s>
+            <s>깎이면 연필이 마법처럼</s>
+            <s>되살아 나는것 같아!</s>
+            <s>모든 연필을깎아내는 너</s>
+            <s>연필깎이 칭찬해!</s>
+        </p>
+    </text>
+</SJML>

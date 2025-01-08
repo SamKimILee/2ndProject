@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210490</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신문광고나 광고의 한장면 오려내고 말주머니에 일기 쓰기!</title>
+            <author id="P10490" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190403" subclass="null_광고">
+        <p>주제:신문광고나 광고의 한장면 오려내고 말주머니에 일기 쓰기!</p>
+        <p>오늘은 일기 주제가 재밌는것 같았다. 처음에는 할것이 없어서 생각을 깊게 했지만 생각을 더 해보니 간단한 것이었다. 이 아저씨는 누구인지 모르지만....유명한분은 아닌것 같은 느낌이 든다. 나는 오늘 수학을 100점을 맞아서 기분이 좋고, 이 아저씨는 광고를 해서, 돈을 벌었어서 기분이 좋은것 같다. 나도 아저씨도 오늘은 너무 좋은 날인것 같다.</p>
+        <p>(광고: 건물회사)</p>
+    </text>
+</SJML>

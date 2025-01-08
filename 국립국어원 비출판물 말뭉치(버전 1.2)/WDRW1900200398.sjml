@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200398</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화) > 단문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구</title>
+            <author id="P00398" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">노수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>보고 싶은 친구가 한 명 있다. 아주 어렸을 적 만났던 솔직히 말하면 얼굴도 기억 안 나는 그 애. 그 애 이름은 &name1&였다. 김&name1&였던가 박&name1&였던가. 걔네 엄마는 김씨였고 아빠는 박씨였다. 부모님이 이혼했다는 소식을 들었던 것도 같은데. 이혼했으면 김&name1&일 테고 아니면 박씨일 테지. 언젠가 &name1&가 나한테 좋아한다고 말한 적이 있다. 나는 여자를 좋아하는 게 아냐 나는 널 좋아하는 거야 그렇게 말하며 &name1&는 얼굴을 붉혔다. 슬퍼서 빨개진 건지 부끄러워서 빨개진 건지 궁금했지만 물어볼 수 없었다. 그 뒤로 나는 &name1&를 만난 적이 없다. 그래서 &name1&야 그때 붉힌 얼굴의 의미는 뭐였어?</p>
+    </text>
+</SJML>

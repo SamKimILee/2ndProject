@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409871</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을 바람</title>
+            <author id="P09871" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_가을 바람">
+        <p>
+            <s>가을 바람</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>가을 바람은</s>
+            <s>살랑살랑</s>
+            <s>어떨때는</s>
+            <s>겨울처럼</s>
+            <s>휘잉~~</s>
+            <s>휘잉~~</s>
+            <s>벌써 겨울이</s>
+            <s>왔나봐요</s>
+            <s>가을바람아</s>
+            <s>안녕!</s>
+        </p>
+    </text>
+</SJML>

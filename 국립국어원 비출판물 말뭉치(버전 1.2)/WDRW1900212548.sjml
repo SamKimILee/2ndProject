@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비</title>
+            <author id="P12548" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김수영</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_비">
+        <p>할머니 집에서 저녁을 먹고 나오는데 비가 왔다. 많이와서 차로 갈수가 없었다. 그래서 놀았다. 숨바꼭질도 하고 바람 없는곳에 숨었다. 구름이 화가나서 천둥을 만들었다.^^ 땅이 물로 가득했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901820027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미사수변공원</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190810" subclass="null_미사수변공원">
+        <p>8월 10일 금 요일 날씨: 불 타 오르도록더운날</p>
+        <p>나는 오늘 친구와 아빠동생나 하고 같이 미사 수변공원 에 갔 다 나는 거기에 물이너무 얇았다.</p>
+        <p>하지만 정당한 물 깊이 가 있었다 나는 친구와물을티기며 놀았 다 나는 물 밖 으 로 나와 엄 마가 해주신 오징어 와 김말이를 먹었다 다시 물 속애 들어가 아 빠를 부르고같이 놀았다 나는 수영장이 끝 날 때 자전거를 타며 같이갔나 나는 이런 하루를 보낸게 즐거움이라는 겄이었다</p>
+        <p>나는 오늘이 정말 즐거웠</p>
+    </text>
+</SJML>

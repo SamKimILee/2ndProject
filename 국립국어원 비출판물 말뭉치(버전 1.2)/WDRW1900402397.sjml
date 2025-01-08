@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402397</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필 > 인간관계</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>좋은 사람이란</title>
+            <author id="P02397" age="19" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="처음">
+        <p>나는</p>
+        <p>좋은 사람의 기준이</p>
+        <p>각자의 자즌감에 좌우된다 생각해</p>
+        <p>자신들을 있는 그대로 받아들이는것</p>
+        <p>거기에서 어긋나면</p>
+        <p>사람을 존중하는게</p>
+        <p>가능할 리 없기 때문에</p>
+        <p>좋은 친구도</p>
+        <p>얻지 못하는 것이니</p>
+    </text>
+</SJML>

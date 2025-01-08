@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109969</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>유년 시절 친구</title>
+            <author id="P09969" age="18" occupation="고등학생" sex="F" submission="온라인" handwriting="No">강예빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>단 한번도 생각해본 적이 없었다. 무의식 중으로 거부하고 있었던 걸까? 영화 '인사이드 아웃' 속 상상친구인 '빙봉'이 나에게도 존재했었을 수도 있다는 당연한 사실을 왜 나는 몰랐을까? 그저 줄곧 나에겐 그런 존재가 없었다고만 생각했다. 내가 그를 잊었을 거라는 생각은 추호도 하지 못했다. 그리고 마침내 잊었다하는 사실을 인정하게 된 순간 눈물이 나왔다. 내가 잊은 그는 어떻게 생겼을까? 나는 항상 사람과 사랑이 고팠다. 어쩌면 그는 내가 아는 사람의 모습을 하고 있었을지도. 그리고 내가 바랐던 그사람의 행동을 해주지 않았을까.</p>
+    </text>
+</SJML>

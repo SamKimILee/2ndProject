@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을 산책 </title>
+            <author id="P12203" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임주하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_뒷산">
+        <p>오늘우리가족 모두 뒷산에 올라 갔다.올라가면서 산수유,씨았,도토리,밤등을 주었다. 다모으고 나서보니 아주 예뻤다.낙엽을 밟으며 걸어가는데 소리가 아주 좋았다.그리고 나무사이를 지나갈때는 나무냄새 를 맡았는데 냄새가 아주 좋았다.전세개에 그런산이 아주많으면 좋겠다.</p>
+    </text>
+</SJML>

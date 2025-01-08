@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412238</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스카이 워크</title>
+            <author id="P12238" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민기</author>
+        </sourceInfo>
+    </header>
+    <text date="20190406" subclass="null_스카이 워크">
+        <p>스카이 워크를 갔다. 스카이 워크에서 재미있게 놀았다. 숙제로 갔지만 정말재미 있었다.바닥이 유리로 되어있어서 무섭기도 했지만 괜찮 았다. 오륙도도 갔다. 아쉽게도 오륙도까진 못 갔지만 보기라도 해서 너무 재미있었다. 다음에도 또 무조 건 졸라서라도 또가서 사 진 을 많이 찍 을 거다.</p>
+    </text>
+</SJML>

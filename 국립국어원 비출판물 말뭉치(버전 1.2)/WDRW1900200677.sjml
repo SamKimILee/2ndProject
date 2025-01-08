@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200677</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마음</title>
+            <author id="P00677" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_마음">
+        <p>
+            <s>섬으로 가요. 메론소다. 미도리. 우리의 다름. 마음.</s>
+        </p>
+        <p>
+            <s>아무것도 아니게 될 일임을 알아서 나는 힘빼지 않았다</s>
+        </p>
+    </text>
+</SJML>

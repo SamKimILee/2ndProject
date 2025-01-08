@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교 가는 날</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190826" subclass="null_학교">
+        <p>2019년 8.6 월</p>
+        <p>학교 가는날</p>
+        <p>나는 오늘 학교에 간다.</p>
+        <p>일찍 일어났다. 동생이 먼저간다고 했다. 나는 이 라고 했다. 나는 학교에 도착 했다. 오늘도 열심히 공부 할거다.</p>
+    </text>
+</SJML>

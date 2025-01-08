@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104788</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>초겨울노트</title>
+            <author id="P04788" age="21" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">장하늘</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_유류품">
+        <p>
+            <s>표지는 찢겨있었다 이유는 모른다</s>
+        </p>
+        <p>
+            <s>오른손 멈춰 선 자리에는 쉼표만이 무수하고</s>
+            <s>거미줄처럼 껴안은 너희들, 잔뜩 사랑한 양</s>
+            <s>온 귀 닳도록 매만지면서</s>
+            <s>이제는 소리라도 잡아보겠노라 발꿈치를 띄웠다</s>
+        </p>
+        <p>
+            <s>도저 휘어지지 못하는 뻣뻣한 금속 끄트머리</s>
+            <s>홀로는 부리조차 닫지 못해</s>
+            <s>검고 끈적한 장기들을 하염없이 토해내도</s>
+            <s>시선은 여지없이 절단된다</s>
+            <s>새벽 머금은 바닷물처럼 묵묵히 흘러갈 뿐</s>
+        </p>
+        <p>
+            <s>남겨진 꼬리들은 자꾸 물건을 잊은 채로 되돌아갔다</s>
+            <s>압정들, 바늘못들, 눈 없는 치어들</s>
+            <s>밑바닥은 온통 유류품들로 가득하다</s>
+            <s>흔들수록 희게 가라앉는 장난감을 보며 문득</s>
+            <s>깨닫는다</s>
+        </p>
+        <p>
+            <s>병 속에서 보는 하늘은 언제나 희뿌옇다는 걸</s>
+            <s>하강의 계절은 이미 와버렸다는 걸</s>
+        </p>
+    </text>
+</SJML>

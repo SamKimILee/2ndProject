@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311757</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀이터 학습활동</title>
+            <author id="P11757" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_놀이터 학습활동">
+        <p>오늘 학교에서 놀이터 학습 활동을했다. 시소, 시소에서뛰어내리지 않는다.미끄럼틀, 차례차례 내려간다. 그네, 그네를 서서타지 않는다. 철봉, 기둥에 매달리지 않는다. 이제부터 놀이터 규칙을 지키며 안전하게 놀아야겠다.</p>
+    </text>
+</SJML>

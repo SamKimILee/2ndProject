@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울 눈물</title>
+            <author id="P12094" age="67" occupation="전업주부" sex="F" submission="온라인" handwriting="No">백종순</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_눈물">
+        <p>
+            <s>세상이 얼마나 오염 됐으면</s>
+            <s>눈꽃이 아니고 눈물로 하소연 하나요</s>
+        </p>
+        <p>
+            <s>먼지, 먼지, 쌓인 미세먼지</s>
+            <s>하늘도 바람도 땅이 질펀해 지도록</s>
+            <s>씻어 내리네요</s>
+        </p>
+        <p>
+            <s>실컷 울다보면 속이 후련해 지도록</s>
+            <s>모든것이 깨끗이 제자리 찾겠지요</s>
+        </p>
+        <p>
+            <s>하지만 길게는 울지 말아요</s>
+            <s>눈물이 꽁꽁 얼면 곤란해 질테니까요</s>
+        </p>
+        <p>
+            <s>2020. 1. 7</s>
+        </p>
+    </text>
+</SJML>

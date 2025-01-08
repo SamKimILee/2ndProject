@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103977</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>졸업</title>
+            <author id="P03977" age="23" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">원예솔</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="학교">
+        <p>오늘은 대학의 마지막 수업을 마치고 돌아왔다. 어느 정도 시원하고 많이 섭섭한 마음이다. 19살의 내가 상상했던 것처럼 대학을 졸업하는 나는 큰 배움을 받았지만아는 건 별로 없고, 모르는 게 더 많아졌다. 사전적 의미 그대로 일련의 교과 과정을 마쳤을 뿐이다. 이제는 내 앞에 그 '일련의' 무언가가 없다. 직접 하나 하나 돌을 골라 발 앞에 놓아 두어야 앞으로 건너갈 수 있는 것이다. 외나무 다리를 엉금엉금 기어가던 내게 이젠 돌다리를 겅중겅중 뛰어 건너라니 참 아득하다. 발 아래가 강물일지 모래 사막일지 꽃밭일지 아무도 모른다. 헛딛여 빠져보기도, 급한 걸음을 멈춰 발을 담궈보기도 하며 오래 그 길을 걷게될거다. 어떻게든 되겠지하는 마음으로 뭐든 되겠지하는 조금 더 안일한 마음으로</p>
+    </text>
+</SJML>

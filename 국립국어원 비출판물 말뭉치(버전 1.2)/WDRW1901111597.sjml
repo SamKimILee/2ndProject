@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901111597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_겨울">
+        <p>
+            <s>겨울</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>겨울</s>
+            <s>함박눈</s>
+        </p>
+        <p>
+            <s>모자 쓰고</s>
+            <s>잠바입고</s>
+            <s>눈사움하자</s>
+        </p>
+        <p>
+            <s>장갑 끼고</s>
+            <s>부츠 신고</s>
+            <s>눈사람 만들자</s>
+        </p>
+        <p>
+            <s>썰매타자</s>
+            <s>스케이트</s>
+            <s>스키도타자.</s>
+        </p>
+    </text>
+</SJML>

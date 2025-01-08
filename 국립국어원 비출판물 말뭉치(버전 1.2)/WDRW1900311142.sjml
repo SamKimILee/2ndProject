@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311142</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>.</title>
+            <author id="P11142" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">최고원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이별">
+        <p>나는 너가 떠난 이유를 알 수 없었다.</p>
+        <p>답을 찾지 못한채</p>
+        <p>애먼 질문들만 머릿속을 맴돌았으므로</p>
+        <p>찾았다는 말은 거짓말에 가까웠다</p>
+        <p>거짓말이라는 사실마저도</p>
+        <p>자아에게 속이고 싶었으나</p>
+        <p>진실을 깨달을 본인이 두려웠다</p>
+        <p>그가 무너지는 것이 두려웠다</p>
+    </text>
+</SJML>

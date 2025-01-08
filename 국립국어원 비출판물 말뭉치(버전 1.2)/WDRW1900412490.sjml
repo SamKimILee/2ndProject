@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412490</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족과 함께 서울에 갔다.</title>
+            <author id="P12490" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_서울">
+        <p>가족과 함께 서울의 갔다 그런데 호텔에서 쫌 쉬다가 광장시장에 가서 점심을 먹고 청계천을 갔다 거기서 불꽃축제를 보았다 신기하고 재미있었다</p>
+        <p>그리고 백화점도 구경하고 호텔에 와서 형아랑 게임을 하고 저녁을 먹고 잤다.</p>
+    </text>
+</SJML>

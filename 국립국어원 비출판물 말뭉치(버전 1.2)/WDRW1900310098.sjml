@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310098</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠와의 승부</title>
+            <author id="P10098" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안성윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200113" subclass="null_아빠와의 알까기">
+        <p>오늘 나는 아빠와 알까기를 했다.  아빠가 자꾸 내 알을 훔쳐 갔다. 나한테 들켜서 내가 다시 가져 왔다. 그래서 나는 정신을 바짝 차리고 내돌을 지킨다. 그래서 나는 이겼다. 나는 기분이 짱이다.</p>
+    </text>
+</SJML>

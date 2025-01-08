@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900820026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이모네 집간날</title>
+            <author id="P20026" age="6" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_이모">
+        <p>&lt;이모내 집간날&gt;</p>
+        <p>7단지 에있는 이모네집 나혼자 걸어서 갔다.이모가  만들어주신 닭죽을 먹었다.너무 맛있었다</p>
+    </text>
+</SJML>

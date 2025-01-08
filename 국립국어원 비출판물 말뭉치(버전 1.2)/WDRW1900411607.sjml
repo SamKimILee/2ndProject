@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411607</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>컴퓨터</title>
+            <author id="P11607" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191218" subclass="null_컴퓨터실">
+        <p>제목: 컴퓨터</p>
+        <p>컴퓨터 실에 갔다. 처음에는 한 컴타자 연습 을 했다. 자꾸눈이 키보드 쪽으로 갔다.나는 안 보려고 노력 했다. 하지만 내눈 은 자 꾸 키보드로 갔다. 두번째로는 한글 프로그램을 했다. 한글 프로그램으로 친구들 이름을 썼다. 친구들이 름이 너무 예쁘고 멋졌다. 친구들 이름은 쉬운 것도 있지만 어려운 것도 있었다. 다음에 또 하고 싶다.</p>
+    </text>
+</SJML>

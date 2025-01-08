@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동그라미</title>
+            <author id="P09847" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_동그라미">
+        <p>
+            <s>동그라미가 내 마음을 쥐락 펴락</s>
+            <s>종이에 빗방울이 똑 떨어지면</s>
+            <s>내 마음에도 빗방울이 떨어진다</s>
+            <s>동그라미와 함께 내 마음도 부푼다</s>
+            <s>백점이면 좋겠다 백점이면 좋겠다</s>
+            <s>백점이면 용돈 받을 수 있을텐데</s>
+        </p>
+    </text>
+</SJML>

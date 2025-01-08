@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는  왜 공부를  할까?</title>
+            <author id="P11509" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤여림</author>
+        </sourceInfo>
+    </header>
+    <text date="20190421" subclass="null_공부">
+        <p>주제:나는 왜 공부를 할까?</p>
+        <p>1.우리집에 텔레비전(TV)가 없어서</p>
+        <p>2.공부를 하다보면 아는것이 많게되고 아는것이 많으면 나한테 도움이 되기때문에</p>
+        <p>3.공부를 하면 공부를 안한것보다 내가 고를 수 있는 직업이 많아지기 때문에</p>
+        <p>4.공부를 하면 좋은 직업을 갖게되고 좋은직업은 돈도 많이벌고 자신감 있게 살 수 있으니까 그 돈으로 여행가서 쉬면서 취미도 가질 수 있어서</p>
+        <p>5.평일에 공부를 해야 주말에 유튜브랑 게임을 2시간 할수 있기때문에(평일에 공부를 안하면 엄마가 탭 못하게한다</p>
+        <p>6.내가 공부를 안하면 &name1&이만 똑똑해지고 나만 멍청해지니까</p>
+    </text>
+</SJML>

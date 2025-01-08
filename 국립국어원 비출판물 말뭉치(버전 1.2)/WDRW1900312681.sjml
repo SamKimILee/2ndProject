@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312681</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마에게 편지 받은 날</title>
+            <author id="P12681" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이동훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20170622" subclass="null_엄마">
+        <p>제목 : 엄마에게 편지 받은날</p>
+        <p>날짜 : 6월 22일 목요일</p>
+        <p>엄마가 6월 22일 목요일 아침에 편지를 써서 일기를 쓰기 시작했다.</p>
+        <p>엄마가 나 에게 편지를 썼다.</p>
+        <p>엄마가 나에게 편지를 쓴 건 처음이다. 주요 내용은 많이 화내서 미안하다는 내용이다. 나는 처음에 편지를 왜 썼는지 몰랐다. 하지만 편지에 다 적혀 있었다. 한번더 읽어보니 나에게 직접말해주고 싶은데 내가 자고있어서 편지를 썼다고 적혀 있었다.</p>
+        <p>내 생각엔 엄마도 나처럼 힘들 었을 것 이다. 왜냐하면 편지는 일기보다 더 힘들다. 일기는 있었던 일을 써서 덜 힘든데 편지는 내 생각을 써서 더힘들수도 있다. 아니면 정 반대 이거나 내말이 아닐수도 있다.</p>
+        <p>다음에는 내가 엄마에게 편지를 써야겠다. 잘쓸수 있을지 모르겠다.</p>
+        <p>그래도 편지를 받으니 좀 감동받았다. 이 느낌을 엄마에게도 느끼게 해 주고 싶다.</p>
+    </text>
+</SJML>

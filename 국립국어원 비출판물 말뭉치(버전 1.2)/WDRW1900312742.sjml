@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312742</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀이터에 가면</title>
+            <author id="P12742" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이가연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_놀이터">
+        <p>
+            <s>놀이터에가면</s>
+            <s>친구와 놀러 놀이터에가면</s>
+            <s>그네가있다</s>
+            <s>미끄럼틀이있다</s>
+            <s>시소가 있다</s>
+        </p>
+        <p>
+            <s>그네타러가면</s>
+            <s>딴애가타고있고</s>
+            <s>다시 타러가면</s>
+            <s>또다른 애가</s>
+            <s>탄다.</s>
+        </p>
+    </text>
+</SJML>

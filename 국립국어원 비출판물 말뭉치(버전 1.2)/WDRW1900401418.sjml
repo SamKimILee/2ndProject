@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401418</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고인 물</title>
+            <author id="P01418" age="25" occupation="무직" sex="F" submission="온라인" handwriting="No">배은진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_장독">
+        <p>
+            <s>우리집 화장실 안에는 장독 하나가 있다</s>
+            <s>장독 안에는 물이 한 가득 고여있다</s>
+        </p>
+        <p>
+            <s>장독 안에 든 고인 물</s>
+            <s>그 냄새는 지독하다</s>
+            <s>그 누구도 관심을 주지 않아</s>
+            <s>하루 이틀, 그렇게 한 달이 흐른다</s>
+        </p>
+        <p>
+            <s>누군가 치우겠지</s>
+        </p>
+        <p>
+            <s>결국 내가 그 고인 물을 풀어준다</s>
+            <s>지독하다</s>
+            <s>숨이 턱턱 막히는 것 같은 냄새</s>
+        </p>
+        <p>
+            <s>내 안에도 고여있는 물이 있지 않을까</s>
+            <s>그것을 버리기까지 귀찮음과 나태함과 두려움</s>
+            <s>그러나 결국은 털어내야 할 것들</s>
+        </p>
+        <p>
+            <s>버려진 그  공간만큼</s>
+            <s>새로운 것들이 채워질 수 있는 기회의 공간</s>
+        </p>
+        <p>
+            <s>나는 오늘도 내 마음에 고인 물을 찾아 떠난다</s>
+            <s>곧 다가올 새로움에 대비해</s>
+        </p>
+    </text>
+</SJML>

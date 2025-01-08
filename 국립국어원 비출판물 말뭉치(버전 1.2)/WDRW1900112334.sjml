@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112334</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 걸음</title>
+            <author id="P12334" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">송예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_갈 길">
+        <p>
+            <s>나의  걸음</s>
+        </p>
+        <p>
+            <s>남보다 조금 뒤 쳐져도</s>
+            <s>속도가느리더라도</s>
+            <s>난 내 갈길을 간다.</s>
+            <s>속도가 비슷한 친구를 만나면</s>
+            <s>도란도란 이야기나누며 쉬어가고</s>
+            <s>힘이 들면 나무밑 그늘에 앉아</s>
+            <s>낮잠을 잔다.</s>
+            <s>남이 뭐라해도 난 신경쓰지</s>
+            <s>않는다.</s>
+            <s>난 내  갈길을 갈뿐.</s>
+        </p>
+    </text>
+</SJML>

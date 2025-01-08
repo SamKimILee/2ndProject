@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900709993</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학예회 한 날 </title>
+            <author id="P09993" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191120" subclass="null_학예회">
+        <p>오늘 학교에서 34교시때 학예회를 했다. 12교시에는 1학년이 학예회를했다. 그리고 반2반3반4반5반6반하고 우리차례가 왔다긴장되었지만 잘한겄 갔다. 그래서 뿌듯했다 사물놀이가 너무재미있어서 다음학예회때도 사물놀이를 하고싶다.</p>
+    </text>
+</SJML>

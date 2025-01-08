@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101421</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미워하지 않는 사람</title>
+            <author id="P01421" age="21" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20130000" subclass="null_미움">
+        <p>언제부턴가 자신의 목표는 남이 좋아해주는 사람이 아니었다.</p>
+        <p>'다른사람에게 미움받지 않는 사람'</p>
+        <p>그래서인지 가끔 그 경계선을 넘어 자신을 '좋아'한다고 말해주는 사람들에게도 자신이 느끼는 것은 별다르지않았다. 아, 이 사람은 나를 싫어하지 않는구나. 미워하지 않는구나.</p>
+        <p>다행이야, 다행이야.</p>
+        <p>결국 저쪽의 감정이 얼마나 크든 자신이 받아 대응한 감정의 크기는 '좋아'가 아니라, '싫지 않아'였기에 그렇게 유지되는 관계는 당연히 오래가지 못했다. 모래로 쌓은 성마냥 작은 파도에도 파사삭 스러졌다. 그것은 또 자신에게 있어 '좋아라는 감정따위' '역시 그렇군'이라는 냉소적인 감상만을 가져다 주었기에 이 좋지않은 연쇄는 끊어지지 않고 반복될 뿐이었다.</p>
+    </text>
+</SJML>

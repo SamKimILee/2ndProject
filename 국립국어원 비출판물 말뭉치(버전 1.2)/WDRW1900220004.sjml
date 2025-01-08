@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220004</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줌바댄스</title>
+            <author id="P20004" age="61" occupation="전업주부" sex="F" submission="오프라인" handwriting="No">원신희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190306" subclass="null_줌바댄스">
+        <p>2019년 3월 6일 수</p>
+        <p>이곳에와서 줌바댄스를할줄이야</p>
+        <p>수요일마다한다는데 역시 나는몸치이다 마무리체조나 따라할수준이었다</p>
+        <p>점심을먹고난후에는 동네를따라4000보를걸었다 더운나라이기때문일까 이렇게허술하게지어진집에서도</p>
+        <p>살수있나보다 북풍한설이 없기 때문에</p>
+        <p>우리나라에서도 여름한철이 노숙자에게는 천국이겠지</p>
+        <p>땀을흘리고난후이어서 온수샤워가 필요치않음을 절로 깨닫게되고</p>
+        <p>저녁해진후에는 바람이불어 한낮의 더위가식고‧‧이렇게 이곳의생활이 익숙해져간다</p>
+    </text>
+</SJML>

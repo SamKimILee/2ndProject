@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711780</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>국기원</title>
+            <author id="P11780" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">유수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200210" subclass="null_국기원">
+        <p>2020. 2. 10</p>
+        <p>재목: 국기원</p>
+        <p>요즘 코로나 바이러스 때문에 국기원을 빨리 가면 엄마 아빠 없이 가야된다 나중에 가면 엄마 아빠랑 갈수는 있는데 나중에 2품 따러갈때 빨리간 친구랑 같이 못간다 결국옌 빨리 간다고 결정을했다. 엄마아빠없이 가야 해서 떨린다</p>
+    </text>
+</SJML>

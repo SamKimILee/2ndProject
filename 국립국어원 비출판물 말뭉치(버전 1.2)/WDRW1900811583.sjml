@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811583</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고모댁 방문</title>
+            <author id="P11583" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200111" subclass="null_고모댁">
+        <p>오늘 저녁에 고모댁에 친척들이 모인다고 했다.</p>
+        <p>저녁식사 메뉴는 가족당 하나씩 가져가는 것이었는데, 우리 가족은 분식메뉴를 맡게 되어 떡볶이,순대,튀김 등을 사서 가게 되었다.</p>
+        <p>여러가지 맛있는 음식도먹고, 누나들과 동생들과 게임도 하고 재미있게 놀았다.</p>
+        <p>밤 10시가 되자 집에 가야하는 시간이 왔는데도 뭔가 아쉬웠다.</p>
+        <p>다음에또 이런 기회가있었으면좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자두</title>
+            <author id="P12187" age="12" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이유비</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_자두">
+        <p>
+            <s>자두</s>
+        </p>
+        <p>
+            <s>새콤 달콤 자두</s>
+            <s>자두는 맨날 부끄러워서 빨강색이다. 좋아하는 남자애가 있어서 하트 모양이다</s>
+        </p>
+    </text>
+</SJML>

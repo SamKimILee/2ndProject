@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210102</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내손자</title>
+            <author id="P10102" age="63" occupation="전업주부" sex="F" submission="온라인" handwriting="No">조둘이</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_손자">
+        <p>내손자 이름은 &name1&입니다</p>
+        <p>이제 11살이 되었다</p>
+        <p>오늘도 늦게 일어나서  할머니 배고파 배고파  밥을 채려주니  빨리도  먹는다  먹는것만봐도 배가 부르다 밥후딱 먹고 친구에게 전화하고 만날약속을  잡아서  나가버린다.</p>
+        <p>놀이터에  한참놀고  친구를 데려와서 방에 콕 박혀 게임시작   담주가 개학이다  빨리 학교 개학이 왔음 좋겠구나   하루가 너무 빠르다 벌써4학년이라니 세월이 이리  빠르니  내가 정신이 없구나</p>
+    </text>
+</SJML>

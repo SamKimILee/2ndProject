@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203897</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고래상어</title>
+            <author id="P03897" age="20" occupation="고등학생" sex="F" submission="온라인" handwriting="No">함별</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고래상어">
+        <p>
+            <s>고래상어</s>
+        </p>
+        <p>
+            <s>고래상어가 되고 싶다.</s>
+            <s>드넓은 바다를 제 집 삼아</s>
+            <s>유유자적 헤엄치고 싶다.</s>
+            <s>어두운 밤바다를 다녀도 무서워하지 않는,</s>
+            <s>어둠의 폭을 넓혀도 신경 쓰지 않는,</s>
+            <s>고요함을 아가미로 느끼고 싶다.</s>
+            <s>차가운 파도가 외로움을 가져올 때는</s>
+            <s>온전히 받아들이고 싶다.</s>
+            <s>익숙한 듯이 피하지 않겠다.</s>
+            <s>바다가 작게 느껴지는 날이면 비로소 가득 차오를지도 모른다.</s>
+        </p>
+    </text>
+</SJML>

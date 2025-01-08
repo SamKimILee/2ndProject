@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511816</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>클라리넷 연주회</title>
+            <author id="P11816" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_클라리넷">
+        <p>클라리넷 연주회</p>
+        <p>오늘, 교회에서하는 연주회에서 내가 클라리넷을 불었다. 나는 원래 교회를 안 다닌다.</p>
+        <p>그런데, 교회 은혜교육관에는 다닌다.</p>
+        <p>지난번 연주회 보다는 더잘한것 같았다</p>
+        <p>나는 삑사리가 안나서 내가 너무 자랑스러웠다.</p>
+    </text>
+</SJML>

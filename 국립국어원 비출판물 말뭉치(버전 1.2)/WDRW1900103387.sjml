@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103387</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>탄식</title>
+            <author id="P03387" age="21" occupation="군인" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_탄식">
+        <p>
+            <s>손가락 사이로 새어 나오는</s>
+        </p>
+        <p>
+            <s>막아보려고 해도 막아지지 않는</s>
+        </p>
+        <p>
+            <s>마음속 깊은 곳</s>
+        </p>
+        <p>
+            <s>끈적이는 덩어리들을 뭉쳐</s>
+        </p>
+        <p>
+            <s>발 밑으로 내뱉는다</s>
+        </p>
+        <p>
+            <s>뱉어내도</s>
+        </p>
+        <p>
+            <s>절대 개운해지지 않아</s>
+        </p>
+        <p>
+            <s>지금 내려앉는 건</s>
+        </p>
+        <p>
+            <s>발 밑?</s>
+        </p>
+        <p>
+            <s>아니면 나 자신?</s>
+        </p>
+    </text>
+</SJML>

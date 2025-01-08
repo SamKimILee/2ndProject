@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612149</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꼬맨 손</title>
+            <author id="P12149" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190614" subclass="null_꼬맨 손">
+        <p>
+            <s>방금전에손을꼬매고왔다</s>
+            <s>외냐면 손이깊게파였기 때문이다 꼬맬때아팠다.</s>
+            <s>않꼬매고싶었는데의사선생님이 꼬매야 된다고해서 꼬맸다</s>
+            <s>마취주사를 만이아팠다.</s>
+            <s>마취주사를세데마졌다</s>
+            <s>꼬맬떼 7곱번 꼬맸다</s>
+            <s>다음에는 이런일이</s>
+            <s>없었으면좋겠다고생각했다</s>
+        </p>
+    </text>
+</SJML>

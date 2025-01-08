@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412631</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장기판 and 쌍절곤</title>
+            <author id="P12631" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_장기판, 쌍절곤">
+        <p>오늘 쌍절곤을 만들었는데 택배도 와 있었다. 내가 갖고 싶었던 장기판이 왔다. 거기에 윳놀이 세트도 있었다. 제목은 패밀리 장기, 바둑,윳놀이세트다. 오늘 아빠한테 1대6으로 패배했다. 다음에 꼭 이길거다.</p>
+    </text>
+</SJML>

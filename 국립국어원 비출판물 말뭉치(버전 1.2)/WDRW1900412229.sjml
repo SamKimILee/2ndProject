@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412229</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀았어요</title>
+            <author id="P12229" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_놀이">
+        <p>3월5일 목요일</p>
+        <p>제목: &name2&이랑 놀았어요.</p>
+        <p>&name1&이랑 아파트 로비에 자전거타러 나갔다가 &name2&이를 만났다. &name2&이도 자전거를타고 놀고있었다. 나는 &name2&이를 만나서 아주 반가웠다. 자전거를 같이타고 아파트를 한바퀴 돌았다.</p>
+        <p>&name2&이는 두발 자전거를 타고 있었다.</p>
+        <p>내가 &name2&이 두발 자전거를 빌려서 타보았는데 두발 자전거는 너무 무서웠다.</p>
+        <p>줄넘기도 했다. &name2&이는 이단뛰기를 했고 나는일단뛰기를 엄청 많이 했다.</p>
+        <p>&name1&이랑 같이 킥보드를 타면서 집으로 돌아왔다.</p>
+        <p>오랜만에 &name2&이를만나서 같이 놀아서 정말 재미있었다.</p>
+    </text>
+</SJML>

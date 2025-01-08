@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901020027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장애인과 함께 사는 세상</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190419" subclass="null_장애인">
+        <p>4월19일 금요일 날씨:덥지도 않고 춥지도 않은 날씨</p>
+        <p>제목:장애인과  함께 사는 세상</p>
+        <p>장애인은 생각이 어리고 몸이 아프지만 잘하는것이있다 그것은 바로 패럴 림 픽 나가는 선수들이 있다 그런 선수들 중에는 다리가 없는데 수영을해다</p>
+        <p>나는 팔다리가 있어도 수영하기가 무척 힘든데 장애인들이수영하는 것 힘들고 대단해보였다</p>
+        <p>우리 주변에 있는 장애인들을 놀리 지않고괴로히지 않고 모르는것을 가르쳐주어야겠다.</p>
+    </text>
+</SJML>

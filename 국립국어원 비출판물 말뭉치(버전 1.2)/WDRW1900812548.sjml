@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소풍</title>
+            <author id="P12548" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김수영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_소풍">
+        <p>
+            <s>소풍</s>
+        </p>
+        <p>
+            <s>얘들아, 소풍가자</s>
+            <s>와! 도착했다!</s>
+        </p>
+        <p>
+            <s>잠자리 잡으러 가자</s>
+            <s>많이많이 잡았다!</s>
+        </p>
+        <p>
+            <s>얘들아, 도자기 만들자</s>
+            <s>예쁘게 예쁘게</s>
+            <s>조심조심</s>
+            <s>다 만들었다!</s>
+        </p>
+        <p>
+            <s>얘들아, 밥먹자</s>
+            <s>냠냠냠 맛있다!</s>
+            <s>역시 엄마밥이 최고야!</s>
+        </p>
+        <p>
+            <s>만승초 &name1&</s>
+        </p>
+    </text>
+</SJML>

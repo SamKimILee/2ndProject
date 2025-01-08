@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112544</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>햄스터 된 날</title>
+            <author id="P12544" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이하람</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_햄스터 된 날">
+        <p>오늘은나와내동생 &name1&랑은오늘 너무힘든날이었다.</p>
+        <p>그래서나와&name1&이는밥먹고씻고 바로침대에 누었는데 갑자기 일어섰을때천장에머리가닸는데않닸고써있기가힘들었다.근데네모습을보니나와내동생이햄스터가 된 것이다.</p>
+        <p>나는흥분해생각했다.그래서 나는말했다.“&name1&아!우리 몸이작아졌으니 햄찌집에가자”“그래오빠”그래서나와&name1&이는햄찌집에갔다햄찡가 물었다“너히는누구야?”동시에말했다.</p>
+        <p>“우리는&name2&이와&name1&이야”“모라고”내가말했다“같이놀자”그래서우린는술래잡기뱅뱅이오래타기등햄찌와신나게 놀았다.</p>
+        <p>우린 너무많이놀아 졸려다그래서 우린햄찌와잦다다음날아침에일어난니모든게꿈이었다하지만너무생생했다.</p>
+    </text>
+</SJML>

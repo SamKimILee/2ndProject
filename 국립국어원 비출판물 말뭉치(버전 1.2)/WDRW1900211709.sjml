@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211709</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>카운트다운</title>
+            <author id="P11709" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권예령</author>
+        </sourceInfo>
+    </header>
+    <text date="20191231" subclass="null_카운트다운">
+        <p>&lt;카운트다운&gt;</p>
+        <p>엄마가 카운트다운을 보러가자고 했다.  나는 그게 뭐냐뭐 물어봤다. 그건 2020년으로 바뀌는 순간을 광안리바닷가 에서 불꽃놀이와 함께만났다. 나는 그걸보면서 뭘 중요하게 여겼냐면... 바로 추운 것이다! 그때가 새벽이어서 더더욱 추웠다. 내년이면안갈것이다!</p>
+    </text>
+</SJML>

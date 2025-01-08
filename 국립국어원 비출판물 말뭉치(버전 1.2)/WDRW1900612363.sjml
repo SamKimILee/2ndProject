@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612363</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>곤충</title>
+            <author id="P12363" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이정민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191215" subclass="null_곤충">
+        <p>곤충</p>
+        <p>곤충 생태 박물관에가서 곤충을 봤다. 곤충은 징그럽지만 신기한 생물체다.내가 처음 알게된 것을 쓰고,곤충에 그림을 그렸다. 사슴벌레인가 장수풍뎅이인지잘 모르겠지만 그중1개를 만졌다. 발도 만져 보았다. 그벌은 침이 없어 만져도 되었다. 아빠가 곤충에 대해 잘알고 있어 좋았다.앞으로 곤충에 관심을 가져야 겠다.</p>
+    </text>
+</SJML>

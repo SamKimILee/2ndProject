@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312162</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년 1월 8일 수요일 </title>
+            <author id="P12162" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200108" subclass="null_농구">
+        <p>드러가는 농구</p>
+        <p>수요일에는 농구를 간다.농구에서 드리블도 했고 슛도했다.선생님은 중학교 1학년 때 부터 키가커서 지금은 190cm정도 된다고 했다.난 농구를 절때 않끈을 것이다.&name1&이라는 동생이 있는데 슛을 6골 넣었고 나는 슛을 7골 넣었다.선생님이 칭찬을 해주었다.엄마가 잘했다고 했다.농구 수업이 마쳤다.정말 아쉬웠다. &name1&이랑 놀고 싶다.</p>
+        <p>엄마랑 내가 있을 때 농구공을 사달 라고 했는데 생각 해본다고 했다. 다음주 수요일도 빨리 왔으면 좋겠다</p>
+    </text>
+</SJML>

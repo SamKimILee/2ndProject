@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612490</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이네 놀러 갔을 때</title>
+            <author id="P12490" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_놀기">
+        <p>어재은 &name1& 이내 집에같다 고기 에서 아이스티도 먹었고 뿌링클도 먹었다 그리고 좀비 술래 잡기도했다 축구도 했고 피구도 했다 정말 재미 있었다.</p>
+    </text>
+</SJML>

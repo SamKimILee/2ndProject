@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403383</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인물4</title>
+            <author id="P03383" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">이채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인상">
+        <p>머리 기장은 목 언저리를 살짝 덮는 길이.  머리 눈 색 모두 색빠진 옅은 갈색. 베이지색에 가깝다.</p>
+        <p>왼쪽 눈 밑에 점이 있다.  넉넉한 트렌치 코트 안은 기본적인 와이셔츠와 일자로 떨어지는 검은 정장바지.</p>
+        <p>체구는 큰 편이지만 건장해 보이지는 않다. 기운없어 보이는 인상.</p>
+    </text>
+</SJML>

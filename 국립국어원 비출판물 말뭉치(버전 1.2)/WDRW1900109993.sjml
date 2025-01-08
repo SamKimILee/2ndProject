@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109993</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연등 만든 날</title>
+            <author id="P09993" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191015" subclass="null_연등">
+        <p>오늘 학교에서 연들을 만들었다. 연등을 만들때는 철사를 꽂아야 한다. 철사를 꽂을때 연들이 찢어졌다. 그래도 흰색 한지를 그 위에 붙었더니 잘안 보였다. 그리고 색종이로 나무와 하트를 만들어서 붙었다. 재미있었다.</p>
+    </text>
+</SJML>

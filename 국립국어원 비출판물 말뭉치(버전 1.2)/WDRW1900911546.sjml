@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900911546</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줄넘기</title>
+            <author id="P11546" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박경연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="선생님">
+        <p>어제 내가 가장 좋아하는 음악 줄넘기를 했다. 근데?</p>
+        <p>선생님이 무서워다</p>
+        <p>그래서 실망을 바아다. 너무 너무 무서워다. 지금도 무섰다. 하지만 너무 재밌는 하루 였다. 기분이 좋았다. 그건비밀 쒸</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도서관</title>
+            <author id="P04187" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="책">
+        <p>초등학교 고학년부터 학교에서 항상 도서관에 틀어박혀있었다. 중학교때도, 고등학교때도. 대학교에 가서도 도서관에서 빈 시간을 떼웠다. 도서관 특유의 책 냄새, 새로운 것을 접하는 것에 대한 즐거움, 푹신한 쇼파 그 모든 것은 나를 도서관으로 이끌었다. 책을 정리하는 사람들의 발걸음, 원하는 책을 찾는 사람의 발걸음, 책을 넘기는 소리, 필기구로 종이에 무엇인가를 쓰는 소리, 책수레가 굴러다니는 소리, 누군가의 작음 말소리 이러한 소리들이 도서관의 매력을 더한다. 왜 도서관을 좋아하냐 묻는다면 나는 그저 새로운 것을 알아가는 즐거움이라고 답할것이다.</p>
+    </text>
+</SJML>

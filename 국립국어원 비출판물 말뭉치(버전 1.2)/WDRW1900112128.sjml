@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112128</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영</title>
+            <author id="P12128" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">황다인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_수영">
+        <p>
+            <s>수영</s>
+            <s>&name1&</s>
+            <s>수영을 하면 콧속에서</s>
+            <s>해파리가 줄을 선다.</s>
+        </p>
+        <p>
+            <s>수영을 하면 머리카락이</s>
+            <s>문어 되고 싶어 발버등</s>
+            <s>친다.</s>
+        </p>
+        <p>
+            <s>수영을 하면 하늘을</s>
+            <s>나는 것처럼 몸이</s>
+            <s>가벼워 진다.</s>
+        </p>
+        <p>
+            <s>나는 수영이 재미있어서</s>
+            <s>좋다</s>
+        </p>
+    </text>
+</SJML>

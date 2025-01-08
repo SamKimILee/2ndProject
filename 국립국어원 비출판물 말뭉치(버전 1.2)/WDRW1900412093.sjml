@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412093</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>쑥쑥 자라라</title>
+            <author id="P12093" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">허지안</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나무">
+        <p>
+            <s>쑥쑥 자라라</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>나무야, 나무야</s>
+            <s>쑥쑥 자라서</s>
+        </p>
+        <p>
+            <s>하늘까지 자라서</s>
+            <s>구름을 가지고</s>
+        </p>
+        <p>
+            <s>우주까지 자라서</s>
+            <s>별을 가지고</s>
+        </p>
+        <p>
+            <s>비가오고 눈이와도</s>
+            <s>쑥쑥 자라서</s>
+        </p>
+        <p>
+            <s>가난한 사람들</s>
+            <s>나누어 주거라</s>
+        </p>
+    </text>
+</SJML>

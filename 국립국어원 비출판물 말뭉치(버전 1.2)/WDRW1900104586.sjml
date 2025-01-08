@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104586</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마가 과거로 돌아간다면</title>
+            <author id="P04586" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="어머니">
+        <p>만약에 시간을 되돌려서 약 30년 전으로 돌아간다면</p>
+        <p>엄마가 날 낳지 않았으면 좋겠어</p>
+        <p>엄마 딸로 태어나서 행복했어. 차별도 받지 않았고 항상 날 존중해주고 우선시 해줬어</p>
+        <p>딸이 스물 세 살 먹은 성인이라 해도 도로가 위험하면 한 손을 뻗어 나를 보호해주던 엄마</p>
+        <p>그치만 과거로 돌아간다면</p>
+        <p>날 낳지 않았으면 좋겠어</p>
+        <p>엄마 한 사람의 삶을 좀 더 윤택하게 만들었음 좋겠어</p>
+        <p>세 남매를 낳느라 몸이 망가지고</p>
+        <p>경력 단절도 당하고</p>
+        <p>자유롭게 여행도 못가고 항상 일만 하던 엄마</p>
+        <p>가끔 내가 태어난게 죄 같기도 해</p>
+        <p>만약 내가 엄마에게 이 세상에 없는 선물을 줄 수 있다면</p>
+        <p>시간을 되돌리게 해주고 싶어</p>
+        <p>지금의 아빠 말고 좀 더 엄마를 사랑해주는 사람을 만났으면 좋겠어</p>
+        <p>내가 본 엄마의 삶은 좀 더 찬란해질 수 있으니까</p>
+    </text>
+</SJML>

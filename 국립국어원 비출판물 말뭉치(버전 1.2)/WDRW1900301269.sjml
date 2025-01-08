@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손톱</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_손톱">
+        <p>
+            <s>지금보다 어릴 적에는</s>
+            <s>손톱을 물어뜯는 습관 때문에</s>
+            <s>줄곧 혼이 나곤 했다</s>
+            <s>늘 손톱이 짤막하고 못났었다</s>
+            <s>그런데 지금은 검지 손가락 손톱이</s>
+            <s>아예 완전히 뜯겨져 나가버렸다</s>
+            <s>나는 왜 아직도 고치지 못한 걸까</s>
+        </p>
+    </text>
+</SJML>

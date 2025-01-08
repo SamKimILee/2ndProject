@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612446</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달빛 식당</title>
+            <author id="P12446" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김성진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_식당">
+        <p>2020년 3월 6일</p>
+        <p>&lt;달빛 식당&gt;</p>
+        <p>연우라는 아이는 동내를 어슬렁 거리다 &lt;달빛 식당&gt;이라고 써 있는 가게를 보았다. 연우는 나쁜 기억 1하나로 음식을 주문 했다. 그리고 다음 날은 두 개로 푸딩을 주문했다 그날 밤 연우는 아빠와 삽겹살을 먹고 달빛 식당에가 나쁜 기억을 돌려 달라고 했다</p>
+    </text>
+</SJML>

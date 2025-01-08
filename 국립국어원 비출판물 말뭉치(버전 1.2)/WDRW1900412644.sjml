@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412644</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>홍게를 먹었던 날.10월 19일 수요일 바람솔솔</title>
+            <author id="P12644" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20161019" subclass="null_홍게">
+        <p>오늘 홍게를 먹었다.</p>
+        <p>처음엔 이름만 듣고 멍멍 개 인줄 알았는데, 박스를 보니까 집게 집게 게 였다. 그게는 아빠 친구가 사준 홍게 였다. 먹다 보니 엄마는 허겁 지겁 드시고, 아빠는 짭짭 소리를 내시면서 드셨다. 나도 1년만에 먹으니까 참맛이있었다.</p>
+    </text>
+</SJML>

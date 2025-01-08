@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901011597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가을">
+        <p>
+            <s>가을</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>가을이 왔다</s>
+            <s>독서의계절</s>
+        </p>
+        <p>
+            <s>가을이왔다</s>
+            <s>단풍들 무렵</s>
+        </p>
+        <p>
+            <s>가을이</s>
+            <s>좋다♡</s>
+        </p>
+        <p>
+            <s>만날만날</s>
+            <s>가을이였</s>
+            <s>으면</s>
+            <s>좋겠다.</s>
+        </p>
+    </text>
+</SJML>

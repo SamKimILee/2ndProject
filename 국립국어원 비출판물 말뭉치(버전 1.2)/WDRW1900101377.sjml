@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101377</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>계절에 관하여,</title>
+            <author id="P01377" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_계절">
+        <p>어쩌면 당연한 듯 보이지만 항상 우리에게 다른 색의 풍경을 비추는 계절은, 나와 또 여럿의 삶처럼 빠르게도, 느리게도 흘러가곤 한다. 내가 계절이 아니라, 속은 바라볼 수 없을지언정 여느달의 꽃은 다른 때보다 늦게 피기도 하며, 오려던 비나 눈조차도 누구 몰래 하루 며칠 지나 내릴 수 있다. 그것을 과연, 계절의 결정이라고 말할 수 있을까? 우리의 삶같은 계절은, 결정하지 못한. 항상, 단 1초도 빠트리지 않고 개의하지 않고 있던 선택에 있어 무너지는 결과는 결국 눈으로 보이게끔 겉으로 드러나고 마는데, 그럼에도 우리는, 다음 선택을 포기해선 안 됨을 잊을 수 없다. 다음 계절을 포기해선 안 됨을, 잊을 수 없다. 계속해서 노력해야만 한다는 자체로 나와 누군지 모를 사람의 삶이고, 반복된다는 것이다.</p>
+    </text>
+</SJML>

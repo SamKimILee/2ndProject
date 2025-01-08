@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510427</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자연의 법칙 2</title>
+            <author id="P10427" age="60" occupation="무직" sex="M" submission="온라인" handwriting="No">함동석</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_아내">
+        <p>
+            <s>지난날에는</s>
+            <s>그것이 나를 사로잡았었지</s>
+            <s>눈과 귀가 가려지고 어딘지도 모르는데</s>
+            <s>강한 손에 이끌렸지</s>
+        </p>
+        <p>
+            <s>이제는</s>
+            <s>젊은 날의 충동에서 벗어나자</s>
+            <s>타고난 본성의 미망을 씻어내자</s>
+        </p>
+        <p>
+            <s>그리고 이 나이에 한결같은</s>
+            <s>아내의 손을 잡고 걸어보자</s>
+        </p>
+        <p>
+            <s>푸른 하늘, 하얀 구름을 쳐다보고</s>
+            <s>새 잎 돋는 나무들도 찬찬히 바라보자</s>
+            <s>길가에 핀 키 작은 풀꽃도 음미하자</s>
+        </p>
+        <p>
+            <s>봄비가 갠 뒤에는</s>
+            <s>싱그러운 한 줄기 바람에</s>
+            <s>미소 지으며</s>
+        </p>
+    </text>
+</SJML>

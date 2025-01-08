@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>캠핑장</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190610" subclass="null_캠핑장">
+        <p>2019년 6월 10일</p>
+        <p>캠핑장</p>
+        <p>오늘은 캠핑장을 갈거다.</p>
+        <p>우선 친구랑 놀이터에서 놀다 더워 아이스크림을 먹었다. 이제 캠핑장에 갔다. 도착하자 마자 놀이터에 갔다. 사진도 찍고 메점에서 맛있는거, 장난감 물놀이도 했다. 등산도 했고 신기한 장난감도 있었다.</p>
+        <p>정말재미 있었다.</p>
+    </text>
+</SJML>

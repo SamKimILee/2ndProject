@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111663</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>패션쇼</title>
+            <author id="P11663" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이아미</author>
+        </sourceInfo>
+    </header>
+    <text date="201909029" subclass="null_패션쇼">
+        <p>제목: 패션쇼</p>
+        <p>내 꿈은 패션디자이너다. 그런데 오늘 도산공원에 갔다가 패션쇼를보게되어서 신났다. 그것들중에 모델들 이 입은 옷이 너무 예뻤다. 나중에 내가 커서그런옷을 디자인해보고싶다. 패션쇼를 보게되어서좋았다. 그중에 조금예쁘지않은 옷들도 있었다. &name1&, &name2&이, 엄마, &name3&, 삼촌, 이모와같이보는 패션쇼는 더욱더재미있었다. 나중에 아빠도 같이보고싶다.</p>
+    </text>
+</SJML>

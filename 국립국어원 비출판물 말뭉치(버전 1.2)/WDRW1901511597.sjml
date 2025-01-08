@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901511597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이스크림</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아이스크림">
+        <p>
+            <s>아이스크림</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>달콤한</s>
+            <s>아이 스크림.</s>
+        </p>
+        <p>
+            <s>입에서</s>
+            <s>사르르</s>
+            <s>녹는 다</s>
+        </p>
+        <p>
+            <s>더</s>
+            <s>먹으려</s>
+            <s>손을보니</s>
+        </p>
+        <p>
+            <s>아이스크림</s>
+            <s>대신</s>
+            <s>손이</s>
+            <s>아이스크림</s>
+            <s>샤워를</s>
+            <s>했다.</s>
+        </p>
+    </text>
+</SJML>

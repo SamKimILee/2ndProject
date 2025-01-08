@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112307</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요즘   사람들</title>
+            <author id="P12307" age="63" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">유승태</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="대화">
+        <p>요즘 코로나로  인해  나는    사람과의   대화가   없다  다들   마스크를 끼고  눈만  빼꼼히  바라본다</p>
+        <p>회사에서도  자기 일만 하면 끝이다  밥을  먹는 것도  두려워  다들  도시락을  싸와서 혼자  점심을  혼자 먹는다</p>
+        <p>침이라도   튀면  곤란하다  누가 확진인지  알수 없는  현실이다  대구에 친척이 많다 대구의  신천지때문에  많은  사람들이 피혜를 보고 있다  본인들의 종교만을 위해 은폐하는   행위를  보며 치를 떨고 있다   나는  종교가  없어서 이해가 되지 않는다  종교에 미쳐서 가정과 친구에게  피해주는  사람들이 이해가  되지 않는다  나의 무지인가  그들의오만인가</p>
+        <p>그들과 대화가 하고  싶다  한번사는 세상인데  꼭  그렇게 살고 죽고  싶은지</p>
+    </text>
+</SJML>

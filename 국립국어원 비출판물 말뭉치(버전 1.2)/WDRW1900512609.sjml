@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512609</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방학</title>
+            <author id="P12609" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조용원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_방학">
+        <p>&lt;서울여행&gt;</p>
+        <p>오늘은 나의 친구엄마의 동생집에 갔다서울 갈때는 ktx를 탔다. ktx를 타니 감회가새로웠다.서울이 아닌 행신역에서 내렸다 바로 차를 타고 짬뽕 집에 갔다 거기는 조금만 놀이방이 있었는데 거기 옜날게임기가 있어서 스트리트파이터도 등 많은 게임을 했다. 진짜 이렇게 재미있었던 놀이방은 없던 것 같다. 밥먹고나서 임진각에 갔다. 원래 북한으로 가는 다리가있었는데 그다리를 끊었다고 한다 그 다리도 가보고 625전쟁당시에 있던 지하 벙커도 갔는데 정말 신기했다 다보고나오는데 놀이기구가 있어서 탔다 집에가고 다음날 경복궁에갔다 어떤 목사가 문재인대통령을 욕하고 있었다 부산에는 저런사람이 없어서 다행이라고생각했다 경북궁에서 무료로 해설도 들었다. 듣고 다시집에갔다 srt도 타보고싶다 정말 방학이즐겁다.</p>
+    </text>
+</SJML>

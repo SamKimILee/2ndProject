@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112252</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 싫어</title>
+            <author id="P12252" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>코로나 19 때문에 좋은점과 나쁜점이 생겼다. 좋은점은 학교 안가고, 학원 안가고 아빠가 가끔 집에서 일한다는 것이다. 나쁜 점은 나빠도 너무 나쁘다. 사람들이 많이 죽고, 사람들이 코로나 19에 많이 걸리고, 밖에서 신나게 뛰어놀수도 없고, 마스크도 써야하고, 손도많이 씻어아 하고, 산책도 많이 해야 한다. 그리고 잔소리도 부쩍 늘었다. 손 씨어라,마스크껴라,산책하자 기타등등 너무 너무 많다. 게다가 3월20일에는 제일 걸리기 쉬워진다고 한다. 코로나 19가 빨리 끝나면 좋겠다. 코로나 너무 싫어!</p>
+    </text>
+</SJML>

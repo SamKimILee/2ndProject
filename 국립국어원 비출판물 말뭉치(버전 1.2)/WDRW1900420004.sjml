@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420004</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>닭</title>
+            <author id="P20004" age="61" occupation="전업주부" sex="F" submission="오프라인" handwriting="No">원신희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190309" subclass="null_닭">
+        <p>2019년 3월9일 토</p>
+        <p>일주일만에 3기가데이타가 끝나버렸다</p>
+        <p>이제아무하고도소통이 안되고음악도 방송도들을수없다</p>
+        <p>밖은 뙤약볕 ‧‧산책을하기도 힘든 날씨 ‧‧일단 누워서 허리를펴본다</p>
+        <p>잠이라도 오면 좋으련만 수면이라는것이 나와친하지않다보니 점점멀어지는듯</p>
+        <p>또다시 대낮에 닭소리에 잠이 달아났다</p>
+        <p>이곳은 투계를하는사람들이 많은것같다 운긋불긋 날렵한 닭들을 목욕까지 시켜가면서 기른다 동네사람들이</p>
+        <p>캠프에있는닭들은 오로시 인간을위한 에그생산용</p>
+        <p>나온 반찬중 제일정겨운게 에그후라이다 찜도싫고 계란말이도싫다 노른자가 익을듯말듯란후라이</p>
+    </text>
+</SJML>

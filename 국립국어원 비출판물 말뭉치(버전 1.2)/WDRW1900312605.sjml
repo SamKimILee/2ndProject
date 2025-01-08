@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312605</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>글쓰기</title>
+            <author id="P12605" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정시은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190305" subclass="null_글쓰기">
+        <p>3/5 글쓰기</p>
+        <p>글은왜쓸까?</p>
+        <p>글은재미있쓰니까.</p>
+        <p>나는글을 오빠와쓴다.</p>
+        <p>글글이란무었일까?</p>
+        <p>나는글이 꼭필요해서 쓰는것이라고알고있다.</p>
+    </text>
+</SJML>

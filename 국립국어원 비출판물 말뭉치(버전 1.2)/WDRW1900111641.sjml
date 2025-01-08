@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111641</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>컴퓨터실</title>
+            <author id="P11641" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191204" subclass="null_컴퓨터교실">
+        <p>제목 : 컴퓨터실</p>
+        <p>학교를 마치고 방과후 컴퓨터교실에 갔다.</p>
+        <p>내가 한컴 타자연습을 하고있을 때&name1&이가 와서 같이 앉았다. 타자연습을하고 나서 출석을불으고 자리를 바꾸려고 짐을 챙겼다.내가 맨 앞줄에 앉는 줄 알았는데 2번째줄 1분단 &name1&이랑 짝이 되었다.우린 너무기뻐 안으며 웃었다.</p>
+        <p>&name2&는 혼자 짝이되었고, &name3&이랑 &name4&이랑 같이 자리가 배정되어 나와 &name1&이가 웃었다.</p>
+    </text>
+</SJML>

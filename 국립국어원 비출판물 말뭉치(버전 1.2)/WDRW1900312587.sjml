@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312587</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>온 세상이 멈추는 날</title>
+            <author id="P12587" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200220" subclass="null_온 세상이 멈추는 날">
+        <p>
+            <s>온 세상이 멈추는 날 2020/2/20</s>
+            <s>&name1&</s>
+            <s>온세상이 멈춘날</s>
+            <s>밖에는 오직 바이러스뿐</s>
+            <s>목요일에는 사람쫒아 날뛰어.</s>
+            <s>금요일에는 심심해 죽겠어.</s>
+            <s>토요일에는 다른곳으로 가버려.</s>
+            <s>일요일에는 없어질거야.</s>
+        </p>
+        <p>
+            <s>온세상이 멈춘날</s>
+            <s>집에는 오직 식구들 뿐</s>
+            <s>목요일에는 즐겁고 신나게 놀아.</s>
+            <s>금요일에는 신나게 놀아.</s>
+            <s>토요일에는 밖에나가고싶어.</s>
+            <s>일요일에는. 답답해 죽겠어!</s>
+        </p>
+        <p>
+            <s>온세상이 멈추는 날</s>
+            <s>바이러스가 없어지길.</s>
+        </p>
+    </text>
+</SJML>

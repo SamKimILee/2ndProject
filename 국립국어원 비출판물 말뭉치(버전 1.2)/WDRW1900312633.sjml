@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312633</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동물원</title>
+            <author id="P12633" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_동물원">
+        <p>동물원에갔다왔다</p>
+        <p>코와티한테 먹이를 쥬었다</p>
+        <p>동물원에서보고싶어던마술쇼도보았다 기니피그도만저보았다</p>
+        <p>새한테도 먹이를주었다</p>
+        <p>닥터 피시도해봤다</p>
+        <p>동물원에가서재미있어다</p>
+        <p>다음에또가고싶다</p>
+    </text>
+</SJML>

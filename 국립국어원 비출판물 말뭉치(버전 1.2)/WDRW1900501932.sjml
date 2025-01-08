@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900501932</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P01932" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">송한슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>영화보러가자</p>
+        <p>같이 가자</p>
+        <p>너랑 갈래</p>
+        <p>이렇게 누군가</p>
+        <p>물어봐줬으면 하는건</p>
+        <p>욕심인걸까</p>
+        <p>내 주위엔 아무도 없구나</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>길</title>
+            <author id="P01493" age="26" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_길">
+        <p>세상에 있는 길은 모두 몇 개 일까? 어릴 적 본 유머집에서 그런 물음을 본 적 있었다. 정답은 하나였다. 세상에 있는 길과 길들은 모두 이어져 있으니까 그 길들을 모두 잇다보면 결국 하나의 길이 만들어진다고 책은 설명했다. 그 때는 그럴듯 해보였지만 크면 클 수록 얼마나 속 편한 이야기인가 하는 생각이 들었다. 세상의 모든 길과 길이 하나로 이어져있다면 나는 왜 네게 이어지지 않은건지. 너는 두 평 남짓한 작은 공간에 스스로를 고립시키고 있는지.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204157</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하나</title>
+            <author id="P04157" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>어렸을 때부터 하나뿐인 사람이 되고싶었다. 사람은 누구나 하나뿐이지만 남들과 다르고 싶다는 마음을 충족하기엔 그걸로 부족했다. 어렸을 때는 친구들이 잘 사용하지 않는 재료로 그림을 사람의 피부색을 살구색이 아닌 초록색, 보라색으로 그려 어른들에게 보여줬다고 했다. 초등학생때는 특이한 옷을 모이기도 했고 일부러 두꺼운 책을 골라 읽기도 했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512741</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구</title>
+            <author id="P12741" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180827" subclass="null_뉴스">
+        <p>축구</p>
+        <p>우리나라축구팀과 우즈베키스탄 축구팀이 대결을했다. 우리나라는4점 우즈베키스탄팀은 3점 이렇게되서 우리팀이 이겼다! 엄마가 방방뛰다가 날 빙빙 돌렸다. 그다음 엄마가 뉴스! 뉴스!하고 뉴스를 트렀다. 그리고 다음에는 5-0으로 이기면 좋겠다.</p>
+    </text>
+</SJML>

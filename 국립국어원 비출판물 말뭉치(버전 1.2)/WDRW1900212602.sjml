@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212602</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이게 진짜 시험이다.</title>
+            <author id="P12602" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">이주윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시험">
+        <p>
+            <s>시험치는 날 아침시간에는</s>
+            <s>마지막으로 책을 들여다보다가</s>
+            <s>손이 덜덜</s>
+        </p>
+        <p>
+            <s>선생님이 들어오셔서</s>
+            <s>OMR카드를 건네받다가</s>
+            <s>발이 덜덜</s>
+        </p>
+        <p>
+            <s>시험시작 종이 치면</s>
+            <s>문제를 눈으로 읽어보다가</s>
+            <s>땀이 줄줄</s>
+        </p>
+        <p>
+            <s>시험이 끝나면</s>
+            <s>시험지 가채점을 해보다가</s>
+            <s>눈물 줄줄</s>
+        </p>
+    </text>
+</SJML>

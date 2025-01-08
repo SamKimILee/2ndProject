@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302255</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 자서전</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인생 엿보기</title>
+            <author id="P02255" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">임수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_봉사활동">
+        <p>중1</p>
+        <p>난 중학교 1학년 때  봉사활동으로 금연 캠페인  홍보를 나갔었다.  그때는 봉사시간을 채우려는 생각만 가지고 봉사활동을 하는 장소로  갔었다.</p>
+        <p>그 곳에는 피켓을 들고 돌아다니는 활동을  했는데  금연 활동 문구들과  폐가 썪어가는 과정들을 알고 외치니 나는 커서도 절대로  담배를 피우지 말아야겠다는  생각들만 들었다.  이 봉사활동이 별거 없어보이지만 얻은 것들은 많았기에 2년이 지난 지금도  기억나는 것 같다.</p>
+    </text>
+</SJML>

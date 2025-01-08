@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110376</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시장</title>
+            <author id="P10376" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">심다움</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시장">
+        <p>시장에는 상인들이 물건을 파려고 입다투어 소리치며 맛있는 간식거리 굽는 소리, 가격을 흥정하는 소리, 자신이 찾는 물건이 여기에 있는지 물어보는 소리들이 하나 둘씩 서로 어울어진다.</p>
+    </text>
+</SJML>

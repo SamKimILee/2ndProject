@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>78프로의 여성</title>
+            <author id="P01355" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="여자">
+        <p>
+            <s>진짜 여자는 없다.</s>
+            <s>나는 남아도는 여자의 여자.</s>
+            <s>여자의 여자의 여자의 여자라서</s>
+            <s>나는 반쯤 여자고 반의 반만 여자고</s>
+            <s>78프로만 여자였다.</s>
+            <s>사람들이 진짜 여자만 여자가 될 수 있다고.</s>
+            <s>여자는 여자를 닮아야 여자가 된다고 하지만</s>
+            <s>나는 완벽하지 않은 78프로의 여자의 여자.</s>
+            <s>나는 완벽한 여자가 되고 싶지 않은 여자.</s>
+            <s>불완전한 여자들을 위해 살아가고 싶은 여자의 여자.</s>
+            <s>여자의 여자의 여자의 여자의 의자.</s>
+        </p>
+    </text>
+</SJML>

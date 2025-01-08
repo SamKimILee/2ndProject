@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311478</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밤에 뜨는 태양, 노을</title>
+            <author id="P11478" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장예준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_노을">
+        <p>
+            <s>제목:밤에 뜨는 태양,노을.</s>
+        </p>
+        <p>
+            <s>노을에는 예쁜 도서관이 보인다.거기에 읽을 책들이 많네!</s>
+            <s>노을 옆에는 피아노.노을 옆에 피아노 소리, 딩동 딩동 딩동댕.</s>
+            <s>사람들이 노을 옆에 마구마구달려온다. 피아노가 좋아서... 바람이 노을을 날려... 바람이 노을을 떼려...</s>
+            <s>날려버렸네! 노을에는 거울있다네. 착한 사람만 볼 수 있는 거울... 신기하지? 노을과 함께 산책한다. 노을이날 들어서 모든 것들을 보여주지. 메롱</s>
+            <s>노을과 나는 친구, 노을과 함께 먹기... 노을과 함께 놀기! 노을과 함게 모든 것들을 함께!끝!휴휴~~~</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512375</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한의원</title>
+            <author id="P12375" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김능환</author>
+        </sourceInfo>
+    </header>
+    <text date="20200110" subclass="null_한의원">
+        <p>오늘은별로특히 쓸일은없었다 왜냐면 방학첫날이라 방학계획을 잘짜지못한탓에 무엇을 할지 생각하는것정도만하다가 학원에 갔다 왔더니 갑자기엄마가&name1&이와 없어졌다나는 이런일이 별로없었던것도 아닌데항상전화 를했다 대부분 좀있다 오전전화를받았는데안그래서좀무서웠다그래서동생한테전화해보니다행하게도 엄마는 감기 때문에 한의원에한번갔다 왔었다 심한것은 아니지만 한번갔다 온것이었다 돌아오자 엄마는침을맞았더니코가뻥뚫렸다했다 신기했다저번에 한옥의약박물관에서 한약재나 혈자리 같은걸 배웠는데 이번일로 더한의약에대해더 관심을갔게되었다</p>
+    </text>
+</SJML>

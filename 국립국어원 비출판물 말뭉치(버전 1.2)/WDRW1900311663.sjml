@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311663</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아홉살 느낌사전</title>
+            <author id="P11663" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이아미</author>
+        </sourceInfo>
+    </header>
+    <text date="20191017" subclass="null_느낌">
+        <p>제목: 아홉 살 느낌사전</p>
+        <p>이 책은 여러 가지 느낌이 나와있는 책이다 그중에 내가 고른 느낌은 ‘출출하다’라는 느낌이다. 밥을 잘 먹지 않으면 금방 배가 고플 것 같다. 나도 밥을 조금 먹은 적이 있는데 그때 느낀 느낌이 출출하다라는 느낌이다.</p>
+    </text>
+</SJML>

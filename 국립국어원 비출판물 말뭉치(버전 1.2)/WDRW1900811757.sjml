@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811757</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>통일 비행기</title>
+            <author id="P11757" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_비행기">
+        <p>오늘은 학교에서 통일 비행기, 황세 비행기, 오징어 비행기를 접었다. 나는 오징어 비행기가 가장 쉬었다. 가장어려웠던 비행기는 통일 비행기다. 가장 잘나는것은 통일 비행기다.</p>
+        <p>오징어 비행기가 가장 웃겼다. 재미있었다.</p>
+    </text>
+</SJML>

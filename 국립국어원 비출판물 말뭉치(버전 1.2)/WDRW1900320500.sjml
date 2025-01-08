@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320500</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목없음</title>
+            <author id="P20500" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">신재혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_방학">
+        <p>저는방학을 집에서 지이 집에만 있서꼬요 그리고 방학때 부산 할머니 때에서 문어을먹었지요 자전거를 타러고 자전거 대여소가 문을 닫앗지 모예요 그레서 다른 대를 찾아갓는데 또 그리고 거기 문이 닫혀요 할수었이 엄마 예전 친 척집가까운 카페을 갓는데 거기 초코렛 음려가 너무너무 맛있어요 아맛따 할머니가 장어도 맛이 있었써요 다음에도 기회가돼면 또 먹고 싶어요</p>
+        <p>그리고 집에갈때 엄마가 원하 금강휴게서를 뜰러서 먹거리를먹었습니다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311974</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>웃음</title>
+            <author id="P11974" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="아이">
+        <p>아이처럼 웃는 네 모습에 반했었어. 그 해사한 웃음이 내 시선을 이끌었어. 내가 그렇게 웃을 수 없어서였기 때문이였는지, 그저 네 웃는 모습이 예뻐서였는지는 나도 모르겠어. 다만 내가 네게 할 수 있는 말은 네가 웃는 모습은 정말 예뻤다는 거야. 마치 부모님이 이야기 해주시던 내가 어릴 적 아직 아이였을 때의 순수한 웃음처럼 네가 웃는 모습만 봐도 좀처럼 웃지 않는 내 얼굴에도 미소가 드리워졌어. 직접 전할 수조차 없는 마음을 글로쓰는 이유는, 그저 누구에게도 말할 수 없는 마음을 삭히려하는 애꿏은 노력일 뿐이니까.</p>
+    </text>
+</SJML>

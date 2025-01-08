@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설거지</title>
+            <author id="P12580" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예언</author>
+        </sourceInfo>
+    </header>
+    <text date="20190721" subclass="null_설거지">
+        <p>엄마랑 설거지를 했다. 엄마를도와줘서 기뻤다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재롱잔치</title>
+            <author id="P12063" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20191211" subclass="null_재롱잔치">
+        <p>오늘은 유치원재롱잔치을했다 나는꼭두각시와 장구을했다</p>
+        <p>엄마랑아빠아랑할머니랑 오셔서 축하해줬다</p>
+        <p>기분이좋았다</p>
+        <p>꽃도받고선물도받았다 선생님감사합니다</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311568</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020 해돋이 간 날</title>
+            <author id="P11568" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">류현민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200101" subclass="null_돋이">
+        <p>우리가족은 매년 해돋이를 보러간다.</p>
+        <p>이번에는 울산에서 해돋이를 보기로 했다.</p>
+        <p>아침일찍 일어나 일출동산으로 올라 갔다.</p>
+        <p>다른사람들도 모두 추워서인지 담요와 장갑, 핫팩을 가지고 있었다. 우리는 추위를 참으며 붉은해가 떠오르기를 기다렸다. 드디어 기다리던 2020년의 첫해가 밝게 솟았다. 나는 두손을 모으고 소원을 빌었다. 올해는 우리가족 모두가 건강하고 더 즐거운 일이 많았으면 좋겠다.</p>
+    </text>
+</SJML>

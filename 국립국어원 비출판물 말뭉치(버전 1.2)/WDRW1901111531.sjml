@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901111531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>히야시스</title>
+            <author id="P11531" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김온유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_히야시스">
+        <p>&lt; 히야시스 관찰일기1&gt;</p>
+        <p>해피(히야신스)가 자랐다. 놀랐다.</p>
+        <p>아침에 일어나서 핑크빛이 보였다. 30분 지나니 꽃이피까?말까?했다.</p>
+        <p>지금(8시12분)은 가운데만 안핀다.</p>
+        <p>히야신스는 성장이 너무 빠르다.</p>
+        <p>하지만 사랑을 듬쁙 줘야지 자라</p>
+        <p>오늘은 바람쐬기다.</p>
+    </text>
+</SJML>

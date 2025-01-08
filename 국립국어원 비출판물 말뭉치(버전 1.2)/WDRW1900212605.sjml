@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212605</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소원</title>
+            <author id="P12605" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정시은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_소원">
+        <p>소원</p>
+        <p>나의소원은 부자이고 그리고 똑똑했으면좋겠고 글을자쓰고십다 또 꿈나의 장래희망이이루어졌습면 좋겄다. 빨리개학 하고 싶고 가족영행을가고싶다. 어른이 되고싶고 공주로 태어나보고 싶다. 항상집에 있고싶고 피아노니스트가 되고싶다. 엄마,아빠,오빠와가족과함께 평생 살고십다.</p>
+    </text>
+</SJML>

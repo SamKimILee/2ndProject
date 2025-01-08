@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>심애의 예증</title>
+            <author id="P10249" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="사랑">
+        <p>
+            <s>겨우 찾은 평정심이 흔들리기 시작했다.</s>
+            <s>너였구나, 얘야. 네가 내 마음에 돌을 던졌구나.</s>
+            <s>잔잔하던 내 호수를 너울이 이는 바다로 만든 이가.</s>
+        </p>
+    </text>
+</SJML>

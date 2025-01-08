@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410532</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요즘 운동을 한다</title>
+            <author id="P10532" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="운동">
+        <p>요즘 운동에 빠져서 근력 운동을 하는 중이다. 누나랑 엄마는 팔뚝이 징그럽다고 했지만 나는 마음에 든다. 반에서 내가 팔씨름 3등이다. 조금 뿌듯하다. 매일같이 운동하는 보람이 있다. 이제는 팔 굽혀 펴기도 15번을 연속으로 할 수 있다. 10kg짜리 아령과 60kg짜리 악력기로 매일매일 팔 운동을 하다 보니 정말 세진 느낌이다. 아빠랑 비슷할 것 같다. 운동하는 건 정말 재미있다.</p>
+    </text>
+</SJML>

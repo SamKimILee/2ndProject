@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212374</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족소풍</title>
+            <author id="P12374" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김성연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200212" subclass="null_소풍">
+        <p>만화로할게요 일기 쓸 게 생각안나서 글로 만홰함</p>
+        <p>어느날 소혜 라는아이와지혜라는아이가 엄마아빠랑</p>
+        <p>소풍을같 습 니 다 돗자리를 펴고 맛있는 도시락을먹고</p>
+        <p>있을 때 쯤 아기 고양이가 한마리 찾아 왔습니다</p>
+        <p>냐아아옹 밥좀 달라옹 냐옹 이 가 말했습니다 지혜가</p>
+        <p>말했습니다 아기고양이가 배가고픈가 봐!</p>
+        <p>지혜가 참치캔을 따서주었습 니다</p>
+        <p>지혜와소혜 는 행복하게살았답 니 다</p>
+        <p>끝</p>
+        <p>다음일기 시간에...</p>
+    </text>
+</SJML>

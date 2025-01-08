@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수박</title>
+            <author id="P11277" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">오은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_수박">
+        <p>
+            <s>동그랗고 커다란 수박</s>
+            <s>손등으로 두들기면</s>
+            <s>똑.똑. 누구십니까? 라고 대답하지</s>
+        </p>
+        <p>
+            <s>반으로 수박을 잘라보면은</s>
+            <s>검은씨들이 나에게</s>
+            <s>수줍은 미소로 환하게 인사하지</s>
+        </p>
+        <p>
+            <s>수박을 네모난 모양으로</s>
+            <s>예쁘게 잘라서  둥근 그릇에</s>
+            <s>사이다와 함께 얼음을 동동 뛰운 후</s>
+        </p>
+        <p>
+            <s>여러가지의 내가 원하는</s>
+            <s>과일들을 잘라서 넣으면</s>
+            <s>맛있는  수박 화채가 되지</s>
+        </p>
+        <p>
+            <s>반으로 자른 수박을 보면</s>
+            <s>검은 씨들과 빨간 속살이</s>
+            <s>어울러져서  먹음직스럽지</s>
+        </p>
+    </text>
+</SJML>

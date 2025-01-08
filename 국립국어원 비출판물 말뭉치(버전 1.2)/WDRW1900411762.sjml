@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411762</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>야시장</title>
+            <author id="P11762" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">설지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190504" subclass="null_야시장">
+        <p>2019.5.4</p>
+        <p>날씨: 가디건이 필요한 날씨</p>
+        <p>제목: 울산 큰애기 야시장</p>
+        <p>엄마, &name1&와 함께 야시장에 갔다. 야시장에가보니 먹을 것이 많았다 우리는 10가지 음식 중에 3가지 종류의 음식을 먹었다 2가지의 음식은 종류가 별로 없었는데 1가지의 음식은 줄이 많아서 그냥 먹었는데 맛있었다 음식은 먹고 나서 스타벅스에가서 망고 주스를 사먹었다 망고주스를 들고 집으로 가는데 새똥이 발 앞에 떨어졌다. 한발만 앞으로 갔어도 새똥을 맞을뻔했다 야시장은 예전부터 가고 싶었는데 야시장을 가보니 즐거웠다. 다음엔 아빠와 함께가고싶다.</p>
+        <p>아빠가 빨리돌아 왔으면 좋겠다</p>
+    </text>
+</SJML>

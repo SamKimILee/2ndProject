@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211773</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P11773" age="8" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190907" subclass="null_쇼핑">
+        <p>수영 강습이 끝나고 롯데마트에 아빠와 엄마와 &name1&이와 같이 갔다. 세일 코너에 관절 인형이있었다. &name1&이가  "아빠 내 생일 이 다가오니까 인형사주면 안돼?" 라고했다. 결국 인형을 내것까지 더해서 인형을 2개 샀다.  나는 세일 코너에 있는 걸 샀는데 &name1&이는 더 비샀것을 샀다</p>
+    </text>
+</SJML>

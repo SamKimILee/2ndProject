@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여자 </title>
+            <author id="P11691" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190404" subclass="null_여자">
+        <p>내가 여자가 되었다면 난 싫다.</p>
+        <p>왜냐하면 여자면 힘도 지금보다 더 약할수도 있고 힘이 약하면 내가 좋아하는 딱지치기를 잘할수 없을 수 있기 때문이다. 또 내가 여자이면 가족 중에 아빠,엄마,누나,내가 있는데 내가 여자면 아빠만 남자이니깐 좀 외로울 것 같다. 또 여자면 머리가 길어서 얼굴에 닿아서 불편하다.</p>
+    </text>
+</SJML>

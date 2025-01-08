@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901612580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물놀이</title>
+            <author id="P12580" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예언</author>
+        </sourceInfo>
+    </header>
+    <text date="20190818" subclass="null_물놀이">
+        <p>이모랑갔이 물놀이 했다. 재미있었다</p>
+    </text>
+</SJML>

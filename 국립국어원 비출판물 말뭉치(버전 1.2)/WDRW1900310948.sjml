@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310948</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>남매</title>
+            <author id="P10948" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_남매">
+        <p>
+            <s>평소에는 밉기만 했던</s>
+            <s>언제나 싸우기만 했던</s>
+            <s>서로를 싫어했던 사이</s>
+        </p>
+        <p>
+            <s>그러나 시간이 지나다 보면</s>
+            <s>며칠 못 보게 되면</s>
+            <s>그리워지고 허전하고</s>
+            <s>너무나 정든 사이</s>
+        </p>
+    </text>
+</SJML>

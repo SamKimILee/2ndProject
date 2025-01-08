@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411459</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미스터 주</title>
+            <author id="P11459" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_미스터 주">
+        <p>오늘은 미스터 주를 봤다. 알리라는 강아지가 군견이여서 멋진것같다. 미스터 주가 머리를 다친후 동물에 말을 알아드렀다. 그후 미스터 주한테 좋은일도있고 안좋은일도있었다. 그후  나쁜사람들 에게 쫓기다가 미스터 주가 알리를 지켜주다 또다시 머리를 다쳤다. 그후 미스터 주가 깼는대 다시 동물에 말을 못 알아 듯게 되었다. 알리한테 가보니 죽어있었다고 생각 했다. 하지만 자고 있었다.</p>
+        <p>&name1&이의</p>
+        <p>일 기끝!</p>
+    </text>
+</SJML>

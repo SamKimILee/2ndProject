@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900308834</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안녕, 나 &name1&이야.</title>
+            <author id="P08834" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">석지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_유학">
+        <p>안녕, 나 &name1&이야. 다름이 아니라 이제 정말 유학가는 날짜가 정해졌어. 4월 22일. 가기 전에 정말 보고 싶었는데 아쉽다. 사실 난 오빠가 나를 그렇게 가차 없이 밀어냈는데도 아직도 좋더라. 이제 오늘 한국 생활 정리하고 곧 출발해. 나중에 성인이 되서 그때 한국에 돌아왔을 때 연락하고 싶어. 기억나지? 우리 어떻게든 헤어지게 되더라도 2021년 12월 25일에 홍대에서 만나기로 한거. 많이 좋아했고 씩씩하게 잘 다녀올게. 꼭 잘 지내고 고마웠어 정말로.</p>
+    </text>
+</SJML>

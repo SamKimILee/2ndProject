@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120062</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고운말로 인사하기 활동</title>
+            <author id="P20062" age="7" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고운말">
+        <p>오늘 고운말로인사하기활동을했다. 나는 재미있는 게임을 짝과함께 제미있는 말판게임을 했다. 그게인사말못하면 앞으로 못가는 게임이다. 그게임은 한바퀴를 돌아오는 게임이다.</p>
+    </text>
+</SJML>

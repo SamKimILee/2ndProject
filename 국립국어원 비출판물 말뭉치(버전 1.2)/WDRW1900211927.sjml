@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211927</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>경주를 여행하고 나서</title>
+            <author id="P11927" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">안윤선</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_경주">
+        <p>안녕? 나는 이번 여름방학에 가족.할머니.할아버지와 함께 경주에 다녀왔어. 그래서 제가 다녀온 경주여행에 대하여 소개할게. 경주는 아주 멋지고,훌룡한 곳이야. 거기에는 많은 문화유산이 있어.나는 첨성대,천마총이 기억에 남았어.둘은 가까이 있어. 첨성대에는 비단벌래열차가 있어.그것을 타면 시원한 바람과 멋진 풍경을 볼수 있어. 천마총은 아주 큰 왕의 무덤인데, 그 안에는 많은 보물이 있어.</p>
+        <p>그들은 아주 아름다워.</p>
+        <p>다음에도 다시 가고 싶어.안녕~</p>
+    </text>
+</SJML>

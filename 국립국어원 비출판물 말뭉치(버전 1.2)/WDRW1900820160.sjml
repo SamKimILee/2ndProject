@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900820160</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>존경과추모가 담긴 예술</title>
+            <author id="P20160" age="14" occupation="중학생" sex="M" submission="오프라인" handwriting="No">민결</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_전쟁">
+        <p>전쟁은 현대 사회에서 정상적으로 통용될 수 없고, 많은 사상자와 재산적 피해를 불러온다. 이렇게 참혹한 전쟁은 영화, 드라마 등에서도 활발히 묘사된다.</p>
+        <p>이 경우 창작자는 참전용사들에 대한 추모와 확실한 현실고증으로 실제 사건이 조금이라도 미화될 여지가 없도록 숭고한 정신으로 임하게 된다. 난 앞으로도 이런 식으로 전쟁에 관한 많은 창작 활동이 이루어졌으면 좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611406</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>200219 일기</title>
+            <author id="P11406" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김한결</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_반 배정">
+        <p>드디어 기다리던 반배정이 나오는 날이라서 아침부터 기분 좋게 학교에 갔다. 오랜만에 친구들을 다 같이 보니 저절로 신이 나서 내내 웃고만 있었다! 그런데 교과서만 배부하고 반배정은 미뤄져서 너무 슬펐다... 나름 걱정 반, 기대 반으로 등교했는데... 그래도 끝나고 친구들과 점심을 먹고 카페에서 수다를 떨었기에 만족할 수 있는 하루다! 반배정 결과가 얼른 나왔으면 좋겠다.</p>
+    </text>
+</SJML>

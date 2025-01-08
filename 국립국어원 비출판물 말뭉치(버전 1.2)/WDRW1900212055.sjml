@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212055</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외식 + (고독)</title>
+            <author id="P12055" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191123" subclass="null_외식">
+        <p>11월23일 토</p>
+        <p>외식+(고독)</p>
+        <p>누나 고등학교 문제 때문에 부모님과 누나는 공주에 갔다. 나는 가기 싫어서 가지 않았다. 집에서 영재 학급 가고, 집에 돌아오니, 텅 비어 있었다. 먼저, 밖에노는 친구들이 있나~! 하고 봤더니 아무도 없었다. 그래서 게임을 했다. 그리고 점심을 먹고, 친구들이 있나~! 하고 또 봤더니 또 아무도 없어서 잤다. 일어나서, 밖에 친구들이 있나~! 하고 봤더니, 누가 있었다. 아니, 많이, 놀고 들어와서 TV를 보다가  엄마가 내려오라고 전화를 해서, 내려가서, 외식으로 홍콩반점에 갔다. 그곳에서 짜장면을 먹었다. 맛있었다.</p>
+    </text>
+</SJML>

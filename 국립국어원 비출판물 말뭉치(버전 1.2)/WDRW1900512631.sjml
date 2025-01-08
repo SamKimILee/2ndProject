@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512631</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>크리스마스 트리</title>
+            <author id="P12631" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_트리">
+        <p>크리스마스 트리를 나무로 만들었다. 전구를 감고, 망치로 못을 박고, 그위에다가 실을 감으면 끝이 아니다. 그 다음바침대를 나무널빤지에 붙이는데 목공예풀을 써서 붙인다. 알록달록 해서 좋다. 다음에는 칼을 만들었으면 좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112350</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>봄은 요술쟁이</title>
+            <author id="P12350" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최혜정</author>
+        </sourceInfo>
+    </header>
+    <text date="20190504" subclass="null_봄">
+        <p>
+            <s>5월 4일 토요일</s>
+            <s>제목: 봄</s>
+            <s>봄은 요술쟁이</s>
+        </p>
+        <p>
+            <s>봄이 천천히 다가오고 있다.</s>
+            <s>푱푱푱 개나리</s>
+            <s>팡팡팡 진달래</s>
+            <s>봄이 조용한 소리를 내며 다가오고 있다.</s>
+            <s>휘이잉~ 휘이잉~</s>
+            <s>따 뜻한 바람이 나의 얼굴을 감싼다.</s>
+            <s>저기에 아이들이  놀고있다.</s>
+            <s>봄은 자석처럼 아이들을 집밖으로 끌어낸다.</s>
+            <s>봄이 모두를 웃게 만든다.</s>
+            <s>겨울이 물러가서 하하호호</s>
+            <s>봄이 돌아와서 하하호호</s>
+            <s>봄은 요술쟁이</s>
+        </p>
+    </text>
+</SJML>

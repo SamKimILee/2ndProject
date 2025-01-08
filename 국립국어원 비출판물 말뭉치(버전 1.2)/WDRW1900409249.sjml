@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>과거</title>
+            <author id="P09249" age="21" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="옛날">
+        <p>문득 문득 과거가 그리워진다.</p>
+        <p>내가 지나온 길을 멈춰서 바라본다.</p>
+        <p>나는 왜 지금 이 길을 왔을까. 자꾸만 후회를 한다.</p>
+        <p>자꾸만 자꾸만 멈춰선다. 미련이 남는다. 다시 돌아가고 싶지만 돌아갈 수 없다. 애써 털어버리고 걸어나가려 하지만 앞이 어두컴컴하다. 다시 또 뒤돌아본다. 언제 어쩌다 이곳까지 왔을까.</p>
+    </text>
+</SJML>

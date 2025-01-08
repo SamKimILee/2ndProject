@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111697</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐거운 쇼핑</title>
+            <author id="P11697" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="201909029" subclass="null_쇼핑">
+        <p>2019년 9월 29일 일요일 날씨:더움 &lt;일기쓰기&gt;</p>
+        <p>제목: 즐거운 쇼핑</p>
+        <p>누나 신발을 사러 엄마가 마트를 가자고 하셨다. 귀찮아서 안가려고 했는데 왠지 따라가면 좋을 것 같아서 가기로 했다. 할머니와 만나서 같이 갔다. 무엇을 먹을까 하다가 베트남 음식점으로 갔다. 쌀국수랑. 파인애플 볶음밥이랑 볶음면도 먹었다. 다 맛있어서 나오길 잘했다고 생각했다.</p>
+        <p>누나 운동화랑 바지를 고르는 동안 기다리는게 조금 힘들었다. 건담이랑 피규어 파는 곳이 있는데 엄마가 구경만 하라고 하셨다. 나는 건담이 갖고 싶었지만 못 사서 아쉬웠다. 목이 조금 아픈데 엄마가 마스크를 쓰라고 하셔서 했더니 답답했다. 이제 내 바지를 사려고 하는데 돌아 다니니까 다리가 아팠다. 바지를 고르다가 &name1&이가 가는 걸 봤는데 인사를 못했다. 바지를 사니까 좋았다.</p>
+        <p>오늘은 바지도 사고, 맛있는 것도 먹고, 나 오기를 잘 한 것 같다.</p>
+    </text>
+</SJML>

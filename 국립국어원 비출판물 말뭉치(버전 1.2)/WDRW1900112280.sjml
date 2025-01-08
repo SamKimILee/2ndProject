@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112280</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>반장과 부반장 선거</title>
+            <author id="P12280" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190308" subclass="null_선거">
+        <p>2019년 3월 8일 금요일</p>
+        <p>&lt;반장과 부반장 선거&gt;</p>
+        <p>맑으나 춥지도 덥지도 않다.여전히 미세 먼지가 있다.</p>
+        <p>셋째 시간에 올해 우리반을 위해 일할 반장과 부반장 1명씩을 뽑기로 했다.반장선거에는 &name1&, &name2&,&name3&, &name4&,&name5&,&name6&이 나왔다. &name7&는 친구들이 손을 들어주지 않아 투표를 못 받게 되었다. 투표가 시작돼었다. 나도 마음에 드는 친구를 뽑았다. &name2&이 반장이 돼었다. 이제는 부반장을 뽑는다.부반장은 다른 후보가 나올수 있다.남자 부반장 선거에는 6명이 나왔다.여자는 6정도 나왔다. 이번 투표 종이에는 남자한명 여자 한명으로 칸이 나누어져 있었다. 모두 투표를 마치고 결과를 발표했다.남자부반장은 &name4&, 여자 부반장은 &name8&으로 정해 졌다. 반장이 남자가 돼면 좋았을 것 같다.</p>
+    </text>
+</SJML>

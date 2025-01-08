@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209854</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목:놀러가기</title>
+            <author id="P09854" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_여행">
+        <p>제목:놀러가기</p>
+        <p>사촌과 우리가족은 홍천 가람리조트로 1박 2일(7.29~30)여행을 갔다.</p>
+        <p>도착하고, 체크인이 3시여서 가람리조트 야외 수영장에서 사촌 동생과 놀았다.</p>
+        <p>체크인을 하고 들아왔을때 나는 무척 놀랐다. 아니 이럴수가! 넓고 가죽소파가 있는 거실에 안방마다 에어컨이,윗층도 있고~!! 꿀이득ㅋ.</p>
+        <p>나는 숙모가 주신불빛팔찌로 2층 방에서 놀았다.</p>
+        <p>저녁으론 삼겹살을 먹었다.삼촌이 노릇노릇 맛있게 구우면 우리는 먹었다. 물론 삼촌도 벌써 잘 시간이다. 나는 너무 설렜다.</p>
+        <p>왜냐하면 사촌동생과 2층 방에서 자기 때문이다. 2층에서 자본 적이 없어서 더욱 설렜다.</p>
+        <p>다음 날 아침 아침으로 김치찌개를 먹고 집으로 갔다. 끝~</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111682</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비누방울</title>
+            <author id="P11682" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김태훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_비누방울">
+        <p>제목: 비누방울</p>
+        <p>오늘 비누방울 놀이를 했다. 왜냐하면 어제비누방울놀이를할려고했는데 못해서오늘했다. 처음부터 아주아주길고 아주아주크고 아주 아주 높게날아갔다 점점거품이생겼다. 그런데 바람 때문에 자꾸터졌다. 한통다쓰고새것을 쓰는데 잘안돼고 계속계속거품이생겼다. 그래서거품 갖고놀다가들어갔는데 아무도없었다.길이 엇갈려서 집에아무도없엇나보다</p>
+    </text>
+</SJML>

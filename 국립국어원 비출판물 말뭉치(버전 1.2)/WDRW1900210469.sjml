@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210469</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>씨앗</title>
+            <author id="P10469" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">유지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_씨앗">
+        <p>
+            <s>씨앗</s>
+            <s>&name1&</s>
+            <s>정체모를씨앗이</s>
+            <s>우리집앞에있다</s>
+            <s>그씨앗을잡아서</s>
+            <s>정체모를화분에 심고 물을</s>
+            <s>주고 갓다</s>
+            <s>이제는...</s>
+            <s>그 자리에 조그만한</s>
+            <s>씨앗은없고</s>
+            <s>아주큰정체모를</s>
+            <s>꽃이있다</s>
+        </p>
+    </text>
+</SJML>

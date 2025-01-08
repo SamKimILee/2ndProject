@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110948</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿈</title>
+            <author id="P10948" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꿈">
+        <p>
+            <s>누군가에게는</s>
+            <s>정말 간절하고</s>
+            <s>누군가에게는</s>
+            <s>이미 이뤄진 것이고</s>
+            <s>누군가에게는</s>
+            <s>하루 하루가 기대되는것</s>
+            <s>누군가에게는</s>
+            <s>어렵게만 느껴지는 것</s>
+            <s>그것이 꿈</s>
+        </p>
+    </text>
+</SJML>

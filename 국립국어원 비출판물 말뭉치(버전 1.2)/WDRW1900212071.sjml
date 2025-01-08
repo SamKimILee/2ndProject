@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울랜드</title>
+            <author id="P12071" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_서울랜드">
+        <p>우리 가족은 서울랜드에 갔다. 엄마는 무섭다고 하셔서 나는 아빠랑 둘이 바이킹을 타러 가고, 엄마랑 해리는 아기 바이킹을 타러 갔다. 바이킹을 3번 연속으로 타서 조금은 무서웠지만 그래도 재미있었다. 여러가지 놀이기구를 타니 정말 즐거웠다. 다음에는 친구들이랑 같이 오고 싶다.</p>
+    </text>
+</SJML>

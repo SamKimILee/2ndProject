@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612009</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>근로자의 날</title>
+            <author id="P12009" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">임지유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_근로자의 날">
+        <p>어제는 근로자의 날이었다. 근로자란 임금을 받고 일하는 사람을 뜻한다. 임금이란 돈을 말한다.</p>
+        <p>이모는 학교를 쉬고 우리 집에 놀러왔다. 그래서 이모랑 아이패드로 숨은그림을 찾았다.</p>
+        <p>좋았다. 하지만 이모가 내일가니 조금 섭섭했다. 이모안뇽 ㅠㅠ</p>
+    </text>
+</SJML>

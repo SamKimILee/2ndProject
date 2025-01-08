@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나19 </title>
+            <author id="P12203" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임주하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>요즘은 코로나 19 때문에 세상이 난리다. 코로나 19는 12월에 중국 우한시에서 시작된 병이다. 그런데 이제는 세계 각국에 다 퍼졌다. 우리 나라는 확진자가 천명이 넘고 사망자는 11명 그리고 완치된 사람이 22이다. 도시는 유령이사는데 갇다. 요즘은 먹거리를 구하기도 힘들다. 무섭다</p>
+    </text>
+</SJML>

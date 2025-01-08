@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>두명의 담임쌤</title>
+            <author id="P11531" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김온유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200417" subclass="null_선생님">
+        <p>&lt;두명의 담임쌤&gt;</p>
+        <p>생각해보니 3학년때는 담임쌤이 2명 이었던것같다.</p>
+        <p>한명은 진짜 담임쌤이고,또다른 1명은 &name1& 쌤이었던것같다. 라이브특강이 끝나서 아쉽다. 라이브특강을 또하면 좋겠다. &name1& 선생님 감사합니다.</p>
+    </text>
+</SJML>

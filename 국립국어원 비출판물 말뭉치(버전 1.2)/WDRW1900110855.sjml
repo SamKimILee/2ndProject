@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110855</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인생의 길</title>
+            <author id="P10855" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">임지성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인생">
+        <p>누구에게나 인생의 길은 존재한다.</p>
+        <p>내 앞에 있는 길이 꽃길인지, 비단길인지, 가시밭길인지는 내가 누구보다 잘 알거다.</p>
+        <p>슬프게도 인생의 길은 변하지 않는다. 태어날때부터 죽을때가지 한가지의 길만 죽을때까지 걸어간다.</p>
+        <p>길이 변할려면 개천에서 용이 나야하는데 그게 현실적으로 쉬울것같나?</p>
+        <p>개천에서 용은 못나도 이무기는 날수 있다.</p>
+        <p>하지만 알아야한다 이무기는 절대 용이 될수 없다는것을</p>
+        <p>아니면 용의 탈을 쓸 멸치일수도 있다.</p>
+        <p>이걸 알아버린 순간 삶의 의지는 폭락한다.</p>
+        <p>나의 길이 어떤길인지, 나의 삶이 어떤 삶인지..</p>
+        <p>땅을 보지말고 하늘을 보고 살라고 하지만</p>
+        <p>하늘을 보면 볼수록 나의 크기는 줄어들고 한 없이 작아진다</p>
+        <p>하지만 바닥을 보면 나보다 못한 사람들을 보며 위안을 삼는다.</p>
+        <p>정말 비겁한 짓이지만 난 왜 나보다 못한 사람들을 보면서 안도할까</p>
+    </text>
+</SJML>

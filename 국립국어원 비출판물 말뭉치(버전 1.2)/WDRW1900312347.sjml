@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312347</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 커피 예찬</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>커피는 사랑이다.</title>
+            <author id="P12347" age="60" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">김성민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_커피">
+        <p>우리 부부는 아침에 눈을 뜨면 제일 먼저 커피를 마신다.  뜨거운 물에 커피 한 스푼을 넣으면 기쁨과 즐거움이 향기로 다가온다.  빈 속에 마시는 커피가 건강에 좋다 나쁘다 말하겠지만, 그 보다 더 귀한 것을 우리는 커피에게 받는다.</p>
+        <p>아침에 마시는 커피는 내가 탄다.  아직 자리에 있는 아내에게 커피잔을 주면 고맙고 감사해한다. 그 어떤 명품으로도 누릴 수 없는 행복이다.  그러니 내가 커피를 어찌 고마워 하지 않겠는가?</p>
+        <p>커피는 사랑이다. 커피는 행복이다.  마음에 담긴 사랑이 커피로 서로에게 향기가 된다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511994</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방과후</title>
+            <author id="P11994" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_방과후">
+        <p>Am8:30분</p>
+        <p>오늘은 씨앗별(방과후)애갔다 갔는데 깜짝놀랐다 소쩍새가 있었다 PA10:00 우선 방과후 텃밭을 팠다 에벌레 4마리를 발견했다! 근데사라졌다ㅠㅠ</p>
+    </text>
+</SJML>

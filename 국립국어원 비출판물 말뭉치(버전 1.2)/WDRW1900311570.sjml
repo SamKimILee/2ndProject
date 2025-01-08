@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>죽음</title>
+            <author id="P11570" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">하지연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_죽음">
+        <p>
+            <s>죽음</s>
+        </p>
+        <p>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>죽음의 신 타나토스가</s>
+            <s>다녀갔다</s>
+        </p>
+        <p>
+            <s>침대에 누워있는 한 사람</s>
+            <s>마치 자는 것처럼</s>
+            <s>편안해 보인다</s>
+        </p>
+        <p>
+            <s>방안에 비가 내리고 있다</s>
+            <s>가족들이 만들어 내는 빗방울</s>
+        </p>
+        <p>
+            <s>보는 사람도 슬플게 할</s>
+            <s>정도로 거센 빗방울</s>
+        </p>
+        <p>
+            <s>이제 하늘의 궁전으로 갈 시간</s>
+            <s>가족들이 더 많은 비를 내리게</s>
+            <s>하며 궁전으로 바래다줬다</s>
+        </p>
+    </text>
+</SJML>

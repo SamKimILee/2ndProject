@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812497</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>과학수업</title>
+            <author id="P12497" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_과학수업">
+        <p>도소관에서 열리는 과학수업을 했다. 만들기를 두개했는데 하나는 바람총을 만들고 다음에는 자석을 이용해서 문어만들기를 했다.</p>
+        <p>다른과학수업과 비슷해서 별로 어렵지 않아서금방 금방했다. 그리고문어만드는게제일재미있었다.</p>
+    </text>
+</SJML>

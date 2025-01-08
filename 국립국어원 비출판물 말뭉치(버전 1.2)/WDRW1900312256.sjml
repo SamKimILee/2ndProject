@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312256</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘은 부모님 학교 오신 날</title>
+            <author id="P12256" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_엄마, 발표">
+        <p>오늘은 부모님 학 교오신날&gt;</p>
+        <p>어제 밤 난 설레서 잠이잘 오지 않았다.</p>
+        <p>" 엄마, 이따가  만나 ! "</p>
+        <p>아침에엄마 와 약속을하고 집을 나섰다.</p>
+        <p>" 우리 엄마다!!" 하나둘씩 부모님들이 교실로 들어왔다.</p>
+        <p>신나게 노래를 부르고있는데 기다리던 우리엄마가교실로 들어왔다.</p>
+        <p>엄마가오니 기분이 날아갈듯이 좋았다.</p>
+        <p>엄마와 눈이 마주 치면,빙그레 웃어주셨다. 앞에나가서발표할때는 다른 엄마들이 있어서 조금 떨렸지만, 우리 엄마가있어 든든했다.</p>
+        <p>시간이흘러, 엄마와 헤어질 시간이되었다.</p>
+        <p>엄마와 더있고 싶었지만, 엄마와 헤어질수밖에 없었다.</p>
+        <p>그런데 그다음 빙고 게임이 재미있어서, 슬픈마음이 사라졌다.</p>
+        <p>집에오니 엄마가, 발표를잘했다고해서 기분이 좋았다.</p>
+    </text>
+</SJML>

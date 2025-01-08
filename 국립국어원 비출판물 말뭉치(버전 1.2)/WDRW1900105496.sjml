@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105496</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새로운 형태의 문학</title>
+            <author id="P05496" age="15" occupation="고등학생" sex="M" submission="온라인" handwriting="No">우현찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_SNS 문학">
+        <p>SNS 상에서 이루어지는 문학 활동, 이는 어찌보면 출판계의 위기라고도 볼 수 있으나 그들 역시 변화에 맞춰 발빠르게 대응하고 있다. 서점에 잘 가지 않고 책과 거리가 멀었던 이들이 SNS를 통해 서점으로 유입되고 있기 때문이다. SNS에서 뜨거운 작가들이 서점에서도 뜨겁다. 따라서 많은 출판사들이 SNS로 컨텐츠를 검증하고 새로운 작가를 발굴하고 있다. 위기를 기회로 바꾼 셈이다.</p>
+        <p>대중들이 반응한다. 가볍다고 비판받는 SNS 문학은 대중들로 인해 점점 그 입지를 넓히고 있다. 순수 문학보다 SNS 문학이 더 잘 팔리는 것은 분명 지금의 작가들이나 출판계에 종사하고 있는 사람들이 진지하게 고민해봐야 할 문제이다. 결국은 돈이 가장 중요한 21세기, 팔리지 않는다면 퇴조될 수 밖에 없다. 우리나라의 순수 문학은 퇴조 중인 반면, SNS에서 시작된 입소문을 타고 베스트셀러가 되는 것은 몇 년간 출판계를 아우르는 하나의 현상으로 주목받고 있다. 따라서 우리는 SNS 문학을 철저하게 배척하는 대신 순수 문학과 이것을 적절하게 수용하는 활동이 필요하다.</p>
+    </text>
+</SJML>

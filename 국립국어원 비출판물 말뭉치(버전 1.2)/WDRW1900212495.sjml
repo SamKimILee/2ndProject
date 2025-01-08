@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212495</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>급식</title>
+            <author id="P12495" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191217" subclass="null_급식">
+        <p>급식</p>
+        <p>학교에서 급식을 먹었다. 찰옥수수밥, 배추김치, 건새우아욱된장국, 바베큐폭찹, 웨지감자, 실곤약채소무침 등이 있었다. 그중에서 바베큐폭찹이 가장 맛있었다. ‘우리 학교 급식 최고다.’ 라고 생각했다.</p>
+    </text>
+</SJML>

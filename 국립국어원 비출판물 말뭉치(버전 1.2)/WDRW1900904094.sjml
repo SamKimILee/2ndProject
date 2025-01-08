@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900904094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비에 젖듯 젖어서</title>
+            <author id="P04094" age="15" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_비">
+        <p>
+            <s>지나가는 비야</s>
+            <s>어딜 그리도 달게 적시느냐</s>
+        </p>
+        <p>
+            <s>물어본 뒤 곧장</s>
+            <s>자란 마음이 작게 속삭이니,</s>
+        </p>
+        <p>
+            <s>그를 보는 너의</s>
+            <s>젖은 감정을 두드리려 하다</s>
+            <s>발치로 떨어진</s>
+            <s>사랑을 주워 건넸다 함이라</s>
+        </p>
+        <p>
+            <s>크게 웃던 소리, 지난 시간을 돌이켜 보는</s>
+            <s>눈치채고 보니 이미 한가득 흘러넘치더라.</s>
+        </p>
+    </text>
+</SJML>

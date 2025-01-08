@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111694</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신기한 맷돌</title>
+            <author id="P11694" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">여서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_신기한 맷돌">
+        <p>도둑은 신기한 맷돌의 대한 소문을 들었다.</p>
+        <p>그래서 궁궐에 몰래들어갔다.</p>
+        <p>도둑은 훔치기 전에 재상의 집에들러 꾀를 내어 재상에게 신기한 맷돌이어디있는지알아냈다.</p>
+        <p>바로 엿못가였다.</p>
+        <p>그래서 신기한 맷돌을 들고 배를타고 다른 나라로 갔다.</p>
+        <p>도둑은 ‘값 비싼 것이 뭘까?’ 생각하다. 소금이 값 비싼 물건인걸 알고 "나와라,소금!"이라했다.</p>
+        <p>그런데 소금이 계속나와서 배는가라 앉았고 도둑,맸돌도 함깨 가라 앉았다.</p>
+        <p>그래서 지금바닷물이 짠것이 이 맷돌에서 나온 소금때문이 었을 수도 있다.</p>
+    </text>
+</SJML>

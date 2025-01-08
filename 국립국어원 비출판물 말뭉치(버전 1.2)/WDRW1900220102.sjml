@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220102</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>허브키우기</title>
+            <author id="P20102" age="11" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김담원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="허브">
+        <p>허브키우기</p>
+        <p>난요즈음 허브를 키우고 있다. 내가 키우는 허브는 페퍼민트다.</p>
+        <p>난 꽃가루알레르기 때문에 꽃을 키울순 없다 그래 서 냄새좋은</p>
+        <p>허브를 키운다. 허브키우는 법은 간단하다.</p>
+        <p>먼저 화분에다 흙을 넣고 물을 뿌리고 씨를 심으면 된다.</p>
+        <p>그리고 물을 너무 많이 주면 썩기 때문에 분무기로</p>
+        <p>아침에 한번 물을 주면 된다. 만약 페퍼민트가 잘</p>
+        <p>자란다면 다른허브도 키울생각이다.</p>
+        <p>‘민트야 잘자라라’~♥</p>
+    </text>
+</SJML>

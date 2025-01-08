@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201712</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>귀가</title>
+            <author id="P01712" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_귀가">
+        <p>근 2주 동안 집밖으로 나가지 않고 있었다. 지금 집 앞 편의점에 아이스크림을 사러 나간 것 빼고는 말이다. 자정에 가까울 무렵에 겉옷만 대충 주워입고 양말도 신지 않은 발로 단화를 구겨신고 나섰을 뿐이었다. 그리고 코앞에 있는 편의점 문을 열고 들어서서 아이스크림 냉동고에서 내가 먹을 아이스크림 서너가지만 들고 계산하고 나오니 채 5분도 지나지 않은 시간이었다. 그리고는 한밤중에 누가 나를 보는 것도 아닌데 부랴부랴 앞만 보고 뛰어서 다시 집으로 들어갔다.</p>
+    </text>
+</SJML>

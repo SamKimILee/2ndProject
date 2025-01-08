@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101516</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>불안</title>
+            <author id="P01516" age="24" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">박도훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_불안">
+        <p>지금의 생활을 내려놓고 하고 싶은 걸 하게 된다면 조금은 불안정해질 테고 앞으로 어떻게 지낼지, 먼 미래에는 어떻게 살지 고민해야 할 것이다 어쩌면 시간이 지난 뒤 후회를 할 수도 있다 과거의 그때에 왜 그런 선택을 했느냐고.</p>
+        <p>하지만 그런 불안정함과 후회를 느끼기 싫어서 하고 싶은 걸 하지 않는다는 건 너무나도 바보 같은 행동이라 생각한다</p>
+        <p>사람들에게 치이며 그냥저냥 살아간다고 해서</p>
+        <p>먼 미래의 내가 안정적일 거란 보장은 없지 않은가</p>
+        <p>하고 싶은 거 포기하고 살다가는 언젠가 한 번쯤은 후회를 할 수도 있다 과거의 그때에 왜 그런 선택을 했느냐고.</p>
+        <p>모든 일에는 후회와 아쉬움이 뒤따르는 법이다</p>
+        <p>그러니 이왕이면 내가 하고 싶은 거 하고 후회하자</p>
+        <p>대신,</p>
+        <p>하고 싶은 일을 하되</p>
+        <p>절대 나 자신에게 무책임하지 않을 것.</p>
+    </text>
+</SJML>

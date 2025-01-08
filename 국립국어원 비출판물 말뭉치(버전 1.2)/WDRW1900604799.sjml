@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900604799</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘의 학습</title>
+            <author id="P04799" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190426" subclass="null_학습">
+        <p>날짜  4/29</p>
+        <p>건강  좋음</p>
+        <p>책    너도 하늘 말나리야</p>
+        <p>오늘의 학습</p>
+        <p>1,2교시 국어  58쪽 6번 정리하고 배움공책과 같이 올라 유관순은 마지막에 대한 독립 만세를 부르다 고문을 받아 죽었다.</p>
+        <p>질문 만들기</p>
+        <p>유관순은 우리나라를 위해 죽었다. 나도그런마음을 가져야겠다.</p>
+        <p>3교시 사회  도들은 조선시대초기에 정해졌다.</p>
+        <p>퍼즐 맞추기</p>
+        <p>4교시 과학   실험관찰 30쪽</p>
+        <p>소감쓰기(희망자만)</p>
+        <p>5교시 체육  오늘은 스트레칭을배웠다. 내몸이 아주 조금 유연해진 것 같다.</p>
+        <p>한줄평  흥미롭다</p>
+    </text>
+</SJML>

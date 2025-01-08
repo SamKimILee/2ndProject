@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102293</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>말로</title>
+            <author id="P02293" age="17" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">하선우</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_사랑">
+        <p>
+            <s>꽃이 시든다</s>
+            <s>나무가 시든다</s>
+            <s>별마저도 시들어</s>
+            <s>온 세상이 까만 밤</s>
+        </p>
+        <p>
+            <s>춥디 추운 겨울이라 그런지</s>
+            <s>영원할거라 믿었던</s>
+            <s>너마저도 시든다</s>
+        </p>
+        <p>
+            <s>견뎌내야만 하는</s>
+            <s>사랑의 말로</s>
+        </p>
+    </text>
+</SJML>

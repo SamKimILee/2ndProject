@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211632</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마술</title>
+            <author id="P11632" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">천호림</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_마술">
+        <p>내가 마술을 하게 된 동기는 3학년때 학예회 뭐할까 마술을 하게 되었는데 재밌어서 하게 되었다. 여러가지 마술이 있는데 나는 카드 마술이 가장 신기한 것 같았다. 카드 마술을 같은 마술이어도 어떻게 연출 하느냐에 따라서 더 신기할 수 가 있고 밑밑 할 수 있다. 요새 내가 하고 싶은 마술은 불 마술인데 위험하기 때문에 하면 안된다</p>
+        <p>내가 존경하는 마술사는 최현우 마술사이다. 이 마술사를 존경하는 이유는 여러가지 마술을 다 잘하기 때문이다. 마술도 계속 연습해야겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310438</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이슬</title>
+            <author id="P10438" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정나율</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이슬">
+        <p>
+            <s>이슬</s>
+            <s>&name1&</s>
+            <s>똑똑!, 똑똑!</s>
+            <s>누가 문을 두드리나?</s>
+            <s>아니구나! 아니야!</s>
+        </p>
+        <p>
+            <s>바로 이슬이야.</s>
+            <s>나뭇잎에서</s>
+            <s>이슬이  맺혀.</s>
+        </p>
+        <p>
+            <s>똑똑!, 똑똑!,</s>
+            <s>누가또 문을 두드리네.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311558</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울시립과학관 및 하루</title>
+            <author id="P11558" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김규일</author>
+        </sourceInfo>
+    </header>
+    <text date="20180823" subclass="null_과학관">
+        <p>제목 :  서울시립과학관 및 하루</p>
+        <p>오늘 아침 &name1&이와 나는 아픈 것 때문에 everland에 못 갔다. 일단 &name1&이는 안과/치과에 갔고 나는 이비인후과에 갔는데 피검사와 면역주사를 놨다. 그리고 증상은 중이염이였다. 그 후에 도봉구로 유명한 '어랑 생선구이'집에서 점심을 먹었는데 고등어구이가 맛있었다. 그리고 노원구 서울시립과학관에선 여러가지 활동을 했는데 '3D space'에서 은하계에 대해 보았다. 태양은 제일 뜨겁다. 수성은 달처럼 구덩이가 많았다. 해왕성과천왕성은 엄청나게 파랳고, 토성은 훌라후프처럼 운동하는 것처럼 보였다. 금성은 황산가스가 많고, 목성은 위성이 굉장히 많았다.</p>
+        <p>2018년 8월 23일 목요일</p>
+    </text>
+</SJML>

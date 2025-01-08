@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311457</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 남자친구에게</title>
+            <author id="P11457" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장지아</author>
+        </sourceInfo>
+    </header>
+    <text date="20190601" subclass="null_남자친구">
+        <p>&name1&아, 안녕? 나는 &name2&야. 넌 나를 보면, 어떤 생각이 드니?</p>
+        <p>나는 너를 보면 하루하루 힘든 나 날을 견디는 네가 자랑스럽구나. 앞으로도 나에게 기쁘고 행복한 모습만 만히만히 보여줘!</p>
+        <p>2019년 6월 1일 -&name2&가-</p>
+    </text>
+</SJML>

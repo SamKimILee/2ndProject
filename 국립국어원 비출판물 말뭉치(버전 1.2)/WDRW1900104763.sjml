@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104763</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>법원 방문</title>
+            <author id="P04763" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김혜진</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_소송">
+        <p>이미 재판이 한창 진행되던 중에 들어갔기에 판사님 입장이 없었다. 덕분에 일어섰다 앉는 과정이 생략되었다. 민사소송은 형사소송과 다르게 진행이 매우 빨랐다. 드라마나 영화에서나 보던 치열한 공방이 오가던 상상속의 모습과는 매우 다른 느낌이었다. 판사님이 사건번화와 사건명을 호칭하면 변호사들이 차례로 들어가 자신의 신분을 밝히고 몇 가지 질문이 오간뒤 다음 공판일정을 잡는 식이라 모든 사건이 5-10분안에 끝이 났다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611816</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마늘빵</title>
+            <author id="P11816" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191117" subclass="null_마늘빵">
+        <p>
+            <s>마늘 빵</s>
+            <s>오늘 스타필드에서 마늘빵을 먹었는데, 엄청맜있었다. 학교에서 나오는것과는 비교도 안될 만큼 맜있었다.</s>
+            <s>학교에선 마늘 빵이 딱딱하게 나온다. 하지만 오늘 먹은 빵은말랑하다. 계속먹고싶다. 정말 매일먹어도 안 질릴것 같다. 그런데... 중독될 것 같은데 어쩌지?</s>
+        </p>
+    </text>
+</SJML>

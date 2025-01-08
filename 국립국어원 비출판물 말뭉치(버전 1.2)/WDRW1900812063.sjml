@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 바이러스1</title>
+            <author id="P12063" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20200226" subclass="null_코로나 바이러스">
+        <p>지금 뉴스를 보고 있다</p>
+        <p>근대 뉴스에서 코로나 바이러스가나왔다. 그래서 우리가할수있는것은 손씻기가 중요하다 지금부터 손씻기예절을가르쳐주겠다.</p>
+        <p>첬번째 물로깨끘치씻는다</p>
+        <p>두번째 비누로손까락을깨끗이비빈다.</p>
+    </text>
+</SJML>

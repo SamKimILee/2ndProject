@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110150</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 꿈</title>
+            <author id="P10150" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김희재</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_꿈">
+        <p>&lt;제목:나의꿈&gt;</p>
+        <p>나의꿈은? 대통령이다.</p>
+        <p>외이런꿈을생각했냐면 나라를다시북한하고</p>
+        <p>친해져서 필요한물건도나누고 그러면은</p>
+        <p>좋아서 이꿈을 선텍했다.</p>
+        <p>나는내마음속에서 이렇게 말하였다.</p>
+        <p>'나는이꿈을결코포기하지않을거야!'</p>
+        <p>하고말했다.</p>
+        <p>나는위글처럼 결코포기하지않을거</p>
+        <p>다.</p>
+        <p>결코!결코! 나는 이꿈을 반드시! 이루어</p>
+        <p>낼것이다</p>
+    </text>
+</SJML>

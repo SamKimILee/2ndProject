@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312293</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장</title>
+            <author id="P12293" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김다영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="재밌다">
+        <p>나는 오늘 수영장에 갔다. 파도가 쳐서 깜짝 놀랬다. 너무 너무 재미 있었다. 다음에 또 가고 싶다.</p>
+    </text>
+</SJML>

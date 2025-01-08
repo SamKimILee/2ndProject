@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900820073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>콜럼버스</title>
+            <author id="P20073" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_콜럼버스">
+        <p>콜럼버스는 어려서 부터 바다를 무척 좋아했다. 그는 황금의 땅을 찾아 모험을 떠났어요. 하지만 사람들은 바다 끝은 낭떠러지 라고 말했어요. 콜럽버스는 아메리카 대륙을발견 했고 쿠바섬, 아이이섬 아름다운 섬나라도 발견 했어요.</p>
+        <p>그의 모험과 도전하는모습이 멋져 보여요.</p>
+    </text>
+</SJML>

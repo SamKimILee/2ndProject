@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210234</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가</title>
+            <author id="P10234" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김민희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시간">
+        <p>
+            <s>시간이 간다.</s>
+            <s>어떤 때는 시간이 느리게 간다.</s>
+            <s>또 어떤 때는 시간이 빠르게 간다.</s>
+        </p>
+        <p>
+            <s>좋아하는 걸</s>
+            <s>많이 할 수 있다면</s>
+            <s>시간이 빠르게 간다.</s>
+        </p>
+        <p>
+            <s>싫어하는 걸</s>
+            <s>많이 하고 있다면</s>
+            <s>시간이 느리게 간다.</s>
+        </p>
+        <p>
+            <s>애매한 걸</s>
+            <s>하고 있다면</s>
+            <s>시간도 애매하게 간다.</s>
+        </p>
+        <p>
+            <s>시간이 간다.</s>
+            <s>예외인 상황에서도</s>
+            <s>시간은 항상 간다.</s>
+        </p>
+    </text>
+</SJML>

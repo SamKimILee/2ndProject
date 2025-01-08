@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111927</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도자기 문화 체험 소감문</title>
+            <author id="P11927" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">안윤선</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_도자기공예">
+        <p>난 영어동아리에서 지난 수요일 23일에 체험학습을 갔다. 우리 도자기 공예를 하는곳에 방문했다.</p>
+        <p>우린 헤이리에 버스를 타고 이동하였다.</p>
+        <p>우리가 첫번째로 한 활동은 머그컵에 그림을 그리는 것이다.</p>
+        <p>나는 꽃들을 그렸다. 꽤나 재미있었다.</p>
+        <p>두번째 활동은 비누받침을 만들었다.</p>
+        <p>흙으로 비누받침을 만들었다. 평평한 흙의 테두리에 긴 흙을 이어 붙였다.</p>
+        <p>그 후 난 토끼모양을 만들어 붙였다. 정말 귀여웠다.</p>
+        <p>매우 기억에 남는 좋은 기억어 었다.</p>
+        <p>I went trip in 「Jayu 톡톡 Times」 at last wendsday.</p>
+        <p>We went 헤이리 Art Park by bus.</p>
+        <p>First, we draw picture at cup.</p>
+        <p>I draw flowers . Very good!</p>
+        <p>Next, we made soap plate with dow.</p>
+        <p>We made plate with float dow and dow like worm.</p>
+        <p>And made rabbit shape.</p>
+        <p>Very memorise memory.</p>
+    </text>
+</SJML>

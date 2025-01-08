@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311729</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>유치원에서 워터파크 놀러 간날</title>
+            <author id="P11729" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">한다경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200113" subclass="null_워터파크">
+        <p>날짜.. 2020년1월13일 이름:&name1&</p>
+        <p>제목 유치원에서 워터파크 놀러간날</p>
+        <p>햇볕쨍쨍한날유치원에서워터파크에놀러갔다 워터파크에은 여러가지놀이기구가있었다 그중에서물총놀이와튜브를입고물속에미끄럼틀을 타고놀았다점심에는밥과 깍두기,계란,물, 내가좋아하는 치킨이나왔다. 워터파크는 신나고 조금은무섭고 재미있었다</p>
+    </text>
+</SJML>

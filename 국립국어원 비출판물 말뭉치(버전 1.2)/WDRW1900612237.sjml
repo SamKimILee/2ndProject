@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612237</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 주장하는 글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>길고양이는 나쁜동물이아니다</title>
+            <author id="P12237" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신재율</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고양이">
+        <p>길고양이는 나쁜동물이아니다</p>
+        <p>사람들이 길고양이를 보고 더럽다 병균 을 옮긴다고 하지만 길고양는 더럽지도 병균을 옮기지도 않는다</p>
+        <p>아파트주변에쥐들을 잡아주기 때문에 쥐한태 생기는병균을 예방할수있다.</p>
+        <p>길고양 이들은 사람에게해로운 동물이 아니다. 같이살아가야하는동물이다.</p>
+    </text>
+</SJML>

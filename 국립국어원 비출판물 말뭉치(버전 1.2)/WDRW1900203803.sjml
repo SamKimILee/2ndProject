@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203803</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘은 까치까치가 우는 구정입니다</title>
+            <author id="P03803" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">조봄이</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="생활">
+        <p>아기모찌말랑혀니혀니의 사진으로 떡국을 대신한다. 혀니혀니와 겨리겨리의 떡국만들기 영상이 떴는데 너무 귀엽고 엉뚱해서 우한폐렴이고 뭐고 행복MAX로 봤다ㅋㅋㅋ 아진짜 귀염둥이들임!!!</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>위로</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_위로">
+        <p>
+            <s>힘들지 않냐는 물음조차 버거울 때가 있다.</s>
+            <s>단순히 힘이 든다고 말하는 것조차 힘이 들때</s>
+            <s>우리는 아무런 말도 하지 않는다</s>
+            <s>그저 침묵한 채로 곁에 있어줄 뿐이다</s>
+            <s>아무것도 말하지 않고도 곁에 있을 수 있는 것</s>
+            <s>그것이 우리가 서로를 위로하는 방법이다</s>
+        </p>
+    </text>
+</SJML>

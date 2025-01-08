@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111934</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독립운동가</title>
+            <author id="P11934" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">양태민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_김구">
+        <p>
+            <s>독립운동가</s>
+        </p>
+        <p>
+            <s>지은이&name1&</s>
+        </p>
+        <p>
+            <s>동그란 안 경에 웃는 얼굴의할아버지 김구선생님</s>
+            <s>일본에게는 도깨비 처럼 무서운 분</s>
+        </p>
+        <p>
+            <s>긴수염의 옆집아저씨 같는 얼굴의 안중근의사</s>
+            <s>일본에게는 호랑이 처럼 무서운 분</s>
+        </p>
+        <p>
+            <s>하지만.....</s>
+        </p>
+        <p>
+            <s>우리에게는 언제나 나라를구하는 영웅</s>
+        </p>
+        <p>
+            <s>독립운동가 분들에게 항상 감사하자</s>
+        </p>
+        <p>
+            <s>대한독립 만세!!</s>
+            <s>대한민국 만세!!</s>
+        </p>
+    </text>
+</SJML>

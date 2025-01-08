@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510162</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>알람</title>
+            <author id="P10162" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">이경찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꿈, 알람, 일상">
+        <p>
+            <s>꿈을 꾼다.</s>
+            <s>훨훨 하늘을 날며</s>
+            <s>함께하는 모험으로</s>
+            <s>웃음 보따릴 펼쳐 놓는다.</s>
+        </p>
+        <p>
+            <s>꿈을 꾼다.</s>
+            <s>넘어진들 어떠러요.</s>
+            <s>금새 일어나</s>
+            <s>독수리처럼 달려</s>
+            <s>끝내는 승리를 장식한다.</s>
+        </p>
+        <p>
+            <s>꿈을 꾼다.</s>
+            <s>풍요로운 감성에</s>
+            <s>감각이 마비된듯</s>
+            <s>아픔도 슬픔도 다 지워지고</s>
+            <s>그저 맘껏 꿈을 펼쳐가는</s>
+            <s>일상의 넉넉함을 공유한다.</s>
+        </p>
+        <p>
+            <s>알람이 요란하다.</s>
+            <s>선물받은 오늘의 일상들은</s>
+            <s>꿈일까?</s>
+            <s>생존일까?</s>
+        </p>
+    </text>
+</SJML>

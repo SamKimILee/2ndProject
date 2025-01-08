@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210036</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>19년 6월 1일</title>
+            <author id="P10036" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">박지연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_일기">
+        <p>유월의 첫날.</p>
+        <p>나는 좋은 진흙일까 나쁜 진흙일까?</p>
+        <p>생각건대 그건 중요하지 않은 것 같다.</p>
+        <p>나는 예쁜 도자기가 되고 싶다.</p>
+        <p>누군가가 나를 예쁘게 빚어주길 바란다면 그건 오만일까?</p>
+        <p>하루가 길다.</p>
+        <p>나는 평범하게 나쁜 진흙인 것 같다.</p>
+        <p>20년 2월 17일</p>
+        <p>지금 와서 생각해보면 나는 누군가에게 너무 기대하고 살아왔다.</p>
+        <p>이제는 누군가 기댈 수 있는 단단한 사람이 되길 바랄 뿐이다.</p>
+    </text>
+</SJML>

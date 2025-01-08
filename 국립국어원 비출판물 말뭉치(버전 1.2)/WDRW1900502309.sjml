@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900502309</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아득한 밤</title>
+            <author id="P02309" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이별">
+        <p>천체에는 특유의 황홀함이 흐른다. 기억에서 불현듯 튀어 오를 때마다 빛으로 뒤엉킨 밤으로 뛰어들고 싶어진다. 우리가 보았던 행성에 얼룩진 반점, 희미한 고리. 별의 반짝임과 함께 입김이 쏟아지던 그 밤을 너도 기억할까. 너는 그 밤을 내 마음에 새기고서는 또 다른 밤에 사라졌다. 네가 사라진 밤마저 하늘에 붙박힌 별은 여느 때와 다름없이 빛났다. 아침을 맞이하고 달이 진 자리에서 엉엉 울었다.</p>
+    </text>
+</SJML>

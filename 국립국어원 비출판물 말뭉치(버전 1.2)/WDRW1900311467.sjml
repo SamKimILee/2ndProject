@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311467</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수학 시험</title>
+            <author id="P11467" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이현빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시험">
+        <p>
+            <s>쓱쓱 쓱쓱</s>
+            <s>어? 이 문제는 정말로 모르겠다.</s>
+            <s>53인지 54인지 정말로 모르겠다.</s>
+            <s>내 동생도 100점 받아 올텐데... 언니 점수가 더 뒤쳐지는 건 정말 속상하다.</s>
+            <s>53으로 쓸까, 54로 쓸까? 다시 한번 생각해야지.</s>
+            <s>아! 53이다 53이다.</s>
+            <s>선생님이 채점을 하셨다.</s>
+            <s>앗! 틀렸다. 정말로 슬프다.</s>
+            <s>다음엔 시험 문제 꼼꼼히 읽어야지,</s>
+            <s>다음엔 시험 문제 꼼꼼히 풀어야지.</s>
+        </p>
+    </text>
+</SJML>

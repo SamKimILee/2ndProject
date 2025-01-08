@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512314</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태권도를 갔다.</title>
+            <author id="P12314" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정지후</author>
+        </sourceInfo>
+    </header>
+    <text date="20200115" subclass="null_친구">
+        <p>밥을먹고 책을읽고 노래방놀이를 친구들이랑했다. 그리고 놀이 시간이되어 &name1&이랑 놀았다.</p>
+        <p>유치원이 끝나고 삼성 태권도를갔다. 재미있었다. 내일도 가고싶다.</p>
+        <p>집에가서 딱지 팽이를했다.</p>
+        <p>&name2&가 거짓말을했다. 그래서나는 속상했다.</p>
+    </text>
+</SJML>

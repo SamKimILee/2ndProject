@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201743</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노트북</title>
+            <author id="P01743" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_노트북">
+        <p>한 달간 기다리던 노트북을 오늘 드디어 주문했다. 이 노트북은 내가 한 달 전에 주문했으나, 내가 원하는 색이 내 앞 주문에서 끊겨버려서 장장 한 달을 기다려 오늘 드디어 주문에 성공했다. 한 달이나 기다렸어야 하는 이유는 단 하나. 신종 코로나 바이러스로 인한 중국 공장의 생산 지연 때문이다. 현재 우리 나라는 신종 코로나 바이러스로 인해 많은 고통을 겪고 있다. 후 생각만 해도 한숨이 나온다. 그렇지만 우리 국민 모두가 으쌰으쌰해서 잘 이겨내면 좋겠다. 이 또한 지나가리.</p>
+    </text>
+</SJML>

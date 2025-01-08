@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309856</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>곤충</title>
+            <author id="P09856" age="10" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">정유준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_곤충">
+        <p>오늘은 길동생태공원에 가서 곤충도 봤다.</p>
+        <p>어디서 곤충을봤냐면설명하는아저씨와나, 누나, 엄마,아빠랑 숲에가서 등화에서보았다.</p>
+        <p>등화는 정말 신기했다. 외냐면 등화위해서 불빛이나와서 등화를 비추어서 곤충들이 날라와서진기했다. 그리고계속몸에붙어서 징그럽긴했지만 재밌었다. 다음에 또 가고싶다.</p>
+    </text>
+</SJML>

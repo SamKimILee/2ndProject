@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312334</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나비</title>
+            <author id="P12334" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">송예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나비">
+        <p>
+            <s>나비</s>
+        </p>
+        <p>
+            <s>우리집 마당에 핀</s>
+            <s>꽃에 놀러온 노란나비</s>
+            <s>둥글게 날아올라 날개춤을</s>
+            <s>추면 친구 흰나비가</s>
+            <s>날아와 같이 춤을</s>
+            <s>춘다. 같이 날개를</s>
+            <s>팔락이며 꽃이 많은</s>
+            <s>곳으로  떠난다</s>
+        </p>
+    </text>
+</SJML>

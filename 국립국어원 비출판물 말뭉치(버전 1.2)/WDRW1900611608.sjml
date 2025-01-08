@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611608</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>언니와 엄마의 음악회</title>
+            <author id="P11608" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤승원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_클라리넷">
+        <p>교회에서 엄마와 언니에 음악회가 열였다 우리언니는 클라리넷을 했다 바이올린,첼로,플루트,클라리넷, 더블베이스,트럼팻 트럼본,타악기,호른,바순,피아노,색소폰,트라이앵글,실로폰,탬버린이 있었다. 그중에서 나는 클라리넷이 제일좋다. 왜냐하면 소리도 아름답고 우리언니가 연주했기때문이다. 그래서 나는 클라리넷이 좋다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203396</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 만약에</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>만약 다시 태어난다면</title>
+            <author id="P03396" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">이건주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_희망">
+        <p>만약에 다시 태어난다면 나는 서양의 갑부 가문의 막내아들로 태어나고싶다.</p>
+        <p>가끔은 사람보다 더 큰 가치 처럼 느껴지는 돈을 많이 가지고 있으며</p>
+        <p>어느 인종에게도 차별받지 않는 백인이며</p>
+        <p>여성보다는 사회적 제약이 덜 한 남성으로.</p>
+        <p>게다가 첫째에게 주어지는 여러가지 짐에서 부터 자유로울 수 있는 막내.</p>
+        <p>지금의 나와는 정반대의 삶을 살고싶다.</p>
+        <p>나는 지금 한국 평범한 가정의 첫째딸로 살아가고 있기 때문에.</p>
+        <p>이런 생각 가진 사람이 나뿐만은 아니겠지?</p>
+    </text>
+</SJML>

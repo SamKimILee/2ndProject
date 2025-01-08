@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>점심시간에 일어난 일</title>
+            <author id="P10580" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_장난">
+        <p>점심을 먹고 나서 감기에 걸린 친구와 화장실에 갔다. 친구가 알약 2개를 동시에 먹어보겠다 하고 먹다가 갑자기 콜록콜록 하더니 약 한알을 물과 함께 뱉었다. 내 다리에 조금 튀었다. 그 상황이 너무 당황스럽고 웃겼다. 친구가 나에게 물통을 줘서 장난치려고 물통을 휙휙 돌렸는데 뚜껑이 날아가서 문 쪽에 있던 애가 맞았다. 맞은 친구가 화낼 뻔 했지만 너무 웃긴 상황이어서 그 친구도 웃으며 넘겼다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711645</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 겨울에 스키를 타고 싶다. </title>
+            <author id="P11645" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이아린</author>
+        </sourceInfo>
+    </header>
+    <text date="20190203" subclass="null_스키">
+        <p>제목:나는 겨울에 스키를 타고 싶다.</p>
+        <p>나는 겨울에 스키장에서 스키를 타고싶다. 준비물은 스키, 고글, 헬멧, 폴대, 스키복, 스키신발 이다.</p>
+        <p>장소는 경사로가 있는 눈이 쌓인 곳이다. 타는 방법은 자세를 낮추고 내려오면 된다.</p>
+    </text>
+</SJML>

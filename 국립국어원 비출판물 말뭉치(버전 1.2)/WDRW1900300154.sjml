@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300154</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새로운 기분</title>
+            <author id="P00154" age="29" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>친구가 아이를 낳았다</p>
+        <p>정해진 출산예정일보다 앞선 날이었다</p>
+        <p>다행히 수술날을 바로 잡았고</p>
+        <p>우리들은 우리들 중 처음으로 아이낳는</p>
+        <p>그친구를 위하여 두손모아 모두 건강하길 바랬다</p>
+        <p>통화연결음이 터진후</p>
+        <p>친구의 목소리가 들려오는데</p>
+        <p>마음먹은대로 반갑고 밝게 인사하려는데</p>
+        <p>이상하게도 울컥한다</p>
+        <p>축복받을곳이지만</p>
+        <p>무서울텐데</p>
+        <p>그러함에도 불구하고 용기내서 그 길을 걷겠지</p>
+        <p>어른이 되어가는길</p>
+        <p>무사하길바라</p>
+        <p>보고싶고</p>
+        <p>행복하길바라.</p>
+    </text>
+</SJML>

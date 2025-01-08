@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612404</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>공룡 탐험 게임</title>
+            <author id="P12404" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_게임">
+        <p>나는 오늘 집에서 아빠랑 &name1&이랑 개임을 했다 공룡게임이 였다. 아빠의 캐릭터는 모아나이고 &name1&의 캐릭터는 파이리 였다. 마지막 으로 내 캐릭터는 코코밍 이다. &name1&이는 1등 아빠는 2등 나는 3등을 했다. 져서 속상했지만, 나중에는 더 노력을 하고 연습도 할거다. 게임에서 캐릭터가 진짜로 살아서 탐험을 하는거 같았다. 게임을 다같이 해서 즐겁고 재미있었다. 나중에 또 게임을 하고 싶다.</p>
+    </text>
+</SJML>

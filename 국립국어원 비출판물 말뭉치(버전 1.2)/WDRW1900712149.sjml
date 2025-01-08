@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712149</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화관람</title>
+            <author id="P12149" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190721" subclass="null_라이온킹">
+        <p>오늘 가족과 영화관을 갔다</p>
+        <p>무슨 영화를 봤냐면 라이온킹이였다</p>
+        <p>나는 라이온킹내용을 잘이해했다</p>
+        <p>내동생은 무섭다고 호들갑만 떨었다</p>
+        <p>거기에서계속 쿵쿵 소리를 낼때마다 깜짝깜짝놀랬다</p>
+        <p>내가 1편을 봐서 2편 내용을더 재미있게 이해한것 같았다</p>
+        <p>너무너무 감동적 이였다</p>
+    </text>
+</SJML>

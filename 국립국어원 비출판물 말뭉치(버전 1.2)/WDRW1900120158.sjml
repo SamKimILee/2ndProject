@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120158</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외로운 꽃 한 떨기</title>
+            <author id="P20158" age="15" occupation="중학생" sex="F" submission="오프라인" handwriting="No">김경민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꽃">
+        <p>
+            <s>외로운 꽃 한 떨기</s>
+        </p>
+        <p>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>매서운 겨울해가 들어간 자리</s>
+            <s>쨍하고 봄 햇살이 땅을 비추는데</s>
+        </p>
+        <p>
+            <s>날선 바람 사라진 자리</s>
+            <s>살랑살랑 봄바람이 날아 와 채우는데</s>
+        </p>
+        <p>
+            <s>긴긴 겨울 잠들어 있다 피어나도</s>
+            <s>쳐다보는 사람 하나 없네.</s>
+        </p>
+        <p>
+            <s>날 좀 보소 외쳐봐도</s>
+            <s>스쳐가는 바람뿐이네.</s>
+        </p>
+        <p>
+            <s>길가에 난 외로운 꽃 한 떨기</s>
+            <s>그 꽃의 빈자리는 누가 채워주려나</s>
+        </p>
+        <p>
+            <s>길가에 난 외로운 꽃 한 떨기</s>
+            <s>그 꽃의 빈자리는 누가 채워주려나</s>
+        </p>
+        <p>
+            <s>길가게 난 외로운 꽃 한 떨기</s>
+            <s>그 꽃의 빈자리는 언제쯤 채워지려나</s>
+        </p>
+    </text>
+</SJML>

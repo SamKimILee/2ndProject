@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>분리수거</title>
+            <author id="P20027" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_분리수거">
+        <p>주제글:분리수거</p>
+        <p>나는 주말에 아빠와 분리수거를 한다.</p>
+        <p>분리수거 할때는 페트병, 플라스틱,유리, 상자, 비닐, 캔으로 나누어서 버린다.</p>
+        <p>나는 분리수거를 할 때 번거롭긴 하지만 지구를 위해서는 쓰레기를 분리수거를 해야한다.</p>
+        <p>나도 분리수거를 하고 나면 마음이 깨끗이 비워 지는 기분이 든다. 이제 부터는 집 안에 있는 쓰레기든 분리수거를 잘하고 지구를 아끼어 야겠다</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811717</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영 강습</title>
+            <author id="P11717" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_수영 강습">
+        <p>수영 강습을 했다. 원래 수영 강습을 화요일에 했는데 수요일로 바꿨다. 수영강습 하는 사람이 별로 없어다.수영 강습이 어려웠다.</p>
+        <p>힘들었지만 열심히 했다.</p>
+        <p>어려운 하루였지만 좋은 하루였다.</p>
+    </text>
+</SJML>

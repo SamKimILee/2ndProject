@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112394</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할머니 입원은 슬퍼</title>
+            <author id="P12394" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">서승연</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_할머니">
+        <p>제목: &lt;할머니 입원은 슬퍼&gt;</p>
+        <p>할머니가 은행에서 뒤로 넘어 지셨다. 그래서 중환자실에 있다고 부모님이 말씀하셨다.</p>
+        <p>그런대 내 마음이 아팠다.</p>
+        <p>그래서 할머니가 있는 병원에 엄마와 함께같다. 그런대 할머니가 산소호흡기를 끼고 있었다. 할머니 가 빨리 나았으면 좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901311470</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>레고</title>
+            <author id="P11470" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20181229" subclass="null_레고">
+        <p>제목:레고</p>
+        <p>오늘 세종시에 와서 외숙모와 삼촌과 놀았다. 외숙모가 레고를 가지고 나한테 줬다. 그 레고는 만드는게 무려 24개나 있었다. 근데너무쉽다.</p>
+    </text>
+</SJML>

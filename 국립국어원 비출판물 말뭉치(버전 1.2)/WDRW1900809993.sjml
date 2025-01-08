@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900809993</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>합숙한 날</title>
+            <author id="P09993" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191124" subclass="null_어제">
+        <p>어제 태권도에서 다른태권도와 같이 합숙을 했다.기본동작과 품세를 하고 풒세대결도했다그리고 야식을 먹으면서 영화를 봤다</p>
+        <p>그리고 잠을자고 일어나서 샌드위치와 쥬스를 먹었다.그리고 집에갔다.정말 재미있었다.</p>
+    </text>
+</SJML>

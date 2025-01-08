@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>베어스타운</title>
+            <author id="P10570" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김아인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200112" subclass="null_베어스타운">
+        <p>눈썰매를 타러 베어스 타운에 갔다. 나랑 아빠랑 타고 누나는 할아버지랑 탔다. 빨랐지만 무섭지않고 재미있었다. 1등으로 내려와서 기분이 좋았다 돼지,토끼,말,양 한테 먹이를 주었다. 말한테 주고싶었는데 돼지가 자꾸 쫓아왔다. 돼지가 제일 만이먹었는데 똥을 안싸서 신기했다. 돼지배속은 똥으로가득 할것 같다.</p>
+    </text>
+</SJML>

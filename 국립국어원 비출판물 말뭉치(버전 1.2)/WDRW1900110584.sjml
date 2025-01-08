@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110584</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요즈음</title>
+            <author id="P10584" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="활동">
+        <p>요즘 날씨도 좋지만 코로나때문에 바깥 활동이 어려워졌다.벌써 국내에만 2000명이 넘는다니,,</p>
+        <p>우리나라와 세계적으로  예전의 모습을 되찾았으면 좋겠다.오늘 비가 오는걸보니 하늘도 슬픈가보다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>결혼식</title>
+            <author id="P11862" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20191212" subclass="사랑">
+        <p>제목:결혼식</p>
+        <p>&name1&이 삼촌이 결혼을 했다. 나도 갔다.</p>
+        <p>오랜만에 친척들을 만나니까 설레었다.</p>
+        <p>밥도 맛있었다. 멋지게 분장한 우리삼촌과 앞으로 새 가족이 될 아름다운 이모는 행복해 보였다. 벌서 이모 이름도 외웠다. “&name2&”♡. 재미있었다.곧 결혼식이 또 있었으면 좋겠다. 앞으로도 멋진 부부가 되서 행복하게 살았으면 좋겠다!Merry christmas!</p>
+        <p>오늘한 일 결혼식에 갔어요. 내일할 일 캐리비안베이에 갈 거에요.</p>
+    </text>
+</SJML>

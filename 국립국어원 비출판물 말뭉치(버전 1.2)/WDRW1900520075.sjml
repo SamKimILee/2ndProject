@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520075</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>종이</title>
+            <author id="P20075" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_종이">
+        <p>종이</p>
+        <p>종이는 많이 쓰여요</p>
+        <p>종이는 거칠고 두껍고 딱딱하고, 얇고 부드러워요 종류는 정말 다양해요</p>
+        <p>종이의 만드는 재료</p>
+        <p>나무,대나무,풀잎 설탕을 만들고 남은 사탕수수 찌꺼지 삼베와 사용하고 버린 종이</p>
+        <p>종이는 옛날 중국의 채륜이란 나무껍질과 찢어진 헝겊그물을 찢어부수고, 햇볕에 말려서 부드러운 종이로 만들어 썼지요.</p>
+        <p>대나무 발로 펄프를 건져 왼쪽으로 흔들고 오른쪽으로 흔들어요.</p>
+        <p>꾹꾹꾹 촉촉한 종이의 물기를 가볍게 눌러 짜내요</p>
+        <p>종이는 잘찢어져요. 흰색이에요</p>
+    </text>
+</SJML>

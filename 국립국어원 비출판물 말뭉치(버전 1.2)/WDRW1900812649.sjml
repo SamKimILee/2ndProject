@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기니피그</title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_기니피그">
+        <p>우동 사서 가는 길에 기니피그와 거북이를 봤다. 기니피그 한 마리는 연갈색이고 한 마리는 얼굴이 까만색이었다.</p>
+        <p>거북이는 물 위로 머리를 내밀고 있었다. 기니피그가 귀여워서 사진을 찍었다.</p>
+    </text>
+</SJML>

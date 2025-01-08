@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103955</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>올해 첫 눈</title>
+            <author id="P03955" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="눈">
+        <p>내가 사는 지역은 눈이 잘 내리지 않는 지역이라서 눈을 보기 힘들다. 그래서 올해도 별 기대 없이 올 겨울을 보냈다 특히 이번 겨울은 제법 춥지 않아서 더 기대가 없었다.  겨울 방학이라서 기본 새벽3시에 자는 데 그날 따라 일찍 자고싶어서 일찍 잤다. 너무 추워서 일찍 일어난 후 잠결에 인스타에 들어갔다. 난리가 났다. 눈이 왔던 것이다 하필 내가 자고 있을 때 눈이 꽤 많이 왔다. 눈이 너무 그리웠는데 나만 보지 못 해서 억울 했다. 2020년 겨울엔 꼭 보고싶다!!</p>
+    </text>
+</SJML>

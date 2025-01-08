@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412241</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>베토벤</title>
+            <author id="P12241" age="44" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임화영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_베토벤">
+        <p>베토벤도 노력을 해서 음악가가 된것같다.</p>
+        <p>베토벤님 저도 노력을 하면 될까요?</p>
+        <p>좋아하는 일이 있으면 그 일에 푹 빠지면 그 일을 잘하고 자신감이 생길수 있어요.</p>
+        <p>수학도 포기하면 안돼고 포기안하고 난 잘 할수있다 라고 생각하면 모든 것을 할수있다.</p>
+        <p>모든것을 안된다고 생각하고 처음부터  포기하고 그런사람은  안된다.</p>
+        <p>어릴때부터 실력이 뛰어난 사람이면 그 일을 노력해야지  꿈에 도전  할수있다.</p>
+        <p>베토벤도 어릴때부터 열심히해서 피아노를  잘 치는 것 같아요.</p>
+        <p>쉽게 말하자면 포기를 하면 모든것을 잃는거랑 똑같습니다.</p>
+    </text>
+</SJML>

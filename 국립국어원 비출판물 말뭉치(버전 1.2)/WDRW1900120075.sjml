@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900120075</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>화장실에 들어갈 때 휴지가 없을 때</title>
+            <author id="P20075" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_화장실">
+        <p>화장실에 갈때 휴지가 없을때</p>
+        <p>화장실에 갔다 그런데 휴지가 없었다</p>
+        <p>휴지대신 여러가지 방법이 있다 ①첫번 째</p>
+        <p>① 물로 닦는다. 물이 있으니 으면 된다. 그리고 수건으로 닦는다</p>
+        <p>② 양말로 닦는다 그리고 버린다</p>
+        <p>③ 엄마를 힘차게 부른다</p>
+        <p>④ 안 닦고 나온다 그리고 똥</p>
+        <p>⑤ 수건으로 닦는 다. 그리고 버린다</p>
+        <p>⑥ 휴지심으로 닦는다</p>
+        <p>⑦ 휴지를 가지러간다</p>
+    </text>
+</SJML>

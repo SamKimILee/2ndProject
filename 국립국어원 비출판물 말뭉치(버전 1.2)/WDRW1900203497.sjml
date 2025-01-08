@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203497</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>'아날로그 사이언스'독후감</title>
+            <author id="P03497" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="자연">
+        <p>나는 '양자역학'이라는 어려운 내용을 조금 더 쉽게 이해하고 싶어서 이 책을 읽게 되었다. 이 책은 양자역학에 대한 거부감을 덜어주어서 사회적으로 사람들이 양자역학에 좀 더 쉽게 접근할 수 있도록 하는 영향을 끼칠 것이라고 생각한다.  이 책의 저자가 하려는 말은 '빈틈'이라는 한 마디로 정의할 수 있다고 생각한다. 양자역학은 아직 완성되지 않았다. 과학 역사에서 정말 사소한 문제가 혁명을 일으켜 세상을 바꾼 경우가 흔히 있었고, 아직 맞추지 않은 수수께끼같은 퍼즐이 많다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>짧은 시 </title>
+            <author id="P11862" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190823" subclass="null_꽃">
+        <p>
+            <s>제목: 꽃</s>
+            <s>작사: &name1&</s>
+            <s>꽃이핀다. 해와 구름이 쑥수럽게 고개를</s>
+            <s>내민다. 물이 쓰다며준다</s>
+            <s>행복이 꽃에게 찾아온다.</s>
+        </p>
+        <p>
+            <s>제목: 내 꿈</s>
+            <s>나에 꿈은 내가 모르는 사이에</s>
+            <s>나무처럼 쑥쑥 자란다.</s>
+            <s>모두에겐 꿈나무가 있다.</s>
+            <s>나에 꿈나무는 얼만큼 컸을까?</s>
+            <s>제목: 씨앗</s>
+            <s>씨앗 안에는 예쁜 행복들이</s>
+            <s>가득있어요. 나에 씨았은 쑥쑥 커서</s>
+            <s>나무가 될거에요. 나도 쑥쑥 성장해서 멋진 어른이 될거에요</s>
+        </p>
+        <p>
+            <s>2019.8.23. 강릉 골드 팰리스에서</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900501280</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>SUN 2/24</title>
+            <author id="P01280" age="29" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="있다">
+        <p>어쩌다 보니 금요일에 쉬게 되었다. 좀 더 빨리 말해줬으면 어디로든 갔을텐데.</p>
+        <p>뭐 원래 계획은 아니었지만 암남공원에 다녀왔다. 결론을 말하자면</p>
+        <p>복수초 사진은 찍지 못했고, 커피도 못마셨고, 생각보다 힘들었다는 것.</p>
+        <p>다음날 종아리가 아팠다.</p>
+        <p>그래도 좋았던건 혼자서 걸었다는 것과 고양이를 보고, 새소리를</p>
+        <p>집중에서 들을 수 있었던 것이다. 일단은 정상에서 커피를 마시는 것을</p>
+        <p>목표로 하고, 다음주에는 어디로 가면 좋을지 생각해봐야지.</p>
+        <p>일단 겨울까지 버티다가 날이 더 따뜻해지거나 봄이 오면 옷을 사야겠다.</p>
+    </text>
+</SJML>

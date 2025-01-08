@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112633</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>강낭콩</title>
+            <author id="P12633" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_강낭콩에 꽃">
+        <p>오늘강낭콩에꽂이피어서요</p>
+        <p>그런대나만꽃이피여서종아서요 미술영역에서친구들과함깨노는계제미있어습니다</p>
+        <p>갈대버스타고가는거보다 엄마랑손흔면서가는계더재미서요 엄마보싶퍼서요예요</p>
+    </text>
+</SJML>

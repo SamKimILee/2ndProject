@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900608073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한편줍쇼 글 말인데</title>
+            <author id="P08073" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_기록">
+        <p>글마다 자기 글인거 밝힑지 말지 설정할수있었으면좋겠다</p>
+        <p>일기같은건 밝히기싫은데 시나 소설은 밝히고싶단말이지..</p>
+        <p>어디에 실린다면 뿌듯할테니까</p>
+        <p>뭐</p>
+        <p>어쨌거나 일기가 있기때문에 작성자 비공개했다.</p>
+    </text>
+</SJML>

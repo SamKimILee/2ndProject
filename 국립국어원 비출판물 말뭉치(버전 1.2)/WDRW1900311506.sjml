@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311506</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 관찰문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>골든 장수풍뎅이</title>
+            <author id="P11506" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">홍진서</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="보다">
+        <p>골든 장수풍뎅이</p>
+        <p>학교에서 여름시간에 곤충들을 관찰하기 위해 루페를 들고 운동장에 나갔다. 개미와 공벌레를 관찰하다기 &name1&와, &name2&와, 내가 황금색 장수풍뎅이를 발견했다. 선생님께 화려한 벌레를 보여드렸다.</p>
+        <p>"와! 귀한 벌레를 찾았네!"</p>
+        <p>선생님앞에 아이들이 도란도란 몰려서 &name1&와 &name2&와 내가 발견한 장수풍뎅이를 구경했다. 반짝반짝 빛나는 장수풍뎅이가 신기했다. 바람도 살랑살랑 부는 즐거운 여름시간이었다.</p>
+    </text>
+</SJML>

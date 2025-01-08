@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새해맞이</title>
+            <author id="P12071" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_새해">
+        <p>나는 새해를 맞이하러 동쪽으로 갔다. 설악산 케이블카를 타고 권금성에 올라갔다. 바람이 내가 아홉살된 것을 축하해주는 것만 같았다. 같이 간 &name1&이와 밤에 불꽃놀이를봤다. 신나게 춤을 춘나를 보고 아빠가 춤꾼이라고 하셨다. 새벽에 처음 뜨는 해를 봤다. 우리 가족이 건강하고 행복했으면 좋겠다.</p>
+    </text>
+</SJML>

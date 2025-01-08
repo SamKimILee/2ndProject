@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>옥수수체험</title>
+            <author id="P12201" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190721" subclass="null_옥수수 따기 체험">
+        <p>오늘 옥수수 따기 체험을 했다. 그런대  설명을 듣고 출발을 했다. 그레서 옥수수 밭에 도착을 했다. 옥수수를 20개 땄다.</p>
+        <p>어마어마 하개 땄다.</p>
+        <p>그리고 와서 장기자랑을 했다. 나는 머를 했냐면 막춤을 쳤다.</p>
+        <p>사장님이 빵 터졌다.</p>
+        <p>재미있다.</p>
+    </text>
+</SJML>

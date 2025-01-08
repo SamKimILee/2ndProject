@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101102</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꽃잎</title>
+            <author id="P01102" age="15" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_꽃잎">
+        <p>
+            <s>한잎 두잎</s>
+            <s>떨어지는 꽃잎들에</s>
+            <s>바라만 보고 있던 나</s>
+        </p>
+        <p>
+            <s>터질듯 풍성했던 꽃잎들이</s>
+            <s>힘을 잃은 듯</s>
+            <s>하나 둘씩 떨어져</s>
+        </p>
+        <p>
+            <s>앞으로 계속.</s>
+            <s>그렇게 남아줬으면 좋겠다.</s>
+            <s>라고 생각한다면</s>
+            <s>내 욕심일까</s>
+        </p>
+        <p>
+            <s>그렇게 한참을</s>
+            <s>쳐다만 보다가</s>
+            <s>너를 끌어 안았다</s>
+        </p>
+        <p>
+            <s>떨어질까 혹시라도 놓칠새라</s>
+            <s>나의 품으로 감싸</s>
+        </p>
+        <p>
+            <s>그러다</s>
+            <s>툭 툭 툭</s>
+        </p>
+        <p>
+            <s>떨어지는 빗방울</s>
+            <s>한잎 두잎 떨어지는</s>
+            <s>꽃잎들</s>
+        </p>
+        <p>
+            <s>떨어질까 혹시라도 놓칠새라</s>
+            <s>나의 품으로 감싸</s>
+        </p>
+        <p>
+            <s>하지만 이 순간마저</s>
+            <s>행복하다고 생각해</s>
+            <s>이대로 시간이 멈췄으면 좋겠다고</s>
+        </p>
+        <p>
+            <s>오직 너라는 이유만으로.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411686</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연필</title>
+            <author id="P11686" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정이찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20191212" subclass="null_연필">
+        <p>2019.12.12.목</p>
+        <p>날씨: 따뜻하다</p>
+        <p>연필</p>
+        <p>연필은 보고서를 낼때도 쓰고</p>
+        <p>학교에서 도 쓰입니다. 이겄들</p>
+        <p>말고도 다른곳에서도 쓰입니다.</p>
+        <p>연필은 주로 손잡이로 연필</p>
+        <p>을 잡습니다. 여러분은 어떤</p>
+        <p>연필이 있나요?</p>
+        <p>우리 주변에 있는 연필은</p>
+        <p>6각3각5각입니다. 더 많은</p>
+        <p>연필들이 있지만 저는</p>
+        <p>주로 아까 말했다 싶이</p>
+        <p>저는 6각5각3각만 보았습니다.</p>
+        <p>많약 연필이 없으면 어떻</p>
+        <p>게 될까요. 받아쓰기 시엄도</p>
+        <p>볼펜으로 보고 보고서도 잘못써도</p>
+        <p>못지우고 또 학교 교과서를</p>
+        <p>못풀어요.</p>
+        <p>여러분은 어떻 연필이</p>
+        <p>있나요. 저는 지금은 6각 연필을 쓰고 있습니다.</p>
+    </text>
+</SJML>

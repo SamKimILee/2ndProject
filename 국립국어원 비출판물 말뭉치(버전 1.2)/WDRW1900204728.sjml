@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204728</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>전과에 대해</title>
+            <author id="P04728" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_전과">
+        <p>문예창작과로 전과를 한 것은 어쩌면 나에게 좋은 기회였을지도 모른다. 그렇지 않았다면 지금처럼 느낄 수 있는 여러 감성들을 평생 느끼지 못 한 채 퍽퍽하게 살아갔을 것이다. 덕분에 삶이 조금은 축축해졌다.</p>
+        <p>그렇지만, 이 감성이란 것이 젖소의 우유와 비슷하게 그저 쥐어짠다고 흐르는 것이 아니라서 가끔은 답답할 때도 있다.</p>
+    </text>
+</SJML>

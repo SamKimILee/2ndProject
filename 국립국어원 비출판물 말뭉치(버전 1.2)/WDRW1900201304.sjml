@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201304</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>배고픔</title>
+            <author id="P01304" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_허기">
+        <p>추운 겨울은 다른 어느 계절 보다 배고픔이 강렬하게 다가오는 것 같다.</p>
+        <p>보릿고개도 겪어보지 않았는데 문득문득 그 시대가 스쳐지나가곤 한다.</p>
+        <p>아마 보일러가 고장이나거 집이 너무 춥고 추워서 더욱 그런 생각이 밀려오는게 아닌가 싶다.</p>
+    </text>
+</SJML>

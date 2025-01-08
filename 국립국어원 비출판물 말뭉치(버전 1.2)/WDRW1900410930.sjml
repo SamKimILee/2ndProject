@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410930</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 왜 눈치보는 것인가</title>
+            <author id="P10930" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_눈치">
+        <p>나는 유튜브도 하고싶고</p>
+        <p>머리띠도하고싶고</p>
+        <p>팔찌도 하고 싶다</p>
+        <p>근데  왜 못 하는 것인가</p>
+        <p>하고 싶은것은 많다</p>
+        <p>그래 못하고 죽으면 억울하겠지만</p>
+        <p>너는 억울한거 보다는</p>
+        <p>눈치를 더 많이 봤기 때문에</p>
+        <p>딱히 억울하지도 않을꺼 같다</p>
+        <p>니 문제 니까</p>
+        <p>나는  눈치보고 싶지 않다</p>
+        <p>하고싶은거 하면</p>
+        <p>욕먹을까봐</p>
+        <p>따가운 시선 때문에</p>
+        <p>근데 조금더 괜찮아 지고 싶어</p>
+        <p>조금씩 조금씩</p>
+        <p>반앙을 해볼래</p>
+        <p>정말 조금한거 부터 하면</p>
+        <p>당당해지겠다</p>
+        <p>나 이제 당당해 질께</p>
+        <p>당당해질래</p>
+    </text>
+</SJML>

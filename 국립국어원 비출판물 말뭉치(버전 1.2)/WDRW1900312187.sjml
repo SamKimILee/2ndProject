@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 주제글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노래</title>
+            <author id="P12187" age="12" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이유비</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_노래">
+        <p>노래</p>
+        <p>노래는 다양하다. 신나는노래,슬픈노래,차분한노래. 참신기하다. 이런 신나는, 슬픈, 차분한 감정으로 노래를 많이 말들어 낸다. 유명한 가수들도있고 유명하지 않은가수들도있다. 열심히 해도 유명하지 않은 가수들도있을거갔다. 가수였다가 예능인으로 바뀐 가수도있을거같다.</p>
+        <p>가수 들은 목이 엄청 아플거같다. 심사 받을 때 음치라고하면 기분이 나쁠거갔고 잘한다고했을때 기분이좋을거같다.</p>
+        <p>가수들노래는 최신,옛날거로 나누어진다. 열심히 한 노래가 제일좋을거 같다.</p>
+    </text>
+</SJML>

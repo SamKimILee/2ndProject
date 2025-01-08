@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312371</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할아버지 칠순잔치</title>
+            <author id="P12371" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강선우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_칠순잔치">
+        <p>할아버지 칠순 잔치를 했다. 할아버지, 할머니, 우리가족, 고모네 총 열명이 모였다. 모두모여 식당에 갔다. 식당에서 맛있는 음식을 먹었다. 그리고 밖에 나가 꽃구겅도 했다. 식당안에 들어오니 어른들이 케이크를 먹고있었다. 케잌을 다먹고 칠순 축하 공연을 했다. 나는 할아버지를 주제로 동시를 낭송했다. 할아버지가 잘했다고</p>
+        <p>칭찬하셨다. 기분이 정말 좋았다!!</p>
+    </text>
+</SJML>

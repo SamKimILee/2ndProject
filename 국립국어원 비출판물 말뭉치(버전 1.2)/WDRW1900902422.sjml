@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900902422</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여자라는 생물</title>
+            <author id="P02422" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="여자">
+        <p>여자는 남자랑 생각 구조부터 다른 것 같다. 지금 까지 만났던 여자애들 중 내 기준에 정상인은 없었다. 오직 공감만을 바라며 뜻대로 되지않을 시 만만한 사람에게 화부터 낸다.</p>
+    </text>
+</SJML>

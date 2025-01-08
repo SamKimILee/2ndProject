@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311790</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2가지의 스포츠를 한 날</title>
+            <author id="P11790" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조명서</author>
+        </sourceInfo>
+    </header>
+    <text date="20191014" subclass="운동">
+        <p>제목: 2가지의 스포츠를 한날</p>
+        <p>나는 오늘 오후 2시 쯤에 친구들을 만나서 야구를 1시간 하고 한 4시간 동안 축구했다. 근데 6시 반에 너무 어두어서 골을 너무 만이 먹혔다. 그래도 포기는 안했다.</p>
+        <p>그래서 내가 골을 합처 모은 합계는 10골밖에 안 되었다. 난 그래서 너무 아쉬었고 7시 쯤에 편안하게 집에가서 다리 쭉 뻗고 편히 잤다. 너무 행복했다. (찡긋 ^^)</p>
+    </text>
+</SJML>

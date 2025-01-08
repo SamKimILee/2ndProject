@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103322</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 여행기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제주도 여행기1</title>
+            <author id="P03322" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_여행, 추억">
+        <p>체력이 별로 좋지 않고 집을 매우 사랑하는 사람이라 특별한 날이 아니라면 이동하는 동선이 매우 한정적인 편이다. 평소에는 그다지 그것에 불만을 가지지않고 오히려 반기는 편이지만 가끔 매일매일이 큰 변화없이 느껴지고 쳇바퀴 돌아가듯 반복되는 일상이 조금 지루하게 느껴지는 순간이 오곤 한다. 이런 시점에 필요한 것이 여행이다. 최근 갑갑한 일상과 여유없는 마음가짐 때문에 가벼운 여행을 기획하고 있던 차에 아쉽게도 질병의 유행으로 계획을 취소하기로 했다. 우울하던 차에 지난 날에 다녀온 여행을 다시금 되새기는 시간을 갖고자 한다.</p>
+    </text>
+</SJML>

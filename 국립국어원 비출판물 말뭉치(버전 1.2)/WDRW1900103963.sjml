@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103963</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일을 하고 싶다</title>
+            <author id="P03963" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="일">
+        <p>알바가 너무 하고싶다.. 막상 알바 하면 힘들겠지만 어쨌든 돈이 너무 벌고 싶다. 돈을 벌어야 된다 아니면 집에 계속 붙잡혀 있는 꼴이니까.. 용돈 그만 받고 싶다. 엄마도 아빠도 돈 잘 버는 주제에 동생 둘 걱정 하면서 자꾸 나한테 눈치 준다 얼른 돈 벌라고.. 그게 싫어서 굳이 빌어먹는 중. 돈 벌어야 된다.. 알바 하면 뭐 하지? 편의점이 무난하겠고 피씨방도 잘 할수 있다 사실 뭐가 됐든 돈만 주면 오케이다.. 하</p>
+    </text>
+</SJML>

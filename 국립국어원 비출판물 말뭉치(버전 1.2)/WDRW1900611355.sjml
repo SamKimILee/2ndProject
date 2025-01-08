@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요리</title>
+            <author id="P11355" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">홍지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_요리">
+        <p>나는 요리를 못하는 편이다. 남들이 하는 만큼 할 수 있는 요리라고 하면 컵라면 정도, 냄비라면은 내가 끓이면 미묘한 맛이 된다. 언젠가 끓인 라면이 너무 맹맹한 맛이 나서 고추장을 좀 풀어 봤는데, 그날은 내가 최악의 라면을 만드는 날이 되었었다. 얼마 전에는 인터넷에서 마약 토스트 레시피를 보고 만들어 가족들에게 시식을 부탁했다. 모두의 반응이 떨떠름했다. 그간 전적이 있기에 별로 먹어보고 싶어하지 않는 눈치였지만, 나는 설탕과 마요네즈와 달걀로 이루어진 것은 맛없을 리가 없다고 생각했다. 하지만 심사평은 냉담했다. 차라리 맨 식빵이 훨씬 맛있을 거라고 하더라. 어쩔 수 없다. 내일은 베이킹에 도전해야지.</p>
+    </text>
+</SJML>

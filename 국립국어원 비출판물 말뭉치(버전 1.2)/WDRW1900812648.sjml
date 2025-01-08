@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812648</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>경찰관님에게.</title>
+            <author id="P12648" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170920" subclass="null_감사">
+        <p>경찰관님에게</p>
+        <p>안녕하세요.저는 &name1&입니다</p>
+        <p>우리마을을 지켜주셔서 감사합니다.</p>
+        <p>경찰관님덕분에 마을에 나쁜사 람이 않보이는것같아요</p>
+        <p>그럼 안녕히계세요</p>
+        <p>2017년 9월 20일</p>
+        <p>남목초등학교2학년5반&name1&올림</p>
+    </text>
+</SJML>

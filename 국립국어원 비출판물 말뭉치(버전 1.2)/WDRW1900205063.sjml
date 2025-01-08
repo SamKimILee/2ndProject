@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이사</title>
+            <author id="P05063" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="집">
+        <p>지난 11월, 14년을 살던 동네를 떠났다.</p>
+        <p>앞을 지나갈 때면 시도 때도 없이 침샘을 자극하던 우리 동네 작은 치킨가게 . 아직도 여름이 되면 생각하는 슬러쉬가게가 하루종일 돌아가는 동네 작은 문방구. 어릴 때는 그렇게 가기 싫었던 박하 향이 나는 작은 치과. 아이들의 웃음소리가 끊이질 않는 집 앞 작은 놀이터. 아직도 내 마음 한 켠에 남아있는 나의 추억, 나의 둥지, 성내동.</p>
+    </text>
+</SJML>

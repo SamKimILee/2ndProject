@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111549</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 좋아하는 것들</title>
+            <author id="P11549" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤혜림</author>
+        </sourceInfo>
+    </header>
+    <text date="20180408" subclass="null_나">
+        <p>4/8</p>
+        <p>2018년 4월 8일 일요일 날씨:벚꽃은 웃었지만 날씨는 추웠어요. (제목) 내가 좋아하는 것들</p>
+        <p>①저는 귀여운 인형를 좋아합니다.</p>
+        <p>②저는 재밌는 책 읽기를 좋아합니다.</p>
+        <p>③저는 만화책도 좋아합니다.</p>
+        <p>④저는 귀여운 강아지를 좋아 합니다.</p>
+        <p>⑤저는장난감도 좋아 합니다.</p>
+        <p>⑥저는 나를 공부하고 쓸 수 있게 만들어준 연필과 공책도 좋아합니다.</p>
+        <p>⑦저는 새끼 고양이도 좋아합니다.</p>
+        <p>⑧저는 제 친척동생도 좋아 합니다.</p>
+        <p>⑨저는 내 부모님과 선생님도 좋아합니다.</p>
+        <p>저는 인형, 책, 강아지, 장난감, 연필, 공책, 고양이, 친척동생,부모님, 선생님을 좋아합니다.</p>
+    </text>
+</SJML>

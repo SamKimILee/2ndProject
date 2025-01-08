@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>계란 초밥</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_계란 초밥">
+        <p>
+            <s>계란 초 밥</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>계란</s>
+            <s>찌 면</s>
+            <s>계란 찜</s>
+        </p>
+        <p>
+            <s>돌돌 말면</s>
+            <s>계란 말이</s>
+        </p>
+        <p>
+            <s>납짝</s>
+            <s>누르면</s>
+            <s>계란 프라이</s>
+        </p>
+        <p>
+            <s>그냥</s>
+            <s>삶으면</s>
+            <s>삶은계란</s>
+        </p>
+        <p>
+            <s>밥에 얺으면</s>
+            <s>계란 초밥?</s>
+        </p>
+    </text>
+</SJML>

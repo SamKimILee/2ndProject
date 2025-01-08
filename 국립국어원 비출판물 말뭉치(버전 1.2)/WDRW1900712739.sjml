@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712739</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 키우고 싶은 식물</title>
+            <author id="P12739" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_라벤더">
+        <p>‘미니 부케와 세 마녀’를 읽고 나는 식물이 키우고 싶어졌다.</p>
+        <p>내가 좋아하는 식물은 라벤더,페퍼민트, 장미, 은방울꽃이 있다.</p>
+        <p>그중에서도 라벤더를 제일 키워보고 싶다.</p>
+        <p>그 이유는 라벤더가 내가 좋아하는 연보라색이고 향기도 좋은것 같기 때문이다.</p>
+    </text>
+</SJML>

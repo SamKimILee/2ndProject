@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900620072</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한글의 소중함</title>
+            <author id="P20072" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191012" subclass="null_한글">
+        <p>날짜: 10월12일 / 날씨: 맑음</p>
+        <p>제목 한글의 소중함</p>
+        <p>한글은 세종대왕님이 백성들를 위해 만드신거다 한글이 없으면 아직까지 한자를 쓰고 어려움을 많이 겪을 것 같다.</p>
+        <p>한글을 만들기 위해서 우리 조상들은 많은 연구를 하고 노력하여 한글을 만들게 되었다.</p>
+        <p>지금 우리가 읽고 있는 책과 학교에서 배우는 교과서도 한글로 되어 있고 컴퓨터도 한글로 타자를 친다.</p>
+        <p>한글이 없었으면 다른 나라 글자로 공부 하고 생활을 하면 힘들었을것이다.</p>
+        <p>우리나라 사람들이 우리나라 말과 글을 사용할 수 있어서 다행이다.</p>
+        <p>요즘 우리나라에는 외국인이 오고 외국인도 한글을 많이 배우고 외국인들이 한글을 잘 만들었다고 한다.</p>
+        <p>우리 어린이들은 한글을 사랑하고 한글의 믿음을 가지면 좋겠다.</p>
+    </text>
+</SJML>

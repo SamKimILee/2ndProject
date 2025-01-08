@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101222</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그 사랑의 여름</title>
+            <author id="P01222" age="17" occupation="무직" sex="F" submission="온라인" handwriting="No">김연진</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_여름">
+        <p>
+            <s>너는 아마 잘 모를 것 같아</s>
+            <s>이 여름은 얼마나 뜨거웠고 나는 얼마나 한결 같이 그대로였는지</s>
+            <s>빨갛게 익는 노을을 보면서 듣는 네 목소리가 어떤지 너는 알고 있을지 너는 아마 잘 모를 것 같아</s>
+        </p>
+        <p>
+            <s>내 매일을 덥고 힘들게 만드는 여름이라도,</s>
+            <s>그 온도를 만드는 태양이 너라면</s>
+            <s>내 남은 생의 매일이 여름이어도 좋겠다고 생각 했어</s>
+        </p>
+        <p>
+            <s>그날 밤 우리가 가장 마지막으로 서로를 보며 약속 했던 건,</s>
+            <s>그날은 이상하게도 밤이 길었고 하늘이 유난히 까맸다</s>
+        </p>
+    </text>
+</SJML>

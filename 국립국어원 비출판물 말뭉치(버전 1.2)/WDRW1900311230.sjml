@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311230</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고양이와 나</title>
+            <author id="P11230" age="13" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="기억">
+        <p>
+            <s>고양이의 뱃살을 만진다</s>
+        </p>
+        <p>
+            <s>개보다 순한 우리 냥이는</s>
+            <s>참 얌전하다</s>
+        </p>
+        <p>
+            <s>내가 자꾸 자꾸 뱃살을 만져도</s>
+        </p>
+        <p>
+            <s>양보다 순한 우리 냥이는</s>
+            <s>장도 골골거린다</s>
+        </p>
+        <p>
+            <s>먼 훗날 노묘가 된</s>
+            <s>너의 기억 속에 나는</s>
+        </p>
+        <p>
+            <s>뱃살만 만지는 주인이겠지</s>
+        </p>
+        <p>
+            <s>먼 훗날 노인이 된</s>
+            <s>나의 기억 속에 너는</s>
+            <s>순할 뿐인 착한 동생일거야</s>
+        </p>
+    </text>
+</SJML>

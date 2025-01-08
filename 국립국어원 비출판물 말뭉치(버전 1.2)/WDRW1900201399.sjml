@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201399</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이사2</title>
+            <author id="P01399" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_집">
+        <p>그렇다고 우리 가족이 평생을 함께 살아온 건 아닙니다. 엄마는 일 때문에 다른 지방에 자주 가기 때문에 집에 안 오는 경우가 더 많습니다. 엄마에게 집은 사실상 짐만 맡겨두는 곳에 가깝습니다. 또 언니와 저는 각자 성인이 된 후 반항심으로 자취를 한 적이 있었고요.</p>
+        <p>하지만 벌어둔 돈이나 마땅한 일자리가 없다면 결국 가족의 품으로 돌아오게 되더라고요. 불안정한 상황에서는 집은커녕 먹는 것도 제대로 챙겨먹기 힘들어서, 1년의 자취생활을 마치고 집으로 돌아온 언니는 이전보다 5키로가 빠져 홀쭉해져 있었습니다. 몇 달 안 돼서 원래의 체중으로 돌아오긴 했지만요.</p>
+    </text>
+</SJML>

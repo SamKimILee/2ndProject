@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312490</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이랑 티처투어 갔을 때</title>
+            <author id="P12490" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_티쳐투어">
+        <p>&name1&이랑 같이 티처투어를 같다 거기에서 &name1&이랑 같이 에슐리 에서 같이 앉아서 같이 밥도 먹었다 그리고 박물관 에서 선생님 한테 만은걷을 배웠다 정말로 조왔다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212095</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>조정 경기장에 간 일 </title>
+            <author id="P12095" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강다현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191006" subclass="null_조정 경기장">
+        <p>제목 : 조정 경기장에 간 일</p>
+        <p>아침에 가족들과 자전거를 타고 조정경기장에 놀러 갔다. 조정경기장에 들어가니 예쁘고 알록달록한 코스모스가 나를 기다리고 있었다. 코스모스들과 사진도 찍었다. 또 카누경기도 보고 간식도 먹었다. 집에 오는 길에 배고파서 맛있는 밥을 먹었다.</p>
+        <p>자전거를 4시간 타서 너무 피곤했다. 그래서 목욕하고 낮잠을 잤다. 낮잠을 자고나니 기분이 날아갈 것 같았다.</p>
+        <p>한가지 아쉬운 점은 6인용 자전거를 타고 싶었는데 못탔다. 다음에는 조정경기장에서 그 자전거를 타보고 싶다.</p>
+    </text>
+</SJML>

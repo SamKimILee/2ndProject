@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511457</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>슈퍼히어로의 똥 닦는 법을 읽고</title>
+            <author id="P11457" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장지아</author>
+        </sourceInfo>
+    </header>
+    <text date="20190825" subclass="null_히어로">
+        <p>8월 25일</p>
+        <p>제목: 슈퍼히어로의 똥닦는 법</p>
+        <p>짱짱맨이 똥을 제대로 닦지 못해 괴물들에게 쫓겼다가 똥 도사를 만나 똥닦기 히어로가 되는 내용이다.</p>
+        <p>육칸권법, 앞뒤권법,쪼그려권법, 앞뒤권법,을 배웠다. 나도잘 닦아야지.</p>
+    </text>
+</SJML>

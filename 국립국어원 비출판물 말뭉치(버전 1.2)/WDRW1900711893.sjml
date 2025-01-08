@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711893</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>없음</title>
+            <author id="P11893" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장재인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191023" subclass="null_오늘">
+        <p>10월 23일 수요일</p>
+        <p>아침에 일어나 조식을 먹고 재밌는 키즈카페에 가서 도자기를 만들고 짐라인도 타고 다놀고 나서 감자튀김 사서 집으로 와서 맜있게 먹었다</p>
+    </text>
+</SJML>

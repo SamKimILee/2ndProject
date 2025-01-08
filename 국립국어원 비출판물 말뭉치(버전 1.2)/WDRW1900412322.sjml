@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412322</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태권도 합숙</title>
+            <author id="P12322" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방하준</author>
+        </sourceInfo>
+    </header>
+    <text date="20160317" subclass="null_합숙">
+        <p>태권도 합숙</p>
+        <p>태권도에서 합숙을 했다. 제일먼저와서는 짐을 풀었다  학년 별로 짐을 풀었다. &name1&와 &name2&이, &name3&이와 같이 O X 퀴즈를 풀러갔다 바로 탈락해서 야식을 다 먹고 다시 O X 퀴즈를 했는데 이번에는 우리가 계속 맞춰서 얘들이 우리를 따라해서 우리는 “따라하지 마라” 라고 했다  그리고 연기를 틀린것처럼했다.</p>
+        <p>라면을 받고 모아나를 보다가 잤다  새벽에 라면을 먹으려고 했는데 그냥 자버렸다</p>
+    </text>
+</SJML>

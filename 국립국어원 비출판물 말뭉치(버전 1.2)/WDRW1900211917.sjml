@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211917</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&와의 야구 </title>
+            <author id="P11917" age="10" occupation="중학생" sex="M" submission="온라인" handwriting="No">강태건</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_야구">
+        <p>방과후를 마치고 &name1&이와 야구를 하기로 헀다. 난 끝나고 &name1&이 방과후 다 할때까지 집에 서 쉬고 있었다. 다 끝났다고 해서 학교로 글러브와 공을 들고 갔다. &name2&도 딱 마침 있었는데 안논다고 하여서 의아하였다. 올스타전이라고 5팀 vs 5팀 하는게 있는데 그것을 하기로 하였다. &name1&이는 드림 난 나눔을 하였다 . 투수 포수를 했는데 볼넷이 네개면 점수를 내주는것으로 했는데 역시나 &name2&가 와서 우리를 방해하였다. 그래서 우리는 &name2&랑 같이 하기로 했다. 인원수가 맞지 않아서 &name2&는 깍두기로 들어가서 했는데 3명이서 야구 하기가 쉽지 않았다.  결국은 우리 셋 다 팽팽해서 0:0으로 끝이 났다. &name1&이와 &name2&와  더 가까워진것 같아서 좋았다. 다음에는 꼭 친구들 여러명 모아서 10대10을 하고 싶다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610545</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시장</title>
+            <author id="P10545" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시장">
+        <p>
+            <s>시장</s>
+            <s>전통시장</s>
+            <s>정겨움을 담는 곳</s>
+        </p>
+        <p>
+            <s>시장</s>
+            <s>서울시장</s>
+            <s>책임감을 담는 곳</s>
+        </p>
+        <p>
+            <s>시장</s>
+            <s>배가 시장</s>
+            <s>포만감을 담는 곳</s>
+        </p>
+        <p>
+            <s>시장</s>
+            <s>결국 시장은</s>
+            <s>무언가를 담는곳이랍니다</s>
+        </p>
+    </text>
+</SJML>

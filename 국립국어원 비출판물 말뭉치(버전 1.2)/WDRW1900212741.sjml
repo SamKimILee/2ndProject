@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212741</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>딸기</title>
+            <author id="P12741" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_딸기">
+        <p>&lt;맛있는 딸기&gt; 드디어 겨울이 되어 딸기를 먹을 수 있게 되었다. 나는 겨울과 봄이 좋다. 왜냐하면 딸기가 나오기 때문이다. 나는 딸기가 좋다.</p>
+    </text>
+</SJML>

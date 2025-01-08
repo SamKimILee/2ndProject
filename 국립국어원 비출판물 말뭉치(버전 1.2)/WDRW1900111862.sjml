@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>화창한 나의 꿈 </title>
+            <author id="P11862" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190223" subclass="null_꿈나라">
+        <p>제목:화창한 나의 꿈</p>
+        <p>침대에 누웠다. 새파란 별들이 인사해준다.</p>
+        <p>파란 하늘 속 달님이 미소를 지었다.</p>
+        <p>나는 꿈나라 속으로 갈 준비를 한다. 창밖의 꽃들이 기쁨에 노래를 부른다. 초롱초롱 풀잎이 걱정해준다</p>
+        <p>스르르 눈이 감긴다. 새파란 별들과, 파란 하늘 속 달님, 창밖에 꽃들, 초롱초롱 풀잎이 인사한다.</p>
+    </text>
+</SJML>

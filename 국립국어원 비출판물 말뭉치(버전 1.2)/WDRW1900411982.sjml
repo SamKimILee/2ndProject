@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411982</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>조리원 파업</title>
+            <author id="P11982" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박세현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_파업, 급식">
+        <p>&lt;조리원 파업&gt;</p>
+        <p>"야, 오늘 학교 조리원 파업했대." 정말? 아침부터 학교가 뒤집어질만큼 파업소식으로가득 차있었다. 나는 친구들의 얘기에 슬쩍 끼어 들었다. “와 오늘 급식 무지 맛있을 거 같아”</p>
+        <p>“빵에 Bts 그려져 있는거 아니야?”</p>
+        <p>“그러면 무지 좋겠다.”</p>
+        <p>교실여기저기에서 급식에 대한 반응은 난로처럼 뜨거웠다. 드디어 빵 받을 시간이 되었다. 우리 모둠이 3번째로 받았다. 빵을 보니 BTS는 그려져 있지 않았지만, 맛있어 보였다. 빵을 반 쯤 먹었을 때, 이런생각이 들었다.</p>
+        <p>‘아, 급식 먹고 싶다.......’</p>
+    </text>
+</SJML>

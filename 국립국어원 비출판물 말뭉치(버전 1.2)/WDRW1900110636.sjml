@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110636</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한편줍쇼</title>
+            <author id="P10636" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_한 편 줍쇼">
+        <p>이거 붙여넣기 되는 줄 알고 메모에 일기를 길게 다 적어놨는데 붙여넣기가 안 돼서 당황했다. 거짓말이었으면 좋겠다... 그냥 새로 써야지. 독서종합시스템 할 때도 이랬었는데 갑자기 그 때 생각이 나서 또 억울하다.</p>
+    </text>
+</SJML>

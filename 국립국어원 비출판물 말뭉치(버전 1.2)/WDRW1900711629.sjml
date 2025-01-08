@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711629</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마께</title>
+            <author id="P11629" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180509" subclass="어머니">
+        <p>엄마께 엄마 저 &name1&이에요. 학교에서 친구들이랑 사이좋게 싸우지 않고 잘 지내고 있어요. 이제는 동생이랑 싸우지 않고 사이좋게 잘 지낼수 있도록 노력할 거에요! 그리고 그리고 엄마 아프지 말고 건강하세요. 저 이제 씩씩하게 잘 지낼 거에요! 건강하세요!♡♡♡</p>
+        <p>2018년 5월 9일, 수요일</p>
+        <p>엄마께 &name1&올림</p>
+    </text>
+</SJML>

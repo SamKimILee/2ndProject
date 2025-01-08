@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512374</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>쑥뜯기</title>
+            <author id="P12374" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김성연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_쑥">
+        <p>오늘은할머니을 도와드렸다할머니가쑥뜯기를도와주라고했다오빠랑나는 탠트박으로 뛰처 나가 할머니를도와 드렸다. 힘들었다.나는 힘든걸 꾹참고 일을 했다.</p>
+    </text>
+</SJML>

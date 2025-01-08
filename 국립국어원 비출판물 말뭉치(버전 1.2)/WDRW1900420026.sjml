@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할아버지,할머니 생신날</title>
+            <author id="P20026" age="6" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_생신">
+        <p>&lt;할아버지,할머니 생신날&gt;</p>
+        <p>-친척들과 고기를 먹었다.</p>
+        <p>그리고 집으로 가서 과일도먹고 할아버지,할머니의 생신 축하 노래도 부르고 케잌도 먹었다.다음에 친척들을 또 만나고 싶다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112034</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의꿈</title>
+            <author id="P12034" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">구도현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190400" subclass="null_야구선수">
+        <p>나는 20년 뒤에 야구선수가 되어 우리나라에 1등 으로 야구를 잘해서 미국 LA 다저스 팀으로 가서 야구를 신나고 재미 있게 할 것이고 미국 에서도 야구를 1등으로 할것이다 그래서 엄청난 부자가 될 것이다</p>
+    </text>
+</SJML>

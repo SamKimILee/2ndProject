@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612002</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장 간날</title>
+            <author id="P12002" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_수영장">
+        <p>
+            <s>수영장 간날</s>
+            <s>야호! 수영장!</s>
+            <s>수영복으로 갈아입고풍덩!</s>
+            <s>아빠 몰래 터치하고</s>
+            <s>어푸어푸도망가자!</s>
+            <s>아빠는 장난꾸러기</s>
+            <s>나를 잡고 놓지 않는다.</s>
+            <s>속상해서 엉엉 아빠미워!</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712194</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신과 함께</title>
+            <author id="P12194" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효주</author>
+        </sourceInfo>
+    </header>
+    <text date="20171226" subclass="null_신과 함께">
+        <p>제목:신과 함께 2017 12/26 화요일 날씨</p>
+        <p>오늘은 신과함께라는 영화를 수영이 끝나고 봤다. 아빠,엄마, &name1&이와 보러 갔다. 처음에는 괜찮았는데 점점 무서워 졌다. 나는 너무나 무서워서 눈을 감았다. 나는 영화가 끝나자 안도의 한숨을 쉬었다. ‘다음부터는 이렇게 무서운 영화를 않 볼거야.</p>
+    </text>
+</SJML>

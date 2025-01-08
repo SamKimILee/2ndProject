@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312404</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>샤브샤브</title>
+            <author id="P12404" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_샤브샤브">
+        <p>나는 오늘 샤브샤브를 먹었다. 먹기 전에 나와 &name1&이는 야채를 씻었다. 나는 쌈을 해서도 먹어 보고 그냥도 먹어 봤다. 샤브샤브는 땅콩소스에 찍어 먹었다. 샤브샤브는 맛이있었다. 엄마가 해주셔서 그러나 보다.</p>
+        <p>샤브샤브를 가족 이랑 먹으니까 더 맛이있었다. 다음에 또 먹을수 있다면 좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310366</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>긴장되는 수학경시대회</title>
+            <author id="P10366" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_수학경시대회">
+        <p>
+            <s>긴장되는 수학 경시대회</s>
+            <s>&name1&</s>
+            <s>두근두근</s>
+            <s>수학겅시 대회</s>
+        </p>
+        <p>
+            <s>어떤 문제가 나올까?</s>
+            <s>다른 아이들도 떨릴까?</s>
+        </p>
+        <p>
+            <s>긴장되는</s>
+            <s>수학경시대회</s>
+        </p>
+        <p>
+            <s>째깍째깍</s>
+            <s>시험시간 되자</s>
+            <s>시험 감독관이들어온다.</s>
+        </p>
+        <p>
+            <s>덜덜덜</s>
+            <s>어렵지 않으면 좋겠다.</s>
+        </p>
+    </text>
+</SJML>

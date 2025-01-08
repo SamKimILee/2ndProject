@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212499</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1& 선생님게</title>
+            <author id="P12499" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">남시현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190819" subclass="null_선생님">
+        <p>&name1& 선생님게</p>
+        <p>안녕하세요?저는 &name2&이 에요. 미국에서 놀러온 사촌 동생과 놀았어요. 편지는 제가 여름 방학이 이러게 잘픈줄몰랐어요. 선생님, 방학을 어떠게지 내셨나요? 답장으로 보내주세요. 그럼 안녕이 게세요.</p>
+        <p>-&name2&이가-</p>
+        <p>2019.8.19.</p>
+    </text>
+</SJML>

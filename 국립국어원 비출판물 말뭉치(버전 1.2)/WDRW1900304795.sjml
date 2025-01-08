@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304795</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>8월 8일</title>
+            <author id="P04795" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">나보은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_요리">
+        <p>저녁으로 고추장찌개를 해 먹었다.</p>
+        <p>개존맛. 이런 맛을 느끼려고 요리를 하는거지 ㅠㅠ</p>
+        <p>내일은 무엇을 해 먹을까 고민했는데, 생각해보니 내일은 가족들이 집에 있어서 요리를 할 필요가 없었다..</p>
+    </text>
+</SJML>

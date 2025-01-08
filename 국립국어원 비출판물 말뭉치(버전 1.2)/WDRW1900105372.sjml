@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105372</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>예산안 심의</title>
+            <author id="P05372" age="28" occupation="군인" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_복권">
+        <p>
+            <s>수입</s>
+            <s>당첨금 15억원</s>
+            <s>전세금 1억 8천만원</s>
+        </p>
+        <p>
+            <s>지출</s>
+            <s>제세공과금 3억 3천만원</s>
+            <s>목동 30평 아파트 8억 8천만원</s>
+            <s>부동산 중개수수료 4천 4백만원</s>
+            <s>양가 부모님 용돈 1억원</s>
+            <s>벤츠 E클래스 7천 7백만원</s>
+            <s>아내 명품옷 명품가방 5천만원</s>
+            <s>주방 침실 가구 싹 갈아엎기 4천만원</s>
+            <s>3인 가족 해외여행 3천만원</s>
+            <s>&name1& 입시 코디네이터 2천만원</s>
+            <s>아이맥 맥북프로 아이패드 최신형 1천만원</s>
+            <s>모바일 게임 현질 5백만원</s>
+            <s>매일 스타벅스 콜드브루 케이크 3백 65만원</s>
+            <s>…</s>
+        </p>
+        <p>
+            <s>일등 당첨돼도 적자다</s>
+            <s>복권 살 돈으로</s>
+            <s>아내 좋아하는 젤리나</s>
+            <s>사가야겠다</s>
+        </p>
+    </text>
+</SJML>

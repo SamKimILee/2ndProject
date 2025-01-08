@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409849</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구</title>
+            <author id="P09849" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장민우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_축구">
+        <p>지난주 토요일에 축구를했다. 연습할 때 안돼서짜증 났다. 연습할때 골을 넣어서 다행이다. 경기할때 내가 4골을 넣었다. 다른 친구들이 3골을 넣어서 7대1로 이겼다.</p>
+    </text>
+</SJML>

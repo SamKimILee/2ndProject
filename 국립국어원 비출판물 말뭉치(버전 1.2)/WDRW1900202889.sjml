@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202889</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 네가 좋아서</title>
+            <author id="P02889" age="30" occupation="자영업자" sex="F" submission="온라인" handwriting="No">손나영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>어떻게 하면 너랑 약속 잡을 수 있을지 항상 고민해. 어렸을 때야 군것질 사들고 교실에 찾아가면 그만이지만 지금은 그럴 수 없는 성인이잖아. 시간도, 돈도, 서로가 괜찮다는 선에서 마무리 짓는 일이 해가 가면 갈수록 힘드네.</p>
+    </text>
+</SJML>

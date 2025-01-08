@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209993</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할로윈 파티 한날</title>
+            <author id="P09993" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191026" subclass="null_할로윈파티">
+        <p>오늘 하이점핑 예서 친구들과 할로윈 파티를 했다. 뱀파이어 망토를 입고 목걸이와 장난감 칼로 꾸몆다.</p>
+        <p>그리고 친구들과 할로윈 파티를 한 후에 친구와 2차를했다. 할로윈 파티를 하니까 너무 재미있었다. 그래서 다음에 또 하고싶다.</p>
+    </text>
+</SJML>

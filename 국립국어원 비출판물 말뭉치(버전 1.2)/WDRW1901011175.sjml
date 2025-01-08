@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901011175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시선</title>
+            <author id="P11175" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_너">
+        <p>
+            <s>눈을 마주치면 너는 운다. 뭐가 그리 서글픈지 신음하며 운다. 대체 내 눈에 뭐가 보이길래 자꾸 우는 거야. 몰래 동공 뒤에 꽁꽁 숨겨둔 유서라도 엿본거니, 너.</s>
+        </p>
+    </text>
+</SJML>

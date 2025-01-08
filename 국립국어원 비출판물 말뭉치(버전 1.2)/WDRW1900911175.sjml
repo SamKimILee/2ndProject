@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900911175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>익사자와 함께 춤을</title>
+            <author id="P11175" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_발악">
+        <p>
+            <s>죽은 마음으로, 울 것 같은 얼굴을 하고,</s>
+            <s>부서져가는 몸을 붙들고,</s>
+            <s>나만이 아는 춤을 추는 거야.</s>
+        </p>
+        <p>
+            <s>발바닥이 닳아 없어질 때까지,</s>
+            <s>호흡이 멈출 때까지,</s>
+            <s>아침이 올 때까지.</s>
+        </p>
+        <p>
+            <s>아무도 모르는 발악을 하는 거야.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900620060</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인스받은 일</title>
+            <author id="P20060" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인스">
+        <p>제목: 인스 받은 일</p>
+        <p>오늘, &name1& 이가 나에게 인스(인쇄스티커) 3장을 주었다.</p>
+        <p>인스 중에서 2장은 예쁜 여자아이가 있고, 남은 1장은 귀여운 딸기토끼가 그려져 있었다. &name1&이는 많이 있어서 필요가 없다고 했다. 이렇게 예쁜 인스가 필요 없다니...</p>
+        <p>난 조-금 이해가 되지 않았다. 그래도 나는 ‘뭐 어때~’라고 생각하고, 인스를 잘 받았다~</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411729</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠엄마동생과다이소갓을때</title>
+            <author id="P11729" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">한다경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200202" subclass="null_다이소">
+        <p>나는 아빠엄마동생과 다이소를갔다. 나는메모지를 삿다. 그레서 나는 기분이 좋았다.</p>
+    </text>
+</SJML>

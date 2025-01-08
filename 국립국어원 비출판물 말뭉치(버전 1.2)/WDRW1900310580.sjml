@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사계절</title>
+            <author id="P10580" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="자연">
+        <p>
+            <s>사계절은 때가되면</s>
+            <s>우리에게 다가오지</s>
+        </p>
+        <p>
+            <s>나도 사계절이 되어</s>
+            <s>너희에게 다가갈게</s>
+        </p>
+        <p>
+            <s>약속하지 않아도</s>
+            <s>찾아오는 사계절 처럼</s>
+        </p>
+        <p>
+            <s>나도 사계절이 되어</s>
+            <s>너희를 찾아갈게</s>
+        </p>
+    </text>
+</SJML>

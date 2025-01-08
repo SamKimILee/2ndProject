@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901500015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 독후감일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>백조 왕자</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191002" subclass="null_백조왕자">
+        <p>새왕비가 오빠들을 백조로 만들었는 데 여동생에 노력으로 오빠들을 구해낸게 자랑스러웠다.</p>
+    </text>
+</SJML>

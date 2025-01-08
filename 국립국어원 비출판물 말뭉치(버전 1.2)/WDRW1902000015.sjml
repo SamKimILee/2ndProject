@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1902000015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도깨비 감투</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191107" subclass="null_도깨비 감투">
+        <p>영감이 길을지나가다가 한감투를 밧는데 그걸 머리에 썼더니 안 보여서 사람에물건을 훔쳤는데 않훔쳤으면 좋겠다</p>
+    </text>
+</SJML>

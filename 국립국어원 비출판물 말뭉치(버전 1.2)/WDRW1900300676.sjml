@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300676</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스위치온</title>
+            <author id="P00676" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">정유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_너">
+        <p>
+            <s>너에게 호감이 가는 이유는</s>
+            <s>너의 상처 때문이야</s>
+        </p>
+        <p>
+            <s>평생 다듬어도 아물지 않을</s>
+            <s>너의 상처를 강하게 만든</s>
+            <s>너의 용기 때문이야</s>
+        </p>
+        <p>
+            <s>잠시 꺼져 있었지만</s>
+            <s>불이 들어오면 전류가 흐르듯</s>
+            <s>너를 전율하게 하여</s>
+            <s>강인해졌기 때문이야</s>
+        </p>
+    </text>
+</SJML>

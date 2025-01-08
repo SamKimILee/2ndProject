@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412487</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울왕국2</title>
+            <author id="P12487" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박보은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화">
+        <p>내 친구2명을 데리고 영화를 보러갔다.</p>
+        <p>팝콥과콜라를 사고 영환관 안으로 드러 갔다. 영화를 보고 나서는 4시 쯤 돼었었다. 버스를 타고 집에 갔는데 친구집에서 조금만 놀기로 해서 즐거운 영화를 본뒤 친구 집에서 놀았다.</p>
+    </text>
+</SJML>

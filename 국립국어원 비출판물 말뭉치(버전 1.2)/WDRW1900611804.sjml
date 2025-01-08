@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611804</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>발목줄넘기</title>
+            <author id="P11804" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방성연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200020" subclass="null_발목줄넘기">
+        <p>엄마가 발목줄넘기를사주엇다. 근데박에나가서했는대 발목줄넘기가뿌러졌다. 근데 엄마가고쳐주었다. 그래서 잘각고놀거다.</p>
+    </text>
+</SJML>

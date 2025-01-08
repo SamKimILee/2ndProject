@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111912</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>형제</title>
+            <author id="P11912" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">양서준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_노력">
+        <p>형제</p>
+        <p>한 집에 두형제가 살았어요</p>
+        <p>한명은 노력도 없이 커서 부자가 되길 원하고 다른 한 명은 열심히 독서, 공부를 해서 부자가 되길 원했어요. 형제의 아버지는 아무것도 안 하며 부자를 꿈꾸는 아들에게 "노력을 해야 자기가 원하고자하는 것을 얻을 수 있단다."라고 말씀하셨어요.</p>
+        <p>그러나 아버지 말씀을 아들은 들은 체도 안 했어요. 20년후, 크게자란 형제들은 장가를 갈 준비를 했어요. 열심히 독서,공부한 아들은 부자가 되었고 어여뿐 여자와 결혼도 했죠. 결혼한 아들은 아버지께 돈을 드리지만, 아무것도 안한 아들은 가난뱅이가 되어 조그만한 집에서 살았고, 물론 결혼도 못 했습니다.</p>
+        <p>교훈: 노력을 하는자는 꿈을 이루나, 노력을 하지않고 꿈을 꾸는 사람은 실패한다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912471</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐거운 추석</title>
+            <author id="P12471" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김경환</author>
+        </sourceInfo>
+    </header>
+    <text date="20180923" subclass="null_추석">
+        <p>나는 내일 추석 이라서 할머니집에 갔다. 할머니 께서는 내일 차례를 지내기위해 정성껏 음식을 준비하셨다</p>
+        <p>맛있는 고구마 튀김도 먹었다. 정말맛있어다.</p>
+    </text>
+</SJML>

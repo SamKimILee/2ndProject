@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311358</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재미있는 자전거</title>
+            <author id="P11358" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강무찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_자전거">
+        <p>나는 자전거를 일요일 날에 타러 갔다.</p>
+        <p>난 처음 타본다. 그래서 보조 박퀴를 달고 했다. 재미있었다.</p>
+        <p>다음주 일요일, 나는 제일 처음에 보조박퀴 달고 탔다. 그래서 난 4발 자전거 잘타니까 아빠한테 2발 자전거를 연습해 달라고 했다. 그때 할머니랑 내가 아는 &name1& 사장님도있었다. 할머니 친구이다. 그래서 난처음엔 못탄는데 1일 만에 성공을 해다. 그래서 할머니가 50000만원 주고 &name1&사장님도 50000원해서 100000만원이 됬다. 그래서 난 기분이 좋았다. 인제 부턴 2발 자전거 를 타야 겠다. 난성공해서 뿌듯했다. 다음에 힘든일있어도 포기를 안 해야 겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202508</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삶은 계란</title>
+            <author id="P02508" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="삶">
+        <p>
+            <s>삶은 계란이다</s>
+            <s>그래서 깨트려야한다</s>
+            <s>흰자와 노른자가 나온다</s>
+            <s>가치있는 깨트림</s>
+        </p>
+        <p>
+            <s>깨트리자!</s>
+            <s>껍데기는 의미없다</s>
+        </p>
+        <p>
+            <s>깨트리자!</s>
+            <s>누군가에게 필수적인 영양분을</s>
+        </p>
+        <p>
+            <s>깨트리자!</s>
+            <s>누군가에게 맛있는 음식을</s>
+        </p>
+        <p>
+            <s>깨트리자!</s>
+            <s>진정한 가치가 될 수 있다</s>
+        </p>
+    </text>
+</SJML>

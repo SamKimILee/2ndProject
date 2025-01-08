@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105360</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>혼났을 때</title>
+            <author id="P05360" age="11" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20080000" subclass="null_꾸지람">
+        <p>6월 16일 일요일</p>
+        <p>아버지께</p>
+        <p>혼났다</p>
+        <p>기분 다운</p>
+        <p>억울해</p>
+        <p>내 동생녀석</p>
+        <p>혼났을 때</p>
+        <p>정말 고소하지</p>
+        <p>동생은 울고…</p>
+        <p>기분 업.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305380</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>주식</title>
+            <author id="P05380" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">남지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="밥">
+        <p>본래 인간의 주식은 밥이다. 그것이 쌀이 되었건, 밀이 되었건, 감자나 고구마가 되었건, 어쨌든 인간은 다양한 형태의 밥을 먹으며 살아왔다. 하지만, 21세기 들어 현대인들의 주식은 조금 달라진 것만 같다. 근래 유행하기 시작한 쉐이크형 식사대용품을 보며, 현대인의 주식은 밥 그 자체가 아닌 '시간'이 된 것 같다는 생각이 들었다. 식사대용 쉐이크류가 흔히 내거는 캐치프레이즈가 있다. '이 쉐이크를 먹으면 밥 먹는 시간이 줄어든다'. 일 분 일 초가 급박한 현대인들에게는 기쁜 소식이 아닐 수 없다. 전쟁과도 같은 출근 전 아침, 정성스레 끼니를 챙길 여유가 없는 사람들은 오늘도 밥 대신 시간으로 배를 채운 뒤 발걸음을 급히 옮긴다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411663</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하늘을 나는 열차</title>
+            <author id="P11663" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이아미</author>
+        </sourceInfo>
+    </header>
+    <text date="2019103" subclass="null_놀이공원">
+        <p>제목: 하늘을 나는 열차</p>
+        <p>어린이 대공원에서 놀이공원에갔다. 하늘을 나는 열차를 탔다. 열차에서 보는 풍경은 정말 멋졌다. 놀이기구를 세 개탔는데 그중에 제일 재미있었다. &name1&,&name2&,&name3&,&name4&랑 또 놀이동산에 가고싶다. 나는 빼고 다들 무서운 놀이기구를 탔다. 정말 무서워보였다. 회전목마, 울통불퉁거리는 길을 다니는 트럭, 하늘을 나는 열차는 정말재미있었다. 나중에는 다른걸 타보고 싶다.</p>
+    </text>
+</SJML>

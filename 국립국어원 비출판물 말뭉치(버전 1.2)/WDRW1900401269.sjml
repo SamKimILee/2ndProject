@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스쳐가는 사람</title>
+            <author id="P01269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권민지</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사람">
+        <p>
+            <s>'스치면 인연'이라는 말은 싫더라</s>
+            <s>한번 스치고 말 사람에게 들은 말 한마디가</s>
+            <s>때로는 사람을 무너지게 할 수도 있는데</s>
+            <s>그들은 그저 스쳐가는 사람이고</s>
+            <s>그들의 말을 의미없이 뻗은 칼날이므로</s>
+            <s>굳이 내가 다가가서 찔릴 필요는 없다</s>
+        </p>
+    </text>
+</SJML>

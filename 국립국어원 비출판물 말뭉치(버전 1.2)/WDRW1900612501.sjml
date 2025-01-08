@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612501</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>짚라인을 타다</title>
+            <author id="P12501" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_짚라인">
+        <p>기린 나라에 갔다. 어린이 놀이공원 같은 곳이었다</p>
+        <p>재미있는 것이 많았다. 그 중에서 짚라인이 제일 재밌었다. 처음에는 무서울까봐 안하겠다고 했다. 하지만 용기 내서 타 보니 오히려 즐거웠다. 두 번이나 탔는데 더 타고 싶었다.</p>
+    </text>
+</SJML>

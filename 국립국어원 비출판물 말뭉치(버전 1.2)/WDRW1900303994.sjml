@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303994</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈동자</title>
+            <author id="P03994" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_눈">
+        <p>
+            <s>눈 안에 작은 세계가 담겨 있구나.</s>
+        </p>
+        <p>
+            <s>나는 그 곳의 조그마한 마을이다.</s>
+            <s>그걸로 충분하다.</s>
+        </p>
+        <p>
+            <s>네 눈동자에 내가 담겨있으므로.</s>
+        </p>
+    </text>
+</SJML>

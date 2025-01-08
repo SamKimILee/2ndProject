@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211549</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동심 통통! 동시 수업</title>
+            <author id="P11549" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤혜림</author>
+        </sourceInfo>
+    </header>
+    <text date="20171209" subclass="null_동시 수업">
+        <p>2017년 12월 9일 토요일 날씨:맑음</p>
+        <p>제목 : 동심통통! 동시수업</p>
+        <p>오늘은 동시 수업을 했다. 동탄 두빛나래 도서관에서 했다. 그리고 순수 우리말을 배웠다. 은하수는 “미리내”이고조금씩 내리는 비는 “먼지잼”이었다. 천천히 는“시나브로”였다. 오늘도 시를 한 편 썼다. 제목은“오늘은 나도 염소가 될거야”였다.</p>
+        <p>&lt;오늘은 나도 염소가 될거야&gt;</p>
+        <p>&name1&</p>
+        <p>염소따라 풀을띁고,</p>
+        <p>염소따라 들판가고.</p>
+        <p>오늘은 나도</p>
+        <p>염소 따라 염소가 될거야.</p>
+        <p>이제 곧 동시집이 나온다.</p>
+        <p>정말 설렌다.</p>
+    </text>
+</SJML>

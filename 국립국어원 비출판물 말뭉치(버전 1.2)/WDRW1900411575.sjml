@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411575</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방과후 신청</title>
+            <author id="P11575" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정서원</author>
+        </sourceInfo>
+    </header>
+    <text date="20181206" subclass="null_방과후">
+        <p>방과후 신청을 했다. 나도 있고싶었는데 누나가 소담에 들어가라고 했다. 좀 아쉬웠다. 나도 하고싶었는데 누나가 들어가래서 정말로 아쉬웠다. 그래서 나갔다가 들어오는걸 반복했다. 누나가게속 막으니까 올라갈시간이 되서 올라갔다. 누나정말로 고마워</p>
+    </text>
+</SJML>

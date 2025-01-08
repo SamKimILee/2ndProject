@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212724</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삼촌 오신 날</title>
+            <author id="P12724" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">노지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190726" subclass="null_삼촌">
+        <p>오늘은 삼촌이 놀러 오셨다. 우리 삼촌은 경찰이다. 삼촌하고 할머니가 오셨다. 삼촌이 김밥을 사 오셔서 그 김밥을 먹고나서 내가 삼촌이 놀러 온 기념으로 사진을 찍었다. 삼촌이 왔으니 wii게임이다. 근데 나는 미술학원 가 가지고 삼촌이랑 못했다 갔다 오니까 삼촌이없었다 그래서 아쉬웠다.</p>
+    </text>
+</SJML>

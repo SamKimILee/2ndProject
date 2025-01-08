@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212196</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>농업역사박물관</title>
+            <author id="P12196" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190830" subclass="null_투호놀이">
+        <p>오늘은 역사 박물관에 갔다. 우리 밖에 없어서 신났다. 진짜 지게도 지고 투호 놀이도 했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111519</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안전체험의 날</title>
+            <author id="P11519" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">차시우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_안전체험">
+        <p>학교에서 안전체험을 했다. 불조심을 해야한다. 어두운 곳을 지나갔다.</p>
+        <p>아무렇지도 않았다.</p>
+        <p>유치원 때는 숨을 안참고 갔는데 이번에는 줄을 서서 갔다. 하나도안 무서워다.</p>
+    </text>
+</SJML>

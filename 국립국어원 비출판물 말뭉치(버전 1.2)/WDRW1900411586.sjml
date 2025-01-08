@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411586</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>지구의 날 10분</title>
+            <author id="P11586" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">한우준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190422" subclass="환경">
+        <p>2019년 4월 22일 월요일</p>
+        <p>날씨: 조금 더움</p>
+        <p>&lt;지구의날, 10분&gt;</p>
+        <p>오늘 학원 끝나고 할머니 집으로가서 밥을 먹었다</p>
+        <p>8시에 불을 껐는데 다른 아파트는 거의다 불이 켜져 있었다</p>
+        <p>5분이 1시간 같았다.</p>
+        <p>웬지 우리집만 불을 끈거 같아서 뿌듯 하면서도</p>
+        <p>기분이 아주 아주아주 아주 좋았다 10분이 되자 불을켜니 우리가 얼마나 쉽게 살았는지를 알았다.</p>
+        <p>아주 아주 아주 아주 아주 좋은 하루 였다</p>
+        <p>끝</p>
+    </text>
+</SJML>

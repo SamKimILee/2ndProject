@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요즘 정말 행복해</title>
+            <author id="P03146" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_용서">
+        <p>용서하지 않고도 함께하는 시간을 늘리고 싶다는 생각을 할 수 있습니다 원하는 것들에 대한 주문을 겁니다. 어떤 것들은 이루어지고 어떠한 것들은 그저 스쳐지나갑니다</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512399</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구 가는 날</title>
+            <author id="P12399" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이우진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_축구">
+        <p>나는 1월달 처음으로 수술한 다음에 축구를 같다. &name1&이가 않왔지만 내가 와서 이겼다. 그리고 5월달에 축구대회가 열린다. 떨린다. 하지만 저번에는 꿈나무상을 받았지만 이번에는 1위를 할거다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511974</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>당신이란 존재는</title>
+            <author id="P11974" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="어렵다">
+        <p>나는 네가 더없이 대하기 어려웠다.</p>
+        <p>졸졸 강아지처럼 쫓아다니며 시선을 보내는 것도 이유라면 이유였지만, 가장 큰 이유는 네가 나를 보는 그 시선에 있었다. 오묘한, 감정이 섞였다고도 할 수 없는 그렇다고 메마른 눈빛은 아니였으나 나는 그 시선이 참 고달프고,대하기 어려웠다.</p>
+        <p>유리같은 네게 상처하나 생길까 염려하다 끝내는 서로가 상처입고 다시 손을 맞잡는 관계에도 불구하고 끝끝내 거두지 않는 시선에 나는 너라는 존재가 여전히 어려웠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112323</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족</title>
+            <author id="P12323" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">신지효</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족">
+        <p>
+            <s>가족이란 무엇일까?</s>
+            <s>좋은 사람?</s>
+            <s>따듯한 사람?</s>
+        </p>
+        <p>
+            <s>아니다 가족은,</s>
+            <s>슬퍼할때 같이 슬퍼해주고</s>
+            <s>행복할때 같이 행복해주는</s>
+        </p>
+        <p>
+            <s>자신같은 사람이다.</s>
+        </p>
+    </text>
+</SJML>

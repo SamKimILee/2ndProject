@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412420</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구들과놀았다</title>
+            <author id="P12420" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190601" subclass="null_친구들과놀았다">
+        <p>친구들과놀았다</p>
+        <p>6/1 토요일  날씨: 맑음</p>
+        <p>오늘 일어나서 폰하고, 엄마가 할일하라해서할일하고, 하이점핑가서놀았다내일놀이동산가서 할일을 더하고, 엄마가 확인하시고 치카 하고 잦다 엄마오기전에 할일다해서 노는게 인상깊고 재밌었다.</p>
+        <p>놀이공원이어떻게 생겼는지기돼된다.</p>
+    </text>
+</SJML>

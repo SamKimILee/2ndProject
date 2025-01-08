@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202333</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이에게</title>
+            <author id="P02333" age="25" occupation="자영업자" sex="F" submission="온라인" handwriting="No">이유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_응원">
+        <p>&name1& 아, &name1& 이를 봐온 기간이 일년 남짓이라서 다른 오래된 팬들만큼 긴건 아니지만, 힘든걸 잘 내색 안하는 &name1&이가 인스타스토리에 글을 쓰기까지 얼마나 힘들었을지 짐작하기 어렵네요. 그래서 어떤 말로 응원해야할지, 지금 상황에서 응원이라는게 맞는건지, 고민고민 하다가 그냥 하고 싶었던 망를 보내봐요. 적어도 제가 봐온 &name2& 이는 진심이 의심 되는 사람이 아니었기에 하루하루 잘 하고 있다고 생각해요. 버텨야하는 지금 상황이 어렵기도 하고 힘들기도 하겠지만, 그런 &name1& 이라면 언젠가 반드시 원하는 바를 해낼 수 있을거라고 저는 믿고 있어요. &name1& 이가 어떤 선택을 하든지, 항상 변함없이 지지 해줄 팬들이 있다는거 잊지 않았으면 해요. 오늘 하루도 &name1& 이를 응원해요.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물놀이</title>
+            <author id="P12015" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박종원</author>
+        </sourceInfo>
+    </header>
+    <text date="20180731" subclass="null_물놀이">
+        <p>물놀이를 갔다.</p>
+        <p>물놀이장에는 사람 북적거렸고, 물도 뜨거웠다. 수영복으로 갈아입은 다음에 들어갔더니 바깥쪽 물만 뜨겁고 안쪽 물만 안 뜨거웠다. 동생들이랑 노니까 재밌었다</p>
+        <p>물장구도 치고, 물을 서로에 뿌리면서 다정하게 웃으면서 셋이서 놀았다.</p>
+        <p>물놀이가 끝나고 짐에와서 샤워하니까 개운해서 좋았다.</p>
+    </text>
+</SJML>

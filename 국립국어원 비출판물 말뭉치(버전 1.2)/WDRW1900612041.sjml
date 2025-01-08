@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612041</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>의사선생님께</title>
+            <author id="P12041" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예나</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_의사선생님, 감사">
+        <p>3월 5일 목요일</p>
+        <p>의사선생님 코로나 때문에</p>
+        <p>힘들죠 코로나 바이러스</p>
+        <p>조심 하세요 아침부터</p>
+        <p>밤까지 일을 하니</p>
+        <p>힘들죠 샤워는 꼭 매일매일</p>
+        <p>항상 자신감을 있지마세요</p>
+        <p>의사 선생님 너무 너무</p>
+        <p>고마워요 밥도 제때 챙겨드쎄요</p>
+        <p>그리고다른 의사 선생님들에게 힘내시라고 말해주세요 의사선생님</p>
+        <p>I love you</p>
+        <p>2020년 2월 5일</p>
+        <p>&name1& 올림</p>
+    </text>
+</SJML>

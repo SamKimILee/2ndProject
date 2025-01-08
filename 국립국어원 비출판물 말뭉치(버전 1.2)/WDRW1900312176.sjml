@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312176</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족 여행</title>
+            <author id="P12176" age="72" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_여행">
+        <p>오늘 기장에 있는 아난티 코브에 갔다. 사위가 예약을 해서 온가족이 같이 가게되었다. 어제 늦게까지 일을 했던터라 피곤했지만 오랜만에 가족들이 모이니 피곤한걸 잊고 즐거운 시간을 보낼수 있었다. 손주들과 수영장도 가고 주변 경관도 둘러보고 호텔에는 볼것도 많이 있고 좋았다. 사위덕분에 이런곳에 와 즐거운 시간을 보내게되어 고마울 따름이다.</p>
+    </text>
+</SJML>

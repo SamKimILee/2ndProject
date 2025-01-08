@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300398</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>복숭아</title>
+            <author id="P00398" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">노수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나타나다">
+        <p>
+            <s>새벽에 돌아와서 자는 것처럼 누워있는 침대의 시신을 발견한다</s>
+            <s>그 사람이 어제 죽었는 지 오늘 죽었는 지 알 수가 없을 때 가장 슬프다</s>
+        </p>
+        <p>
+            <s>복숭아 담배를 입에 물려주는 사람을 사랑해야 겠다고 생각한 적이 있다</s>
+            <s>일본에서만 판다는 그 담배</s>
+        </p>
+    </text>
+</SJML>

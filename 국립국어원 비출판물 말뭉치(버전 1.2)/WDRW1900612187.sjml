@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하양손수건이랑 푸른바다</title>
+            <author id="P12187" age="12" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이유비</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_손수건">
+        <p>
+            <s>하양손수건이랑 푸른바다</s>
+        </p>
+        <p>
+            <s>하양손수건이 푸른바다에 퐁당</s>
+        </p>
+        <p>
+            <s>푸른바다에 하양 손수건이 파란 손수건 되내. 파란 손수건으로 땀을 닦그며? 어떻게 될까? 다시 하양 손수건이 되지</s>
+        </p>
+    </text>
+</SJML>

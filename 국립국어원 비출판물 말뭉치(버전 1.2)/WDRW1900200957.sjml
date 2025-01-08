@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200957</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영원의 시간</title>
+            <author id="P00957" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">윤다현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시간">
+        <p>시간은 누구에게나 공평하다. 이제껏 지구에서는 수천억의 시간이 흘러내려갔고 우리는 그 중 단연 일부만을 살아가고 있으니, 공평하다는 것은 어쩌면 누구에게나 짧은 시간만이 주어진다는 의미에서 맞는 말일지도 모른다. 10년이나 100년이나, 수백, 수천만년의 시간 속에서는 똑같이 짧은 시간임에 틀림 없을 것이다. 그러므로 우리는 그 짧은 시간 안에, 우리가 존재했다는 흔적을 남기고 사라진다. 그 흔적은 남아서 수천의 시간을 함께할 것이므로, 우리는 짧은 시간만을 살아가지만 시간 속에서 영원히 담겨져 있는 것과 마찬가지이다.</p>
+    </text>
+</SJML>

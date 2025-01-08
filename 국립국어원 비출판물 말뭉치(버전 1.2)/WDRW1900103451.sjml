@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103451</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비참한 크리스마스</title>
+            <author id="P03451" age="14" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_크리스마스">
+        <p>비참한 크리스마스, 아무것도 즐거울 게 없는 크리스마스다. 선물도 트리도 인사도 맛있는 식사도 친구도 없는 크리스마스다. 차라리 오늘이 크리스마스가 아니였더라면 덜 비참했을텐데 선물은 없더라도 즐겁게 인사라도 해주는 사람이 있었더라면 좋았을텐데</p>
+    </text>
+</SJML>

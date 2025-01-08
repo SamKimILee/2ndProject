@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111701</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피노키오 연극</title>
+            <author id="P11701" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200203" subclass="null_연극">
+        <p>나는 오늘 아침에 학교에 가서 피노키오 연극을 했다.특히 나는 제페토 할아버지 역할을 맡았다. 그런데 선생님이준비하실 게 더있다고 해서 진짜 연극은 내일 하겠다고 해서 약간 서운했다. 그래도 내일 연극하는 게 너무너무 설렜다.그리고 돌봄교실에선 툭툭 블럭으로 돼지를 만들었다그런데 내가 많든 돼지블럭은 은근 예뻤다.그리고 오늘 저녁밥은,육개장 사발면, 신기한 김하고 밥도 싸먹었다. 그래서 오늘 저녁은 넘 맛있었다 그래서 이런 저녁을 또 먹고싶다.</p>
+        <p>오늘의 일기-끝-</p>
+        <p>그리고 엄마,아빠가 돈을 마니 안 썼으면 좋겠다</p>
+    </text>
+</SJML>

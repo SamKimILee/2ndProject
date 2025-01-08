@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200916</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 강아지</title>
+            <author id="P00916" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김명주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_강아지">
+        <p>지금 내 옆에는 우리 강아지가 앉아있다. 내가 키우는 강아지의 견종은 시바견이고 일본의 토착견이다.</p>
+        <p>얼굴이 동그랗다. 그리고 먹는 것을 매우 좋아하고 가끔은 종종 사고를 칠 때가 있다. 오늘은 우리 강아지가  벽지를 물어 뜯고 나의 물건을 망가뜨렸다. 너무 사고뭉치이지만 정말 사랑스럽고 귀여운 나의 강아지다.</p>
+        <p>볼에 살이 많아서 쓰다듬으면 기분이 좋아진다. 우리 강아지는 토실토실하다.</p>
+        <p>정말 귀엽다.</p>
+    </text>
+</SJML>

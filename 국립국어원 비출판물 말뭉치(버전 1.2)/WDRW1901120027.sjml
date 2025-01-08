@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901120027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>담배 공장 9살 소녀</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190412" subclass="null_소녀">
+        <p>4월12일금요일날씨:몸이 녹아 내리게 더운날</p>
+        <p>제목:담배 공장 9살 소녀미나 이야기</p>
+        <p>미나가 담배공장에서 목이 아프도록 담배 만드는일을 하는것이 불쌍했다. 그리고 일을 맞지고 야간 공부방에가서 공부를했다 이런 미나를 보고 나는 밥을 먹기위해서일도하지않고 공부가 너무하고 싶어서 열심히노력도 하지 않았다 앞으로는 밥한톨도 소중히 생각하고 이렇게 편하게 공부하는걸감사하게 생각 해야겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202290</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>주사</title>
+            <author id="P02290" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">양지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_악몽">
+        <p>괴로운 모든 일이 주사처럼 일어난다면 좋을텐데.</p>
+        <p>한 순간  따끔할 뿐, 하루 종일 신경도 안 쓰일 만큼 잊을 수 있는 고통이었으면.</p>
+        <p>그리고 나는 그로 인해 더 강한 사람이 될 수 있었으면.</p>
+        <p>모든 일이 그렇게 감수할 만했으면 해.</p>
+        <p>그렇다면 이렇게 오랫동안 의미도 없이 괴롭지 않을 텐데.</p>
+        <p>날 강하게 만들킨커녕 점점 수렁으로 끌고 가는 악몽이 되지 않을 텐데.</p>
+    </text>
+</SJML>

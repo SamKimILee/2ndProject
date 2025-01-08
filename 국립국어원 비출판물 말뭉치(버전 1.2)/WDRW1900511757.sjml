@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511757</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐거운 창의수학</title>
+            <author id="P11757" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_창의수학">
+        <p>오늘은 창의수학을 했다. 처음에는 모자이크퍼즐로 학습지에 있는 그림을 만드는 것이다. 두 번째는 여섯가지 모양그림을 만드는 것이다. 세 번째는 로봇모양과 기린모양을 만드는 것이다. 네 번째는 선생님의 주신학습지에 그림을 보고 만드는 것이다. 재미있었다.</p>
+    </text>
+</SJML>

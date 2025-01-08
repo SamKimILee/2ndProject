@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411142</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>.</title>
+            <author id="P11142" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">최고원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_결핍">
+        <p>나는 물에 잠겨있었기에</p>
+        <p>떠나가는 나비를 붙잡을 수 없었고</p>
+        <p>물에 빠지어 바들거리다</p>
+        <p>곧 바스러질 나비를 알고 있었기에</p>
+        <p>그럴 수 없었다</p>
+        <p>나의 결핍은 오로지 혼자 감내해야만 하는 것임을 나는 알았다</p>
+    </text>
+</SJML>

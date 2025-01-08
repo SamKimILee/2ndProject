@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>옷</title>
+            <author id="P11355" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">홍지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_옷">
+        <p>나갈 때마다 입을 옷이 딱히 없다고 느낀다. 옷장에는 옷이 없는 것도 아닌데 이상한 일이다. 하지만 나름대로 다양한 이유가 있어서 생기는 일이다. 오늘 날씨에 잘 맞지 않아서, 장소에 어울리지 않아서, 너무 짧아져서, 너무 작아져서, 너무 화려해져서 입지 못하는 옷들을 골라내고 나면  옷 하나쯤이 남는다. 하지만 그 옷마저 이틀 전에 입었던 옷이다. 아마 이래서 옷이 늘 부족한가 보다.</p>
+    </text>
+</SJML>

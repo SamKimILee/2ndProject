@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209914</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>좋은아침!</title>
+            <author id="P09914" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">현민서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_감기">
+        <p>요즘 날씨가 꽤 추워서</p>
+        <p>어제 친구들과 놀러간다고 했을때</p>
+        <p>꼭 마스크를 끼고 가라고 가족들은 말했지만</p>
+        <p>난 절대 마스크를 끼지않았다.</p>
+        <p>그래서 난 감기에 걸렸다..</p>
+        <p>내일 아침에 말도 안되게 싹 나았으면 한다.</p>
+        <p>좋은아침! 이라거 외칠 수 있을만큼 싹 나았으면..</p>
+    </text>
+</SJML>

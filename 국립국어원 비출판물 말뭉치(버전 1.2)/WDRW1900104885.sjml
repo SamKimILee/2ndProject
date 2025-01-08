@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104885</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>다크페이트 감상문</title>
+            <author id="P04885" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">박상미</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>영화관에서 다크페이트를 보기 위해 전철을 타고 서울에 있는 영화관에 도착해 예매한 좌석 예매티켓을 미리 뽑고, 영화시작 시간을 기다리며 주전부리를 먹고, 영화 시작 시간이 가까워져 예매한 좌석에 앉았다.</p>
+    </text>
+</SJML>

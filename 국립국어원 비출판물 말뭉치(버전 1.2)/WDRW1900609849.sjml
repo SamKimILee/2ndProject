@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900609849</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물감찍기</title>
+            <author id="P09849" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장민우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_물감찍기">
+        <p>오늘은 학교에서 물감 찍기를 했다 물감을 찍고 종이를 뗐다. 종이를뗀 부분만 하얗게 돼서 여뻤다. 종이를 뗄 때 재밌었다. 내가 완성한 그림이 마음에 들었다.</p>
+    </text>
+</SJML>

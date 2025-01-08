@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511645</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>토요일에 영화</title>
+            <author id="P11645" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이아린</author>
+        </sourceInfo>
+    </header>
+    <text date="20191130" subclass="null_겨울왕국2">
+        <p>오랜만에 엄마,아빠,나, &name1&와 영화를 보러 갔다. 겨울왕국2 말이다. 그런대 겨울왕국1에서 나오는 엘사와안는 못생겼다 그리고2는 예쁘게 나온다. 엘사가 물로된 말을 타고 물위로 달려 오는 장면이 제일 제미있고 멋있고 기억에 남는다</p>
+    </text>
+</SJML>

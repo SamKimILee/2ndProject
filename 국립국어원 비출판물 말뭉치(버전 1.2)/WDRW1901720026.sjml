@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901720026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한복의 날</title>
+            <author id="P20026" age="6" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190910" subclass="null_한복">
+        <p>2019년 9월 10일 화요일</p>
+        <p>날씨:쨍쨍 한날</p>
+        <p>&lt;한복의 날&gt;</p>
+        <p>아침에 한복을 입고 학교에 왔다친구들 모두 한복 을 입고 와서 정말 멋졌다</p>
+        <p>한복에 대해 배우고 절도 하고 투호놀이도했다친구들선생님가 함게 노래를 부르며 강강술래를 했다</p>
+        <p>강강술가 재미있었다</p>
+        <p>다음에도하 고십다</p>
+    </text>
+</SJML>

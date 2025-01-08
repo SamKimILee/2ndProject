@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310930</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>난 아싸다</title>
+            <author id="P10930" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아싸, 인싸">
+        <p>
+            <s>나는 아싸다</s>
+            <s>하지만 난 인싸다</s>
+        </p>
+        <p>
+            <s>나도 내가 먼 소리하는지 모르겠다</s>
+        </p>
+        <p>
+            <s>하지만 나는 아싸지만</s>
+            <s>인싸이기도 하다</s>
+        </p>
+        <p>
+            <s>너희가 나를 모르면서</s>
+            <s>판단하면</s>
+            <s>난 아싸가 돼고</s>
+        </p>
+        <p>
+            <s>너희가 나와 친하다고</s>
+            <s>판단하면</s>
+            <s>난 인싸가 된다</s>
+        </p>
+    </text>
+</SJML>

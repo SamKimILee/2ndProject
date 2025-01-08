@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309353</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>길</title>
+            <author id="P09353" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="길">
+        <p>
+            <s>길을 걸었다.</s>
+            <s>구불구불 산길을 걸었다</s>
+        </p>
+        <p>
+            <s>나무 사이를 지나.</s>
+            <s>바람이 불던 숲을 지나</s>
+            <s>잘 정돈되지 않은 산길을 지나</s>
+        </p>
+        <p>
+            <s>찻길을 걸었다.</s>
+            <s>정돈되고 통일된 찻길을 지났다.</s>
+        </p>
+        <p>
+            <s>흙냄새도. 땅냄새도 나지 않고</s>
+            <s>쌩쌩 지나가던 찻길을 지나니</s>
+        </p>
+        <p>
+            <s>이게 어느새 길의 끝에 멈춰섰다</s>
+            <s>돌아가라 돌아가라.</s>
+        </p>
+        <p>
+            <s>어느새 멈춰선 이길은</s>
+            <s>내가 갈 수 없는 길인가.</s>
+            <s>아니면</s>
+        </p>
+        <p>
+            <s>내가 가고싶지 않은 길인가.</s>
+        </p>
+    </text>
+</SJML>

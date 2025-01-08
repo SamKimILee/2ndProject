@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211703</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>운동</title>
+            <author id="P11703" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">조은빛</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="운동">
+        <p>
+            <s>운동은 신기하다</s>
+            <s>어떻게 볼때마다 하기가싫을까?</s>
+            <s>너무 귀찮아서 움직이기도 싫은데</s>
+            <s>정말 짜증난다</s>
+            <s>사람들은 어떻게그렇게 열심히 하는지 이해가 안된다</s>
+        </p>
+    </text>
+</SJML>

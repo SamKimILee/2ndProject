@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900106412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오빠라고 불러봐</title>
+            <author id="P06412" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="오빠">
+        <p>오빠라고 불러보란 소리 자주 하덥니다.</p>
+        <p>오빠라는 호칭에야 물론 죄가 없지만, 썩 내키지 않는 제안인 것을 어떻게 합니까? 특히나 경상도 여자 사투리에 대한 이상한 환상이라도 있는 건지, 오빠야~ 라는 특유의 억양을 요구하는 일도 있긴 합니다. 친분이 있는 연상의 남자를 부르는 호칭일 뿐인데, 거기에 애교의 역할이 섞여 들어가니 이만큼 내키지 않기도 쉽지 않습니다. 이런 반감은 어릴 적부터 갖고 있었던 것인지, 친하지도 않으면서 불쾌한 언사를 했던 연상의 남자아이에게 오빠라는 호칭을 붙이기 싫어 어른에게 그 남자애에 대해 말할 때 이름에 "씨"를 붙여 불렀습니다. 물론 이상한 호칭이라고 아이들도 어른들도 웃었지요. 하지만 그냥 이름만 부르는 것보다는 훨씬 예의 바르지 않았을까요?</p>
+    </text>
+</SJML>

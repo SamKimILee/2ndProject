@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110204</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>너 뭐해!</title>
+            <author id="P10204" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_무기력">
+        <p>
+            <s>흐르는 시간도</s>
+            <s>수많은 계획도</s>
+            <s>어쩌면 나 자신도</s>
+            <s>왜 자꾸</s>
+            <s>무기력해보이는 걸까.</s>
+        </p>
+        <p>
+            <s>이 문제의 답은 무엇인가.</s>
+            <s>나는 어떻게 해야 하는가.</s>
+        </p>
+    </text>
+</SJML>

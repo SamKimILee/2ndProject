@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211673</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재미있는 서울</title>
+            <author id="P11673" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_서울">
+        <p>오늘은 서울에서 뮤지컬을 봤다. 어른동생 뮤지컬를 볼 때 너무 웃겼다. 왜냐면 어린애처럼 행동해서 웃겼다. 뮤지컬이 끝나고나서 에릭 요한슨 사진관에 갔다. 사진을 찍고나서 컴퓨터로 조정할 수 있는게 신기했다. 그리고 도로가 갈라지는 모습도 있었다. 참 재미있었다. 다음에 또 오고 싶다.</p>
+    </text>
+</SJML>

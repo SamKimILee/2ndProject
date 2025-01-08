@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210269</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나비가 되는 파리</title>
+            <author id="P10269" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나비">
+        <p>그대가 나에게로 오지 않았음에도 그대는 아름다운 꽃이야. 향기로운 꽃에는 많은 파리가 꼬이기 마련이지만 나는 그저 그런 파리 중 한 마리로 끝나고 싶지 않아. 그대의 나비가 될 수 있도록 허락해주겠어? 그대만을 위한 나비가 되고 싶어.</p>
+    </text>
+</SJML>

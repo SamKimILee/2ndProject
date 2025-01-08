@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311513</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠의 고생</title>
+            <author id="P11513" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방주현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190815" subclass="null_야구장, 싸인">
+        <p>제목: 아빠의 고생</p>
+        <p>오늘엘지와 두산의 경기를 보러 잠실 야구장에갔다.</p>
+        <p>비가오락가락 했다.</p>
+        <p>엘지에 ‘&name1&’ 선수가 작은엄마의 사촌동생이시다. 그래서 싸인을 받으러갔다. 그런데비가많 이와서 경기가 취소됐다. 또 작은 아빠께서아빠께 주신 ‘&name1&’ 선수 전화 번호가 없는 번호 라고나왔다. 인생 최대의 비극이었다.</p>
+        <p>그래서 ‘&name1&’ 선수가 나오시길 기다렸다. 30분쯤 후에 문에서 나오셨다. 아빠랑 나는 황급히 달렸다. 근데 씨큐러티 그놈이막았다. 그때 아빠께서 ‘&name1&’ 선수께서 차에 타시 려는 순간</p>
+        <p>“&name2&변호사 형입니다!” 라고 아주 크게외치셨다. 그걸들으시고 차에서내리셔서 싸인을 유니폼과 모자에 해주셨다. 정말뿌듯 했다. 아빠가 정말 존경스럽다.</p>
+    </text>
+</SJML>

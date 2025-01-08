@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111791</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 엄마는요</title>
+            <author id="P11791" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤예원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마">
+        <p>
+            <s>[자작시]</s>
+            <s>날씨:</s>
+            <s>제목: 우리 엄마는요?</s>
+        </p>
+        <p>
+            <s>♥우리 엄마♥는요?</s>
+            <s>글:&name1& 그림:&name1&</s>
+            <s>우리 엄마는요... 정말 포근한 사람</s>
+            <s>잠깐 안아도 몸과 마음이...</s>
+            <s>따뜻해지는 느낌~ 그 느낌이 어찌나 나를 당기는지?</s>
+            <s>계속 안겨있고싶어 ㅜㅜ</s>
+            <s>그리고 우리 엄마는요... 가족바보</s>
+            <s>가족이 너무좋고 사랑스러운지 뭐라도 더 해주려고...</s>
+            <s>그런 엄마를 보면 너무 대단해 보여요 ♡♡♡</s>
+            <s>또 우리엄마는요? 헐크에요..</s>
+            <s>평소에는 착하지만 우리가 말을 안드르면</s>
+            <s>호랑이 보다 백배 더 무서요요 ... ㅋㅋ</s>
+            <s>하지만~! 저 에게는 세상에서 무엇보다 소중하고 중요한사람은</s>
+            <s>엄마에요 이 세상을 다 준다고 해도 절대로 못바꿔요.</s>
+            <s>그만큼!!! 내가 제일 사랑하는 사람은 우리엄마에요♥</s>
+        </p>
+    </text>
+</SJML>

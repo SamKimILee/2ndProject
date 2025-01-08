@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301222</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>광주, 그리고 5월</title>
+            <author id="P01222" age="17" occupation="무직" sex="F" submission="온라인" handwriting="No">김연진</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_광주">
+        <p>
+            <s>긴 어둠을 지나고 있던 우리는 민주화의 촛불로 아주 밝고 큰 달을 만들었어요.</s>
+            <s>그 날 이후, 매일 밤 달이 뜨면 모두의 안녕을 기도해요.</s>
+            <s>38년 전의 오늘에도  모두의 안녕을 바라는 이들이 있었겠지요?</s>
+            <s>나의 오늘보다, 사랑하는 모두의 내일을 지켜줄 큰 달이 중요했던 이들이요.</s>
+            <s>_</s>
+            <s>제가 살고 있는 이 도시의 오늘은</s>
+            <s>수 많은 이들의 빛 덕분에 아주 크고, 밝고, 안녕합니다.</s>
+        </p>
+    </text>
+</SJML>

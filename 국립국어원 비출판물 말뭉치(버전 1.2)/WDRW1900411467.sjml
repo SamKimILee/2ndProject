@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411467</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>반가운 라이언</title>
+            <author id="P11467" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이현빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="찾다">
+        <p>내 동생이 제이지 캐릭터를 뽑았다.</p>
+        <p>제이지 캐릭터는 조금 못생겼지만 아주작아서 귀여웠다.</p>
+        <p>우리 집에는 라이언 캐릭터가 있다.</p>
+        <p>우리는 라이언 캐릭터가 있는 서랍으로 갔다.</p>
+        <p>그런데 라이언 캐릭터가 없어져 버렸다.</p>
+        <p>우리는 라이언 캐릭터를 찾다가 공부를 하기로 했다.</p>
+        <p>난 공부를 할려고 내 필통을 꺼냈다. 그런데 필통 안에 라이언 캐릭터가 있었다. 난 이 사실을 당장 동생에게 말했다.</p>
+        <p>동생이 말했다. "언니, 고마워!"</p>
+    </text>
+</SJML>

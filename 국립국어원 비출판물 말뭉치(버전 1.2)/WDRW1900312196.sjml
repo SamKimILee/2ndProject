@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312196</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&에게</title>
+            <author id="P12196" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효은</author>
+        </sourceInfo>
+    </header>
+    <text date="2018105" subclass="null_고마움">
+        <p>오늘은 &name1&가오래마네</p>
+        <p>놀아조따 &name1&야고마워정말고마따&name1&야</p>
+        <p>추신.그리고오늘 놀아조짜나 너 소풍갈 따 &name2&포기하는것힘드렀을거야.</p>
+        <p>그레서더 고마워</p>
+    </text>
+</SJML>

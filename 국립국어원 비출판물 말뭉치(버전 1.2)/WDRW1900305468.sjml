@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305468</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍</title>
+            <author id="P05468" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김수완</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고독">
+        <p>
+            <s>태풍이 지나왔다.</s>
+            <s>모든 집과 마을이 무너졌다.</s>
+            <s>튼튼하게 집을 다시 지었다.</s>
+            <s>또 다시 태풍이 왔다.</s>
+        </p>
+        <p>
+            <s>또 다시 무너졌다.</s>
+            <s>이번에는 더 튼튼하게 모든 출입문과 창문마저 꽁꽁 막았다.</s>
+            <s>다시 태풍이 왔을까 난 알 도리가 없다.</s>
+            <s>소리도 들리지 않고 창문마저 막혀있으니...</s>
+        </p>
+        <p>
+            <s>그렇게 나는</s>
+            <s>천천히 고독하게</s>
+            <s>무너져내렸다.</s>
+        </p>
+    </text>
+</SJML>

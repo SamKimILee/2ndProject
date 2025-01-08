@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212321</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이</title>
+            <author id="P12321" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김하람</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_동생">
+        <p>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>우리집의 사고뭉치 내동생</s>
+            <s>가끔 장난도 치지만 말잘듣는 동생</s>
+            <s>책도 잘읽고 공부도 하지만 말을 가끔안듣는 동생</s>
+            <s>내가 화도내지만 끝까지 말안듣는</s>
+            <s>동생</s>
+            <s>하지만 귀여운</s>
+            <s>우리동생</s>
+            <s>착하고 건강하게</s>
+            <s>자라길 바라는</s>
+            <s>동생</s>
+        </p>
+    </text>
+</SJML>

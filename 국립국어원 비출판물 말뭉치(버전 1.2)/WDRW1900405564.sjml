@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405564</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>허물에서 </title>
+            <author id="P05564" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">박재현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="변화">
+        <p>
+            <s>우리는 허물을 벗어야한다</s>
+        </p>
+        <p>
+            <s>우리는 허물속에 갇혀 상상만 한다</s>
+        </p>
+        <p>
+            <s>또한 우리가 원하는 변화는</s>
+            <s>우리가 바라는 세상은 허물밖에있다</s>
+        </p>
+        <p>
+            <s>허물속에서 어미가 물어다주는 새의 마음으로 살기를</s>
+        </p>
+        <p>
+            <s>알속에서 기다리는 곤충의 마음으로 살기를</s>
+        </p>
+        <p>
+            <s>나는 허물을 벗는다</s>
+        </p>
+        <p>
+            <s>비바람이 몰아쳐도 불타도 저곳은 나의 유토피아</s>
+            <s>허물속의 세상은 아늑한 감옥</s>
+        </p>
+        <p>
+            <s>내 육신이 찢기고 조각나도 나는 괜찮다</s>
+            <s>내가 갈 목적지의 깃발이 없어도 나는 좋다</s>
+        </p>
+        <p>
+            <s>그곳은 나의 안식처 흐드러지는 목화꽃 가득한 그곳</s>
+            <s>나의 쉼터는 허물속에 있지않다</s>
+        </p>
+        <p>
+            <s>잘있어라 허물속의 이들아</s>
+            <s>잘있어라 허물아</s>
+            <s>잘있어라</s>
+        </p>
+        <p>
+            <s>나는 저곳으로 떠난다</s>
+        </p>
+    </text>
+</SJML>

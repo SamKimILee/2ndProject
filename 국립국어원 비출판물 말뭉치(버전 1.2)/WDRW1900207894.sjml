@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900207894</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새해 인사</title>
+            <author id="P07894" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="마음">
+        <p>안녕하세요! 2020년 새해를 마주하며, 2019년 한 해 동안 저와 함께 해주신 것에 깊은 감사를 전합니다 :-)</p>
+        <p>개인적으로는 여유가 나질 않고 대처하는 것에 서툴렀던 한 해였어서 사실은 "함께"라는 이름 아래 있으면서도 깊이 함께하지 못한 사람이 더 많았던 한해였습니다. 그래서 미안한 마음도 가득합니다. 그럼에도 저와 어떤 모양으로든 함께 해주신 모든 순간들에 진심으로 감사드립니다 ☺️ 특별히 기도해주시고 지지해주신 분들께 깊이 감사드립니다 ! ❤️</p>
+        <p>2020년 한 해는 더 많이 웃고 더 사랑하는 한해 되시길 바랍니다, 저도 함께 하겠습니다 !</p>
+        <p>2019년의 마지막 날, 사랑 담아 드림-</p>
+    </text>
+</SJML>

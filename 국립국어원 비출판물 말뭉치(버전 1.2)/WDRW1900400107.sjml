@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400107</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>타다</title>
+            <author id="P00107" age="21" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김준수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="타다">
+        <p>
+            <s>탄다.</s>
+            <s>버스를 탄다.</s>
+            <s>버스를 타고 친구들과 놀러 나간다.</s>
+        </p>
+        <p>
+            <s>탄다.</s>
+            <s>용돈을 탄다.</s>
+            <s>부모님에게서 용돈을 탄다.</s>
+        </p>
+        <p>
+            <s>탄다.</s>
+            <s>때가 탄다.</s>
+            <s>시간이 흘러 흘러 삶에 때가 탄다.</s>
+        </p>
+        <p>
+            <s>탄다.</s>
+            <s>약을 탄다.</s>
+            <s>안 좋아진 몸에 약을 탄다.</s>
+        </p>
+        <p>
+            <s>탄다.</s>
+            <s>애가 탄다.</s>
+            <s>이러한 내가 애가 탄다.</s>
+        </p>
+    </text>
+</SJML>

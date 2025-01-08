@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312009</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화관</title>
+            <author id="P12009" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임지유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화관">
+        <p>영화간에가서 알라딘을 보았다.</p>
+        <p>지니, 공주, 알라딘,원숭이 아부가 나왔다.</p>
+        <p>요술램프지니가 되도 싶다왜냐면</p>
+        <p>파랑색이좋아서 나도 파랑사람이되고싶다.</p>
+        <p>파란색이멋저서 하늘색때문에 하히흐하히흐하히하하하하</p>
+    </text>
+</SJML>

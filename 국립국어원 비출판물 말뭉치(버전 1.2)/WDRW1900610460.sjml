@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610460</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이상한 손님</title>
+            <author id="P10460" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190610" subclass="null_책">
+        <p>천달록이란아이가구름이를 타고 집으로오는데 구름이가없어졌다이책을보니까 엄마손을잘잡아야 될것갔다.안그러면 길을잃어버릴것같았다.</p>
+    </text>
+</SJML>

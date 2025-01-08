@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211576</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>리틀야구단에서 야구</title>
+            <author id="P11576" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박정민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190413" subclass="null_야구">
+        <p>제목 : 리틀야구단에서 야구</p>
+        <p>드디어 그날이 되었다. &name1&, &name2&, &name3&이, &name4&이, &name5&이, &name6&와 야구를 하는 날이다. &name1&가 야구를 한다고 알려줘서 얼마나 기다렸는지 모른다. 아빠와만 연습하다가 큰 야구장에서 야구하는 형들과 친구들이 같이하게되어 기대가 컸다 뭐니뭐니 해도 ‘야구경기’를 할때가 가장 신났다. 난 타석에서 안타를 친뒤, 헬멧을 던지고 뛰어 1루에 도착, 세이프다. 다음 타석에서 &name2&가 땅볼을치고 내가 2루, 3루를돌아 홈까지 득점! 아주좋았다. 결국 난 오늘 경기에서 3타수 3안타 2득점을 했다. 아주좋은 기록 이다.</p>
+    </text>
+</SJML>

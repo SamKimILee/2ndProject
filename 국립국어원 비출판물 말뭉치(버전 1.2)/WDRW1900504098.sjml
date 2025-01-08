@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900504098</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나다운 나</title>
+            <author id="P04098" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">최혜빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="나">
+        <p>요새 밤? 저녁?만 되면 피곤하고 사람 상대하는 게 지쳐서 혼자  있고 싶다. 말 걸면 대답은 해야 하니까 하긴 하는데 재수없게 대답하게 된다. 서로에게 좋지 않은 듯.</p>
+        <p>역시 사람은 자기만의 시간이 너무 필요하고 소중해. 이게 내가 노력해야 하는 걸까? 나를 파괴하면서까지 남을 위해야 하는 걸까. 모르겠다. 어렵다. 내 감정도, 타인과의 관계도 쉽지 않네. 피곤해 정말.</p>
+        <p>나는 아무래도 혼자일 때가 제일 나답나 봐. 그게 나인가 봐. 나답고 싶다.</p>
+    </text>
+</SJML>

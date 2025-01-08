@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612170</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>은찬이의 하루</title>
+            <author id="P12170" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김은찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나">
+        <p>
+            <s>4월16일</s>
+            <s>제목: 나의생생한 하루</s>
+            <s>은찬이의 하루는</s>
+            <s>아주 바빠요.</s>
+        </p>
+        <p>
+            <s>아침에는</s>
+            <s>룰루랄라 즐겁게 학교 가고</s>
+        </p>
+        <p>
+            <s>점심에는</s>
+            <s>영차영차 열심히 태권도하고</s>
+        </p>
+        <p>
+            <s>오후에는</s>
+            <s>딩기딩가 피아노 치고</s>
+        </p>
+        <p>
+            <s>저녁에는</s>
+            <s>힘을내서 국기원부 하고</s>
+        </p>
+        <p>
+            <s>집에와서 밥을 먹으면</s>
+            <s>밥맛이 꿀맛~</s>
+        </p>
+        <p>
+            <s>은찬이의 하루는</s>
+            <s>정말 바쁘지만 즐거워요.</s>
+        </p>
+    </text>
+</SJML>

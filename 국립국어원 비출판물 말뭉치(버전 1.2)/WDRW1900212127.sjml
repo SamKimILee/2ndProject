@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212127</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>몸 그리기</title>
+            <author id="P12127" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지형</author>
+        </sourceInfo>
+    </header>
+    <text date="20190404" subclass="null_몸 그리기">
+        <p>모둠끼리 몸 그리기를 했다. 선생님께서 모둠끼리 의논하여 누가 누울지 정하라고 했다. 내가 종이 위에 눕기로했다. 몸 그리기 할때 조금 간지러웠지만 그래도 재미있었다. 색칠할 때는 조금 힘들었다. 왜냐하면 손은 2개데 사람은 크니까, 그런데 선생님 말씀으로는 다른 반으 3시간씩 걸렸다고 한다. 근데 우리반은 1시간30분만에 끝났다니 시간차이가 많이 나는것 같다. &name1&는 우리반 밖에 그림을 거는게 부끄럽다고했다. 나는 안 부끄러운데 아마도 &name1&는 부끄러움을 잘 타나보다. 오늘 하루를 생각하면 오늘은 평소보다 훨씬 행복한 것 같다. 내일도 오늘처럼 행복한 하루였으면 좋겠다.</p>
+    </text>
+</SJML>

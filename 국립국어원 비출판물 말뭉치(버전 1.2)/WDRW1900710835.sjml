@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710835</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무지개</title>
+            <author id="P10835" age="66" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임귀숙</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_무지개">
+        <p>
+            <s>강변나들이</s>
+            <s>만난 무지개</s>
+            <s>이뿌다</s>
+            <s>마음을  착하게 만들어 주는</s>
+            <s>하늘</s>
+            <s>선녀가 내려오는  다리일까?</s>
+            <s>착한 무지개를</s>
+            <s>보노리니</s>
+            <s>마음도  일곱가지</s>
+            <s>상상으로  풍성해지네</s>
+            <s>선한  다리로</s>
+            <s>세상을  밣혀주렴</s>
+        </p>
+    </text>
+</SJML>

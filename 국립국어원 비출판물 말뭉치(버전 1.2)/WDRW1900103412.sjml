@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그순간 오직 나만을 위한 바다 였다</title>
+            <author id="P03412" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_해변">
+        <p>
+            <s>서걱거리는 발소리와 거친 파도소리는 나만의 것이었다</s>
+        </p>
+        <p>
+            <s>파도가 몰래 나에게 장난을 건다</s>
+            <s>이 바다는 너만을 위한 거야</s>
+        </p>
+        <p>
+            <s>나는 그 속삭임을 철썩같이 믿는다</s>
+            <s>태양은 나만을 위해 지지 않았다</s>
+            <s>이 바다와 하늘은 오직 나만을 위해 존재한다</s>
+        </p>
+        <p>
+            <s>아무도 없는 해변을 걷는다</s>
+            <s>오직 나만을 위해</s>
+        </p>
+    </text>
+</SJML>

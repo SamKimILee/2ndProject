@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412412</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아주 아주 재미있는 좀비</title>
+            <author id="P12412" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">윤진희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_좀비">
+        <p>선생님께서 우리에게 30분 놀이시간을 주시려고 급식을 2등으로 가신다. 그래서 우리는 25분까지 급식하고 와서 자유롭게 논다. 친구랑놀고 우리 비밀 장소를 만들재고 했다. 여기가 좋겠다고 말했다. &name1&, &name2&가 술래되다. 내가 잘 피하는곳 으로 갔다. 아무도 못잡는줄 알았는대 잡피긴했다.친구들이 해독재 를해주었다. 친구들이 해독재 해줘서 빨리 도망쳤다. 딴친구들도 잡피긴잡펴다. 그때 아주재미었다.</p>
+    </text>
+</SJML>

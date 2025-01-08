@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203443</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>등불</title>
+            <author id="P03443" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_불빛">
+        <p>
+            <s>짙은 어둠 속에서 불을 밝혔습니다.</s>
+        </p>
+        <p>
+            <s>불을 밝히니 어둠 속에 떨고있던</s>
+            <s>방랑자들이 그 지친 몸을 뉘여</s>
+            <s>고달픈 마음을 달래고자</s>
+            <s>불빛에 따라 나에게 다가옵니다.</s>
+        </p>
+        <p>
+            <s>그 방랑자들은 나의 보금자리에</s>
+            <s>침입하여 흙발로 내 자리를 짓밟고</s>
+            <s>먼지 투성이의 몸으로 이불을 파고듭니다.</s>
+        </p>
+        <p>
+            <s>불을 꺼버립니다.</s>
+        </p>
+        <p>
+            <s>나는 지독한 어둠보다도</s>
+            <s>나의 밝음 만을 바라보고 다가오는</s>
+            <s>방랑자들이 더 괴로웠기 때문입니다.</s>
+        </p>
+    </text>
+</SJML>

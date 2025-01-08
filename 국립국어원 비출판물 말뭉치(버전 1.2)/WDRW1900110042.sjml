@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110042</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안녕</title>
+            <author id="P10042" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">채지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이별">
+        <p>
+            <s>이별을 고해야만 했던 그때가 떠올라, 가끔씩 울기도 하고</s>
+            <s>너와의 예쁜 추억이 떠올라, 가끔은 웃기도 하고</s>
+        </p>
+        <p>
+            <s>참, 몇 년이 지나도 계속 그러고 있더라고.</s>
+            <s>널 보내기엔 아직 내 마음이 준비가 안됐었나 봐.</s>
+            <s>네 생각에 눈물 흘리는 날도,</s>
+            <s>아련하게 웃어보는 날도 아직은 많지만,</s>
+            <s>그래도 넌 내가 널 보내기를 원한다는 걸 알아.</s>
+        </p>
+        <p>
+            <s>이제는 안녕,</s>
+            <s>날 웃게하고 가슴이 아리게하던 너.</s>
+            <s>이제는 그런 너를 보내, 안녕.</s>
+        </p>
+    </text>
+</SJML>

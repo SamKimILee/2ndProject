@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611757</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재미있는 운동회</title>
+            <author id="P11757" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_운동회">
+        <p>오늘은 학교 운동회가 있는 날이다. 첫 번째는 독도는 우리땅 플레시몹을 했다. 그다음에는 공굴리기를 했다. 나는 청군 이였다. 그래서 결과는 우리팀이 이겼다. 그다음에는 개인달리기를 했다. 나는 2등을 했다. 그다은은 이어달리기를 했다. 우리는 3등을 했다. 조금 쉬고 바로 나가서 독도는 우리땅 플래시몹을 1번더 했다. 마지막으로 박터트리기를 했다. 재미있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901112580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>숲</title>
+            <author id="P12580" age="5" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예언</author>
+        </sourceInfo>
+    </header>
+    <text date="20170807" subclass="null_숲">
+        <p>오늘은 사려니숲에 같다. 하늘을 봤는데 너무예뻤다.</p>
+    </text>
+</SJML>

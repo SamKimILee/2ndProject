@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수변공원물놀이장을 갔다.</title>
+            <author id="P20026" age="6" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_물놀이">
+        <p>나는 오늘 아빠, 오빠, 오빠친구들이랑 자전거를 타고 수변공원물놀이장을 갔다.</p>
+        <p>아빠가 물놀이에서 나를 던지며 놀아줘서 가장 재미있었다.</p>
+        <p>한번 더 가게되면- 더 재미있게 놀고싶다.</p>
+    </text>
+</SJML>

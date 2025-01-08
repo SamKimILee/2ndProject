@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202568</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 취업 활동</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>취업 활동</title>
+            <author id="P02568" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_자격증">
+        <p>컴퓨터 활용능력 자격을 갖추고 이를 입증하기 위해 컴퓨터 활용능력 시험 자격증 휙득을 목표로 자기주도 학습 할 것임</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312409</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>남극에 사는  팽귄 에게</title>
+            <author id="P12409" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김민아</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_펭귄">
+        <p>남극에 사는 팽권에게 안녕? 난한국에 사는 2학년 &name1& 라고해. 난 부산광일초등학교에 다녀 동물한테편지를 뜬다는게 나가 생각 해도웃겨 난 하지마 꼭 팽권에게 편지을 쓸 거야물론지금쓰고있지 넌이름이뭐니? 난이 편지를 왜쓰게되었냐면&lt;&lt;팽귄아이웨&gt;&gt;라 는책 을읽고 팽권에게 편지를 쓸 생각을했다! 내가 생각해도 너희들에게 편지를 주는건불가능해 하지만 난 꼭 팽권에게 편지를 쓰고싶어. 안보내저도 너희들에게 전해주고싶은편지야 팽권아 우리가 빙화를 녹여서 미안해.</p>
+        <p>이말을 듯고 있는지는 모르겠지만 어쨌든 미안해 빙화를 녹여서 나만할 사과는 아니지만 우리 같이 사과할께 빙화를 녹여서미안해&name1&가.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409923</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이상한 귓속말</title>
+            <author id="P09923" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_이상한 귓속말">
+        <p>이상한 귓속말</p>
+        <p>이상한 귓속말이 밤늣게 공부 하는 순학이 귀에들어갔습니다.</p>
+        <p>그래서 귓속말이 순학이를 새벽에 깨워준다고 했지만 깨워주지 않았 습니다. 그때</p>
+        <p>부터순학이는 귓속말 을 미워하기시작했 습니다. 귓속말은 계속 순학</p>
+        <p>이를 속였고 그 때문에 귓속 말을 쫐아 버렸습니다.</p>
+    </text>
+</SJML>

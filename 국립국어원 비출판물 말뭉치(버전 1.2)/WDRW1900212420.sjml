@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212420</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>통도환타지아</title>
+            <author id="P12420" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190525" subclass="null_통도환타지아">
+        <p>통도환타지아</p>
+        <p>5월 25일 토요일  날씨: 맑음</p>
+        <p>오늘 태권도 에서 통도환타지아 로갔다. 난 오늘도 긴장하고, 재밌겠단생각도 잔뜩했다. 통도환타지아에도착했다.</p>
+        <p>그때 바이킹, 허니케일, 귀신에 집, 롤로코스터 등 등 을 탔다. 귀신에 집 때 어두워서 계단 내려갈때우당탕하고 넘 어져서다리에 긁혔다. 의료실에서 치료를받아 좀 다행이었다.</p>
+    </text>
+</SJML>

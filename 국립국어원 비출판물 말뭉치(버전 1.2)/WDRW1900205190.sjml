@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205190</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오해가 부른 일</title>
+            <author id="P05190" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_착각">
+        <p>핸드폰게임을 위해 게임 내 클럽원이 모인 오픈 카톡방이 있는데 새로운 사람이 들어와 인사를 했다.</p>
+        <p>신입이구나 싶어서 인사를 받아줬는데  질문을 시작한다.</p>
+        <p>이번주에도 대전 클럽이 있어요?</p>
+        <p>오프모임으로 착각하나 싶었지만 설마 싶어서 '매주 열린다' 라 대답했다.</p>
+        <p>비용이 얼마나 드냐고 물어보길래 단순한 뉴비(신입)구나 싶어서 이후의 질문에도 다들 성실히 대답해줬다.</p>
+        <p>그리고 그 뉴비는...'(실제 클럽명)에서 보는건가요?' 라 물었고 어떤 오해를 했는지 알게됐다.</p>
+    </text>
+</SJML>

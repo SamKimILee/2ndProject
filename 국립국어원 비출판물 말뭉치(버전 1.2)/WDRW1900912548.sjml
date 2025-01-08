@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>별명</title>
+            <author id="P12548" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김수영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_붕어">
+        <p>형아가 나를 금붕어처럼 생겼다고 놀렸다. 그런데 엄마가 금붕어의 귀여운 점을 이야기해줘서 금붕어로 했다.</p>
+        <p>나는 금붕어</p>
+        <p>아빠는 회붕어    근데아빠가 가꾸 나보고 똥붕어 라고 놀린다.</p>
+        <p>엄마는 검붕어     괜찮다. 나는 반짝반짝 금붕어다</p>
+        <p>형아는 냄붕어</p>
+    </text>
+</SJML>

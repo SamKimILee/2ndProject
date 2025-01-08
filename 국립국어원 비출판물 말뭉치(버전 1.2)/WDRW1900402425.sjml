@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402425</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시간</title>
+            <author id="P02425" age="24" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시간">
+        <p>시간이 없다. 큰일났다. 26세. 시간은 날 기다리지 않는다. 어떻게 보면 빠른 시간일 수도 있다. 하지만 가능한 빨리 돈을 벌어서 람보르기니를 사야한다. 시간은 돈으로 살 수 없지만 람보르기니는 돈으로 살 수 있으니까.</p>
+    </text>
+</SJML>

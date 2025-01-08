@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912458</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2020년 3월 4일 (수)</title>
+            <author id="P12458" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200304" subclass="null_마트">
+        <p>2020년 3월 4일 (수)</p>
+        <p>오늘 엄마랑 마트 갔다.</p>
+        <p>제리 사러 갔다. 어제사는데 또 샀다 많이 샀다. 행복 했다. 그런데 바람이 많이불었다. 너무 추웠다. 눈까지 왔다. 신기했다.</p>
+    </text>
+</SJML>

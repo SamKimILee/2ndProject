@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P12580" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예언</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_영화">
+        <p>오늘은 마틸다 영화를 봤다. 또 보고싰다.</p>
+    </text>
+</SJML>

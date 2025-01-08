@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511629</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>만리장성 만든 날</title>
+            <author id="P11629" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20181016" subclass="null_만리장성">
+        <p>오늘 집에서 만리장성 모형을 만들었다. 엄마도 같이 만든다고 했는데 그냥 기다리기 지루해서 내가 혼자 만들었다. 그래도 다 만들고 나니 뿌듯했다! 그리고 실제로 만리장성을 보면 더 웅장하고 거대 할 것 같다!</p>
+    </text>
+</SJML>

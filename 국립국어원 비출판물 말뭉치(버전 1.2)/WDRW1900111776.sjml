@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111776</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을 가을 가을이</title>
+            <author id="P11776" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_거북이">
+        <p>
+            <s>10월 28일(월) 날씨: 밤에 비</s>
+            <s>&lt;가을가을 가을이&gt;</s>
+            <s>&name1&</s>
+            <s>가을 가을 가을이</s>
+            <s>새우 먹는 가을이</s>
+            <s>쨍쨍쨍쨍 아침에</s>
+            <s>새우 먹는 가을이</s>
+            <s>새우 인가 하고</s>
+            <s>돌도 먹고</s>
+            <s>새우 인가 하고</s>
+            <s>똥도 먹고</s>
+            <s>귀여운 거북이 가을이</s>
+        </p>
+    </text>
+</SJML>

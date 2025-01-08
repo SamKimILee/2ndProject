@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>끝이라는 단어는 참 묘하다.</title>
+            <author id="P01493" age="26" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="끝">
+        <p>끝, 입 안에서 굴려보면 이만큼 단호한 단어는 찾아보기 힘들다. 단어의 늬앙스 뿐만 아니라 그 의미조차 군더더기 없이 깔끔하다. 끝! 어떠한 것의 마지막. 잡고 있던 것에 대해 안녕을 고하는 단어이다. 잘 있어! 그러나 생각해보면 이 끝이란 단어는 매번 시작이라는 단어를 끌고 온다. 연인에게 이별을 고했나요? 새로운 사랑이 시작될 계기입니다! 업무가 드디어 끝났나요? 새로운 프로젝트가 시작하겠지요! 인생이 끝났나요? 걱정마세요. 새로운 시작이 기다리고 있습니다! 나 역시 이 글을 끝내고 나면 새로운 글을 시작해야겠지.</p>
+    </text>
+</SJML>

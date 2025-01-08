@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>휴식</title>
+            <author id="P03187" age="16" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">박세연</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_탈출">
+        <p>
+            <s>이제 그만 나가고 싶어</s>
+            <s>네 마음 속은 너무 어지럽고 바쁘고 혼란하고</s>
+            <s>나가게 해 줘, 내가 쉴 수 있게 해 줘.</s>
+        </p>
+        <p>
+            <s>네 안의 나는 언제나 축 늘어진 지푸라기</s>
+            <s>생기 없이 다만 네 사랑에 되새김질 당하며.</s>
+        </p>
+    </text>
+</SJML>

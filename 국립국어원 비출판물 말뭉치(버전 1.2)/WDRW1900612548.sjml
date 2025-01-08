@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>게임</title>
+            <author id="P12548" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김수영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_게임">
+        <p>
+            <s>게임 김</s>
+            <s>메탈슬러그를했다.</s>
+            <s>동전을 백개넣었다.</s>
+        </p>
+        <p>
+            <s>중간에서 죽고</s>
+            <s>보스에서 죽고</s>
+        </p>
+        <p>
+            <s>나중엔 깨고</s>
+            <s>저장안해서망하고</s>
+        </p>
+    </text>
+</SJML>

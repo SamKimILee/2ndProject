@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512363</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>육상</title>
+            <author id="P12363" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이정민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191006" subclass="null_육상">
+        <p>&lt;육상&gt;</p>
+        <p>육상 경기를 보러갔다. 길을 잃어서 못볼줄 알았는데 길을 잘 아는 사람들을 만나서 다행이었다. 달리기, 멀리띄기, 원 반 던지기, 장대 높기 뛰기 등이 있었다. 만은 경기를 한꺼번에 본적은 처음이라서 잘 봤다. 400m를 달리는 남자 고등학생 기록이 45.12초였다. 나도 그렇게 빠리달리고 싶고 앞으로 달리기연습을 해야겠다</p>
+    </text>
+</SJML>

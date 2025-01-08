@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101695</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울냄새</title>
+            <author id="P01695" age="27" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="좋다">
+        <p>
+            <s>겨울이다. 겨울이면 코끝에 스며드는 차가운바람과, 특유의 겨울냄새가 난다.</s>
+            <s>미세먼지가 가득한 공기를 걷어내고  맑은 공기를  맡고 싶은 코는, 숨을 크게 들이마셔 본다.</s>
+        </p>
+        <p>
+            <s>한 해의 마무리 계절이기도 하고, 시작의 계절이기도 한 겨울.</s>
+            <s>난 그런 겨울을 사랑한다.</s>
+        </p>
+        <p>
+            <s>손,발이 시렵고 바람이 불어 귀가 떨어져 나갈 것 같아도 겨울이 좋다.</s>
+            <s>숨을 크게 들이쉴때 들어오는 차가운 공기도 좋다.</s>
+        </p>
+        <p>
+            <s>언제나 겨울이 좋다.</s>
+            <s>마주잡은 손 꼭 잡아도 덥지않으니까.</s>
+        </p>
+    </text>
+</SJML>

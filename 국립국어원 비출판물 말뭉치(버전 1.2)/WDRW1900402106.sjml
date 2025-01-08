@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402106</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>담배</title>
+            <author id="P02106" age="17" occupation="무직" sex="F" submission="온라인" handwriting="No">조희정</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_담배">
+        <p>현관에 들어서자마자 먼저 담배 연기가 자욱하게 퍼져있는 것부터 보였다. 신발장 위에 놓여져있는 디퓨저의 향과 섞여진 담배 냄새는 그닥 좋다고 말할 향은 아니었다. 오히려 머리가 깨질듯 아파오는 향이었다. 집에 들어온 지 한참이나 되었는데도 아직 현관문도 채 닫지 못하고 있다. 방금까지 이 거실 안에서 담배를 피웠을 집주인은 어디 있는지 보이지도 않았다.</p>
+    </text>
+</SJML>

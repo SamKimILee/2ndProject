@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태몽</title>
+            <author id="P11862" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200203" subclass="null_태몽">
+        <p>동생 태몽을 꿧다. 내가 바닷가에 있었는데 갑자기 바람이 불어서 가족들은 집에 갔다. 그런데 몽게 구름이 나타나면서 알이떨어졌다. 용이 있다는게 너무 신기하다. 그리고 더 놀라운건 용알 속에서 작고 예쁜용이 나온것이다. 왼쪽에는 해가 있었고 오른쪽에는 달님이 있었는데 그게 가장 신기했다</p>
+    </text>
+</SJML>

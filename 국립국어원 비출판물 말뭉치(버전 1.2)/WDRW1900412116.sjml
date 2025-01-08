@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412116</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 부모님</title>
+            <author id="P12116" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190512" subclass="null_부모님">
+        <p>2019년 5월 12일 일요일</p>
+        <p>제목: 우리 부모님</p>
+        <p>우리 부모님은 혼낼 때는 단호하고 안아줄 때는 포근하다. 우리 엄마는 파마한 단발머리에 체구가 작다. 라식수술을 해서 눈이 충격에 약하다. 아빠는 안경을 쓰고있고 턱수염이 뾰족하다. 그리고 나들이 갈 때 차로 운전해서 편안하게 갈수 있게 해준다. 내가말을 안들 을 때 엄격하다. 색깔로 묘사하면 엄마는 분홍색, 왜냐하면 사랑을 주기 때문이다. 아빠는 파랑, 왜냐하면 힘이 세기 때문이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110373</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하나 둘 셋</title>
+            <author id="P10373" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_하나 둘 셋">
+        <p>
+            <s>하나, 너가 세면 둘, 내가 세고 셋, 우리가 세지 그래 그렇게 우리의 셋은 하나와 둘을 가지고 우리는 너와 나를 가져 이번에 외치는 하나는 나의 하나, 이번에 외치는 둘은 너의 둘, 하지만 셋은 언제나 외쳐도 우리의 셋 그래 그렇게 우리는 단 하나의 셋을 외쳤다 그래 그렇게 우리는 셋이자 하나였다</s>
+        </p>
+    </text>
+</SJML>

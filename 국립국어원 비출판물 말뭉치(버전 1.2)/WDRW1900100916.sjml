@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100916</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여전히 아픈 너와 나</title>
+            <author id="P00916" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김명주</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_고통">
+        <p>너와 나. 그리고 여전히 아픈 너의 부스러기. 여기서 끝나면 편해질는지, 그저 고통뿐인 너라서, 아프기만 해왔던 나라서 어떤 결정을 내리던 행복하기는 힘들 테지. 그 여느 때 보다 많이..  아니다, 어쩌면 항상 네게서 느끼는 이 고통은 더 약해질 수도 있겠지. 이렇게 부너져버리면 나만 고통 받는 것 같아 아프긴 아프다.</p>
+    </text>
+</SJML>

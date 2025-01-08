@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210796</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마스크</title>
+            <author id="P10796" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">함수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_마스크">
+        <p>저녁먹는데 엄마랑 할머니가 마스크 가지고 싸운다...</p>
+        <p>이게 다 신천지 바이러스 때문이다....</p>
+        <p>아니.. 물론 마스크 사재기한 소도매업자도 문제고</p>
+        <p>마스크 가격 확 올려버린 양심없는 판매업자도 문제다..</p>
+        <p>마침 뉴스에서 마스크 가격 얘기가 나온다..</p>
+        <p>얼마전에 갔었던 마트에서는 마스크 매대에 선 줄만 다른 물품 매대 5개를 감싸돌 정도로 길었다..</p>
+        <p>마트에서 마스크를 쓰지 않은 사람은 우리 가족 뿐이었고.. 참 아이러니했다.</p>
+        <p>빨리 사태가 해결됐으면 좋겠다.</p>
+        <p>학교를 안가는데 놀지도 못해.. 친구들이 보고 싶다. 마스크도 끼지 않은 맨 얼굴을 맘 편하게 보고싶다..</p>
+        <p>그리고.. 이렇게 품귀현상에 놓인 마스크가 꼭 필요한 곳에 적재적소로 배치될 수 있었으면 한다. 의료계, 노인, 어린이, 저소득층 등..</p>
+        <p>바이러스가 해결될 때까지 모두 건강하기를..</p>
+    </text>
+</SJML>

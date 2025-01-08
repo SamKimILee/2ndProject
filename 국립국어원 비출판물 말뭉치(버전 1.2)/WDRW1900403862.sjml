@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>지구탈출자</title>
+            <author id="P03862" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_지구인">
+        <p>
+            <s>지구탈출자</s>
+        </p>
+        <p>
+            <s>페이스북의 타임라인</s>
+            <s>-나는 인스타그램을 하지 않으므로 내 소통의 유일한 창구-,</s>
+        </p>
+        <p>
+            <s>저절로 눈이 떠진 느지막한 토요일 오전 11시 30분의 나른한 이불 속,</s>
+        </p>
+        <p>
+            <s>스타벅스 벤티 소이라떼</s>
+            <s>-샷 하나를 빼고 바닐라 시럽은 반 만-,</s>
+        </p>
+        <p>
+            <s>&name1&이 웃을 때 보이는 치아</s>
+            <s>-정확하게는 측절치-,</s>
+        </p>
+        <p>
+            <s>매 월 5일 통장으로 입금되어 오는 약 35만원 정도의 주말 아르바이트 월급</s>
+            <s>-얼마 전 최저시급 인상으로 내 월급도 5만원 상승-,</s>
+        </p>
+        <p>
+            <s>엘리자베스 아덴 그린티 향수,</s>
+        </p>
+        <p>
+            <s>밤 11시에 시켜먹는 양념 반 후라이드 반 치킨,</s>
+        </p>
+        <p>
+            <s>바람이 불어오는 가을밤의 강변 산책</s>
+            <s>-혼자 이어폰을 꼽으며-,</s>
+        </p>
+        <p>
+            <s>그 때 나오는 내가 제일 좋아하는 밴드의 신보,</s>
+        </p>
+        <p>
+            <s>이 모든게 없다면 나는 분명</s>
+        </p>
+        <p>
+            <s>지</s>
+            <s>구</s>
+            <s>탈</s>
+            <s>출</s>
+        </p>
+    </text>
+</SJML>

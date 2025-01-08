@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>칭찬</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_칭찬">
+        <p>
+            <s>칭찬.</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>“고마워”한마디에</s>
+            <s>받는 선물</s>
+            <s>「웃음」</s>
+        </p>
+        <p>
+            <s>“미안해”한마디에</s>
+            <s>나쁜 마음이</s>
+            <s>스르르</s>
+        </p>
+        <p>
+            <s>“사랑해”한마디에</s>
+            <s>마음이</s>
+            <s>콩닥 콩닥</s>
+        </p>
+        <p>
+            <s>고마워,미안해,사랑해.</s>
+            <s>모두다 예쁜 말 「칭찬」</s>
+        </p>
+    </text>
+</SJML>

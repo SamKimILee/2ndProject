@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304767</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>카드와 민증과 지갑은 어디로 갔을까?</title>
+            <author id="P04767" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_분실">
+        <p>언니 고년은 왜 카드랑 민증이 들어있는 지갑을 잃어버린 건지 한심하기 짝이 없다.</p>
+        <p>나도 작년에 내일로 여행할 때 부산 모래사장에서 카드를 잃어버렸지... 아마 내 카드는 모래들 사이로 가서 플라스틱 쓰레기가 됐겠지..ㅋㅋ</p>
+        <p>월요일부터 일이 안 풀리네.. 일하는 건 왜 이렇게 싫은지ㅠㅠ</p>
+        <p>주말이나 빨리 왔으면 좋겠다!!!</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211415</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>잉여로운 인생</title>
+            <author id="P11415" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_휴식, 백수">
+        <p>난 얼마전에 수능을 보고 현재 아무것도 안하며 놀고 있는 백수이다. 처음에는 백수생활이 참 좋았다. 그동안 하지 못했던 것들(드라마 정주행, 영화보기, 쇼핑 등등) 을 하면서 벌써 3달가량이 지났다. 처음에는 참 좋았다. 하지만 시간이 지날수록 모든 것이 재미없어지기 시작했다. 작가 이상의 수필 '권태' 가 생각난다. 고등학교 때 이 작품을 읽으면서 참 배부른 소리리고 생각했던 적이 있다. 이제 작가의 기분을 이해할 수 있을 것 같다. 휴식은 적절한 노동과 어우러져야 효과가 커진다.</p>
+    </text>
+</SJML>

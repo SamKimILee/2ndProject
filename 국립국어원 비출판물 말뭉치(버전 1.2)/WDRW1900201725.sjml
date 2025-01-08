@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201725</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노래 따라듣기</title>
+            <author id="P01725" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_노래">
+        <p>그가 좋다고 한 노래를 다 듣는다. 원래 그랬다. 열여섯 살에도 스무 살에도 스물두 살에도 스물일곱 살에도 그랬다. 그가 부른 노래도 다 듣는다. 한글로 된 가사는 잘 들린다. 남이 좋아하는 노래를 열심히 챙겨듣는다는 것은 가사가 잘 들리는 귀가 되었다는 뜻이다. 내가 고른 노래들은 지층이 얕다. 내가 골랐기 때문이다. 그러나 그가 좋다고 한 노래들을 같이 들으면 그냥 바보가 된다. 남이 고른 노래를 내가 고른 것처럼 들을 때 머릿속은 종종 노래방 화면을 원테이크로 찍은 것처럼, 몽타주라기보다 자유연상기법으로 진행된다. 그를 사랑했다가 미워했다가, 그를 사랑했다가 그녀를 사랑했다가, 보내주기도 하고 돌아오라고 떼도 쓰고.</p>
+    </text>
+</SJML>

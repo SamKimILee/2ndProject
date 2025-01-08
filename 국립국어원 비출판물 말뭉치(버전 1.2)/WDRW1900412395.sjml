@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412395</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>풍선껌</title>
+            <author id="P12395" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강아인</author>
+        </sourceInfo>
+    </header>
+    <text date="20180902" subclass="null_풍선껌">
+        <p>내 초등 1부 친구들과 선생님이랑 같이 마트로 갔다. 마트에서 풍선 껌을 샀다. 끝나고 &name1&이를 만났다. 집에서 &name1&이랑 같이 풍선 껌을 불었다! 다음에도 또 먹고싶다!다음에는 더 크게 불고싶다! 내얼굴 만큼 불고싶다</p>
+    </text>
+</SJML>

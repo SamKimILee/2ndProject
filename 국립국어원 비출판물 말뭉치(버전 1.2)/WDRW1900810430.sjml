@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810430</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피튜니아</title>
+            <author id="P10430" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김소영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_피튜니아">
+        <p>피튜니아가 책을 주었는데 책을 갔고 있으면 똑똑해 진다고 생각했습니다. 그래서 동물들이 무슨 일이 생기면 피튜니아를 불렀습니다. 그때마다 피튜니아는 엉뚱한 계산과 방법으로 해결했습니다. 그러다 결국엔 일이 터집니다.</p>
+        <p>그제서야 동물들은 속았다고 생각했습니다. 저는 이책을 읽고 오해를 안 하게 조심해야 겠다는 생각이 들었습니다.</p>
+        <p>오해를 많이 하는 친구들에게 추천 해 주고 싶습니다.</p>
+    </text>
+</SJML>

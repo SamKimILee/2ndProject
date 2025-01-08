@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211486</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>쓰다</title>
+            <author id="P11486" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_글쓰기">
+        <p>나에게 있어서 글을 쓰는 건 휴식과도 같다. 글을 쓰다보면 내 안에 미처 쓰이지 못하고 뭉쳐있던 감정들이 해소되는 것 같아서 좋다.</p>
+        <p>그런데  가끔은 슬프기도 하다. 이전에 쓰던 소설의 주인공을 죽였을 때, 그 때 처음으로 글을 쓰다가 울었다. 나는 딱히 글에 감정을 쏟아넣지 않는다고 생각했는데 오랫동안 붙잡고 있던 글에 내 감정이 그렇게 많이 녹아있는 줄 처음 알았다.</p>
+        <p>나는 글을 쓰고, 그 글엔 내 감정이 쓰인다. 달콤하기도 하고 씁슬하기도 한 감정들, 그리고 읽는 사람 역시 내 글에 감정을 쓴다.</p>
+        <p>글의 이런 점이 좋다.</p>
+    </text>
+</SJML>

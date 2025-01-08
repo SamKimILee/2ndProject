@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손수건  천연 염색 체험</title>
+            <author id="P11509" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤여림</author>
+        </sourceInfo>
+    </header>
+    <text date="20190427" subclass="null_천연염색">
+        <p>제목:손수건 천연 염색 체험</p>
+        <p>오늘은  담양에 있는 두리농원에서 손수건을 염색하는 천연염색을 했다. 하는 법은 양파껍질과 물을 1ㆍ1로 섞고 끓인 다음 그걸 세숫대야에 넣고 손에는 면장갑을 낀 다음 고무장갑을 끼고 손수건을 넣은 뒤 주물러 준다. 나랑 &name1&이는 풀(잎)까지 나온 꽃이 그려진 손수건을, 아빠만 꽃만 있는 손수건을, 엄마는 조금 크고 무늬가 없는 스카프를 했다. (주무르는 시간은 20분이다.)다 주무르면  맑은 물에 여러번 헹군 뒤 말리면 된다. 주무르지 않을수록 옅은 색이 나온다.</p>
+        <p>오늘 염색 체험은 내가 좋아하는 색이어서 좋고 재밌었던 것 같다.</p>
+    </text>
+</SJML>

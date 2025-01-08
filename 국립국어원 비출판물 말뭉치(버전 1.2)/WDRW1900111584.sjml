@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111584</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마, 아빠 생각 </title>
+            <author id="P11584" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조석호</author>
+        </sourceInfo>
+    </header>
+    <text date="20160817" subclass="null_엄마, 아빠">
+        <p>오늘은 엄마없이 혼자 10시간을버티는 날이다. 다행히 엄마가 하루 일정표를 놔두고가셨다. 혼자있으니 조금 무섭다. 엄마,아빠 둘다보고 싶다. 하지만 영화도 보고 놀기도 하니까 재미는 있었다. 부모님이 많이 걱정하실 것 같다. 나도 엄마가늦게 들어올까 하는마음에 걱정이 된다. 부모님이돌아 오시면 사랑한다고 말하고 안아줄 것이다.</p>
+    </text>
+</SJML>

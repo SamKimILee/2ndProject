@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611575</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한자학원</title>
+            <author id="P11575" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정서원</author>
+        </sourceInfo>
+    </header>
+    <text date="20181204" subclass="null_한자학원">
+        <p>한자학원에 갔다. 중앙과 교외를 배웠다. 떠들어서 카드세장을 틀렸다.좀아쉬웠다. 이솝이야기를 했다. 모기에희생이 였다.사람이있었는대 모기가 사람을 위해 희생을 해서 감동적이었다. 그다음엔 하원을했다. 심심했다</p>
+    </text>
+</SJML>

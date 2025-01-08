@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311375</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>흑연</title>
+            <author id="P11375" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">백선영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_흑연">
+        <p>
+            <s>흑연은 오랜시간</s>
+            <s>땅속에서 열과 압력을 받으면</s>
+            <s>다이아몬드가 된다</s>
+        </p>
+        <p>
+            <s>흑연은 그 오랜시간을 버티며</s>
+            <s>다이아몬드가 되었다</s>
+        </p>
+        <p>
+            <s>너는 아직 상처많고 잘 부러지는 흑연</s>
+        </p>
+        <p>
+            <s>하지만 너는 언젠가 다이아몬드처럼 빛이 날</s>
+            <s>무수한 가능성 많은 흑연</s>
+        </p>
+    </text>
+</SJML>

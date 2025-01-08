@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103002</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어느 날 갑자기</title>
+            <author id="P03002" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>
+            <s>처음에는 별 다른 관심도 없던 그대 였는데,</s>
+            <s>어느 순간부터  신경 쓰이기 시작하더니</s>
+            <s>내 머리와 마음 속을 지배 해 버렸네</s>
+        </p>
+        <p>
+            <s>그대에게 잘 보이기 위해 꾸미고</s>
+            <s>그대는 어떤 것을 좋아할지 고민하며,</s>
+            <s>그대를 만나는 전 날 밤이면 두근 거림에 설레며 잠든다.</s>
+        </p>
+        <p>
+            <s>학년의 끝이 다가올수록</s>
+            <s>이 순간이 끝나지 않기만을 바란다.</s>
+        </p>
+        <p>
+            <s>학년이 끝난 후에는</s>
+            <s>그대와 만날 구실도 없어 혼자 방에서 그대를 그리며 그리워만 한다.</s>
+            <s>그도 내가 보고싶을까- 하는 쓸데 없는 상상을 하며</s>
+            <s>학년이 시작되기를  기다린다</s>
+        </p>
+        <p>
+            <s>2020년의 그대는 어떨지,</s>
+            <s>2020년의 그대와 나 사이의 접점들을 기대하며</s>
+            <s>학년이 시작되기만을 기다린다</s>
+        </p>
+    </text>
+</SJML>

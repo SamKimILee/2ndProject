@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111513</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>윷놀이</title>
+            <author id="P11513" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방주현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200126" subclass="null_윷놀이">
+        <p>제목. 윷놀이</p>
+        <p>오늘 외할머니댁에서 윷놀이를했다. 나랑 외할아 버지가 팀이고 아빠하고&name1&가한팀또 외할머니랑 엄마가팀이었다.</p>
+        <p>첫판은 역전패로 3등이었다. 너무 아쉬웠다.</p>
+        <p>두번째 판은 돈 내기를했다. 도가한번돼고 맥걸 이 나와 완주가 되었다. 우리팀이 그것도 두번이나! 두번째판은 우리팀이이겨 돈을 많이땄다. 세번째판은 초반에는 꼴등이었는데 상대 팀들의 실수로 2등을했다 총돈을 3000원을땄다. 윷놀이도 하고 돈도 따고 정말 재미 있었다.</p>
+    </text>
+</SJML>

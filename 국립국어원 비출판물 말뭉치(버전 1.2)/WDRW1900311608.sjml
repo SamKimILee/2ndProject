@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311608</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>으스스한 독감 주사</title>
+            <author id="P11608" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">윤승원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_독감 주사">
+        <p>무섭고 떨리는 독감주사 맞는 날이다. 주사도 안맞였는데 팔이 쑤시고 무서운 생각에 잠도 오지 않았다. 주사를 맞으러 차를 타고 병원으로 나섰다. 너무나 무섭고 아직도 쑤시고있다. 엄마가 기도를 해주셨다. 주사를 맞고보니 별거 아니었다. 작년에는 하나도 안아픈데 엉엉 울었다 그때를 생각하면 웃음보가 터질지도 모른다.</p>
+    </text>
+</SJML>

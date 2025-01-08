@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101927</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그를 만날 수 있을까?</title>
+            <author id="P01927" age="30" occupation="자영업자" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="만나다">
+        <p>궁금하다. 약간의 사적인 감정이 없다고는 못하겠다. 그래도 어쨌거나 직접 만나고 싶다. 우리는 서로를 잘 이해할 것 같으니까. 좋은 친구가 될 수 있지 않을까.</p>
+        <p>팬이 아니라 동료로서 만나고 싶었다는게 무슨 말인지, 이제는 조금 알 것도 같다.</p>
+    </text>
+</SJML>

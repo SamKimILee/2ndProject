@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312211</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독감주사</title>
+            <author id="P12211" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박성주</author>
+        </sourceInfo>
+    </header>
+    <text date="20191123" subclass="null_독감주사">
+        <p>&lt;독감주사&gt;</p>
+        <p>오늘 아침 독감주사를 맞으러 갔다. 이름을 부르자 검진을 받고 주사를 맞으러 갔다 처음에 &name1&가 맞을때는 나는 몹시 무서웠다. 하지만 좀 지나자 괜찮아졌다. 내 차례가 되었다. 쿵쾅쿵쾅 가슴이 떨리고 긴장되었다. '아야'! 그런데 살짝 따끔하기만 하고 조금지나자 괜찮아졌다. 역시 주사는 처음에만 떨리고 따끔만 한다. 주사가 끝나자 선생님께서는 잘 했다며 비타민을 두 개씩이나 주셨다. '룰루랄라' 비타민을 먹으니 기분이 금세 좋아졌다.</p>
+        <p>다음에는긴장하지 말아야 겠다.</p>
+    </text>
+</SJML>

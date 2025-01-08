@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511453</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>까치의 말</title>
+            <author id="P11453" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이시윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190425" subclass="null_까치의 말">
+        <p>피아노 치러 가는 길에 까치 한 말이가 먹이를 먹고 있었다 그때 난 “깍깍깍”하고 울었다. 그러자 까치가 나무위로 올라가 “까까야아아아악 까아아아악악”하고 따라 울었다. 그런데 갑자기 고양이 한 마리가 뛰어오자 까치가 무서웠던지 “잡아먹히면 안돼” 하며 날아갔다.</p>
+    </text>
+</SJML>

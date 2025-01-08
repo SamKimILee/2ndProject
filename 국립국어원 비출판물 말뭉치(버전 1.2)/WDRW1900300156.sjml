@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300156</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>목공과 브롤스타즈</title>
+            <author id="P00156" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신이안</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_목공">
+        <p>나는 오늘이 목공 하는 날이다. 나는 목공이 재밌다. 왜냐하면 삽포질도 하고 자기만에 작품을 만들 수 있어서다. 그리고 브롤스타즈는 왜 재밌냐면 채팅방에서 이야기 하다가 게임을시작 할수 있기 때문이다. 그치만 목공이 더 재미있는 것 같다. 왜냐하면 물감으로 색칠하는게 너무 재밌기 때문이다.</p>
+    </text>
+</SJML>

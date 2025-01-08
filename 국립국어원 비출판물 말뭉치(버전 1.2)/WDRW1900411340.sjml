@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411340</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>즐거운 캠핑</title>
+            <author id="P11340" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">송채은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_캠핑">
+        <p>일찍일어나 짐을싸고 강화아침 캠핑장에 갔다. 차가막허 가는시간은 오래걸려지만 가보니 정말 재미있었다.</p>
+        <p>놀이터도 있고 회전그네도 있었다. 밤에는 삼계탕을 먹었다. 또 밤에는 귀뚜라미 소리도나고 아늑하기도 해서 나는 캠핑이좋다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212314</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방학</title>
+            <author id="P12314" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정지후</author>
+        </sourceInfo>
+    </header>
+    <text date="20200201" subclass="null_할머니 댁">
+        <p>할머니 댁에 갔다.</p>
+        <p>할머니 댁에서 &name1&를 만났다.</p>
+        <p>&name1&가 나한테 헬로카봇을줬다.</p>
+        <p>&name1&가 준 로드세이버가 제일 좋았다. 식당에 있는 놀이방에서 공놀이를했다. 그리고 나는</p>
+        <p>로박스를많이 땄다. 내가 1등을 했다.</p>
+        <p>또고깃집 아줌마가사탕을</p>
+        <p>줬다.   오늘은 정말 최고로 좋았다.</p>
+    </text>
+</SJML>

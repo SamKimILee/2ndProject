@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901411470</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무선 자동차</title>
+            <author id="P11470" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190105" subclass="null_무선 자동차">
+        <p>오늘 세종에서 할아버지와 동생과 놀았다.그때 무선 자동차를 사  버려서 거기서 갔고 놀았다. 참 재미있었다.</p>
+    </text>
+</SJML>

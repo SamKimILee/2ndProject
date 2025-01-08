@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611780</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑하는 엄마에게</title>
+            <author id="P11780" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">유수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마 생신">
+        <p>- 사랑 하는엄마에게-</p>
+        <p>happy birthday~엄마 생신 축하드려요 앞으로 건강하시고 행복하세요 코로나19 조심히세요 형이랑 저를 낳아줘서 고맙습니다. 엄마 사랑해요~</p>
+    </text>
+</SJML>

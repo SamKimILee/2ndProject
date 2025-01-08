@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900503088</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>애정결핍</title>
+            <author id="P03088" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="필요">
+        <p>
+            <s>그녀는 당신이 필요했다.</s>
+            <s>그녀는 사랑이 필요했다.</s>
+            <s>그녀는 애정이 필요했고</s>
+            <s>그녀는 온기가 필요했다.</s>
+        </p>
+    </text>
+</SJML>

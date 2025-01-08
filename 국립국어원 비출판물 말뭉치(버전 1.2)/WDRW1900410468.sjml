@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410468</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축제</title>
+            <author id="P10468" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">서율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_꽃축제">
+        <p>일요일에 호수마을에 꽃축제를 해서 엄마,아빠,이모를따라갔다. 채험관이있어서 들어갔는데 '화분 만들기 체험'이 있어서 만들었다. 엄마, 아빠것도샀다. 재미있었다.</p>
+        <p>20199월24일 이름:&name1&</p>
+    </text>
+</SJML>

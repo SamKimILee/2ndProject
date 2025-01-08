@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210170</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방송댄스</title>
+            <author id="P10170" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191228" subclass="null_피구">
+        <p>제목:방송댄스</p>
+        <p>방송댄스에서 피구를 했다.</p>
+        <p>나와 &name1&이,&name2&언니,&name3&이,&name4&이 등이 같은 팀이었다. 그리고 &name5&언니,&name6&언니 등이 상대 팀이었다.그런데 내가 우리팀에이스였다. 첫번째 판에서 시작한지 몇 분 안돼서 우리 팀은 나 밖에 안 남았다. 첫판은 상대팀이 이겼고 두번째판은 우리팀이 이겨 1:1 무승부로 끝났다. 그래서 나는 다음에 꼭이기고 싶다.</p>
+    </text>
+</SJML>

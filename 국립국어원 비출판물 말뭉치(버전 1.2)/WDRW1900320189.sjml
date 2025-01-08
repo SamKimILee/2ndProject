@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320189</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>색깔종이</title>
+            <author id="P20189" age="12" occupation="초등학생" sex="M" submission="오프라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_색깔종이">
+        <p>
+            <s>색깔종이</s>
+        </p>
+        <p>
+            <s>파란 종이에 아빠 신발 그리고</s>
+            <s>분홍 종이에 엄마 가방 그리네</s>
+        </p>
+        <p>
+            <s>할아버지의 손수건은 회색 종이로</s>
+            <s>할머니의 목걸이는 노란 종이로</s>
+        </p>
+        <p>
+            <s>초록 종이에 동생 모자 그려볼까</s>
+            <s>흰 종이에 내 마음 그려볼까</s>
+        </p>
+    </text>
+</SJML>

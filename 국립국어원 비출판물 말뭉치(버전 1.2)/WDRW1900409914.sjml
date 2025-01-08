@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409914</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀이터</title>
+            <author id="P09914" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">현민서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="놀다">
+        <p>
+            <s>놀이터는 이제 없어질 것 같아</s>
+        </p>
+        <p>
+            <s>사람들은 모두 휴대폰만 하니까.</s>
+        </p>
+        <p>
+            <s>그렇다고 휴대폰이 없어지면</s>
+            <s>정말 불편해질거야</s>
+        </p>
+        <p>
+            <s>어쩜 좋을까 이상황을</s>
+        </p>
+    </text>
+</SJML>

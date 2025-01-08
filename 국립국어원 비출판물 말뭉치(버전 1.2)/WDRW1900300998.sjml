@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300998</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>위로</title>
+            <author id="P00998" age="31" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="마음">
+        <p>나는 지금 심각한데 그 아이에겐 너무도 별 거 아닌 일이다. 그런데 그렇게 가볍게 치부해버리는 친구의 말에서 묘한 위로를 느낀다. 아니, 안도감이 생긴다. 어쩌면, 정말 별 거 아닌 일일 수도 있겠구나.</p>
+    </text>
+</SJML>

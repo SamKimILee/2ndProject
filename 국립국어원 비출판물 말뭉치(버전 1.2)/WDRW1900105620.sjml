@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105620</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오랜만의 독서</title>
+            <author id="P05620" age="28" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_독서">
+        <p>고등학교 때 이후로 오랫동안 소설을 읽지 않았다. 나에게 이야기들이 사치처럼 느껴 졌었던 때가 있었다. 그래서 읽어보고자 하는 책들의 노선을 잔뜩 바꿔봤지만 내 취향이 아니었나 보다. 독서량은 그대로 곤두박질 쳤고 점점 책에서 멀어져 갔다. 어제 정말 오랜만에 '나는 그것에 대해 아주 오랫동안 생각해' 라는 단편 소설을 읽었다. 단편이지만 단숨에 반절을 머리에 쥐가 날 정도로 몰입해서 읽었다. 마지막 문장이 여운이 남는 것들이 많았다. 그리고 소설들을 읽고 나서 느껴지는 섬세한 시각들이 상기되었다. 오랜만에 느껴보는 기분이었다.</p>
+    </text>
+</SJML>

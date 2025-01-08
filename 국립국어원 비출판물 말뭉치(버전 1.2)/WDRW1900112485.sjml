@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112485</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구</title>
+            <author id="P12485" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박윤영</author>
+        </sourceInfo>
+    </header>
+    <text date="20191010" subclass="null_친구">
+        <p>2019년 10월10일 친구</p>
+        <p>오늘은 친구와 함께 우리집에가서 놀자고 했다. 친구가 이렇게 말했다. "5시가되면학원가자" 결국 친구네집갔다가, 우리집에서 놀았다. 원래는 5시까지 놀기로 했는데 결국 6시까지 놀았다.</p>
+        <p>친구가 나가서놀제는데 안나가서 결국 내보 냈다. 간줄알았는데 다시또와서는 약속은 지켜야지! 라며 이불뒤집어쓰고 옷장을 발로 차기 시작했다. 친구에엄마가 오고나서야 겨우갔다. 재미있기도 했지많 힘들기도 했다.</p>
+    </text>
+</SJML>

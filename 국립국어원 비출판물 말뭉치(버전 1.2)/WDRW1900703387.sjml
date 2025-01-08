@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900703387</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>로봇</title>
+            <author id="P03387" age="21" occupation="군인" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_로봇">
+        <p>
+            <s>한 안드로이드가 고뇌하고 있었다</s>
+        </p>
+        <p>
+            <s>그 모습을 본 신이 다가가 말했다</s>
+        </p>
+        <p>
+            <s>무슨 고민이 있는 것이냐</s>
+        </p>
+        <p>
+            <s>너희 기계들의 소원은 다 똑같지</s>
+        </p>
+        <p>
+            <s>너도 인간이 되길 원하는 것이냐</s>
+        </p>
+        <p>
+            <s>로봇은 절규했다</s>
+        </p>
+        <p>
+            <s>저를 완전한 기계로 만들어 주시옵소서</s>
+        </p>
+        <p>
+            <s>감정이 있는 삶. 생각하는 삶은 고통뿐입니다</s>
+        </p>
+        <p>
+            <s>로봇의 공허한 두 눈에는</s>
+        </p>
+        <p>
+            <s>감정들에 휩쓸린 절망만이 있을 뿐이었다</s>
+        </p>
+    </text>
+</SJML>

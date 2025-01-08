@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교 못가는 날 </title>
+            <author id="P11570" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">하지연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>학교 못 가는 날</p>
+        <p>코로나 바이러스로 많은 사람들이 힘들다.</p>
+        <p>나도 힘들긴 마찬가지.</p>
+        <p>학교에 가고 싶은데 가지도 못하고,</p>
+        <p>집에서 숙제하고 TV만 본다.</p>
+        <p>이제 학교에 가나 싶으면 아직 하루도 지나지 않았다.</p>
+        <p>이거 완전 지옥이 따로 없다.</p>
+        <p>오늘도 집안에서 책가방만 바라본다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901920027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> 도서관가학원</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190807" subclass="null_도서관, 학원">
+        <p>8월 7일 수요일 날씨:변덕스러운날씨</p>
+        <p>나는오 늘 도서관가학원 을 갔 다</p>
+        <p>온디 엄마 한테허락을받 고 친구와 같이놀 았다나 는 친구와같이 분수 대에서 같이 놀았다 분수대에서는 물이 너무 셌다 나는 오래있지 않았지만 친구는 그걸 버티었다</p>
+        <p>분수대가 끝 나고 친구와 물 티기기 놀이도 했다 나는 신나게 놀고 집에왔다. 나는 오늘처럼 이렇 신나 는일이 한 번더 라도 왔으면 좋겠다, 나에 느낌점은 이런즐거운 하루를 보낸 시간이 보람이 라는 것 느끼었다</p>
+    </text>
+</SJML>

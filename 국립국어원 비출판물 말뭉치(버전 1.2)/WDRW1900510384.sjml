@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510384</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는</title>
+            <author id="P10384" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">엄수인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>
+            <s>매일이 한숨과 지옥의 반복</s>
+            <s>나는 그 속에서 젖어가는 가면이야</s>
+            <s>하얀 것과 검은 것</s>
+            <s>이젠 그 경계도 불분명 해진 걸.</s>
+        </p>
+        <p>
+            <s>하루는 눈물과 자조의 반복</s>
+            <s>나는 그 속에서 춤추는 삐에로야.</s>
+            <s>입꼬리를 올리고 눈을 접어 웃지.</s>
+            <s>입 속에는 칼을 눈 속에는 얼음을 넣어두고 살아가는 걸.</s>
+        </p>
+        <p>
+            <s>나는 매 순간이 아파</s>
+            <s>상처가 나지 않아도 피가 나</s>
+            <s>눈물을 흘리지 않아도 울음이 넘쳐</s>
+            <s>나는 그 속에서 숨쉬는 붉은 바다야.</s>
+        </p>
+    </text>
+</SJML>

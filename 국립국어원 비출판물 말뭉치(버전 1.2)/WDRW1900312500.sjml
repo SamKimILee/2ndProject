@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312500</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족과의 대화</title>
+            <author id="P12500" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정아민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191201" subclass="null_대화">
+        <p>&lt;가족과의 대화&gt;</p>
+        <p>가족과 대화를 했다. 주제는 나에다한 부모님의 고민과 해결방법및 약속이었다.</p>
+        <p>부모님의 고민부터 들어봤다. 아빠의 고민은 내가 나의 잘못을 인정하는 것이고 엄마는 여러 종류의 책으 골구루 읽는 것이다.</p>
+        <p>이 것은 해결방법과 약속이 똑같다.바로 나의 잘못을 인정하고 여러 종류의 책을 골구루읽는 것이다. 나는 이 약속을 꼭지키고 싶</p>
+    </text>
+</SJML>

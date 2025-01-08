@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110720</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿈일기</title>
+            <author id="P10720" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꿈">
+        <p>12월 30일</p>
+        <p>그 세계는 게임이었어. 이상하게 들리겠지만 정말로 그렇게밖에 표현할 수 없는 곳이었어.</p>
+        <p>나는 일단 눈앞에 있는 커다란 저택의 담을 뛰어넘었어. 어제 왔던 비가 고여있었지만, 큰 문제는 아니었거든.</p>
+        <p>담벼락에 걸터앉자(어떻게 이게 가능했는지는 나도 몰라. 일단 나는 체육 시간에 아이들끼리 피구할 때만 되면 혼자 남겨질 정도로 굉장한 몸치였고, 젖은 곳은 또 몸서리칠 정도로 싫어했거든.) 앞에 있는 집주인의 것으로 보이는 차가 있었어. 자동차의 뒤꽁무니 말이야. 올라가서 보고 있자니 살인을 저지른 증거였지 뭐야.</p>
+    </text>
+</SJML>

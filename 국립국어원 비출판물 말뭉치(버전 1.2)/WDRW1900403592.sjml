@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403592</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>해치지않아</title>
+            <author id="P03592" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화">
+        <p>해치지않아라는 영화를 보고 왔다. 출연진들이 다들 너무 좋아하는 배우라서 내용에 상관없이 무조건 봐야겠다라는 생각이었다.</p>
+        <p>근데 생각보다 재미있네. 소소하게 웃긴 장면들이 나오는게 나쁘지 않았다. 소재도 흔한것들이 아니라서 좋았다.</p>
+    </text>
+</SJML>

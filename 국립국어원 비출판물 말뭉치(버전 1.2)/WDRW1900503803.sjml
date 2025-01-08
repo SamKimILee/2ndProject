@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900503803</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>애정 마라샹궈</title>
+            <author id="P03803" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">조봄이</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사람">
+        <p>유명하다는 성신여대 앞 애정 마라샹궈에서 닥봉탓피 멤버로 샹궈 고기 듬뿍 넣어서 조짐! 투썸가서 유자프라페 마시고 수다떨다가 애들 눕방 소식에 단체로 뒤집어짐... 하남돼지집에 가서 저녁 먹고 헤어졌다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서점</title>
+            <author id="P10570" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김아인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200121" subclass="null_서점">
+        <p>수유역에 있는 서점에 갔다.</p>
+        <p>서점에 가기전에 책을 사기싫어서 1권만 사기로 엄마와 이야기했었다. 그런데 서점에 가서 너무 사고싶은 책이 많았다. 누나가 하고있는 만점왕이 있어서 신기했다. '최강 몬스터왕',최강요괴왕,최강동물왕,최강공룡왕 이있었다. 도서관에서 읽은 책 이 었다. 엄청 고민하다가 런닝맨책을 샀다. 괜히 한권만사 자고했다.</p>
+        <p>아쉬웠다.</p>
+        <p>오늘의 한 일 서점</p>
+    </text>
+</SJML>

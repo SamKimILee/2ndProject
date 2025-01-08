@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403167</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목 없음</title>
+            <author id="P03167" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_양꼬치">
+        <p>오늘은~ 친구들이랑 답십리에 가서 양꼬치 먹었다. ㅇㅇ이한테 어떻게 알았냐고 했더니 아빠가 알려주셨다고 했다 ㅋㅋㅋ 중국인이 하시는데 가격도 저렴했다. 양꼬치 4인분에 음식하나랑 맥주 3병 먹었는데 81,000원 나왔당 . 만-족 ㅇㅇ이가 생일선물을 맘에 들어할지 모르겠당 양꼬치 먹을 때 비가 포슬포슬와서 좋았다.</p>
+    </text>
+</SJML>

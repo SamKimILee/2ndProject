@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112194</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달고나 파티 1</title>
+            <author id="P12194" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효주</author>
+        </sourceInfo>
+    </header>
+    <text date="20171122" subclass="null_달고나 파티">
+        <p>제목:달고나 파티 2017년 11월22일</p>
+        <p>오늘은 달고나 파티에 갔다. &name1& 집에서 했기 때문에 &name1& 집에 놀러갔다. &name2&이가 1등,나와 &name3&이가 2등,&name4&이가 3등,&name5&와 &name6&이 오빠가 4등,&name7&이가 꼴찌로 왔다. 맛있고 재미있었다.</p>
+    </text>
+</SJML>

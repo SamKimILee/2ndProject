@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511686</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 자라요</title>
+            <author id="P11686" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정이찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20191213" subclass="null_자라다">
+        <p>
+            <s>2019. 12.13.금</s>
+            <s>날씨: 시원 하다.</s>
+            <s>나는 자라요.</s>
+            <s>나는 작아요. 쇼파에</s>
+            <s>드러갈만큼 작아요.</s>
+            <s>그러치만 나는 자라요.</s>
+            <s>하루하루 조금씩조금씩.</s>
+            <s>마음이 쑥쑥을 쓸때 마음이</s>
+            <s>쑥쑥 자라요.</s>
+            <s>나는 자라요 처음 롤루코스터를</s>
+            <s>탈때 무서웠지만 만히만히 타보니까</s>
+            <s>무섭지 않아요.</s>
+            <s>나는 자라요. 스카이 워킹을</s>
+            <s>걸을땐 스카이 워킹에 있는 유리가</s>
+            <s>께져 바다에 빠질겄같았지만</s>
+            <s>이제는 무섭지 않아요.</s>
+            <s>나는 자라요.</s>
+            <s>월랜 쇼파 밑에 들어 갈수 있었는데 이젠</s>
+            <s>못들어 가요.</s>
+            <s>나는 자라요 밥을 골고루 먹을때 마다 아주 조금씩 자라요.</s>
+            <s>나는 자라요. 키즈 카페에 있는 방방이에 못들어 갈 만큼 자라요.</s>
+            <s>나는 자라요. 동생이 조아하는 옷을 입혀줄때 마음이 자라요.</s>
+        </p>
+    </text>
+</SJML>

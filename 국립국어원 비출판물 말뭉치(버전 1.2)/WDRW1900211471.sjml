@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211471</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이스크림</title>
+            <author id="P11471" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아이스크림">
+        <p>&lt;주제일기&gt;</p>
+        <p>&lt;주제: 아이스크림&gt;</p>
+        <p>내가 제일 좋아하는 아이스크림은 돼지바다. 속에는 딸기맛이 들어있고 바깥에는 초코맛이다.내가 돼지바를 좋아하는 이유는 다른 아이스크림보다 차갑지 않고 초코맛이 과자처럼 바삭이지 않고 부드럽기 때문이다.오빠가 스크류바를 제일 좋아한다.그 이유는 돌려 가면서 먹을 수 있고 딸기맛이 중독되기 때문입니다.그리고 베스킨 라비스에 있는 아이스크림 여러 종류에서 나는 초코맛에 들어 있는 아몬드 봉봉이 제일 맛있다.</p>
+    </text>
+</SJML>

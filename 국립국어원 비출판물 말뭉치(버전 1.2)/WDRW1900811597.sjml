@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여름</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_여름">
+        <p>
+            <s>여름</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>여름은</s>
+            <s>덥다.</s>
+        </p>
+        <p>
+            <s>여름이</s>
+            <s>싫다.</s>
+        </p>
+        <p>
+            <s>끈적끈적</s>
+            <s>거리는</s>
+            <s>무더워</s>
+        </p>
+        <p>
+            <s>짜증난다</s>
+        </p>
+        <p>
+            <s>하지만</s>
+            <s>물 놀이</s>
+            <s>수박은</s>
+            <s>좋다</s>
+        </p>
+    </text>
+</SJML>

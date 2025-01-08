@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311708</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>과자파티</title>
+            <author id="P11708" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정영록</author>
+        </sourceInfo>
+    </header>
+    <text date="20190724" subclass="null_과자파티">
+        <p>제목:과자파티</p>
+        <p>오늘은 과자파티가 있는 날이다. 그런데 나는 오늘 과자파티가 있는 줄 몰랐다. 그래서 과자를 안 가져온 것이다. 왜 오늘 과자파티가 있는 줄 몰랐냐면 어제 했던 라면파티가 과자파티보다 중요하게 생각해서 그런 것이다. 그래서 앞으로 준비물은 그냥 칠판에 쓰여 있어도 알림장에 적어야겠다. 그리고 내가 과자를 안 가져왔는데도 초코칩쿠키를 나누어 주신 선생님이 정말 고마웠다. 앞으로 칠판에 쓰여 있는 것 말고도 선생님께서 말씀하시는 것도 꼼꼼하게 적으면 나에게 큰 도움이 될 것 같다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405635</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2019.10.25</title>
+            <author id="P05635" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_말">
+        <p>내뱉었어야만 했던 걸까. 요즘 신중히 행동하고 말하려는 노력을 많이 하는데 그만큼 내가 더 무거워지는 것 같다. 그렇게 하지 말라는 건 아닌데 매순간을 그렇게 살 수는 없지 않은가. 한번 사는 인생인데 마음껏 좀 해보면 어때.</p>
+    </text>
+</SJML>

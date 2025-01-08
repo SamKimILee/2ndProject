@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400881</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을의 일기1</title>
+            <author id="P00881" age="28" occupation="자영업자" sex="F" submission="온라인" handwriting="No">김은영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_달">
+        <p>달이 크게 떠서 사람들에게 이렇게나 긴 시간, 많은 일을 있게 했다.</p>
+        <p>우리가 사는 땅을 따라 도는 달이지만, 이렇게나 달은 우리의 사시사철을 좌지우지 하고 있었다.</p>
+        <p>그런 와중 나를 좌지우지 하려는 달도 많았다.</p>
+        <p>내 영역에 기여 하지는 않지만, 또 나를 소중하게 또는 중요하게 알거나 기억하지도 못하지만, 좌지우지는 하려는 조연들의 조언들은 많았다.</p>
+        <p>내 삶이 어떤 하나의 계界라면 그런 달은 떠돌다 소멸될 움직임에 지나지 않을 것이다. 그럼에도 근엄하고 고고한 목소리를 멈추지 않는 조연들은 끊임없이 내 세계에 머무르고 갈 것이다. 내가 그들에게 해줄 수 있는 것이 없다. 한 마디라도 무엇 하나라도 긍정적인 것들을 혹시나 얻어갈 수 있다면 참 좋을 텐데 말이다.</p>
+    </text>
+</SJML>

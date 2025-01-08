@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111506</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제주도</title>
+            <author id="P11506" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">홍진서</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_제주도, 제사">
+        <p>제주도에 다녀왔다. 할머니, 할아버지의 집에 아빠와 함께 다녀왔다. 엄마께서는 학교 상담때문에 못가셨다.</p>
+        <p>서울은 추웠는데 제주에 가니</p>
+        <p>공기가 맑았다. 나는 증조할머니 제사를 마치고 &name1&이 누나와 &name2&이와 놀았다. 고양이도 봤다. 고양이는 뚱뚱하고 검은색이었다. 마치 책 ‘게으른 고양이의 결심’에 나오는 주인공 고양이 ‘뒹굴이’ 같았다. 나는 고양이가 도망갈줄 알았는데 도망가지 않았다. 참 재미있는 제사였다.</p>
+    </text>
+</SJML>

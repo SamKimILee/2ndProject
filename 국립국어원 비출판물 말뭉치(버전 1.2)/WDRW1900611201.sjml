@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독감</title>
+            <author id="P11201" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권묘정</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_독감">
+        <p>
+            <s>(독감)</s>
+            <s>내가 독감에 걸렸섰다 쳐음에는 독감인지 몰랐는데 열이나서 병원을 가서 알게데었다. 너무너무 힘들었다. 열이많이 났다. 그레도 나도 의사 가 되서 만은 사람들을 도와 쥬여야겄다.</s>
+        </p>
+    </text>
+</SJML>

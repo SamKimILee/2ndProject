@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900608502</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 메모</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빛과 어둠</title>
+            <author id="P08502" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">박주연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_어둠">
+        <p>모든 게 낯선 이 공간에 나는 홀로 남겨졌다.</p>
+        <p>세상을 비추는 밝은 빛, 수많은 이들의 얼굴에 지어진 행복한 미소, 귓가에 들려오는 조잘조잘 말소리</p>
+        <p>이 모든 것은 나를 위한 게 아니다.</p>
+        <p>밝은 빛 아래에 선 내게는 어둠이 드리웠고, 그에게 잡혀 옴짝달싹 하지 못한다.</p>
+    </text>
+</SJML>

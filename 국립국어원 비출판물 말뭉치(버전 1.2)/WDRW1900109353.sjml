@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109353</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>끝은 있다</title>
+            <author id="P09353" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="끝">
+        <p>
+            <s>끝은 존재한다.</s>
+            <s>달리기에도 골인지점이 있고</s>
+            <s>시험에도 마지막이 있듯이.</s>
+        </p>
+        <p>
+            <s>끝은 존재한다</s>
+            <s>치킨에도 마지막이 있고</s>
+            <s>땅에는 지평선이 있듯이</s>
+        </p>
+        <p>
+            <s>끝은 없을까?</s>
+            <s>지평선 너머에도 땅이있고</s>
+            <s>우주너머에는 우주가 있는데.</s>
+        </p>
+        <p>
+            <s>끝은 없다.</s>
+            <s>사랑에도 끝이 존재할까.</s>
+            <s>너를 좋아하는 마음에도 끝이 존재 할까.</s>
+        </p>
+    </text>
+</SJML>

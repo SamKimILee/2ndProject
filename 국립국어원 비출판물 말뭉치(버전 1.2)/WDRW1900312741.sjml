@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312741</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>심장</title>
+            <author id="P12741" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190215" subclass="null_생명과학">
+        <p>2019년 2월 15일 금요일</p>
+        <p>&lt;심장&gt;</p>
+        <p>생명과학 방과후 에서 심장에 대해 알아봤다. 심장이 무슨일을 하는지, 얼마나 중요한지 알았다. 내몸에서 중요한 심장!</p>
+    </text>
+</SJML>

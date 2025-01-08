@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412275</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방방</title>
+            <author id="P12275" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">전승훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190812" subclass="null_방방">
+        <p>제목: 방방</p>
+        <p>친구들이랑 모여서 방방에서 놀았다. 중간중간 싸우긴했다. 그래서집에 와서 반성문 썼고, 엄마가돈주고 우리 한테 놀게 하는데 엄마는 실망했다고 한다. 다음에는 실망안시키고 돈 안 아깝게 할것이다. 그리고 또 재밌게 놀것이다.</p>
+    </text>
+</SJML>

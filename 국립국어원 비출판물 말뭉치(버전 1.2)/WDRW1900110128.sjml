@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110128</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>얼굴</title>
+            <author id="P10128" age="64" occupation="전업주부" sex="F" submission="온라인" handwriting="No">전매화</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="얼굴">
+        <p>
+            <s>방긋방긋</s>
+            <s>웃는 동생 얼굴</s>
+            <s>이쁘기도 하여라</s>
+        </p>
+        <p>
+            <s>울긋불긋</s>
+            <s>우는 오빠 얼굴</s>
+            <s>나쁘기도 하여라</s>
+        </p>
+        <p>
+            <s>그래도 이쁜 내새끼들</s>
+            <s>사랑한다 사랑해</s>
+        </p>
+    </text>
+</SJML>

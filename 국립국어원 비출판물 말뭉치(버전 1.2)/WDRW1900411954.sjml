@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411954</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구집에 놀러 갔던날</title>
+            <author id="P11954" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최우성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>오늘 바이올린 수업하고 친구 집에 놀러 갔다. 친구가 모두에 마법이라는 보드 게임을 했는데 승부는 나지가 않아서 그냥 무승부로 끝 냈다. 집에 가는게 너무 아까웠다. 친구는 게임 다  안 끝 났는데 갔다고 울었다. 그래서 나도 슬펐다. 내가 가기 싫다니까 않돼다고 했어 아까웠다.</p>
+    </text>
+</SJML>

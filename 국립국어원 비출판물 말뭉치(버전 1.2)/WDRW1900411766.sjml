@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411766</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교</title>
+            <author id="P11766" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">백인혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20200121" subclass="null_서스콜라스">
+        <p>오늘 아침에 아침밥을 먹고 6학년6반에서스콜라스를 했다. 동영상도 보고 만들기도 했다. 너무재미있었다.그런데너무피곤했다.나중에 또하면 좋을것같다.그리고 역사를조금배워서 조금알게되었다.그리고 학원가고 집에왔다 정말 좋은하루였다.</p>
+    </text>
+</SJML>

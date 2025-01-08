@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900620062</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P20062" age="7" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_축구">
+        <p>오늘도 나는 어제 처럼축구연습을 했다 나는 5년전 부터 프로 축구선수를 하고 있다. 나는 &name1&이와 같은 팀에서 같이 선수를 하고 있다.초등학교 1학년때 같이 축구 활동한 것이 계기가 되어 현재도 같이 선수생활을 하고 있다. 내일 경기에선 이겨야지♡</p>
+    </text>
+</SJML>

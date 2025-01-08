@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309871</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>칠판앞에 나가기 싫어!</title>
+            <author id="P09871" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20190307" subclass="null_칠판 앞">
+        <p>아이에게</p>
+        <p>안녕? 나는 &name1&야. 나도처음에는 칠판앞에나가는게싫었어. 근데 나도 조금 있다 보니 칠판에 나가는 게 좋아 졌어.</p>
+        <p>너는 이제 목요일이 제일 좋겠네? 나는 수요 일 이 가 ~ 장 좋은데, 너는 그동안학교다 니 는게 싫었지?. 그치만 이제는 좋잖아. 나도 3학년되고나서 부터 새로운 과목도 많이 생겨서 학교가는 것도 아주 좋아 졌어.너도 이제 부터학교 가는 게 좋겠네.너는 어떤과목이 제일 좋아? 나는다~좋은데.</p>
+        <p>그럼,안 ~녕!</p>
+    </text>
+</SJML>

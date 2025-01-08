@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>흐름</title>
+            <author id="P05026" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="변화">
+        <p>변화의 흐름에 편히 몸을 맡기는 건 어려운 일이다. 특히 학생에게 있어 변화란, 많은 경험을 갖지 못한 사람에게 새로움을 요구하는 거라 나는   변화의 갈림길에서 지그재그로 걷는다. 너넨 무슨 걱정이 있겠니~ 너넨 공부걱정만 하면 된다~하는 소리를 밥먹듯이 듣는 나이지만, 오히려 그런 나이기에 아주 작은 변화의 숨소리 하나에도 휘청거린다.</p>
+    </text>
+</SJML>

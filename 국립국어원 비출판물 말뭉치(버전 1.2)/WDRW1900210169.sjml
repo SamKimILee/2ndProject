@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210169</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교</title>
+            <author id="P10169" age="61" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="학교">
+        <p>나는 한동안 교사생활을 했었다. 정교사로 살다가, 아이를 키우기 위해 퇴직을 했고 주변에서는 그 좋은 평생 직장을 그만뒀냐고 타박을 했지만 나는 그 결정에는 후회가 없었다. 생계가 곤란하여 나중에 기간제 교사로 학교로 돌아갔다. 내 젊은 시절에 여자가 대학을 나와 하기에 가장 적합한 직업이 교사였다. 학교를 나가지 않을 때도 학원이나 과외선생 등, 늘 가르치는 일을 한 덕에 교사가 내 천직인 줄 오해하는 사람들도 많았다. 하지만 학교를 나가는 것은 늘 부담이었다. 쉰이 넘어 더이상 기간제 교사로 채용되지 못하여, 학교를 나가지 않은 지 몇 년이 지난 시점까지도 나는 수업에 들어가야하는데 내가 가야할 교실을 찾지 못해 헤매는 악몽을 꾸곤했다.</p>
+    </text>
+</SJML>

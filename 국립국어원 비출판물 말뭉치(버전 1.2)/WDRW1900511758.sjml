@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511758</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 살고 싶은 집을 상상해서 소개하기</title>
+            <author id="P11758" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">노현철</author>
+        </sourceInfo>
+    </header>
+    <text date="20190929" subclass="null_집">
+        <p>2019. 9. 29. 일</p>
+        <p>&lt;내가 살고 싶은 집을 상상해서 소개하기&gt;</p>
+        <p>내가 살고 싶은 집은 이렇게 생겼다. 집은 4층집이고 100평이다. 집안에 엘리베이터가 있다. 왜냐하면 1층에서 2층,3층 4층까지 계단 올라가기 힘들어서 이다. 하지만 계단도 있다. 우리집은 100평이니까! 1층에는 엄청 큰 부엌이 있고 85인치 티비가 있다. 그리고 리클라이너 쇼파도 있다. 2층에는 점핑파크가 있다. 너무 커서 우리가족 네명이 눕고도 어른 16명이 누울정도다. 3층에는 수영장이 있다. 너무 크다. 다이빙하는데가 위로 4개가있다. 그리고 물이 따듯하고 벌레가 못들어오게 아주 깔끔하게 되어있다. 마지막 4층이다 4층에는 밤에 별을 보면서 디저트를 먹는데가 있다. 빨래도 자동으로 말려주는 기계가 있다. 그것도 1초만에 말린다</p>
+    </text>
+</SJML>

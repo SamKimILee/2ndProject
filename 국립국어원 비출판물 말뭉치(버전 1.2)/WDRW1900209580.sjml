@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>조사</title>
+            <author id="P09580" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김태연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_조사">
+        <p>a는 오늘도 밤을 지새우고 b는 오늘도 밤을 남김없이 먹어치우고 c는 아무것도 모른 채 허공의 시간을 둥둥 떠나닐 뿐이며 d는 그저 낮의 시간만을 음미하며 보랏빛 이불 속에서 꿈을 꾸려 애쓰고 e는 이 모든 것을 지켜보며 등잔 밑에 숨어들었다.</p>
+    </text>
+</SJML>

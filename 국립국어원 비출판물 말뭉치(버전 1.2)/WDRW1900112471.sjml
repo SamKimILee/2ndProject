@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112471</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독서</title>
+            <author id="P12471" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김경환</author>
+        </sourceInfo>
+    </header>
+    <text date="20181202" subclass="읽다">
+        <p>나는 오늘 독서 통 장목표를 달성했다. 기분이날듯이좋았다. 다음엔 책 을 더많이 읽고싶다. 목표달성한게기분이 너무너무좋았다. 그리고게휙도만들었 다. 오늘기분이 너무좋았다. 다음에 더 더 책읽 어야 겠다.</p>
+    </text>
+</SJML>

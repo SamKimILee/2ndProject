@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방방이 방에 갔다.</title>
+            <author id="P12638" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_방방">
+        <p>방방이 방에 갔다.</p>
+        <p>비가 와서 사람들이 많았다. 그래서 사람이 별로 없는 구석을 찾았다.</p>
+        <p>매달려서 쿠션을 지나가는 미션이었다.</p>
+        <p>악어가 있는 정글에서 나무 덩쿨에 매달려 악어를 피해 가는 느낌이었다.</p>
+        <p>아슬아슬하고 재밌었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409893</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 가족을 소개합니다.</title>
+            <author id="P09893" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190312" subclass="null_우리 가족">
+        <p>제목-우리 가족을 소개합니다.</p>
+        <p>우리 가족은 아빠, 엄마,나 세 식구입니다. 아빠는 그림을 잘그리 십니다. 우리 집에는 아빠가 그리신 동물 그림이 있습니다. 호랑이,강아지,부엉이,늑데,여우,표범을 그리셨 습니다. 다음에는백호호랑이를 그리신다고 하십니다. 그리고 아빠는 게임을 잘 하십니다. 엄마는 회사일로 바쁘십니다. 하지만 주말에는 나와 많이 놀아 주십니다. 그리고 맛있는 음식도 많이 해주십니다.</p>
+        <p>나는 축구를 좋아하고 잘함니다.그리고 줄넘기 도 잘합니다.그리고 체육을 좋아함니다. 우리 가족하고 아주아주 행복하개 살고 싶고 오래오래 살고 건강하게 지내고 싶습니다. 가족과 함께 가족여행을 많이하고싶습니다. 즐거운 추억을 만들고 싶어요.</p>
+    </text>
+</SJML>

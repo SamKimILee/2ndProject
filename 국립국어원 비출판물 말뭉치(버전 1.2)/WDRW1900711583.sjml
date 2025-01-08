@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711583</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>반갑다, 새해</title>
+            <author id="P11583" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200101" subclass="null_새해">
+        <p>2020년 새해가 밝았다.</p>
+        <p>새해를 맞아서 아침 일찍 일어나 해맞이를 갔다. 유명한 장소는아니 었지만 사람이많아서 깜짝놀랐다. 해는 다 떴는데, 구름에 가려서 제대로보지 못해 아쉬웠다. 그래도 구름에 가려진 해에게 올해소망을 빌었다. 2020년도 파이팅!</p>
+    </text>
+</SJML>

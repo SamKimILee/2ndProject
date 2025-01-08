@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112467</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 대구에 계신 외할머니 외할아버지께</title>
+            <author id="P12467" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">하수진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>TO. 할아버지, 할머니께-♡</p>
+        <p>안녕하세요? 할머니,할아버지, 저 &name1&이예요.</p>
+        <p>신종코로나때문에 할머니,할아버지를 댁에 가지 못해 아쉬워요. 코로나바이러스가 끝나면 자유롭게 놀러가서 &name2&언니도 보고 할머니,할아버지도 방문할 수 있는데..... 신종코로나 바이러스가 끝나면 (언제 끝날진 모르겠지만 ㅠ ㅠ ) SRT 타고 슝~! 내려갈게요. 그리고 이런 상황에 웃으라고 보내주신 수수께끼영상 감사해요. 진짜 재밌었어요. 상황이 않 좋으니 항상 건강조심하고 잘~ 지내세요!</p>
+        <p>신종코로나 바이러스! 우리나라에서 떠나버려!</p>
+        <p>할머니,할아버지 사랑해요.</p>
+        <p>&name1&-드림(올림)</p>
+    </text>
+</SJML>

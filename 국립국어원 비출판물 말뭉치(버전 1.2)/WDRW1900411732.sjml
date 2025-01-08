@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411732</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>첫술에 배부르랴</title>
+            <author id="P11732" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200503" subclass="null_피아노">
+        <p>5월 3일 (金)</p>
+        <p>긴팔 실내복에서 반팔로 변신!!!</p>
+        <p>&lt;첫술에 배부르랴&gt;</p>
+        <p>오후에 엄마가 피아노를 한번 쳐보라고 하셨다. 나는 잘 칠 수 있는 '작은 동물원'이나 '수박파티'를 치고 싶었지만 엄마는 '나처럼 해봐라'를 쳐보라고 하셨다.</p>
+        <p>'아, 그건 한 번도 안 해본 거라 자신 없는데 아니나 다를까 양손으로 쳤더니 박자 맞추기가 어려워서 계속 틀렸다.</p>
+        <p>엄마는 처음이라 그렇다고 차근차근 해보자고 하셨지만 짜증이 나서 제대로 되지 않았다. 결국 엄마도 화가 나셔서 피아노 연습은 그렇게 끝났다.</p>
+        <p>그러고 보니 '작은 동물원'도 어렵다고 지난주엔 짜증 냈었는데 지금은 쉽다. 좀 어려워도 내일 다시 해봐야 겠다.</p>
+    </text>
+</SJML>

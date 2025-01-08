@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112371</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놀이터에서 개미 잡는거</title>
+            <author id="P12371" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">강선우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_개미">
+        <p>점심 밥을 먹고 놀이터에서 잠시 놀았다. 누나가 개미잡기놀이를 하자고 말했다. 조금 있다, 누나친구가 왔다. 그래서 개미잡기가 시작 된거다. 누나가 가져온 상자에 개미를 잡아 넣었다. 수는 다섯마리였다. 개미를 잡을 때 느낌이 간질어서 재미있었다.개미를 잡는게 이렇게 재밌을 줄 몰랐다.개미잡기를 또 하고싶다. Bye~</p>
+    </text>
+</SJML>

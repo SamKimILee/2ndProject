@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112025</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>크리스마스파티</title>
+            <author id="P12025" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191224" subclass="null_크리스마스파티">
+        <p>오늘&name1&집에서&name1&,&name2&이,&name3&이, &name4&이,&name5& 와 함 께 크리스마스파티를 했다. 맛있는것도 먹고 재밌게놀았다. 친구들과 산타할아버지한테편지쓰기도 하고학교놀이랑선생님놀이도했다. 이번크리스마스 파티는친구들 과같이해서 즐거웠다.</p>
+    </text>
+</SJML>

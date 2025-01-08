@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311044</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기들</title>
+            <author id="P11044" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">방현비</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>함부로 애틋한 듯 속아넘어갔고 애절하게 믿었고 최선을 다해 사랑했고 당신께 좋은 사람이 되기 위해 타인의 다정을 모사해 몸에 익혔는데 돌아오는 건 이것뿐이구나. 그럼에도 나는 당신을 돌아설 수가 없다. 나는 왜. 당신 같은 사람이 나를 좋아한다는 게 말이 되지 않았지. 너는 나를 사랑할 이유가 없고 나는 네게 사랑받을 자격이 없어. 그 사실이 너무도 선연하게 다가와서 괴로웠고 소리를 바락바락 지르며 나는 나를 원망했다. 그때까지만 해도 나는 당신을 원망하고 있다 생각했지만 어쩌면 그 생각이, 내가 당신을 사랑하고 있다는 말을 에둘러 표현한 걸지도 모르겠다.</p>
+    </text>
+</SJML>

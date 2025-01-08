@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211262</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>지도그리기</title>
+            <author id="P11262" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박주율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190826" subclass="null_지도">
+        <p>제목:지도 그리기</p>
+        <p>학교에서 지도 만들기를 했다. 우리모둠이 지도를 그리는데 싸움이 일어났다. &name1&이가 &name2&이와 &name3&이가 그림을 못 그린 다고 말 해서다.&name2&, &name3&이 이렇게 한팀, 나, &name4&, &name1&이 한팀이 돼어버렸다. 각자 그림을 그릴때 살짝 &name2&이와&name3&이가 그린 그림을 보았다. 나쁘지 않았다. &name1&이와 &name2&이,&name3&이의 싸움이 다시 일어났다.&name1&이가 기분나빠서 지도를 구겨버렸다. 나는 구겨진 지도를 폈다.앞으로 싸움이 이러나지 않게 조심해야겠다.^^~</p>
+    </text>
+</SJML>

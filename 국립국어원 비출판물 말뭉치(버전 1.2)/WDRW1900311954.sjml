@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311954</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>롤러스케이트</title>
+            <author id="P11954" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최우성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_롤러스케이트">
+        <p>오늘 롤러스케이트를 타러갔는데 헬맷 때 문에 늦게했다. 형아랑 누나 두명이랑 나랑 여자친구 2명이 왔다. 같이타면서 재미있게 놀다가 힘이 갑자기 쭉 빠져 가지고 과자를 먹었다. 밤에 떡볶이 집에갔는데 맛이 없어서 집에서 치킨을 먹었다. 배가고팠는데 다행이였다. 다음번에는 어제 보다 더 빨리 탈 수 있을 것 같다.</p>
+    </text>
+</SJML>

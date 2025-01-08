@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 하루</title>
+            <author id="P11071" age="62" occupation="자영업자" sex="F" submission="온라인" handwriting="No">김정순</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나, 화원">
+        <p>내 나이 60대지만 나는 일자리를 갖고있는 행복한 사람이다.</p>
+        <p>오늘도 아침 일찍 화원으로 출근했다.</p>
+        <p>요즈음은 코로나 때문에 화원에 꽃 사러 오시는 분들이 별로 없다.</p>
+        <p>하루종일 손님을 기다렸지만 고작 두분밖에 오질않았다.</p>
+        <p>다른 때 같았으면 손님들 봄꽃사러  문전성시를 이룰때지만</p>
+        <p>요즈음은 코로나 때문에 손님이 오질않아  큰 걱정이다.</p>
+        <p>이대로 가다가는 생계에 걱정 임대료 걱정 모든 걱정이 태산이다.</p>
+        <p>내일은 또 몇 분이나 오실까 걱정된다.</p>
+        <p>코로나가 하루 빨리 종식되어서 봄꽃사러 오시는 손님이  많이 오셨으면 좋겠다,</p>
+    </text>
+</SJML>

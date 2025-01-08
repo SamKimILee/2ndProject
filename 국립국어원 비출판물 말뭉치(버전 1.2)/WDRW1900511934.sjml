@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511934</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>산타할아버지께</title>
+            <author id="P11934" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">양태민</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_산타할아버지">
+        <p>이름: &name1& 메리크리스마스 사랑해요.♡</p>
+        <p>사랑하는아빠엄마께. 저는산타할아버지께무한스핀를바고십어요고마워요.</p>
+        <p>&name1&올림</p>
+    </text>
+</SJML>

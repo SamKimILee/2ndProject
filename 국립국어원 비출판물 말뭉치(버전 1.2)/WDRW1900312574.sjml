@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312574</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요리(쿠키)수업</title>
+            <author id="P12574" age="12" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">정지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200309" subclass="null_수업">
+        <p>제목 : 요리(쿠키)수업</p>
+        <p>오늘은 영어학원 선생님이 도장을 다모아서 쿠키수업에 보내주었다 가서 팀을 짰다.</p>
+        <p>나는 &name1&(&name2&동생)이랑하였고, &name2&&gt;이라&name3&이랑하였다.</p>
+        <p>먼저 재료준비를 하였다. 우리는 버터를 별로 안녹여서 조금 나랑 &name1&이가 조금 늦었다.</p>
+        <p>우리가 기계로 안하고 손으로하겠다고해서 손으로 했다. 나는 조금 후에가되었다.</p>
+        <p>너무 힘들었기 때문이다. 우리는 반죽을 다하고 ◉ &lt;-이렇게 짰다. 그러고 나서 쿠키를오븐에넣었다. 우린 바닐라하나, 초코하나를 만들었다</p>
+        <p>다하고 바닐라만 봉지에 놓고 쵸코는 초콜릿에 뭍였다 하나를 먹어보았는대 맛있었다. 다음에또만들고싶다..-끝-</p>
+    </text>
+</SJML>

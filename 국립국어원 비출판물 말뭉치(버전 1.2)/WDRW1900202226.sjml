@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202226</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신랑과 남편의 차이</title>
+            <author id="P02226" age="51" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_남편">
+        <p>흔히들 남편은 남의 편이라고 해서 남편이라는 말이 생겼다고 한다.</p>
+        <p>나는 그래서 정말 그럴꽈 27년의 결혼생활을 하고있지만 아지도 남편이라 부르지 않는다.</p>
+        <p>정망 남의 편이 될까봐서...ㅋㅋ</p>
+    </text>
+</SJML>

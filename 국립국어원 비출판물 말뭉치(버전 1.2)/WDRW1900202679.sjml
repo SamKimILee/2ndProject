@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202679</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 호수</title>
+            <author id="P02679" age="17" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_호수">
+        <p>
+            <s>넘치면 없느니만 못하다지만</s>
+            <s>내 호수는 언제나</s>
+            <s>너로 가득 차 있었다</s>
+        </p>
+        <p>
+            <s>욕심은 그득하여서</s>
+            <s>거친 비바람이 몰아쳐도</s>
+            <s>내내 너만을 갈망 하더랬다</s>
+        </p>
+        <p>
+            <s>내 호수가</s>
+            <s>너로 인해 젖을 수만 있다면</s>
+            <s>넘치더라도 그저 좋더라</s>
+        </p>
+    </text>
+</SJML>

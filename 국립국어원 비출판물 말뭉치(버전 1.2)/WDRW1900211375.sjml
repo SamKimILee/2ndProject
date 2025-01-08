@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211375</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>해 달 별</title>
+            <author id="P11375" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">백선영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_당신">
+        <p>
+            <s>당신은 나의 해</s>
+            <s>손발이 꽁꽁 얼 거 같은 날</s>
+            <s>혼자 추위에 떨지 말라고 따스히 감싸주는</s>
+        </p>
+        <p>
+            <s>당신은 나의 달</s>
+            <s>어둡고 쓸쓸한 밤</s>
+            <s>무서울까 밝은 빛이 되어주며</s>
+            <s>외롭지 말라고 말동무 되어주는</s>
+        </p>
+        <p>
+            <s>당신은 나의 별</s>
+            <s>고민에 빠져 허우적 거릴때</s>
+            <s>남들 보다 빛나라고 희망을 주는</s>
+        </p>
+        <p>
+            <s>당신은 나의 해 달 별</s>
+        </p>
+    </text>
+</SJML>

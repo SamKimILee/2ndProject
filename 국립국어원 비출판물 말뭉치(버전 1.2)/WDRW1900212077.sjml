@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212077</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>롯데몰</title>
+            <author id="P12077" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190106" subclass="null_친롯데몰">
+        <p>엄마와 &name1&이랑 롯데 몰에 갔다. 거기 에서 영화를 봤다.</p>
+        <p>멋진 주먹왕 랄프를 보았다.</p>
+        <p>소리가 너무 컸다.</p>
+        <p>그래서 그만 보고 싶었다.</p>
+        <p>다음에는 조용한 영화를</p>
+        <p>보고 싶다.</p>
+    </text>
+</SJML>

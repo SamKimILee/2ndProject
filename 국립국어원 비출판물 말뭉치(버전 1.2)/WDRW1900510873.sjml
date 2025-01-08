@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510873</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>되돌아보기</title>
+            <author id="P10873" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_후회">
+        <p>
+            <s>나는 가끔 내가 살아가는 것에 대한 일정량의 후회가 있었다. 그 후회는 모든 감정이 뒤섞인 듯한 흑색이자, 화마가 태우고 간 잿가루의 검정이었다. 후회는 점점 주변을 좀먹었고, 계속 커지며 나를 죄어왔다. 후회에 먹혀버린 나는 결국 우울감으로 뒤덮힌 잠을 자기 일쑤였다. 드물지 않게 울었고 으레 그런 밤엔 악몽을 꾸었다. 그 악몽 속의 나는 항상 죽음을 시도하고 있었다. 후회의 색 가운데에 서서 스스로의 목숨을 끊으려 했었다. 그런 악몽에서 깨면, 또 다시 감정은 울컥 차올라 얼굴에 쏟아져 내렸다. 슬픔, 아무것도 하지 못할 거라는 나의 무기력함이 슬펐고 나 자신이 너무 싫었다.</s>
+            <s>아주 지독한 자기혐오 덩어리였다, 나는.</s>
+        </p>
+    </text>
+</SJML>

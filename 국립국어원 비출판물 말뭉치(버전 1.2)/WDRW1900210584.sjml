@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210584</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나에게</title>
+            <author id="P10584" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나">
+        <p>안녕?지금 너에게 편지를 쓰고 있어ㅎ요즘 코로나 때문에 상황이 좋지않음에도 불구하고 밝고 긍정적으로 있어줘서 정말 고마워:))너무 불안해 하지말고 이 모습 이대로 때 타지 않은 모습으로 계속 있어줘.마지막으로  자신을 믿고 공부랑 실기도 소홀히 하지말고 나 자신을 계속 사랑하자!</p>
+    </text>
+</SJML>

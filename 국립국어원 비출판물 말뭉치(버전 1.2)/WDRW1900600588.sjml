@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900600588</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손이라면 좋겠어요</title>
+            <author id="P00588" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">김채영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>손이라면 좋겠어요. 당신이 내 손을 잡아줬으면 좋겠어요. 아프지 않게, 내가 어디로든 도망갈 수 있도록.</p>
+        <p>나를 잡아 끌고 또 밀어내며. 손이라면 좋겠어요. 내 손을 잡아줘요 제발.</p>
+        <p>거칠해도 좋아요. 주름지고 곡져 있어도 나는 상관없어. 나를 도망치게 만들어줘. 손이라면 좋겠어. 그게 적당하겠어</p>
+    </text>
+</SJML>

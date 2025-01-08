@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나19</title>
+            <author id="P11493" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이환희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나19">
+        <p>
+            <s>코로나19</s>
+            <s>코로나19는 왜이럴까</s>
+            <s>나를 집에가두고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>공부를 못하게 하고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>마스크를 쓰게하고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>사람들을 괴롭히고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>모두를 불안하게하고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>모임을 취소시키고</s>
+        </p>
+        <p>
+            <s>코로나19는 왜이럴까</s>
+            <s>행사를 못가게하고</s>
+        </p>
+        <p>
+            <s>환경아 미안해 내가 괴롭혀서</s>
+        </p>
+    </text>
+</SJML>

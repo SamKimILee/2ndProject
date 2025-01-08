@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110629</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>현대의 인류</title>
+            <author id="P10629" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">최한별</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사람">
+        <p>흔히 말하는 '좋은'사람, '훌륭한'사람에 맞춰 나를 가꿔나가도록 현대 사람들은 노력을 쏟아붓는다. 그게 자신과 맞는 일인지 아닌지가 중요하기보단 남들과 비교하였을때 어깨를 펼수있느냐 그렇지않느냐에 여부에 따라 결정되는 것 같다. 나처럼 무엇하나 또렷하지않은 일개 학생 한명한명마다 저마다의 가치관, 흥미, 특징이 다른걸 머리로는 아는데도 그저그런일에 몰두하려는 이유가 아닐까.</p>
+    </text>
+</SJML>

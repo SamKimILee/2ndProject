@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312524</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복한두더지아저씨</title>
+            <author id="P12524" age="7" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191129" subclass="null_독서">
+        <p>&lt;행복한 두더지 아저씨&gt;</p>
+        <p>나도 두더지아저씨처럼 행복하게 살고 싶다.</p>
+        <p>그리고 추운 사람에게 옷도 필려주고 다른 사람을 돕는 사람이 되고 싶다. 나는 행복하게 살고싶다.</p>
+    </text>
+</SJML>

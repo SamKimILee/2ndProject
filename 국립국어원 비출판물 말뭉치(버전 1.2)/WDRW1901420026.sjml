@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901420026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>저녁 먹은 날</title>
+            <author id="P20026" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_저녁">
+        <p>제목:&lt;저녁 먹은 날&gt;</p>
+        <p>엄마,오빠,나는 버스를 타고 &name1& 이 언니집에 갔다.</p>
+        <p>언니네 가족과 저녁을 함께 먹기로 했기 때문이다.</p>
+        <p>우리는 곱창을 먹었다.</p>
+        <p>곱창은 쫄깃쫄깃 하고 질기기도 했지만 맛있었다.언니랑 편의점도 가보고 정말 행복한 하루 였다.</p>
+    </text>
+</SJML>

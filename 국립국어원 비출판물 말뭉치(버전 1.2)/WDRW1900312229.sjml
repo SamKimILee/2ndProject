@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312229</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인라인을 탔어요</title>
+            <author id="P12229" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200118" subclass="null_인라인">
+        <p>1월 18일 토요일</p>
+        <p>제목:인라인을 탔어요</p>
+        <p>엄마랑 &name1&이랑 짐스포츠학원에 인라인을 배우러 갔다. 엄마랑 &name1&이는 밖에서 구경하고 나는 안전모와 안전 장비를 하고 언니오빠와 함께 인라인을 배웠다. 나는 레벨이 벌써사단게다.</p>
+        <p>나는 모래시게, 뒤로모래시게, A자, T자, C자,을 배웠다.</p>
+        <p>그중에서 제일 어려운건 C자이다. 열심히 배우고 재미있는 게임도 하고 즐겁게 수업을 마친후에 선경아파트에 인라인 연습을 하러갔다.</p>
+        <p>C자가 어려워서 계속 연습을 했다. &name1&이는 신나게 킥보드를 타고 나는열심히 인라인 연습을 했다. 인라인은 어렵지만 참 재미있다. 열심히 연습해서 인라인을 더잘탈수있었으면 좋겠다</p>
+    </text>
+</SJML>

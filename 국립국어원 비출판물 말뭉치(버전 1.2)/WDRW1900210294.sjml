@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210294</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>걱정</title>
+            <author id="P10294" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_걱정">
+        <p>2019.02.07 목요일</p>
+        <p>잠이 정말 안 오는데</p>
+        <p>내일 학교를 가야 한다</p>
+        <p>그래서 그냥 밤을 새기로 했다</p>
+        <p>갑자기 그런 생각이 들었다</p>
+        <p>나는 뭐가 될까</p>
+        <p>답이 안 나왔다 그냥 아무 생각도 안 났다</p>
+    </text>
+</SJML>

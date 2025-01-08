@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200907</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2019년 봄</title>
+            <author id="P00907" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_봄">
+        <p>봄에 대한 말장난을 좋아한다. 파란 봄과 청춘. 우울한 봄. 그리고 우울한 청춘. 우리의 봄은 정말 파랗고 생기 가득한 청춘인가? 돌이켰을 때 그 날들의 푸르고 말갛던 기억을 마냥 긍정할 수 있는가. 사실 그 이면에는 우울한 봄이 숨겨져 있지 않은가, 따위의 단계적인 질문을 거쳐 봄은 또 다른 우울이 된다. 새 학기와 먼지투성이 하늘과 적응하지 못한 채 불안한 나날. 넓게는 무엇보다 대학만을 목표로 할 수박에 없는 청춘 속의 우리들. 질리도록 새파란 봄이 가득하다.</p>
+    </text>
+</SJML>

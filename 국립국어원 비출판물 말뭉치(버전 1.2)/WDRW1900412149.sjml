@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412149</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세족식</title>
+            <author id="P12149" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190513" subclass="null_세족">
+        <p>오늘엄마 아빠발을 씻겨드렸다</p>
+        <p>근런데 내동생이 계속 나를</p>
+        <p>밀어서불편했다.</p>
+        <p>그리고힘들었다 근데 닦아주느라힘든게아니였다</p>
+        <p>발냄새때문이였다</p>
+        <p>근데내가어릴때를 생각하면엄마 아빠가 힘들었다는걸 알았다 암틈 힘들었다</p>
+        <p>그래서이제부터는 이런숙제는 안했으면좋겠다</p>
+    </text>
+</SJML>

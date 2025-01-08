@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612077</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>식당</title>
+            <author id="P12077" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190118" subclass="null_식당, 산책, 자전거">
+        <p>식당에 가서 새우 튀김이랑 우동을 먹었다.그래서 또 먹고 싶었다. 그치만 괜찮았다. 왜냐하면 커피숍 에 가서 아이스 초코라떼를 먹었기 때문이다. 또 먹고 싶었다. 아빠랑 엄마랑 바로 집에 와서 산책 하러 갔다. 나혼자 자전거 타고 엄마 아빠는 둘이서 걸어 갔다. 내가 처음으로 높고 긴 길을 혼자 다녀 왔다.</p>
+    </text>
+</SJML>

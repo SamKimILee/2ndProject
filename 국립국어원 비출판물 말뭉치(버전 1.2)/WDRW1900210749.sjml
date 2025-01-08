@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210749</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손</title>
+            <author id="P10749" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>
+            <s>손</s>
+        </p>
+        <p>
+            <s>우리 엄마 손</s>
+            <s>곱던 손이 언제 이렇게 터버렸나.</s>
+        </p>
+        <p>
+            <s>우리 아빠 손</s>
+            <s>부드럽던 손이 언제 이렇게 주름져 버렸나.</s>
+        </p>
+        <p>
+            <s>다 날 키우느라 변한 거겠지.</s>
+            <s>효도해야겠다.</s>
+        </p>
+    </text>
+</SJML>

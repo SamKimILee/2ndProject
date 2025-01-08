@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할아버지생신</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190714" subclass="null_할아버지생신">
+        <p>7월14일 날씨:갑자기비온날제목:할아버지생신</p>
+        <p>나는 차가 엄마 때문에 고장나서할아버지 댁에 늦게갔다 할아버지댁에서는 정말 맜있는 것 들을 먹었다 처음에는 할아버지 생신축하 노래를 불러주었다 식탁에는 아주많이 음식이 노여있었다</p>
+        <p>음식에는 족발, 잡채이런 등등등 먹음직스러운 음식이 노여있었다 밥을 다먹고 나서 나는 아빠랑자전거를타려는데비가 오는 바람에 타지못했다 나는 느낌점이 아빠와 함께 자전거를못한건 아쉬웠지만 할아버지를 오랜 만에보셔서 기분이 날아갈듯이좋아졌다</p>
+    </text>
+</SJML>

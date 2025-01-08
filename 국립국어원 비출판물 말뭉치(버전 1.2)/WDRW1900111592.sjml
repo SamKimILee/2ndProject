@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111592</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마가 출장에서  돌아온 날</title>
+            <author id="P11592" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">남주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200122" subclass="null_엄마">
+        <p>
+            <s>시입니다.</s>
+            <s>제목: 엄마가 출장에서 돌아온날</s>
+            <s>지은이:&name1&</s>
+            <s>3일을 기다렸다.</s>
+            <s>혼자 해 낼 것이 많았다.</s>
+            <s>엄마를 기다리는데 내 하루의시간은 36시간.</s>
+            <s>6시에 우리 둘은 만났다.</s>
+            <s>이산가족을 만나는것 같았다.</s>
+            <s>정말 좋았다.</s>
+        </p>
+    </text>
+</SJML>

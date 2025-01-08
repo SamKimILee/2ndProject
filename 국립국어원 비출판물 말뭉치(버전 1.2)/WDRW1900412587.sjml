@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412587</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안네의 일기</title>
+            <author id="P12587" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_안네의 일기">
+        <p>To. 안네</p>
+        <p>안네야 안녕? 너 정말 힘들었겠구나.</p>
+        <p>지금은 하늘나라에서 잘지내고 있지?</p>
+        <p>너가 쓴 일기가 정말 유명하졌단다!!</p>
+        <p>사실은 나도 너처럼 밖에 나가지못해.</p>
+        <p>왜냐하면 ‘코로나’라는 바이러스가 내가 사는 곳에서 빠르게 퍼지고 있대ㅜㅜ그래서 집에서만 갇혀있는 너가 너무 공감돼.</p>
+        <p>정말 정말 답답하고 친구들, 가족들이 너무 그립고 보고싶어.</p>
+        <p>니가 다음생에는 갇혀있지말고 행복하게 즐겁게 삶을 살면좋겠어!</p>
+        <p>안녕~!</p>
+        <p>from. &name1&</p>
+    </text>
+</SJML>

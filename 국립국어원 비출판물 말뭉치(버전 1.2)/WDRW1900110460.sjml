@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110460</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안전위생</title>
+            <author id="P10460" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200203" subclass="null_코로나 바이러스">
+        <p>신종 코로나 바이러스 때문에 마스크를 해야한다. 그런데 나는 마스크를 하는 무척 갑갑하고 불편 했지만 그래도 마스크를 착용했다. 나도 코로나 바이러스에 걸릴까봐 너무 무서웠다. 연구진과 의료진이 빨리 백신(치료제)을 만들었으면 좋겠다. 감염이 되지 않게 마스크를 열심히 껴야겠다.</p>
+    </text>
+</SJML>

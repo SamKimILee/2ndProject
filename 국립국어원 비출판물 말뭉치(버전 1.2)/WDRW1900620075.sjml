@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900620075</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기린</title>
+            <author id="P20075" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_기린">
+        <p>제목: 기린</p>
+        <p>기린은 키가커서 어른 세명의</p>
+        <p>키보다 크고 문늬도 많다.</p>
+        <p>기린은 불편할 때도 있다.</p>
+        <p>풀을 먹을 때 다리 목</p>
+        <p>을 구부려야 한다.</p>
+        <p>귀안쪽에는 털이 나있다.</p>
+        <p>기린은 목만 길지 않고</p>
+        <p>혀도 길다.</p>
+        <p>기린은 풀,양파,배추등 먹는다.</p>
+        <p>기린은 물은조금먹고 밥은많이 먹는데 응가는 조그만하고 오줌은 많이 눈다.</p>
+        <p>기린은 다리만 구부리고</p>
+        <p>목은 세우고잔다.</p>
+        <p>수컷은 머리에 있는 것이 울퉁불퉁</p>
+        <p>암컷은 털이 있다.</p>
+    </text>
+</SJML>

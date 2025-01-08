@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203383</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인물2</title>
+            <author id="P03383" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">이채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_습관">
+        <p>192cm. 길기만 하고 허약해 보이는 팔 다리. 몸통. 창백하고 깊고 어두운 인상. 푹 들어간 눈가.</p>
+        <p>쇳소리 가득한 긁는 듯한 목소리. 어찌보면 섬뜩해 보이기 까지.</p>
+        <p>가지고 있는 건 수첩과 펜 하나.</p>
+        <p>메모를 하는 습관이 있다.</p>
+    </text>
+</SJML>

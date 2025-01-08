@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105253</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감촉</title>
+            <author id="P05253" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_기억">
+        <p>
+            <s>아 야 어 여</s>
+            <s>어떻습니까</s>
+            <s>잘 모르겠습니다</s>
+        </p>
+        <p>
+            <s>오 요 우 유</s>
+            <s>어떤가요</s>
+            <s>조금 알 것도 같습니다</s>
+        </p>
+        <p>
+            <s>으 이.</s>
+        </p>
+        <p>
+            <s>한 번만 더 불러 주십시오</s>
+            <s>이번엔 알 수 있겠지요</s>
+        </p>
+    </text>
+</SJML>

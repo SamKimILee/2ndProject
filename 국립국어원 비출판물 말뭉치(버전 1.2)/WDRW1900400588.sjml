@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400588</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>저와 당신의 관계에 변화를 원해요</title>
+            <author id="P00588" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">김채영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="변화">
+        <p>저와 당신의 관계에 변화를 원해요. 사실 저는 당신에게서 주도권을 쥘 수 있는 아주 쉽고 간단한 방법을 알아요.</p>
+    </text>
+</SJML>

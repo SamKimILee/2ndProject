@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410081</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그냥</title>
+            <author id="P10081" age="16" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_사랑">
+        <p>
+            <s>제가 당신을 사랑하는 이유는 '그냥'이 좋겠습니다</s>
+            <s>별다른 이유 없이 '그냥'이 좋겠습니다</s>
+        </p>
+        <p>
+            <s>당신을 잘 몰라서가 아닙니다</s>
+            <s>당신을 사랑하지 않아서가 아닙니다</s>
+        </p>
+        <p>
+            <s>그 어떤 이유를 대도 부족하기에,</s>
+            <s>그리고 그 이유가 없어도 당신을 사랑하기에</s>
+            <s>'그냥'이 좋겠습니다</s>
+        </p>
+        <p>
+            <s>아무것도 말해주지 않아서</s>
+            <s>당신에 대한 모든 것을 말해줄 수 있는</s>
+            <s>'그냥'이 좋겠습니다</s>
+        </p>
+        <p>
+            <s>저는 당신을 '그냥' 사랑합니다</s>
+        </p>
+    </text>
+</SJML>

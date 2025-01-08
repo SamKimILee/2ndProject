@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211513</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고양이에게 밥주기</title>
+            <author id="P11513" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">방주현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190124" subclass="null_고양이">
+        <p>겨울방학</p>
+        <p>제목:고양이에게 밥주기</p>
+        <p>오늘 친할머니댁에서 동생&name1&와 사촌동생 &name2&,&name3&이랑 같이 놀러 마당에 나갔다. 그런데 고양이 한마리가 보였다. 그고양이는 여기에 자주오는 고양이다, 할아버지께서 가끔 그고양이에게 밥을 주신다.</p>
+        <p>나는그래서 닭가슴살을 뜯어서 고양이를 쫓아갔다. 고양이가 숨었다. 나는 닭가슴살을 고양이 앞에두었더니, 고양이가 앞으로나와 닭가슴살을 맛있게냠냠먹었다. 그래서 동태도주었더니 잘먹었다. 집으로 들어가서 &name3&이가 물었다</p>
+        <p>“고,고,고,고,양이 아지익도 있어?” (4살이라서아직잘발음을 못한다) 나는 밖을봤다 없었다. 내가 없다고 &name3&이에게말했다.</p>
+        <p>오늘은 정말 뿌듯한 날이었다.</p>
+    </text>
+</SJML>

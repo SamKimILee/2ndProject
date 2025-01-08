@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구와 걷던 길</title>
+            <author id="P11277" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">오은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>
+            <s>늘 친구와 함께 걸어 가던 길</s>
+            <s>친구와 둘이서 그 길을</s>
+            <s>함께 걸어 가다가 보면은</s>
+        </p>
+        <p>
+            <s>여러가지의 다양한 추억들이</s>
+            <s>많이 쌓이게 되네 시간이</s>
+            <s>점차 점차 흘러가게 되면은</s>
+        </p>
+        <p>
+            <s>그 길을 걸으면서 있었던 친구와 나의</s>
+            <s>여러가지 추억들을 떠올려보면</s>
+            <s>새록새록 기억나게 되네</s>
+        </p>
+        <p>
+            <s>나 혼자 그 길을 걷다가 보면</s>
+            <s>문득  나와 같이 그 길을 걷던</s>
+            <s>그 친구가 그립고 보고 싶어진다</s>
+        </p>
+    </text>
+</SJML>

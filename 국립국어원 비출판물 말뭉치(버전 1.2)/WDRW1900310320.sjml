@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310320</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바다</title>
+            <author id="P10320" age="15" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_바다">
+        <p>
+            <s>햇살이 내뿜는 빛에 선글라스도 끼지않고</s>
+            <s>눈 한번 찌뿌리지않고 반짝거리는 바다</s>
+            <s>언제들어도 좋은 파도소리와</s>
+            <s>사람들의 말소리가 섞인</s>
+            <s>약간의 소음 속에</s>
+            <s>있는 나</s>
+        </p>
+        <p>
+            <s>그 속에서</s>
+            <s>파도처럼</s>
+            <s>혼자만의 시간을 갖는다</s>
+            <s>점점 빠져든다</s>
+        </p>
+        <p>
+            <s>그렇게 시간이 흘러</s>
+            <s>바다와 나만의 시간이 찾아오면</s>
+            <s>말을 건네본다</s>
+        </p>
+        <p>
+            <s>"고마워"</s>
+        </p>
+    </text>
+</SJML>

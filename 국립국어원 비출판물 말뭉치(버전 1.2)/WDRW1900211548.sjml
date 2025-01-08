@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211548</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>뿌뜻함</title>
+            <author id="P11548" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이은채</author>
+        </sourceInfo>
+    </header>
+    <text date="20170507" subclass="null_느낌표">
+        <p>
+            <s>-뿌듯함-</s>
+            <s>&name1&</s>
+            <s>시험에 합격됬을 때,</s>
+            <s>“앗싸! 붙었다!”</s>
+            <s>숙제를 다 했을 때,</s>
+            <s>“휴~ 간신히 끝냈어.”</s>
+        </p>
+        <p>
+            <s>선생님께 칭찬 받았을 때,</s>
+            <s>‘아, 자랑스럽다.’</s>
+            <s>상장 받았을 때,</s>
+            <s>‘엄마께 맛있는거 사달라 해야지.’</s>
+        </p>
+        <p>
+            <s>이런게 나에게는</s>
+            <s>즐거움이면서 자랑스러움이다.</s>
+            <s>또 그게 만나서</s>
+            <s>‘뿌듯함’이 된다.</s>
+        </p>
+    </text>
+</SJML>

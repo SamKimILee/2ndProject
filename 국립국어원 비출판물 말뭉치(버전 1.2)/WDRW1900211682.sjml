@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211682</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일 파티</title>
+            <author id="P11682" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김태훈</author>
+        </sourceInfo>
+    </header>
+    <text date="2019127" subclass="null_오늘">
+        <p>제목: 생일 파티</p>
+        <p>오늘 내가 생일파티를 했다.</p>
+        <p>아침에 생일 선물로 아이언맨 레고를 받아서 조립했다. 그리고 축구 갔다가 생일파티를했다. 먼저 &name1&가준 포켄몬스토 씬&amp;문 트레이닝 게임을 쌔팅했는데 밥을먹어 야 돼서못했다. 밥 에는내가좋아하는게많았다. 밥을 다 먹고 전투놀이를하고 피구를 했다. 더놀고싶었는데 아쉬웠다. 그리고 이렇게 재 미있었던 생일파티는 처음이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510414</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구네 집</title>
+            <author id="P10414" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>(친구네 집 간날)</p>
+        <p>그늘은 친구들 집 에 갔다.</p>
+        <p>거기에서 친구들이랑 팽이가 있길레 팽이싸움을 했다.</p>
+        <p>팽이싸움이 끝나고 이제놀이터로 갔다.</p>
+        <p>거기에서축구를 했다.</p>
+        <p>그래서 난&name1&이 랑 팀이되었다.</p>
+        <p>그리고 &name2&이랑 &name3&이랑 팀이되었다.</p>
+        <p>그래서 오전부터 오후까지 축구를하면서놀았다.</p>
+        <p>엄청재밋었다.</p>
+        <p>또 가고싶다.</p>
+    </text>
+</SJML>

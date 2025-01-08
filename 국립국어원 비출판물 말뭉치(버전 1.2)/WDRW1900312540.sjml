@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312540</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>본다. 영화를</title>
+            <author id="P12540" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">정채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>영화를 본다는 것은 생각보다 엄청난 일이다. 어떤 사람이 이 영화를 만든 의도를 파악한다는 것이 바로 영화를 본다는 것이기 때문이다. 하지만 모든것은 항상 달라지고 있고 영화도 항상 바뀌고 있다. 그래서 내 생각에 요즘 영화를 본다는 것은 단순한 흥미에 지나지 않는다. 상업영화가 활발하고 독립영화는 좀처럼 보기 힘들다. 단순히 돈을 벌기 위한 영화는 그저 재미와 흥미를 유발하면 끝이다. 아무런 생각 없기 때리고, 죽이고. 진짜 영화를 본다는 것은 전하려는 의도가 있고 그 의도가 잘 전달된 영화를 보았을때. 그게 영화를 본 것이다. 물론 상업영화를 무시하려는 건 아니다. 나 역시 상업영화를 더 많이 보았다. 재미있으니까! 내 이야기는 상업영화도 제대로 된 이야기를 담아야 영화가 된다는 거다.</p>
+    </text>
+</SJML>

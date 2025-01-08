@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900208834</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인간관계에서 지켜야 할 수칙</title>
+            <author id="P08834" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">석지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_인간관계 수칙">
+        <p>1. 친구관계를 계산하지 않는다. 2. 친구에게 너무 의존하려 하지 말자. 3. 집착하지 말자 4. 연락할 상대를 찾으려고 애쓰지 말자. 5. 취미를 찾자 차라리. 6. 다 받아주길 원하지 말자. 7. 긍정적으로 살려고 노력하자 이것들만 지킨다면 나는 진짜 행복해질 수 있을텐데.</p>
+    </text>
+</SJML>

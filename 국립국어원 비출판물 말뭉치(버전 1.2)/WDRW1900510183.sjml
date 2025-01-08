@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510183</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밥</title>
+            <author id="P10183" age="60" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="밥">
+        <p>난 백미밥보다 잡곡밥을 좋아한다. 콩, 귀리, 좁쌀, 현미, 팥, 흑미, 찹쌀을 섞어 발을 지으면 반찬없이 밥만 먹어도 맛있다.</p>
+        <p>잡곡밥과 잘 익은 김치만 있음 순식간에 밥 한그릇을 뚝딱 해치운다.</p>
+    </text>
+</SJML>

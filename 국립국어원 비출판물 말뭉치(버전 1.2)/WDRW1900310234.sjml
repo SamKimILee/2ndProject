@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310234</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>열두 시</title>
+            <author id="P10234" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김민희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="지금">
+        <p>열두 시는 무언가를 하기에 좋은 시간이라고 생각한다. 그것이, 오전일지 오후일지 가늠할 수 없어도 좋은 시간이다.</p>
+        <p>나는 항상 그랬다. 무언가를 꾸준히 할 수 없기에, 하다가 포기했었기에 나는 못 하는 사람일 것이라고 생각했다.</p>
+        <p>누군가 나에게 떠민 것도 아닌데, 억지로 하라는 것도 아닌데. 중간만 가면 싫증이 났다.</p>
+        <p>마음을 놓는 방법을 몰랐다. 편히 할 수 있다는 것을 몰랐고, 지금만 생각했다. 항상 나는 나만 생각하자고 그랬으면서, 나를 힘들게 했다.</p>
+        <p>그런데 오늘 무언가를 해냈다. 여러 가지 글을 쓰면서 이 글을 보게 될 누군가의 기대를 충족시켜야 한다고 생각하지 않았다.</p>
+        <p>그러니 술술 써졌다. 열두 시는 무언가를 하기에 참 좋은 시간이다. 그래서 오늘도 나는 글을 쓴다.</p>
+    </text>
+</SJML>

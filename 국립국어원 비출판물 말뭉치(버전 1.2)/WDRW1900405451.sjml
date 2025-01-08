@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405451</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시험</title>
+            <author id="P05451" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시험">
+        <p>나는 사실 시험을 좋아하는 편이다. 수능도 많이 좋아했다. 완벽한 인터넷 강의 시스템이 이미 마련되어 있고 문제집도 차고 넘치는 시험이 어디있겠는가. 지금 다른 시험을 준비하니 수능이 그립다.</p>
+    </text>
+</SJML>

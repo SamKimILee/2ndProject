@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410162</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>웃음보따리</title>
+            <author id="P10162" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">이경찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_웃음 샘">
+        <p>
+            <s>샘이 터졌다.</s>
+            <s>영원히 마르지 않을 듯이</s>
+            <s>콸콸 뽑아내며</s>
+            <s>배꼽을 간지른다.</s>
+        </p>
+        <p>
+            <s>샘이 터졌다.</s>
+            <s>잠시 위로를 넘어</s>
+            <s>일상의 둥지를 틀며</s>
+            <s>마구 웃어댄다.</s>
+        </p>
+        <p>
+            <s>샘이 터졌다.</s>
+            <s>사랑이 오가는 넉넉함으로</s>
+            <s>영화의 주인공이 되어</s>
+            <s>웃음 혈을 찔러대다.</s>
+        </p>
+        <p>
+            <s>하하 호호</s>
+            <s>호호 하하</s>
+            <s>신명나게</s>
+            <s>놀고 갈 세상살이여에</s>
+            <s>샘이 터졌다.</s>
+        </p>
+    </text>
+</SJML>

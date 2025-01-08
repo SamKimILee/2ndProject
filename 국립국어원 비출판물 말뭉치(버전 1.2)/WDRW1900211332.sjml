@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211332</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>성장</title>
+            <author id="P11332" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">문민성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_애벌레">
+        <p>
+            <s>저기 보잘 것 없는 애벌레 한 마리</s>
+            <s>모두들 징그럽다며 눈길을 피한</s>
+            <s>어떤 애벌레들은 맛있는 잎사귀를 먹는 게 전부</s>
+            <s>어떤 애벌레들은 딱딱한  껍질을 온 몸에 입고 비바람을 꼼짝없이 맞으며</s>
+            <s>긴 겨울을 버텨낸다.</s>
+            <s>화사한 봄날 사람들은 힘껏 날갯짓을 하던 나비를 보며 감탄한다</s>
+            <s>나는 언제 이 껍질을 벗고 훨훨 날아 갈 수 있을까?</s>
+            <s>나는 결심한다. 성장하기로</s>
+        </p>
+        <p>
+            <s>설명: 몸과 마음이 힘들어도 몸부림치면서 노력하면 성장할 수 있다. 나는 새로운 사람이 되어 새로운 삶을 살아 갈 수 있다고 생각하며 이 시를 썼다. (애벌레 나비로 변태하는 모습이 내가 성장하는 모습인 것 같다)</s>
+        </p>
+    </text>
+</SJML>

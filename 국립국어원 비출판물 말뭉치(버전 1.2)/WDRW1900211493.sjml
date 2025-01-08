@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교에 가고싶다.</title>
+            <author id="P11493" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이환희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나19">
+        <p>학교가 가고싶다.</p>
+        <p>옛날에 학교 갈 때는 방학때 뭐를 할지 다 계획하고 기다렸지만 이번 코로나19사태가 터지면서 여행과같은 여러가지 계획이 미뤄지다가 결국, 모든계획이 물거품이 되었다.</p>
+        <p>오히려 이제 방학이 되니까 학교에 가고싶다. 친구들과 뛰어놀며 축구도 하고 여러가지 놀이를 하던 학교다니던 시절이 그리워졌다. 차라리 집에서 뒹굴거리는 것 보다는 학교에 가서 친구들과 여러가지 이야기도 하고싶다. 집에서 계속 있는것도 이제 싫어지기시작했다. 이번 코로나19 사태가 최대한 빨리 안정되서 학교에 갔으면 좋겠다.</p>
+    </text>
+</SJML>

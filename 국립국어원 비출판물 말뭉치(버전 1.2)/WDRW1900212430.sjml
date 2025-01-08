@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212430</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노력은 재능을 이긴다.</title>
+            <author id="P12430" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="Yes">전유환</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_노력">
+        <p>헬렌켈러는 우리가 할 수 있는 최선을 다할 때 우리 혹은 타인의 삶에 어떤 기적이  나타날지 아무도 모른다고 말했다. '양과 강철의 숲''의 주인공인 '도무라'는 꾸준히 노력하며 조율사로서 성장해가는 모습을 통해 재능을 넘어서는 노력의 가치에 대해 말하고 있다. 타고난 재능이 없는 사람도 최선을 다해 노력하면 좋은 결과를 낼 수 있다는데 동의 한다.</p>
+        <p>꿈에 대한 열정과 노력은 목적지를 향해 한 걸음  다가가게 만들어준다. 그리고 타고난 재능이 없는 사람도 목표를 이루도록 도와준다.</p>
+    </text>
+</SJML>

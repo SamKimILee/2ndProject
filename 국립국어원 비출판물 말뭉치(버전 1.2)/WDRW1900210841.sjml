@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210841</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아무것도 없다</title>
+            <author id="P10841" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="없다">
+        <p>
+            <s>내가 갖고 있는 건 아무것도 없다</s>
+            <s>지금 글을 쓰고 있는 이 노트북도,</s>
+            <s>짐을 받쳐주는 내 책상도,</s>
+            <s>항상 필요한 휴지도,</s>
+            <s>내 것이 아니다.</s>
+        </p>
+        <p>
+            <s>이 노트북은</s>
+            <s>내가 빌린 것이다</s>
+        </p>
+        <p>
+            <s>이 책상도</s>
+            <s>내가 빌린 것이다</s>
+        </p>
+        <p>
+            <s>이 휴지도</s>
+            <s>내가 빌린 것이다</s>
+        </p>
+        <p>
+            <s>자연의 것을 뺏어 모은게 노트북이고</s>
+            <s>자연의 것을 잘라 만든게 책상이고</s>
+            <s>자연의 것을 베어 분해한 게 휴지이다</s>
+        </p>
+        <p>
+            <s>그러나 그것들은 제 집으로 돌아가지 않는다</s>
+            <s>아니, 돌아가지 못한다</s>
+        </p>
+    </text>
+</SJML>

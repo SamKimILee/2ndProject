@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201532</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겪지 않은 시간을 지나오던 일</title>
+            <author id="P01532" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시간">
+        <p>신피질 없는 한 마리 고양이처럼 지내온 시간들이었다. 쉬이 현혹되고 격동하다가 제풀에 꺾여 사그라드는 것을 반복하면서, 지겨운 감정까지 손쉽게 묻을 수 있었다. 그러면 이내 상쾌한 것으로 또 되어버렸다. 지키기 위함이었을까, 아니면 우매했던 걸까 겨우. 모르지만 그 애매하여 스스로를 해하던 숱한 날들이 의도치 않게 꺼져가던 자신을 지켰고, 그래서 내가, 여기 다시 있다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611556</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연꽃</title>
+            <author id="P11556" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_연꽃">
+        <p>
+            <s>소설</s>
+            <s>제목: 연꽃</s>
+            <s>저기 연꽃이 있어요. 아주 작아서 사람들 눈에 보이지 않아요. 하지만 저기 햇님도 날보고 웃어 주어요</s>
+            <s>큰 꽃들이 매일 비웃지만 난 괜찮아요.</s>
+            <s>달님도 날보며 웃어주어요. 난 햇님, 달님, 이 날 사랑하는걸요</s>
+            <s>난지금이 제일 좋아요.</s>
+        </p>
+    </text>
+</SJML>

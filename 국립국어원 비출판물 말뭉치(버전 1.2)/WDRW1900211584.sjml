@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211584</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>찜질방</title>
+            <author id="P11584" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조석호</author>
+        </sourceInfo>
+    </header>
+    <text date="20200203" subclass="null_찜질방">
+        <p>2월 3일</p>
+        <p>오늘 찜질방에 갔다. 따뜻한 물에 몸을 담그니 너무좋았다. 그리고 찜질방에들어가니 더더 좋았다. 영화도 보고, 만화도 보고, 놀이터에서도 놀았다. 새로 설치한 게임도 해보고 흥겹게 뛰어 놀았다. 아빠는 자고 있어서 내 마음대로 할수있었다. 그때 나는 이렇게 생각했다. '이게 바로 자유라는것이구나!' 라는 생각이었다. 앞으로도 자유를 많이 느껴보고싶다.</p>
+    </text>
+</SJML>

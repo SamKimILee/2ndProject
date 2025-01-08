@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305340</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 집 인테리어.</title>
+            <author id="P05340" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">홍라경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="집">
+        <p>우리 집 거실은 테마파크다. 각자 어트랙션은 아니어도 나름 테마가 있는 존이 있단 얘기다. 거실을 좌우로 나눠 두 개의 컴퓨터와 책상이 자리잡은 사무실 존. 확장형 베란다 창문 앞에는 수조와 화분으로 이루어진 정글만리. 또 한 쪽은 문화인을 상징하는 피아노와 피아노 만큼 거대한 액자에 넣어진 한 폭의 그림. 그 중간 중간에 홈시어터와 소파, 퍼즐 액자, 힐링체어도 배치되어 있다. 문제는 우리 집이 거실이 좁게 빠진 32평형 아파트라는 것이다. 그러니까 딱 보면 알 수 있다. 아니 상상만 해봐도 알 수 있다. 장관이 아니고 가관이라는 것을...</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710430</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책표지가 마음에 들엉서</title>
+            <author id="P10430" age="10" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김소영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_돼지책">
+        <p>책표지가 마음에 들어서</p>
+        <p>처음에는 책표지만 보고 ‘어, 왜 ’돼지책‘이지?' 했는데 내용을 보니까 ’아, 이래서 ‘돼지책’이구나! 하는 생각이들었다.그리고아이들과아빠는 엄마에게 아무것도 해주지않고 엄마에게 “밥줘!”라고만하니까 엄마가 불쌍했다.그래서엄마는 가출했는데 나 같으면 엄마처럼참지않고 바로 화를 냈을텐데....엄마는 대단하다.그래도 나중에는 반성하고 다 갔이 일을 했으니까 잘됐다. 만약에 반성하지 않고 계속그랬다면 평생돼지로 살았을 것이다.</p>
+        <p>나중에라도 반성했으니 다행이다.</p>
+        <p>엄마께 미안하고, 죄송하고, 엄마 말씀을 더욱더 잘들어야겠다는생각을했다.그리고,엄마는 아이가 넷이니까 네배로잘들어야겠다.‘라고생각했다.</p>
+    </text>
+</SJML>

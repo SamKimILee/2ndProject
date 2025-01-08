@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장 가는 날 </title>
+            <author id="P12203" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임주하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_수영장">
+        <p>오늘은 수영장에 갔다. 처음에는 엄마 아빠가 반대 했지만 나중에는 끝내 허락 했다. 도착 했을때는 무척 더웠지만 물에 들어가니 시원 했다. 아쉽게도 엄마 아빠는 못들어 갔지만 그래도 재미있었다. &name1&이는 잠수를 성공 했다. 다음에 또 가고싶다.</p>
+    </text>
+</SJML>

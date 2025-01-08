@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112095</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>음악극</title>
+            <author id="P12095" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강다현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191109" subclass="null_음악극">
+        <p>하남문화예술회관에서 더클라운이라는 음악극을 봤다.그중에서도 말을 하지않고 행동으로만 했지만 너무 재미있었다.</p>
+        <p>또 뒤를 돌아볼때 움직이면 않되고,뒤를 술래가않돌아보면 똑같이 행동해야하는 것이 제일 재미있었다.다음에 또 재미있는 음악극을 보고 싶다.</p>
+    </text>
+</SJML>

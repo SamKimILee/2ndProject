@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201800</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세살 때의 기억 </title>
+            <author id="P01800" age="19" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">권형</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="옛날">
+        <p>세살 때의 기억을 한번 더듬어보자. 의외로 오래전 기억이 꽤나 뚜렷하게 기억나는 편 이다.  나는 그때부터  김치를 물로 씻어 먹었다고 한다. 지금은 오히려 그때보다 덜 먹는거 같다. 최근 그 생각이 문득 들어 겉절이를 다시 먹기 시작했다.</p>
+        <p>집 근처 뛰어놀던 공원 모습이 생각나기도 한다. 염창어린이공원 으로 근처에 있던 한 다리와 놀이터와 미끄럼틀 모습이 기억나기도 한다. 그때 그 곳을 배경으로 했던 사진이 있었기 때문일까 그 곳의 기억은 뚜렷했다. 그 공원의 벤치가 당시 최근에 페인트칠을 했던 탓에 '칠 주의' 문구가 적힌 종이가 붙여져 있던 것도 문득 기억난다.</p>
+    </text>
+</SJML>

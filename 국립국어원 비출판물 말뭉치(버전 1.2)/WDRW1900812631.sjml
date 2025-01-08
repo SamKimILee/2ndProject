@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812631</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>초록여우'를 읽고</title>
+            <author id="P12631" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200110" subclass="null_초록여우">
+        <p>초록여우가 불쌍하다.</p>
+        <p>초록여우가 자기가 원하는 친구를 찾았다.그건 바로 아름답고 향기로운 장미였다. 하지만 장미도 하루만에 시들었다. 하지만 여우는 예전처럼 외롭지 않다. 여우의 마음속에 여전히 장미가 살기때문이다.</p>
+    </text>
+</SJML>

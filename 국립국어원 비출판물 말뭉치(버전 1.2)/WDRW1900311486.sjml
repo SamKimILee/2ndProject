@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311486</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시선</title>
+            <author id="P11486" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_시선">
+        <p>침대에서 책상을 빤히 바라보고 있다가 옆으로 누워 시선을 달리하면 평소에 보이지 않던 것들이 보인다. 서랍 손잡이에 박힌 큐빅도 새롭게 보이고, 매일 켜던 스탠드도 새로이 보인다. 오직 방향과 시선을 달리했을 뿐인데 세상이 이렇게나 달라보인다는 게 놀랍다.</p>
+        <p>그걸 보고 앞으로 고민되는 일이 있으면 시선을 달리해 보기로 결심했다.</p>
+        <p>(2020년에 다는 주석, 시선을 달리한다는 건 생각보다 어렵다. 특히 부정적인 일에서, 이런 게 편견이라는 걸까)</p>
+    </text>
+</SJML>

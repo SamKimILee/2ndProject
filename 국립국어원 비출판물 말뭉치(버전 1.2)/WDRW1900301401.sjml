@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301401</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>한 마디</title>
+            <author id="P01401" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="말">
+        <p>난 늘 네 한 마디가 너무너무 간절했어.</p>
+        <p>네가 차가운 눈빛으로 퉁명스럽게 내뱉는다고 해도</p>
+        <p>난 그 목소리에 수천 년을 매달려 있을 수 있었을 거야.</p>
+        <p>네 목소리의 파형에 내 귀는 늘 반응하지만,</p>
+        <p>안타깝게도 늘 대상은 내가 아닌 것 같더라.</p>
+        <p>한 번만 불러 주라, 내 이름.</p>
+        <p>너에게 불리기 위해 존재하는 이름이야.</p>
+        <p>네 목소리는 늘 기억하고 있어. 어디서든 들을 수 있어.</p>
+        <p>부탁이야.</p>
+    </text>
+</SJML>

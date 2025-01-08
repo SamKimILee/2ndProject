@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112661</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외국인 앤디에게 한글의 우수성 소개하는 글</title>
+            <author id="P12661" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이은성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_한글">
+        <p>앤디, 한글에 우수성에 대해 알려줄게.</p>
+        <p>첫째, 한글은 과학적이야. 말할때마다 입모양이 같아. 둘째, 한글은 창제 원리와 창시자가 있어. 셋째, 기본자에다가 기본획을 더하면 문장이 늘어나. 넷째, .은 하늘 ㅡ는 땅 l는 사람을 나타내. 다섯째, 누구나 쉽게 배울수 있어,</p>
+        <p>어때? 이게 한글이 위대한 이유 다섯가지야. 그럼 안녕.</p>
+    </text>
+</SJML>

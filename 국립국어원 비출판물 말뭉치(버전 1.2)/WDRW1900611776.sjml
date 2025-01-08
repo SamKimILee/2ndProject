@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611776</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>광장에 간 날</title>
+            <author id="P11776" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191019" subclass="null_광장">
+        <p>10월 19일 (토)  날씨: 24.6</p>
+        <p>&lt;광장에 간 날&gt;</p>
+        <p>오늘 광장에 오랜만에 갔다. 물론 &name1&랑 만 갔지만 내가 좀 늣게 나가 더니 &name1&에게 안 좋은 소식을 들었다 그건 바로 &name1&동생 &name2&이 병원을 지금 &name1&와 함께 가야 해 던 것이다 나는 그 소식을 득고 속이 죽은것 같았다 그래도 &name1&가 4시까지는 덴다 해서 마음이 좀 노였다 진짜 힘든 하루 였다 내가 조금이라도 빨리 나와다면 좀 더 놀수 있었는데 다음에는 꼭 내가 먼저 나올 것 이다</p>
+    </text>
+</SJML>

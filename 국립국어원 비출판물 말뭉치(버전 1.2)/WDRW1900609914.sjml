@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900609914</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화는 변한다.</title>
+            <author id="P09914" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">현민서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>영화는 변하는 중이다.</p>
+        <p>영화가 바뀌면서 사람들의 생각도 바뀌고</p>
+        <p>사회도 바뀐다.</p>
+        <p>좋은현상이다.</p>
+        <p>현실에 변하고 있는 상황을 예로 하나 들자.</p>
+        <p>더이상 여자는 남자의 조력자역할만 맡지 않는다.</p>
+        <p>사여자도 주인공을 할 수 있고</p>
+        <p>여자도 사랑만 할 수 있는 것이 아니란걸 사람들이 깨닫고 무협이나 추리등의 다양한 영화를 찍게 된다.</p>
+        <p>사람들은 그럼 여자도 남자와 똑같이 다양한 걸 할수있다를 느끼고</p>
+        <p>사회에서의 여성차별도 조금씩조금씩 없어진다.</p>
+        <p>언젠가 깨끗한 사회가 될때까지 영화는 변해야하고 변하는중이다.</p>
+        <p>영화는</p>
+        <p>변한다.</p>
+    </text>
+</SJML>

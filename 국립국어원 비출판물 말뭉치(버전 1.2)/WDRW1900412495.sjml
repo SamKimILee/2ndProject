@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412495</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구 책</title>
+            <author id="P12495" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200129" subclass="null_축구 책">
+        <p>축구  책</p>
+        <p>‘숫자로 알아보는 세계 축구 기록’ 이라는 책을 봤다. 축구 책 중 제일 재밌었다. 팀중에 ‘바르셀로나’라는 팀이 가장 좋았다.</p>
+        <p>바르셀로나 중에 매시라는 선수가 가장 좋았다. 매시는 축구 선수중에 한명이다. 아주 실력이 뛰어나다. ‘나도 이 다음에 커서 축구 선수가 되야지.’ 라고 생각했다.</p>
+    </text>
+</SJML>

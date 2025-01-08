@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510908</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>땅콩</title>
+            <author id="P10908" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시호</author>
+        </sourceInfo>
+    </header>
+    <text date="20180622" subclass="null_땅콩">
+        <p>
+            <s>제목: 땅콩</s>
+            <s>오늘은 내가 땅콩을 먹었다.</s>
+            <s>숙제가 너무 많아서 다하고 9시20분에 집에 들어왔다. 그때 할머니께서 땅콩을 먹고 계셨다.</s>
+            <s>그래서 나는 땅콩을 먹었다. 그런데 땅콩이 차가웠고땅콩에 얼음이 뭉게뭉게 뭉쳐 있었다. 그래서 얼음과 땅콩의 조합은 정말 맛있었다 그래서 앞으로도 그 땅콩을 먹겠다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112666</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>15일간의 여행(말에이시아 온 날)</title>
+            <author id="P12666" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정예슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_말레이시아">
+        <p>오늘은 비행기를 타고 말레이시아에 왔다. 말레이시아 수도는 쿠알라룸푸르 였다. 호텔에 수영장이 9층에 있었다. 수영장에서 2시까지 놀았다. 도착전 비행기 에서 말레이시아가 기온이 32도 라고 했다. 그래서 수영해도 춥지 않았다. 한국은 추운데 따뜻해서 너무 좋았다.</p>
+    </text>
+</SJML>

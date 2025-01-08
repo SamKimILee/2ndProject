@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411453</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인절미</title>
+            <author id="P11453" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이시윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20191012" subclass="null_인절미">
+        <p>인절미를 만들었다.</p>
+        <p>인절미를 어떻게 만드는지 알았다. 먼저 떡에 콩가루를 묻히는거다. 난 민안초등학교에서 집에서 먹으려고 집에 들고왔는데 어머니가 다 먹어버렸다.</p>
+        <p>그래서 조금 속상했 지만 또만들면 되겠다고 생각 했다. 그래서 다시 기분이 좋아졌다.</p>
+    </text>
+</SJML>

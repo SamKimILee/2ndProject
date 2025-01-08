@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211641</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줄넘기대회</title>
+            <author id="P11641" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191202" subclass="null_줄넘기 대회">
+        <p>제목: 줄넘기 대회</p>
+        <p>5교시를 마치려고 할 때 줄넘기 대회 때문에 &name1&이와 나는 강당에 먼저 갔다. 내가 1등으로 와있었고 그다음 체육 선생님이 있었다. 강당에 온순서는 4, 2, 6, 5, 1, 3, 7반 이렇게 왔다.</p>
+        <p>대표친구들이 걸리면 빠르게 할려고 했는데 걸리지 않게 뛸려고 못보았다. 그런데 끝나고 나서 생각을 해보니 줄넘기 1번도 않걸렸었다. 내가 줄넘기 대회 남자 중에서 1등이면 좋겠다.</p>
+    </text>
+</SJML>

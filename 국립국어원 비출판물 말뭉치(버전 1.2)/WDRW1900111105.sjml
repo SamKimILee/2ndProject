@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111105</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동생에게</title>
+            <author id="P11105" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조하율</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_동생, 생일">
+        <p>&name1&아</p>
+        <p>생일축하해</p>
+        <p>어제 &name1&이 생일이었는데 워터파크를 가서 케이크도 못했내</p>
+        <p>하지만 오늘 뷔페가서 맛있게 케이크 먹자</p>
+        <p>너무너무 사랑해</p>
+        <p>어제  &name1&이 수영잘 하더라 너 &name1&이가 언니의 동생의 되어조서 고마워 사랑해</p>
+        <p>언니가 &name1&이 많이많이 사랑해 언니가 &name1&이 많이 놀아줄게</p>
+        <p>세상에서 제일 사랑해</p>
+        <p>&name2&이 언니가</p>
+    </text>
+</SJML>

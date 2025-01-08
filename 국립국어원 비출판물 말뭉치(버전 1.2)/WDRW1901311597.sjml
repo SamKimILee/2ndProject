@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901311597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>홈런볼</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_홈런볼">
+        <p>
+            <s>홈런볼</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>입에 넣고</s>
+            <s>굴리다가</s>
+            <s>혀로꾹!</s>
+        </p>
+        <p>
+            <s>사르르하며</s>
+            <s>사라지는</s>
+            <s>동그 란</s>
+            <s>아이스크림</s>
+        </p>
+        <p>
+            <s>달콤하고작은</s>
+            <s>아이스크림.</s>
+        </p>
+    </text>
+</SJML>

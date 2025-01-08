@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여행을 가다2</title>
+            <author id="P12063" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_여행">
+        <p>맛있는 음식도 먹고 박물관도갔다오고 놀이터도가고 케이블카도탔다.</p>
+        <p>동물원도가고 재미있었다</p>
+        <p>궁전을갔다. 성당에 가서 기도했다. 여행이너무즐거워다.</p>
+        <p>제미있었다모두모두</p>
+    </text>
+</SJML>

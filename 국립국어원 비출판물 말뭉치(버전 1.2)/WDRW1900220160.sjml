@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220160</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>작고편리해진뉴스</title>
+            <author id="P20160" age="14" occupation="중학생" sex="M" submission="오프라인" handwriting="No">민결</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_스마트폰 인터넷 기사">
+        <p>스마트폰은 우리 삶의 많은 부분을 대체했다. 신문이나 텔레비전에서 한정된 시간에만 정보를 얻을 수 있었던 우리는 이제 원하는 시간에 원하는 정보를 얻을 수 있다. 주된 언론 매체가 기존 신문이나 방송에서 스마트폰으로 바뀐 것은 스마트폰이 다른 분야의 대체제가 된 것들보다 더 영향력 있고 효과적이다.</p>
+    </text>
+</SJML>

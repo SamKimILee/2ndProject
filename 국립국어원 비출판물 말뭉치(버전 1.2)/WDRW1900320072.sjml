@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320072</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑하는 &name1& 선생님</title>
+            <author id="P20072" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190518" subclass="null_선생님">
+        <p>날짜:5월18일/날씨:맑음</p>
+        <p>제목:사랑하는 &name1&선생님</p>
+        <p>사랑하는 &name1&선생님께 편지를 쓰고싶다</p>
+        <p>&name1&선생님께</p>
+        <p>안녕하세요? 선생님 저 &name2&에요!</p>
+        <p>선생님, 저희에게 친절하게 대해주셔서 감사합니다. 그리고 저희가 장난을 쳐도 기회를 3번이나 주셔서 너무 감사합니다. 또 가끔씩 쉬는시간에 같이 놀아주셔서 고맙습니다~!</p>
+        <p>선생님! 저희 4학년 2반 친구들 열심히 가르쳐주셔 너무 고맙습니다! 또 국어,수학,사회시간에 영상을 보여주셔서 너무나도 좋아요~</p>
+        <p>선생님을 처음 봤을 때 ‘아! &name1&선생님은 정말 착하실 것 같다’라는 느낌이 들었는데 제 느낌이 맞았어요. 그리고 선생님이 가끔씩 장난이나 농담을 해 진짜 재미있었어요!</p>
+        <p>저는 선생님이 저희를 가르쳐주셔서 저는 엄청 기뻐요! 선생님의 제자이니 선생님이 저흴 열심히 가르쳐주고 있어서 저도 열심히 공부할게요</p>
+        <p>4-2반 &name1&선생님의 제자 &name2& 올림</p>
+        <p>2019년 5월 18일</p>
+    </text>
+</SJML>

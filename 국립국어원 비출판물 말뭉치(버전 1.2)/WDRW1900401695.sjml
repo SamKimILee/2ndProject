@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401695</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어른이 되어가는 친구에게</title>
+            <author id="P01695" age="27" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>안녕.</p>
+        <p>어린이에서 만나 청소년이 된 친구야.  우리가 만난지 6년이란 시간이 흘렀구나.</p>
+        <p>별로 해준거없는데 감사한 마음을 가져준 너에게 고마워.</p>
+        <p>함께할 시간이 4년 정도 남았구나. 4년이 지나면 우리가 맺었던 끈은 사라지겠지만,</p>
+        <p>10년간의 인연은 평생을 가도 잊지 못할거야.</p>
+        <p>잘 자라 줄 너에게 고맙다고 말하고싶어.</p>
+        <p>얼마 안되는 것이지만 내가 책임감을 심어주고 조금 더 나은 사람이 될 수 있게 해줘서.</p>
+        <p>어린이로 만나 청소년이 됐고 어른이 될 친구야 항상 행복해야해.</p>
+    </text>
+</SJML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411366</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장</title>
+            <author id="P11366" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190914" subclass="null_수영장">
+        <p>난수 영장에갔다.</p>
+        <p>좋았다.</p>
+        <p>수영장에서, 조끼벗고. 신나게 물속에서, 앞으로한바퀴,</p>
+        <p>뒤로한바퀴.</p>
+        <p>앞으로두바퀴.</p>
+        <p>뒤로두바퀴.</p>
+        <p>앞으로세바퀴.</p>
+        <p>뒤로세바퀴.</p>
+        <p>앞으로네바퀴.</p>
+        <p>뒤로네바퀴.</p>
+        <p>돌았다.</p>
+    </text>
+</SJML>

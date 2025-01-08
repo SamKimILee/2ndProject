@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가족여행에서 배 탄 일</title>
+            <author id="P12638" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족 여행">
+        <p>할머니, 아빠 생신이라서 가족 여행을 갔다. 개울에서 신기한 배를 탔다. 그 배는 어떤 발명가 할아버지가 재활용 물건들로 만든 것이었다. 팔로 젓기가 힘들었다.</p>
+        <p>하지만 재미있고 신기했다.</p>
+    </text>
+</SJML>

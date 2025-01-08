@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112297</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 일기</title>
+            <author id="P12297" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191124" subclass="null_눈">
+        <p>오늘은 눈이 오는 날!!! 나는 엄마아빠가 눈이 온다고 나를 깨우자마자 소리쳤다. 나는 일어나서 아침을 먹고 나가서 놀 준비를 마칠때까지 흥분해서 "빨리 준비해 아빠! 눈이 다 녹겠어!!" "눈이 그쳤어!! 빨리!!" 라고 몇번이나 말을 반복했다.오빠는 참지 못하고 학교 운동장으로 오라고 하면서 먼저 갔다.가는 길에 뽀득,뽀득 하는 발자국 소리가 들렸다.운동장에 도착하자 오빠랑 오빠의 같은 반 친구인 &name1& 오빠가 눈사람을 만들고 있었다.가서 눈사람을 만들고, 눈싸움도 했다.그리고 내가 미니 스케이트장도 발명했다. 이번 겨울에서 가장 재미있는 날일 것 같았다.</p>
+    </text>
+</SJML>

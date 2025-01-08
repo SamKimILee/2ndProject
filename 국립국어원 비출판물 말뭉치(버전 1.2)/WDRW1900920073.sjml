@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900920073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>출렁다리</title>
+            <author id="P20073" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_출렁다리">
+        <p>오늘은 출렁다리에 갔다. 계단을 올라가는 것이 정말 힘들었다.</p>
+        <p>올라가고나니 상쾌했다.</p>
+        <p>다리를 건널때 아찔했다. 2번을 건넜다.</p>
+        <p>머리가 너무너무 어지러웠다. 출렁다리를 건넌다음 랍스타, 햄버거를 먹었는데 환상의 맛이었다. 다음에도 맛있는 음식을 또 먹고싶다.</p>
+    </text>
+</SJML>

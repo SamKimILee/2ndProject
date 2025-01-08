@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>“발이 너무 너무 아픈날” +슬픈 빼빼로 데이 </title>
+            <author id="P12203" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임주하</author>
+        </sourceInfo>
+    </header>
+    <text date="20191111" subclass="null_빼빼로데이">
+        <p>오늘은 빼빼로데이다.내동생 별명은 다람쥐다.아빠가오셨다.아빠에게드리려고한 빼빼로가 없다. 동생&name1&이는 자기가 장롱안에 숨겨 놓았다고 했다.그런데 거기에없다 아빠가 도착했다.우린 화장실에숨었다. 내가나가려고 했는데 &name1&이가문을닸았다!너무아팠다.난울었다.오늘은 아주슬픈 빼빼로 데이다.</p>
+    </text>
+</SJML>

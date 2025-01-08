@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312544</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수도박물관과 청계천박물관</title>
+            <author id="P12544" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이하람</author>
+        </sourceInfo>
+    </header>
+    <text date="20190124" subclass="null_수도박물관">
+        <p>&name1& 이모랑 &name1&이랑 엄마랑 수도박물관에 갔다 구경하고 물을 많이 아껴야 한다는걸 알았다. 몸속 수분을 측정하는 체험도 해보았다. 다관람을 하고 나니이런 생각이 났다. 물은 함부로 쓰지 말고 물장난도 많이 하지 말아야 겠다.</p>
+        <p>청계천 판잣집부터 현재모습까지 발전하는 전시를 보았다.</p>
+        <p>청계천이 발전하는 모습의 좋은점 나쁜점도 많이 봤다</p>
+        <p>그렇기에 청계천이 발전 할수 있었던 것같다.</p>
+    </text>
+</SJML>

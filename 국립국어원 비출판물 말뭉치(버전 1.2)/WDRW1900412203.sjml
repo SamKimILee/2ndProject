@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>녹말 놀이 ( 앞글자만 읽어 보세요)</title>
+            <author id="P12203" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임주하</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_녹말 놀이">
+        <p>
+            <s>오늘은 녹말 놀이를 했다.</s>
+            <s>아주 재미 있었다. 흘러내려서</s>
+            <s>빠르게 만져야 했다. 그래서 </s>
+            <s>사실은 조금 어려웠다. &name1&이</s>
+            <s>랑 놀아서 재미도 있었다. 유</s>
+            <s>해한 슬라임 보다는 낫다. 주</s>
+            <s>요 성분이 감자이기 때문이다.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410840</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>멈추지 않는 시계</title>
+            <author id="P10840" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">백영은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_개미">
+        <p>
+            <s>임종을 지켜라</s>
+            <s>그 선량한 개미의</s>
+            <s>높은 산에 올랐다는 이유로</s>
+            <s>죽어야만 했던 그 개미의</s>
+        </p>
+        <p>
+            <s>뭉게진 배를 내려다 보며</s>
+            <s>무슨 생각을 했을지</s>
+            <s>보이지 않는 피가 울컥울컥</s>
+            <s>솟아오르고 있었겠지</s>
+            <s>아니오 이것은 착한 사람에게만</s>
+            <s>보이는 피랍니다 그래서</s>
+            <s>당신은 볼 수 없답니다</s>
+        </p>
+        <p>
+            <s>과자 한 조각 저승길 도시락 하려무나</s>
+            <s>내 딴엔 가장 작은 조각이</s>
+            <s>개미에게는 가장 커다란 조각</s>
+        </p>
+        <p>
+            <s>뭉게진 배와 다리로</s>
+            <s>조각을 감싸며</s>
+            <s>빙글 빙글 빙글</s>
+        </p>
+        <p>
+            <s>멈추지 않는 시계는 없는데</s>
+            <s>왜 그 개미는 끝없이 돌았는지</s>
+        </p>
+        <p>
+            <s>임종을 지켜라 그 개미의</s>
+            <s>선량한 일꾼 그 개미의</s>
+        </p>
+    </text>
+</SJML>

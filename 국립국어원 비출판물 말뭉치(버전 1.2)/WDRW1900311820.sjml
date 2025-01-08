@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311820</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책축제</title>
+            <author id="P11820" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김재연</author>
+        </sourceInfo>
+    </header>
+    <text date="20181021" subclass="null_책축제">
+        <p>&lt;책축제&gt;</p>
+        <p>어제와 오늘 이틀 동안 책축제가 학생문화원에서 열렸다. 나는 어제와 오늘 이틀 다 갔다. 제일 재밌는것은 룰렛을 돌려 메모지 함, 책, Led 꽃전구가 있었는데 나는 꽃전구가 걸렸다. 에코백 만들기, 티셔츠 만들기, 알레르기 검사 등의 많은 체험들을 했다. 제기차기를 했는데 그 분이 제기를 주셔서 정말 좋았다.</p>
+        <p>잔디광장이 도로로 바뀌지 않았으면 좋겠다.</p>
+    </text>
+</SJML>

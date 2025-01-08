@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412076</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장운과 할아버지</title>
+            <author id="P12076" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조현주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친장운과 할아버지">
+        <p>책 제목: 초정리 편지</p>
+        <p>엄마가 &name1&이와 책을 읽고 있었다 무슨 책인지 궁금해서 빨리 공부 다하고 나도 봤다 정말 재밌는 책이었다. 처음부터 못 봐서 처음부터 봤다.</p>
+        <p>가장 기억에 남는 내용은 장운이한양에 가는 내용이다. 용감하게 한양에 간 장운이부럽다. 장운이 연꽃확을 다듬는 부분도 멋지다 연꽃확이 깨졌을때 장운이 슬퍼보였다. 장운이 가엽다. 할아버지의 조언으로 멋진 연꽃을 만들어서 다행이다.</p>
+        <p>장운이 정말 부럽다. 장운같이 착한애는 언제나 행운을 받는다 장운이 건강하게 자랐으면 좋겠다. 나도 장운처럼용감하게 자라야겠다.</p>
+    </text>
+</SJML>

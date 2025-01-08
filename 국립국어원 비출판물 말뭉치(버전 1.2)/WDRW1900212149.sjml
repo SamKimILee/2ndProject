@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212149</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 생일</title>
+            <author id="P12149" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190419" subclass="null_내 생일">
+        <p>오늘은 내 생일이었다.</p>
+        <p>그래서엄마가 피아노를빼주셨다.</p>
+        <p>나는생일선물을내가원하던조금 말랑한 축구공을 선물로받아서 기분이 아주좋았다.</p>
+        <p>내동생한테는편지를받았다.</p>
+        <p>오늘미술에서팥떡까지먹었다.</p>
+        <p>맛있었다.</p>
+        <p>오늘져녁메뉴도맛있었다</p>
+        <p>다음에는더맛있는걸먹고싶다 그리고오늘내가좋아하는미역국을먹었다.</p>
+        <p>맜있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610294</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>로봇의 자아</title>
+            <author id="P10294" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_로봇">
+        <p>로봇이 인간보다 똑똑해질 수 있을까?</p>
+        <p>예전에 학교에서 로봇 관련 강의를 들은 적이 있다. 강의가 끝나고 한 학생이 질문을 했다.</p>
+        <p>‘로봇은 자아를 가질 수 없나요?’</p>
+        <p>강연자분께서는 이렇게 답변해주셨다.</p>
+        <p>‘로봇 또한 인간의 발명품이다. 로봇은 인간이 설계한대로만 움직이기 때문에 스스로 자아를 가질 수 없다.’</p>
+        <p>그런데 정말 만약에 로봇이 자아를 가지고 자신들을 만든 인간을 공격하면 어떻게 될까?</p>
+        <p>로봇의 외형은 대개 금속으로 만들어지기 때문에 신체만 가지고 본다면 공격력, 방어력 등 많은 능력들을 비교해봐도 로봇이 인간보다 훨씬 뛰어날 것이다.</p>
+        <p>로봇이 ‘스스로’ 자아를 가질 일은 없겠지만 아주 만에하나라도 그런 일이 생긴다면 로봇이 인간보다 우위를 점하게 되지 않을까 하는게 내 생각이다.  그냥 갑자기 이런 생각이 들었다.</p>
+    </text>
+</SJML>

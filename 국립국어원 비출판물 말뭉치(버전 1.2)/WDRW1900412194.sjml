@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412194</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리가족 집들이</title>
+            <author id="P12194" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이효주</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_놀기">
+        <p>오늘은 외할머니,외할아버지, &name1&오빠, &name2&언니가 왔다. 그리고 삼촌할아버지들이 오셨다. &name1&오빠와 &name2&언니랑 같이 재미있게 놀았다. 그리고 &name1&오빠랑 &name3&이랑 자전거를 타고 놀이터에 갔다. 근데 거기서 미끄럼틀에 팽이하는 오빠를 봤다. 그중에 &name4&도 껴있었다 그 오빠들을 혼내주고 싶다.</p>
+    </text>
+</SJML>

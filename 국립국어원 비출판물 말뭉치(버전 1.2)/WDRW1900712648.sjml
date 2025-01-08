@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712648</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>콩쥐 팥쥐</title>
+            <author id="P12648" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_콩쥐 팥쥐">
+        <p>콩쥐가 밭을 맬때 황소가 나타나서</p>
+        <p>밭을 매주고 콩쥐가 사과를 씻었다</p>
+        <p>다음에는 깨진 독에 물을 채우는데</p>
+        <p>두꺼비가 나와서 독을 막아줘서</p>
+        <p>물을 다 채울 수 있었다</p>
+        <p>신기학고 재밌었다</p>
+    </text>
+</SJML>

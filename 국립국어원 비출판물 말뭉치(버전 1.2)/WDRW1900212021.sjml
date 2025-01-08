@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212021</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수족구에 걸린 날</title>
+            <author id="P12021" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최유나</author>
+        </sourceInfo>
+    </header>
+    <text date="20190604" subclass="null_수족구">
+        <p>제목: 수족구에 걸린 날</p>
+        <p>어제 저녁에 우리 동생 허벅지에 울긋불긋 하게 무언가가 낫었다. 우리 어머니께서 수족구라고 하셨다.</p>
+        <p>어머니께서 나도 걱정이 되어 손,발을 보았다.</p>
+        <p>나는 다리와 엉덩이에 나있었다. 나는 수족구가 난 부분이 간질간질 가려웠다.</p>
+        <p>그런데 &name1&와 &name1&동생도 수족구에 걸렸다.</p>
+        <p>그래서 우리 모두 병원에 갔다.</p>
+        <p>약국에서 약을 주셨는데 약이 너무 쓰고,맛이 없었다. 다음 부터는 수족구에 걸리지 않게 조심해야겠다.</p>
+    </text>
+</SJML>

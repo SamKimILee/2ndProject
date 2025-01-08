@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400528</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P00528" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">박수정</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_봄">
+        <p>이제는 완연한 봄이 된 것같다. 꽃들도 참 예쁘게 피었고 옷도 가볍다. 이래서 사람들 마음이 동하고 자꾸 나가게 만드는 거겠지. 옷들은 볼 수록 매력적이면서 어렵다. 정말 어렵다. 재미도 있고. 사람들이 매료되어 가는 것들은 다 이유가 있는 법이겠지.</p>
+    </text>
+</SJML>

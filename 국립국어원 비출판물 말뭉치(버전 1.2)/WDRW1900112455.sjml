@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112455</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구</title>
+            <author id="P12455" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">구예성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200201" subclass="null_축구">
+        <p>축구, 2월 1일토요일</p>
+        <p>축구를했다. &name1&랑 &name2& &name3&은 상대팀이였다.</p>
+        <p>내팀은 밸런스가 너무 안좋아서. 질걷같았지만 마지막에코치님을 뽑았다. 경기는 우리가 7:4로 이겼다 근대 &name1&가 졌다고 여기서 다시는하고 싶지않다고 했다.</p>
+        <p>그래 도나는 이겨서기분이 좋았다</p>
+    </text>
+</SJML>

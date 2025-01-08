@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311627</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소고기 먹은 날</title>
+            <author id="P11627" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_한우">
+        <p>&lt;소고기 먹은 날&gt;</p>
+        <p>오늘 저녁 메뉴는 한우 였다.</p>
+        <p>내가 공부하고 있을 때 맛있는 냄새가 났다. 엄마가 공부 잘하라고 소고기, 양파를 구워 주셨다.</p>
+        <p>육즙이 프라이팬에 가득 찰 만큼 많아서 살코기가 부드럽고 쫄깃쫄깃 해서 너무 맛있었다.그래서 그릇에 있는 고기의 절반을 먹었다. 배부르게 먹었더니 기분이 좋았다.</p>
+        <p>기분이 좋았다. 다음에도 공부를 열심히 해서 또 고기를 먹고싶다</p>
+    </text>
+</SJML>

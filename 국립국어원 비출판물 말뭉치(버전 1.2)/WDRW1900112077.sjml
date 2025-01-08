@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112077</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스케이트</title>
+            <author id="P12077" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190123" subclass="null_스케이트">
+        <p>수요일에 스케이트 장에 갔다. 스케이트를 탔을 때 처음 에는 바닥이 미끄러웠다. 그렇지만 나중에 타다 보니 더더 재밌었다. 스케이트를 더 타고 싶었 지만 아쉬웠다. 난 나중에 어른이 되서 스케이트 선수가 될거다.</p>
+    </text>
+</SJML>

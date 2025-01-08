@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211367</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>갯벌을 보호하자</title>
+            <author id="P11367" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">전재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_갯벌">
+        <p>&lt;갯벌을 보호하자&gt;</p>
+        <p>갯벌은 무엇일까?</p>
+        <p>갯벌은 육지와 바다의 중간에 자리 잡고 있으며 밀물 때 사라졌다 썰물 때 드러나는 땅이다.</p>
+        <p>요즘은 사람들이 갯벌을 없애고 ‘간척사업’을 하고 있다. 그래서 바다에 오염물질을 없애주는(분해해주는) 미생물, 우리가 먹는 바지락,꽃게 등이 없어지고 있다.해산물은 우리에게 영양분을 섭취해 준다. 하지만 이 간척 사업 때문에 생물들이 없어지고 있다.지금이라도 간척사업을 없애고, 갯벌을 다시 되돌리자!</p>
+        <p>-&name1&-</p>
+    </text>
+</SJML>

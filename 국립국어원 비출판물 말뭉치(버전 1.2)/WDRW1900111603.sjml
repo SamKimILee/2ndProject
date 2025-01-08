@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111603</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>축구대회</title>
+            <author id="P11603" age="13" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박병주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="운동">
+        <p>축구대회</p>
+        <p>나는 친구들이랑 같이 축구를 하는 것은 무척 재미있다.</p>
+        <p>공을 차면 스트래스가 사라지고 기분이 뻥 뚫리기 때문이다.</p>
+        <p>그리고 공이 회전하며 골대 그물로 빨려 들어가는 것은 물론이고 여러가지 신기한 트리블이나 골키퍼에 엄청난 슈퍼세이브들도 멋있기 때문이다. 그래서 나는 8살 때부터 지금까지도 축구를 하고 있다. 그리고 나는 친구들이랑 같이 축구대회를 나갔는데 예선에는 친구들이 잘 해 주어서 쉽게 통과했다. 그리고 본선에서는 내가 슈퍼세이브를 하면서 3:0으로 이겼다.  8강도 이겼고 4강에서는 동점이 되었는데 승부차기에서 내가 막아 이겼다. 결승에서는 승부차기를 10번 정도 했는데 극적으로 내가 막아서 우리는 우승을 했고 나는 MVP를 수상했다. MVP트로피는 지금도 내방 책상위에 있다. 무척 자랑스럽고 여전히 축구가 좋은 이유이다.</p>
+    </text>
+</SJML>

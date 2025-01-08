@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112275</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>핸드폰</title>
+            <author id="P12275" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">전승훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190605" subclass="null_핸드폰">
+        <p>제목: 핸드폰</p>
+        <p>오늘 깜짝 놀랐다. 전화가 왔는데 그 전화가 게임폰에서 들리는 것이다. 게임폰에는 전화를 할 수 없는데 말이다. 일단 받아봤다. 아빠의 말에 나는 깜짝 놀랐다. 지금 내가 들고있는 폰이 내폰이라는 것이다. 꿈만 같았다. 너무좋아서 마음이 급해진다. 친구들 한테 폰이생겼다고 자랑하고 싶어서이다.</p>
+        <p>엄마,아빠 고마워요~♡</p>
+    </text>
+</SJML>

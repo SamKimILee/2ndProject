@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810567</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리 아빠</title>
+            <author id="P10567" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">허다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_아빠">
+        <p>
+            <s>우리아빠</s>
+            <s>우리아빠는 웃기기를 잘해요</s>
+            <s>우리아빠는 힘이쎄요</s>
+            <s>우리아빠는 나와 잘 놀아줘요</s>
+            <s>우리아빠는 나를 제일 좋아해요</s>
+            <s>아빠 사랑해요</s>
+        </p>
+    </text>
+</SJML>

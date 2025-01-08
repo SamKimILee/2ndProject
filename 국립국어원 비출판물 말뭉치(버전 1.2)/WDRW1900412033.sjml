@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412033</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1& 누나에게</title>
+            <author id="P12033" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이현준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200309" subclass="나라">
+        <p>안녕 &name1&누나. 난 야구가 좋아</p>
+        <p>야구는 뭐 그런저런 야구.</p>
+        <p>내 이름을 캄보디아 말로 어떼게써? 정말 궁금하다. 그나라 글자는 꾸글이 글자라서 못알아보겠어. 나도 학교에 걸어서 20분 이야. 왜냐면 호수옆에여서 그래.</p>
+        <p>어떤 책이 재미있어? 나는 다이어터가 제일 좋아. 누나 동생 몇 살이야?</p>
+        <p>내 형은 10살이야. 코로나 조심해</p>
+        <p>2020년 3월 9일</p>
+        <p>월요일 7:49 50 초</p>
+        <p>&name2&이가</p>
+    </text>
+</SJML>

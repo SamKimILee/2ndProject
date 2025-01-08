@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104115</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>놓아 놓아 놓아</title>
+            <author id="P04115" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_그리움">
+        <p>안녕 &name1&, 나 &name2&. 우리 이제 그만 만나자. 아니, 더는 너 못 만나. 갑자기 왜 그러나 싶겠지만 오래 전부터 생각하고 고민했던 거야. 이제부터 정신 차리고 살려고. 전화번호도 바꿀 거고, 이사도 갈 거니까 찾아오지도 말고 연락도 하지 마. 그동안 고맙고 미안했어.</p>
+        <p>안녕 &name2&, 나 &name2&. 벌써 헤어진 지 한 달 하고도 이 주가 지났네. 친구들이 나한테 그러더라. 너한테 주지도 못 할 편지 왜 쓰냐고. 미련하고, 바보 같은 짓 좀 하지 말래. 근데, 내가 어떻게 널 잊어. 이 편지가 너한테 닿지 않아도 그냥, 그냥 희망이라도 붙잡고 싶어. &name2&, 나는 아직도 네 이름 세 글자만 봐도 설레고, 또 눈물이 나. 보고 싶다. 우리 언젠가 다시 만나자. 꼭.</p>
+    </text>
+</SJML>

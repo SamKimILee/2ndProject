@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212435</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리집은 동물원</title>
+            <author id="P12435" age="12" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족">
+        <p>
+            <s>우리집은 동물원</s>
+            <s>열심히 일하는 사람</s>
+            <s>베짱이 같 이 살아도</s>
+            <s>될 것 같은 사람</s>
+            <s>아빠</s>
+        </p>
+        <p>
+            <s>열심히 숙면하는 사람</s>
+            <s>겨울 잠 자는 곰 같은 사람</s>
+            <s>열심히 사는데 느긋하게</s>
+            <s>사는 것 같은 백 조 같은 사람</s>
+            <s>엄마</s>
+        </p>
+        <p>
+            <s>열심히 배우는 사람</s>
+            <s>웜뱃 처럼 배려심 많은 사람</s>
+            <s>호기심이 조금만 있어도</s>
+            <s>될것 같은 강아지 같은 사람</s>
+            <s>첫 째 언니</s>
+        </p>
+        <p>
+            <s>성격이 좋지 않는 사람</s>
+            <s>부엉이처럼 야행성 인 사람</s>
+            <s>나보다 키가 작고 몸집도 작은</s>
+            <s>참새 같은 사람</s>
+            <s>둘째 언니</s>
+        </p>
+        <p>
+            <s>말   잘 거는 사람</s>
+            <s>생각보다 기억력이 안 좋은</s>
+            <s>금붕어 같은 사람</s>
+            <s>많이 울어서 그 만 울었으면</s>
+            <s>좋겠는  새끼 고양이 같은 사람</s>
+            <s>나</s>
+        </p>
+        <p>
+            <s>개미,곰,웜뱃, 부엉이,금붕어</s>
+            <s>뭔가 이상한 조합의 동물 원</s>
+            <s>그래도 잘 살고 있으니까</s>
+            <s>좋은 조합이다.</s>
+        </p>
+    </text>
+</SJML>

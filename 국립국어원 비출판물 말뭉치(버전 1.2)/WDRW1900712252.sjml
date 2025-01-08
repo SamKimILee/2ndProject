@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712252</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> 잔소리 없는 세상   최고! 굿~</title>
+            <author id="P12252" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_잔소리">
+        <p>엄마와  함께 돌봄으로 갔다. 왜냐하면오늘 자전거를 타고혼자서 피아노, 태권도 학원을 가야 했기 때문이다. 정말 설랬다. 왜냐하면 잔소리가  없으니까 정말 정말기뻤다. 한달동안그럴것이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312650</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘의 날씨는</title>
+            <author id="P12650" age="11" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_오늘의 날씨는">
+        <p>오늘의 날씨는</p>
+        <p>&name1&</p>
+        <p>오늘은 (오늘의 날씨는) 이라는 책을 읽었습니다. 그런데 이 책은 여러명의 이웃들이 모여 별의 별 이야기를 하며 지내는 건데 도대체 재목이 (오늘의 날씨는) 인지 모르겠습니다. 그래서 이 책은 여러 번 읽어야 될것 같습니다. 근데 왜 제 목이 이건진 모르겠지만 이웃들끼리 당당히 살아가는 성장기가 정말 감동적이고 재밌어서 책을 읽 는데 시간 가는 줄 모르고 1시간동안 잠이 들지 않고 책이 읽어졌습니다. 이 책은 오늘 집에가서도 한 번 더 읽어봐서 왜 제 목이 이건지 알아야 될 것 같습니다.</p>
+    </text>
+</SJML>

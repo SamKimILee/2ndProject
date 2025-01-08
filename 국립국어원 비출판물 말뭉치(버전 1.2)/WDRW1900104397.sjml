@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104397</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 기타</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사소한 외로움</title>
+            <author id="P04397" age="20" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">이기석</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_겨울밤">
+        <p>외로움은 매일 하품처럼 사소하다</p>
+        <p>나는 겨울밤이 따뜻하면서도 추워서</p>
+        <p>이리저리 몸을 뒤척이곤 한다</p>
+        <p>아른거리는 게 누구인지 어디에 있는지도 모르지만 조금이라도 가까워질까 해서</p>
+        <p>몸을 뒤척인다</p>
+        <p>결국 잠에 드는건</p>
+        <p>어딘가의 당신에게 조금이나마 가까워져서</p>
+        <p>한 뼘 만큼 덜 외로워진 까닭이라 여겨본다</p>
+        <p>별것도 아닌 나의 외로움</p>
+        <p>사소한 뒤척임이 당신을 찾는다</p>
+        <p>나는 겨울밤이 추우면서도 따뜻해서</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810137</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내친구  &name1&</title>
+            <author id="P10137" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최준민</author>
+        </sourceInfo>
+    </header>
+    <text date="20191214" subclass="null_친구">
+        <p>제목:내친구 &name1&</p>
+        <p>&name1&와함께놀았다.자전거도타고농구도하고 전쟁놀이도 했다. 전쟁놀이에서 &name1&와원자폭탄을만들어서 일본군 을 무찔렀다. 너무 좋았다. 3학년때는같은반이되면좋겠다.</p>
+    </text>
+</SJML>

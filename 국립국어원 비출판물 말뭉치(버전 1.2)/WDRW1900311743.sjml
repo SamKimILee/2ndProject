@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311743</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 생일</title>
+            <author id="P11743" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190519" subclass="null_생일">
+        <p>5월 19일 수요일  맑음</p>
+        <p>오늘은 내 생일이었다. 그런데 특별하지 않고 평범한 날  같았다. 왜냐하면 두드러기 때문에 병원도 가고 약도 먹어서였다. 엄마는 약이 소용없는 것 같다며 주사를 원했지만 의사가 약을 더 먹어보자고 해서 다행이었다. 생일 기념으로 사진도 찍고 엄마와왕돈까스를 먹었다.</p>
+        <p>그 돈까스는 완전 컸다. 그리고 아빠가 아이스크림 케잌을 사오셨다. 맛있었다.</p>
+    </text>
+</SJML>

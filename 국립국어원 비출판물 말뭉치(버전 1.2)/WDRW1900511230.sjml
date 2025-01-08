@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511230</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>필요한것</title>
+            <author id="P11230" age="13" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="필요">
+        <p>잠을 자려면 베개가 반드시 필요하다</p>
+        <p>또 밥을 먹으려면 숟가락이 반드시 필요하다.</p>
+        <p>우리 누나가 게임을 하려면 이어폰이 필요하고</p>
+        <p>엄마가 뜨개질을 하려면 코바늘이 필요하다.</p>
+        <p>그리고 아빠가 낚시를 하려면 낚싯대가 필요하고</p>
+        <p>우리 고양이가 배부르게 잠을 자려면 츄르가 필요하다.</p>
+        <p>그리고 내가 방학을 알차게 보내려면 문화상품권이 꼬옥 필요하다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511717</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 생일</title>
+            <author id="P11717" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_생일">
+        <p>오늘 내 생일이다. 생일 선물로 할머니께서  Nintendo를 사주셨다. 너무 좋았다.</p>
+        <p>아빠랑 축구도 했다.</p>
+        <p>12대11로 내가 이겼다. 그래서 좋았다. 엄마가 라면도 맛있게 끟려좄다. 초코 케이크도 먹었다. 오늘이 잴 좋 생일이였다.</p>
+    </text>
+</SJML>

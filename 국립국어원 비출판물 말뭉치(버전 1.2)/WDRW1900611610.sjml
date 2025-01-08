@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611610</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>숲체험</title>
+            <author id="P11610" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">오승빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190922" subclass="null_숲체험">
+        <p>9/22(일)  제목: 숲체험</p>
+        <p>오늘은 1학년 친구들과 숲체험을 했다.</p>
+        <p>꽃이 여행을 간다는 말에나는 깜짝놀랐다.</p>
+        <p>거기서 천을 주황색물에 담그면 천이 주황색이된다. 거기다 고무줄을 묶으고 기다리면 모양이 만들어지면서 신기한 모양이 된다.</p>
+        <p>그리고 스카이방방에서 또놀았다. 1학년 친구들과 차를 타고 자기 집으로 다 돌아 갔다.</p>
+    </text>
+</SJML>

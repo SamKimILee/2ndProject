@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310302</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신나는 운동회</title>
+            <author id="P10302" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191029" subclass="null_운동회">
+        <p>2019년 10월 29일 화요일</p>
+        <p>날씨 : 추운데더운날</p>
+        <p>제목 : 신나는운동회</p>
+        <p>오늘은 운동회를 했다. 개인달리기, 계주달리기, 장애물에어바운스,행복합니다, 학부모체험을 했다. 엄마가 체험을 해서 치약을얻었다.</p>
+        <p>나는달리기를3등했지만 괜찮다. 참재미있었다. 엄마도와서좋았다. 3학년때는 내가계주도되고 달리기1등을 할거다. 3학년운동회가 궁금하다.</p>
+    </text>
+</SJML>

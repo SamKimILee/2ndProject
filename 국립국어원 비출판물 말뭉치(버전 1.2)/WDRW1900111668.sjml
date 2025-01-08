@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111668</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>난타 공연을 하고나서</title>
+            <author id="P11668" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_난타">
+        <p>시즌1</p>
+        <p>난타 연습을 할때는 북소리가 너무커서 재미있었다. 팔도 아팠다. 공연할때는연습할때보다 많이더 공연이 기대됐고 공연을잘해서 만족스럽고 우리 가족이 자랑스러웠다</p>
+        <p>재미있었다. 여러러러러얼심히해서 덧!즐거웠다. 선물도 받고놀아서 재밌었다.</p>
+    </text>
+</SJML>

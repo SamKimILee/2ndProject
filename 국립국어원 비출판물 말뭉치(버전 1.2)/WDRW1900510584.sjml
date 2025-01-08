@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510584</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새로운길</title>
+            <author id="P10584" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="길">
+        <p>오늘은 새로운길로 걸어보았다.지루한 학원을 마치고 비도 오니 한번 새로운 길을 개척해 보고 싶다는 생각이 들었다.조금은 돌아가지만 그 시간동안 빗소리도 들으며 요즘의 불안감과 걱정을 떨쳐낼수 있었다.앞으로 계속 그 길로만 걸을 생각이다</p>
+    </text>
+</SJML>

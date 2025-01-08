@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310292</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>전국 발도르프학교 100주년 축제</title>
+            <author id="P10292" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_서울숲 축제">
+        <p>서울숲에서 축제를 했다.</p>
+        <p>우리는 오케스트라만 했는데, 청계,푸른숲, 부산, 우리 학교만 오케스트라가 있었다. 그런데 연습 시간이랑 공연 시간이 짧고 기다리는 시간이 너무 길어서 좀 심심했다.</p>
+        <p>각자 학교에서 오케스트라 공연을 할 때는  우리만 쉬운 곡을 하는 것 같아서 좀 기죽었다. 푸른숲이 가장 잘 하는 것 같았다. (특히, 관악기!)</p>
+        <p>그리고 푸른숲 지휘자가 엄청 과장해서 웃겼다.</p>
+        <p>기다릴 때는 홍삼 게임을 &name1&이한테서  배워서 했는데 재미있었다.</p>
+        <p>나무 그늘은 진짜 시원했는데 새가 너무 많아서 새똥을 맞을까봐 좀 무서웠다.  다른 학교 친구들과는 인사만 했다.</p>
+    </text>
+</SJML>

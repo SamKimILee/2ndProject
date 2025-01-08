@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520074</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피아노 학원에서</title>
+            <author id="P20074" age="8" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_피아노 학원">
+        <p>제목: 피아노 학원 에서</p>
+        <p>금요일에 피아노 연주회를 했다.</p>
+        <p>너무너무 떨려서 목소리도 낮아지고 제목을 재대로 못말하고 떨리기만 하니까 “어떻해”라고 친구들에게 그렇게 말했다 내차례가 되자 ‘너무 떨려’라고 혼자말을 했다.</p>
+        <p>내가 할 때 사람들이 많고 나는 떨고 앉을할번했다</p>
+    </text>
+</SJML>

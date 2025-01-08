@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210914</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 산문시</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 오늘  그리고 당신의 내일</title>
+            <author id="P10914" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_오늘">
+        <p>나의 오늘은 깊고도 맑습니다 너무 맑아서 휘황찬란하게 숨이 막힙니다 친구와 함께 손가락 잡기 놀이를 했습니다 친구의 손가락도 나의 손가락도 빛나는 건 매한가지였습니다 당신의 오늘은 어떤가요 어제보다 숨이 막힐 듯 영롱합니까 아니면 나와 함께 오지 않을 내일을 기다리겠습니까</p>
+    </text>
+</SJML>

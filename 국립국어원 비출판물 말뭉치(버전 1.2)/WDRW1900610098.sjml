@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610098</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>불쌍한누나</title>
+            <author id="P10098" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">안성윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190106" subclass="null_누나">
+        <p>오늘은 소고기를 먹었다. 엄나와 같이 먹었다. 누나는 엄마의 구박을 받는다. 누나가 불쌍하다. 누나는 안줬다. 먹고 싶어하는 것 같다 엄마가 내일도 나만 준다. 했다. 엄마는 나만 예뻐한다.</p>
+    </text>
+</SJML>

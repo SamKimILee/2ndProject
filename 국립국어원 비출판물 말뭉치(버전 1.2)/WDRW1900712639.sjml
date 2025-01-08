@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712639</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>음식괴물</title>
+            <author id="P12639" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">신채은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200123" subclass="null_파고다">
+        <p>1월 23일 목요 일</p>
+        <p>날씨: 따뜻함</p>
+        <p>제목: 음식 괴물</p>
+        <p>우리는 파고다 를 밨다.</p>
+        <p>거기에는 원숭이 가 있어다.</p>
+        <p>그리고 꿀도 있어다.</p>
+        <p>할아버지와 아빠는</p>
+        <p>꿀 여섯개를 삿다.</p>
+        <p>나는 “가재가자!</p>
+        <p>음식괴물한테 속지마!!!”</p>
+        <p>라고 했다.</p>
+        <p>하지만 내말을 안들어 줬다.</p>
+        <p>속상했지만 괜찹다고</p>
+        <p>생각했다.</p>
+    </text>
+</SJML>

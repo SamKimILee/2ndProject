@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510042</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어렵다</title>
+            <author id="P10042" age="12" occupation="중학생" sex="F" submission="온라인" handwriting="No">채지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_이별">
+        <p>
+            <s>살면서 '어렵다'라는 생각을 해본 적이 드문데,</s>
+            <s>요즘따라 참 어려운 일들이 많다.</s>
+        </p>
+        <p>
+            <s>너를 놓아주기 어렵다.</s>
+            <s>너를 잊기가 어렵다.</s>
+            <s>네가 떠나가던 그 순간이 무뎌지게 놔두는 게 어렵다.</s>
+        </p>
+        <p>
+            <s>지금도 난 네 생각뿐인데,</s>
+            <s>너를 놓아주기가. 참, 어렵다. 많이 어렵다.</s>
+        </p>
+        <p>
+            <s>사실, 어려운 게 아니라</s>
+            <s>내가 너를 잊으면, 놓아주면, 무뎌지게 놔두면</s>
+            <s>너도 나를 잊을까, 놓을까, 무뎌지게 놔둘까</s>
+            <s>우리의 추억들이 사라질까</s>
+            <s>두려운 걸지도 모른다.</s>
+        </p>
+        <p>
+            <s>어쨌든, 네가 오늘도 보고싶어 미치겠다.</s>
+        </p>
+    </text>
+</SJML>

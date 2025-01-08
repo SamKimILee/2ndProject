@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110207</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외계인 세상</title>
+            <author id="P10207" age="10" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_외계인 꿈">
+        <p>어젯 밤에 신기한 꿈을 꿨다. 우리 학교에서 우주로 현장학습체험을 간 것이다. 그래서 외계인을 만났는데 외계인도 우리 처럼 학교에 다니고 TV도 보고 밥도 먹는다. 다만 좀 다른 것은 일상복이 우주복이고, 말을 못해서 외계어를 쓰는데 외계인들이 통역기를 주었다. 외계인들의 나라에선 수업도 듣고, 외계어도 배우고 외계인들의 음식 만들기도 했다. 그러다가 우리의 우주선이 고장나서 외계인들의 우주선을 타고 지구로 무사히 돌아왔다. 그리고 난 잠에서 깼다. 정말 재미있는 꿈이였다. 이 세상에 외계인이 존재할까?</p>
+    </text>
+</SJML>

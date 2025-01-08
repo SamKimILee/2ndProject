@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303053</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 발표내용 일부</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>발표 내용 정리 일부</title>
+            <author id="P03053" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이승이</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_발표안">
+        <p>본문은 일반 소설책과 다를 것 없이 구상하였고 왼쪽엔 작가의 간략한 소개와 작가의 한줄 메시지가 들어간다면 작가에 대한 이미지를 독자들에게 심어줄 수 있을 것 같아 좋을 것 같다고 생각했습니다.</p>
+    </text>
+</SJML>

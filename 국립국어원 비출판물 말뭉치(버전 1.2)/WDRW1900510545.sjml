@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510545</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>힘이란 것은</title>
+            <author id="P10545" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="힘">
+        <p>
+            <s>힘이람 것은</s>
+            <s>모름지기</s>
+            <s>자신보단 남을 위해 쓰는것이라 하지만</s>
+        </p>
+        <p>
+            <s>힘이란 것은</s>
+            <s>그렇게 쓰는것이 아닙니다</s>
+        </p>
+        <p>
+            <s>힘이란 것은</s>
+            <s>자기자신을 위해 열심히</s>
+            <s>열심히 갈고닦는 것입니다</s>
+            <s>모든사람이 그런다면</s>
+            <s>남을 위해 쓸 필요가 없습니다</s>
+        </p>
+        <p>
+            <s>하지만 그러고 싶어도 그러지 못하는 사람들이 있어서</s>
+            <s>남을 위해 쓰는것입니다</s>
+        </p>
+    </text>
+</SJML>

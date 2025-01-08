@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412334</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달팽이</title>
+            <author id="P12334" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">송예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_달팽이">
+        <p>
+            <s>달팽이</s>
+        </p>
+        <p>
+            <s>비가 오는날 학굣길에</s>
+            <s>얼굴을 내민 달팽이</s>
+            <s>친구들이 나뭇가지로</s>
+            <s>톡톡 건드리면</s>
+            <s>얼굴을 집으로 쏙</s>
+            <s>넣는다. 아무것도</s>
+            <s>못하는 겁쟁이</s>
+            <s>달팽이는 길을</s>
+            <s>떠난다.</s>
+        </p>
+    </text>
+</SJML>

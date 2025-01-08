@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204397</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>덜하다고 더하다고</title>
+            <author id="P04397" age="20" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">이기석</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_판단">
+        <p>
+            <s>덜 불행하다고</s>
+            <s>더 행복한건 아니다</s>
+            <s>덜 행복하다고</s>
+            <s>더 불행한건 아니다</s>
+            <s>덜 먹는다고</s>
+            <s>더 날씬해지는건 아니다</s>
+            <s>덜 날씬하다고</s>
+            <s>더 먹는건 아니다</s>
+            <s>덜 춥다고</s>
+            <s>더 따뜻한건 아니다</s>
+            <s>덜 따뜻하다고</s>
+            <s>더 추운건 아니다</s>
+            <s>덜하다고 해서 더한것도</s>
+            <s>더하다고 해서 덜한것도</s>
+            <s>아니다</s>
+        </p>
+    </text>
+</SJML>

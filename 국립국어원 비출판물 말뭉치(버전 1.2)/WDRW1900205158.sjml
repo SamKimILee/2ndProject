@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205158</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손에 붙이는 스티커 </title>
+            <author id="P05158" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김주희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="쓰다">
+        <p>
+            <s>몸에 쓴 것은 건강에 좋다는</s>
+            <s>어른들의 말씀</s>
+            <s>그럼 몸에 쓴 것도 건강에 좋을까?</s>
+            <s>펜으로 글씨 쓰고</s>
+            <s>지워지지 않은 얼룩 같은데</s>
+            <s>어른들은 참 이상하다</s>
+            <s>왜 우리는 몸에 낙서를 하면 안 될까</s>
+            <s>우리는 비누로 손에 낙서를 문질문질</s>
+            <s>우리의 추억이 흐르는 물에 검은 때로 씻겨진다</s>
+            <s>아</s>
+            <s>어른들은 추억을 간직하고 싶었을까</s>
+            <s>우리도 추억을 간직하고 싶은데</s>
+            <s>말이 안 통한다</s>
+            <s>누가 일기장에 써서 나를 좀 가르쳐줘</s>
+        </p>
+    </text>
+</SJML>

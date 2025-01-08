@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212282</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>알라딘</title>
+            <author id="P12282" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190630" subclass="null_알라딘">
+        <p>6월 30일 일요일</p>
+        <p>알라딘</p>
+        <p>영화 알라딘을 봤다. 무섭기도 하고 재미있기도 했다. 만약 나에게도 램프 요정 지니가 나타난다면 첫번째 소원은 여행을 많이 보내달라고 빌 것이다. 두번째는 맛있는 음식을 많이 먹게 해달라고 할 것이다. 마지막 소원은 불편한 안경을 안 쓰게 해달라고 할 것이다. 램프 요정 지니가 요술을 부릴 수 있어서 부럽다.</p>
+    </text>
+</SJML>

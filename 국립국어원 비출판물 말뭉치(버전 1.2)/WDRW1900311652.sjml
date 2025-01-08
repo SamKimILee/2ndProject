@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311652</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>매미 탈피</title>
+            <author id="P11652" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_매미">
+        <p>제목:매미 탈피</p>
+        <p>오늘 곤충체집을 하다가 허물을 벗고 있는 매미를 체집했다.</p>
+        <p>매미는 번데기에서 몸까지 나오고 날갯돗이를 했다. 참 신기했다.</p>
+        <p>날개에 물이 묻어 있었다.</p>
+        <p>오늘 비가 와서 그런가 보다.</p>
+        <p>매미는 연두색 이었다.</p>
+        <p>등에 까만색 무니가 있었다.</p>
+        <p>오늘따라 매미가 참 귀여웠다.</p>
+    </text>
+</SJML>

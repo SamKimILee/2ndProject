@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112256</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 만화책이 재미있고 좋다.</title>
+            <author id="P12256" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_만화책">
+        <p>나는 만화책이 재미있고 좋다.</p>
+        <p>왜냐하면 그림도 재미있고 말이 재미있어서 이다.</p>
+        <p>만화책을보고있으면 옆에서누가불러도</p>
+        <p>못 들은다. 만화책을보면 시간이가는줄모르겠다.</p>
+        <p>한번보 면계속 보고 싶다. 예를들면,'나 나 이모'는 역사속으로들어 가서 롤랑이라는 마법사가 발 명을 막지못하게도와주는 내용인데 3권이없어서 내용이궁금하다.</p>
+        <p>내가 보는 만화는 과학, 역사 ,곤충,수학, 한자등의 학습만화인데 엄마는내가 만화책을보는걸 정말싫어한다. 그래서 글책 3권 보면 만화책1권보기로 약속을했다. 책상에서 바른 자세로 앉아 보기로 약속했다</p>
+        <p>약속을 지키기위해서 노력 하겠다.</p>
+    </text>
+</SJML>

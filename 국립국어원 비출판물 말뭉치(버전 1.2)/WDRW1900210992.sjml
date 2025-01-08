@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210992</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는  이렇게 사랑을 해</title>
+            <author id="P10992" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_팬심">
+        <p>흔하게 사람들이 생각하는 보편적인 사랑의 범주가 있다. 서로가 사랑하는 연인의 관계, 혼자 지독히 앓는 짝사랑, 모성애나 부성애 등등. 하지만 나의 사랑은 어느 곳에도 속하지 않는다.  티비 속에서 노래하고 춤추는 너에 대한 나의 사랑은 어디에 속해야 할까.  나 혼자 앓는다는 점에서 짝사랑과는 유사하지만 적어도 짝사랑을 하는 사람은 당사자와 직접 마주할 수 있잖아. 그 애가 존재를 알아줄 수도 있잖아. 하지만 나는 마주하지 못 해.  존재는 더욱 알지 못 해.</p>
+    </text>
+</SJML>

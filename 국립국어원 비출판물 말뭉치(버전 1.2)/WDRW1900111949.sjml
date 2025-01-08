@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111949</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을이야,  겨울이야?</title>
+            <author id="P11949" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">오승연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_가을, 겨울">
+        <p>
+            <s>가을이야, 겨울이야?</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>가을인지 겨울인지 모르겠다.</s>
+            <s>언제는 더워서 후끈후끈하고</s>
+            <s>언제는 추워서 하얀입김이 나오니까</s>
+            <s>학원 갈때는 더워서 헥헥헥</s>
+            <s>집에 올때는 추워서 오들오들</s>
+            <s>지금이 가을이야, 겨울이야?</s>
+        </p>
+    </text>
+</SJML>

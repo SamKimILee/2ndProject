@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212093</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수박입</title>
+            <author id="P12093" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">허지안</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_동생의하품">
+        <p>
+            <s>수박입</s>
+            <s>&name1&</s>
+            <s>더운 여름 날</s>
+            <s>동생이 하품을 한다.</s>
+            <s>입이 쩌억 벌어진다.</s>
+            <s>입안이 빨갛게 익은 수박같고</s>
+            <s>반짝 거리는 은니가 수박 씨 같다.</s>
+        </p>
+    </text>
+</SJML>

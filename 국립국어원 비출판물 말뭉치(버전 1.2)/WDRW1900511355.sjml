@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>졸업</title>
+            <author id="P11355" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">홍지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_졸업">
+        <p>식을 할 때는 아무 생각이 없더라.</p>
+        <p>그냥 이제 이 학교에 더 이상 올 일이 없다는 생각 정도와  약간의 아쉬움 정도가 남았다. 매일같이 드나들던 곳에 딱히 갈 이유가 없어지고, 매일 입던 교복을 더 이상 입어야 할 일이 없다는 것은 이상한 기분이다. 친하지 않아도, 따로 연락하지 않아도 볼 수 있던 애들을 이제 다시 마주칠까 말까 하다는 것이 아쉽다.  졸업하고 나면 다시 이렇게 지내지는 못하겠지.  집에 돌아와 교복을 바닥에 널부러뜨리고 혼자 누워있으면 그제서야 실감이 난다.</p>
+    </text>
+</SJML>

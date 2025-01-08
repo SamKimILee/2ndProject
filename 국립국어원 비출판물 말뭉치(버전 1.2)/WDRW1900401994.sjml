@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401994</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>급식</title>
+            <author id="P01994" age="10" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20000000" subclass="null_급식">
+        <p>오늘 급식에서 내가 제일 싫어하는 오이가 쫄면속에 들어있었다. 아무리 먹어보려 해도 먹을 수가 없었다.</p>
+        <p>나는 오이의 냄새를 밑기만 해도 넘어올 것 같다.  친구들도 나보고 신기하다고 했다. 나도 역시 오이를 싫어하는 사람은 나밖에 못봤다. 아무튼 오늘은 급식을 남겨서 집에 돌아오니 배가 고팠지만 참았다.</p>
+        <p>오이를 아주 좋아하는 사람들에겐 미안하지만 나는 오이가 세상에서 없어졌으면 좋겠다.</p>
+    </text>
+</SJML>

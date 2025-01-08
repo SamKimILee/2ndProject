@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103897</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>숨</title>
+            <author id="P03897" age="20" occupation="고등학생" sex="F" submission="온라인" handwriting="No">함별</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_생, 사">
+        <p>
+            <s>숨</s>
+        </p>
+        <p>
+            <s>어렸을 때</s>
+            <s>아빠가 좋아서</s>
+            <s>아빠 숨이 오르내리는 것조차 따라 하고 싶었다.</s>
+            <s>일부러 숨을 참았다.</s>
+        </p>
+        <p>
+            <s>쿵쿵쿵</s>
+        </p>
+        <p>
+            <s>쿵       쿵       쿵</s>
+        </p>
+        <p>
+            <s>내가 세 번 숨을 내쉴 때</s>
+            <s>아빠는 한 번 숨을 내쉬었다.</s>
+        </p>
+        <p>
+            <s>크고 나서 알았다.</s>
+            <s>서서히 숨이 느려지고 결국 조용히 멎는다는 것을</s>
+        </p>
+        <p>
+            <s>우린 매 순간 생과 사를 넘나든다.</s>
+        </p>
+    </text>
+</SJML>

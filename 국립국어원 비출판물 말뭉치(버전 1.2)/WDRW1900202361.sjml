@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202361</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울에 과집중 되어있는 인프라에 대해</title>
+            <author id="P02361" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">윤기련</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="서울">
+        <p>나는 서울에서 태어났지만 유년 시절 10여년 간을 대전에서 보냈다. 대전을 서울에 비유하자면 은행동은 홍대같은 번화가이고 탄방동은 강남처럼 잘 닦인 곳인데 그 중에서도 나는 탄방동에서 자랐다. 대전에서 그나마 가장 잘 닦인 곳에서 자란 셈이다. 11살에 서울로 다시 이사와서 10여년을 더 살았는데, 1년 전 즈음에 대전에 가봤다가 나는 너무 놀랐다. 대전의 환경이  너무 열약했기 때문이다. 그것도 가장 잘 닦인 탄방동인데 서울의 변두리 수준에도 미치지 못한다고 느꼈다.  한국의 인프라가 서울에 너무 과집중 되어있는 것 같아서 문제인 것 같다.</p>
+    </text>
+</SJML>

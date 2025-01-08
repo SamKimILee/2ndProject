@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311607</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>체육관에 갔다.</title>
+            <author id="P11607" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_체육관">
+        <p>1교시에 체육관에서 줄넘기 달리기를 했다. 일등만 해서 신났다. &name1&랑 공동 일등도 했다. 4번이나 일등을 했다. 줄넘기는 우리반에서 네번째로 잘하는것 같지만 줄넘기 달리기는 내가 제일 잘하는 것 같다. 다음에도 또 하고싶다.</p>
+    </text>
+</SJML>

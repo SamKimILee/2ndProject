@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900401860</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>명탐정 셜록 홈즈의 귀환</title>
+            <author id="P01860" age="12" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">이승지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_셜록">
+        <p>나는 명탐정 셜록 홈즈의 귀환을 읽고 만은것을알게 되었다. 이런특수문자나 암호같은것도 다 추리해서 한다는것은 정말 멋있었다. 또 손에든 물건과 그사람의 차림새를 보고 알아맞추다니! 정말 대단했다. 처음에는 추리가 쉬운줄 알았다. 하지만 이책을읽고 추리는 진짜 어렵고 복잡한 것이었다.</p>
+        <p>내가 책에서 인상깊었던 점은 사람들이 안경같은 물건들을 죽을때 집지 않았다면 경찰이나 형사들은 잡지못했을거다.라는 홈즈의 말이었다. 또,왜 사람들이 살인을 저지르는 것인지 궁금했다.</p>
+        <p>살인을 하는 사람들은 그것이 나쁜일이고 하면 감옥에 간다는것을 알면서 왜 살인을 저지르는 것일까? 나는 커서 이런 나쁜짓을 하지 않아 처음부터 상황을 만들지 말아야겠다.</p>
+    </text>
+</SJML>

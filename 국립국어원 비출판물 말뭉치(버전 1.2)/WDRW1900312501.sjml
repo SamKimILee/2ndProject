@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312501</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친할아버지 댁에 간 날</title>
+            <author id="P12501" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_세배">
+        <p>새해 인사를 드리러 할아버지 댁에 갔다. 세배도 드리고 내가 만든 새장을 드렸다. 할아버지께서도 선물을 주셨다. 작은 곤충 피규어들이었다. 그중에 전갈이 가장 좋았다. 하지만 벌의 한 쪽 날개가 없어서 아쉬웠다.</p>
+        <p>그래도 기분이 좋았다.</p>
+    </text>
+</SJML>

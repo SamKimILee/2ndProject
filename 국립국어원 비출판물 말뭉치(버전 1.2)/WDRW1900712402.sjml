@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712402</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도토리가 굴러가</title>
+            <author id="P12402" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_도토리">
+        <p>
+            <s>고토리가글러가</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>도코리는굴 러가 왜굴러갈까?</s>
+            <s>친구만나러 가나?</s>
+            <s>다람쥐피하나 ?</s>
+        </p>
+        <p>
+            <s>사람피하고있나?</s>
+            <s>(바람피 하나?)</s>
+        </p>
+    </text>
+</SJML>

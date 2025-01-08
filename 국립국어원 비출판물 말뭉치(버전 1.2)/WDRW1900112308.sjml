@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112308</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재미있는 영화</title>
+            <author id="P12308" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180728" subclass="null_영화">
+        <p>제목: 재미있는 영화</p>
+        <p>오늘 이모랑동생이랑극장에서 영화를보았다.그것도나랑동생이정~말 좋아하는 신비아파트영화였다.그영화는엄청재미있었다. 근데 TV에서나오지않는 캐릭터도나와서진~짜 재미있었다. 또 보고싶다.♡</p>
+    </text>
+</SJML>

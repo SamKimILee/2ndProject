@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105370</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노아의 푸른 정원</title>
+            <author id="P05370" age="34" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_신혼여행">
+        <p>"그러나 노아는 여호와께 은혜를 입었더라"(창세기 6:8)</p>
+        <p>"내가 내 무지개를 구름 속에 두었나니 이것이 나와 세상 사이의 언약의 증거니라"(창세기 9:13)</p>
+        <p>'노아의 푸른 정원'이라는 이름을 가진 민박집에서 신혼여행을 시작한다.</p>
+        <p>그 흔한 삼류 호텔도 아니지마는</p>
+        <p>조식으로 조선족 아주머니께서 만들어주신</p>
+        <p>포두부 하나에도 하나님 은혜가 담겨 있음을 깨닫는다.</p>
+    </text>
+</SJML>

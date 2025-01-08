@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411551</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엽기과학자  프래니 3. 투명인간이 된 프래니</title>
+            <author id="P11551" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조서영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_엽기과학자 프래니 3. 투명인간이 된 프래니">
+        <p>프래니에게</p>
+        <p>프래니야, 안녕!나는 &name1&이라고해. 넌참 특별한 아이구나!넌 투명인간이되는 약도 만들고 넌 참 멋있고 훌륭해!나도 투명인간이되는 약초를 나한테뿌려서 친구들과숨박꼭질을 해보고 싶어. 내가 너였으면 너를 여자로 변하는 약초를 만들고 싶어. 더 특별 한걸 만들어보고싶어!</p>
+        <p>&name1&이가 프래니에게</p>
+    </text>
+</SJML>

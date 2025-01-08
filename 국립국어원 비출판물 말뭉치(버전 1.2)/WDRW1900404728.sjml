@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404728</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>드라이브</title>
+            <author id="P04728" age="24" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_드라이브">
+        <p>깊은 새벽의 도로는 바닥도 하늘도 전부 잉크처럼 농도 짙은 검은색이라 마치 어둠 속에서 지면의 구분 없이 떠다니며 달리는 기분이다. x축과 y축만이 존재하는 그런 세계같은.</p>
+        <p>새벽의 드라이브는 나를 제외한 다른 차들이 드물기 때문에 도로를 온전히 나만이 즐길 수 있지만, 아무도 지나다니지 않는 도로를 주행하다보면 무언가 오싹하고 고독해진다. 세상에 홀로 남겨진 듯한 막연한 두려움이 몰려온다. 달려도 달려도 끝 없이 도로만 펼쳐져있을 것만 같은 그런.</p>
+    </text>
+</SJML>

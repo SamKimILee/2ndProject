@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104675</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나에 대하여-1</title>
+            <author id="P04675" age="40" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_쓰다">
+        <p>내 나이 마흔 하나.</p>
+        <p>언제 이렇게 나이를 먹었지?</p>
+        <p>그런데도 나는 여전히 나를 모르겠다.</p>
+        <p>그래서 쓴다.</p>
+        <p>나를 알기 위해서.</p>
+        <p>나에 대하여 떠오르는 걸 써 보자.</p>
+        <p>그 모든 것들이 나이겠지.</p>
+        <p>그러면 조금은 나를 알게 되겠지.</p>
+        <p>그래서 쓴다.</p>
+        <p>나를 사랑하기  위해서.</p>
+    </text>
+</SJML>

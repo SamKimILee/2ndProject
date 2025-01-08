@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211502</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>돈가스</title>
+            <author id="P11502" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_왕돈가스">
+        <p>제목: 돈가스</p>
+        <p>나는 오늘 가족과 함께 점심으로 돈가스를 먹으러 돈가스 식당에 갔다. 오랜만에 돈가스를 먹는 것이여서 왠지 더 배고파 졌다. 계속 기다렸던 왕돈가스가 나오자, 나는 허겁지겁 먹었다. 왕돈가스가 생각보다 무척 바삭했고 왕돈가스 옆에 있던 샐러드와 후르츠 칵테일도 정말 맛있었다.탄산음료를 시켜서 왕돈가스와 함께 먹으니 최고였다. 오랜만에 돈가스를 먹어서 엄청 맛있었고 왕돈가스도 맛있었지만 또 다른 메뉴인 치킨가스를 먹어보고 싶다. 그리고 오랜만에 가족과 외식을 해서 행복했다. 다음에도 더 맛있는 음식을 먹어보고 싶고 외식도 많이 하고 싶다.</p>
+    </text>
+</SJML>

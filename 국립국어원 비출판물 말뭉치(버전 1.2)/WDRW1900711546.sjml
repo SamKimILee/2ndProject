@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711546</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감사편지</title>
+            <author id="P11546" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박경연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="생각">
+        <p>저희 맛있는 밥 과일 채소를 잘 길를신 거 같아서 고맙습니다. 또 감사합니다. 앞으로도 맛있고 건강한 음식 많이 많이 만들어 주세요.</p>
+    </text>
+</SJML>

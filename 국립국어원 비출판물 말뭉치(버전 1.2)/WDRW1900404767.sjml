@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404767</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>딸이 최고다!</title>
+            <author id="P04767" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="여자">
+        <p>새해에 고모들이 갑자기 할머니를 ktx에 태워 서울로 모셔왔다. 할머니와 명절을 같이 지내고 건강도 살필 겸!</p>
+        <p>오늘은 할머니의 망막 검사가 있는 날이다.</p>
+        <p>이상은 없고 6개월 뒤에 다시 검사하기로 했다. 대신 눈이 처져서 쌍커풀 수술을 하기로 했다.</p>
+        <p>고모들이 효도를 참 잘한다. 내개비는 큰아들인데 좀 많이 노답이다. 5남매 중에 제일 노답이다.</p>
+        <p>고모들을 보고 배웠으면 좋겠다. 화만 내지.. 효도라곤 하나도 안 하는 한심한 사람이다.</p>
+        <p>역시 딸이 최고야!!! 엄마가 제일 잘한 일은 딸만 둘이라는 거!!!</p>
+    </text>
+</SJML>

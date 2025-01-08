@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310835</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어머니</title>
+            <author id="P10835" age="66" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임귀숙</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마">
+        <p>엄마 떠나간지  어언3년</p>
+        <p>잘 계신가요?</p>
+        <p>보내드릴때 못다한 맘</p>
+        <p>천천히 천천히  보내 드립니다</p>
+        <p>하느나라는  편안한가요?</p>
+        <p>고생스런  이승의  사연일랑  모두  지으셔요</p>
+        <p>자식들 걱정좀덜어 가시라면</p>
+        <p>불효일까요</p>
+        <p>그저  우울한날   엄마생각에   젖어봅니다</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사장님의 꿈</title>
+            <author id="P03146" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_꿈">
+        <p>1년에 한번씩은 반드시 꾸는 꿈 꿈이 시작하면 한 소년이 신문 배달이요 하고 신문을 발치에 던지고 간다 그걸 들어서 보면 제일 앞면 헤드라인에 세계의 멸망이 내일이다 하는순간 깨어 보면 항상 울고 있다</p>
+    </text>
+</SJML>

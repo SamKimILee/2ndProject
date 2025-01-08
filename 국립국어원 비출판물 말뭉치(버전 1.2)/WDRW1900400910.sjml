@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400910</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수고로운 행동의 의미</title>
+            <author id="P00910" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">권아란</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>
+            <s>집 가까이 있는 슈퍼를 가지 않고,</s>
+            <s>집에 돌아오는 너를 마주치기 위해</s>
+            <s>일부러 이 추위에 멀리 있는 슈퍼를 간다.</s>
+        </p>
+    </text>
+</SJML>

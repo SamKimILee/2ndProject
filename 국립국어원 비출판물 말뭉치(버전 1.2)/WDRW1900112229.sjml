@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112229</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이에게 </title>
+            <author id="P12229" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>&name1&이에게</p>
+        <p>&name1&아, 안녕? 나 &name2&이야. 코로나때문에 영어학원을 못가서 너를 만날수가 없어서 너무 심심해. 빨리 학원가서 같이 영어공부도 하고 재미있게 놀았으면 좋겠어. 코로나 걸리지않게 조심하고 공부도 열심히해. 개학하고 학교에서 만나자. 안녕</p>
+    </text>
+</SJML>

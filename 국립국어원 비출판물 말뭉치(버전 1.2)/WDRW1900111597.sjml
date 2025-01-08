@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111597</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기 분 구름</title>
+            <author id="P11597" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_구름">
+        <p>
+            <s>기 분 구름</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>내가화낫을때</s>
+            <s>먹구름</s>
+        </p>
+        <p>
+            <s>내가 기분좋을때</s>
+            <s>맑 은 구름</s>
+        </p>
+        <p>
+            <s>내가</s>
+            <s>짜증 날때 비구름</s>
+        </p>
+        <p>
+            <s>졸릴땐 무슨 구름일까?</s>
+        </p>
+    </text>
+</SJML>

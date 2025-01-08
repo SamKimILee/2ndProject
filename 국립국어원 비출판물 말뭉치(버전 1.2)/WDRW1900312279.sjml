@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312279</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나쁜 모기</title>
+            <author id="P12279" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">류가원</author>
+        </sourceInfo>
+    </header>
+    <text date="20180901" subclass="null_모기">
+        <p>
+            <s>날씨:솔솔 바람이 불어서 잠이온다~</s>
+            <s>제목:나쁜 모기</s>
+            <s>나쁜 모기</s>
+            <s>지은이:&name1&</s>
+            <s>모기는 남의집에 불쑥 허락 없이</s>
+            <s>들어오고, 그것도 모자라서</s>
+            <s>달달한</s>
+            <s>내피를 쪽~쪽 빨아먹는</s>
+            <s>나쁜모기</s>
+            <s>우리 엄마한테 걸리기만해봐라.</s>
+            <s>전기 모기채로</s>
+            <s>없애줄거야.</s>
+            <s>나쁜 모기</s>
+        </p>
+    </text>
+</SJML>

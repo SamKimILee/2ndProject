@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610081</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>보고싶어서</title>
+            <author id="P10081" age="16" occupation="무직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_너">
+        <p>
+            <s>사랑을 하다 보면</s>
+            <s>우리가 함께 했던 곳에는 우리만의 이름이 붙는다</s>
+        </p>
+        <p>
+            <s>여기는 우리가 며칠만에 정말 우연히 만났던 곳,</s>
+            <s>여기는 우리가 시간 가는 줄 모르고 이야기를 나누던 곳,</s>
+            <s>여기는 우리가 첫키스를 했던 곳</s>
+        </p>
+        <p>
+            <s>오늘은 네가 더욱 보고싶어서</s>
+            <s>멀리멀리 돌아 그 곳들에 가서</s>
+            <s>그 이름들을 부르며</s>
+            <s>너와의 추억을 떠올려본다</s>
+        </p>
+        <p>
+            <s>나의 발소리조차 추억하기를 방해할까</s>
+            <s>조심조심 그리고</s>
+            <s>너무나 빨리 지나갔던 그때를</s>
+            <s>다시금 추억하기 위해</s>
+            <s>천천히 걸어본다</s>
+        </p>
+        <p>
+            <s>오늘은 네가 더욱 보고싶어서</s>
+            <s>집은 멀어져만 간다</s>
+        </p>
+    </text>
+</SJML>

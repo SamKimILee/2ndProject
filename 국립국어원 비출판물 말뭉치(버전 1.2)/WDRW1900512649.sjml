@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈썰매장</title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_눈썰매">
+        <p>눈썰매장에 처음 갔다. 튜브모양 썰매를 가지고 작은 언덕에서 먼저 탔다. 익숙해저서 큰 언덕에서도 탔다. 조금 무서웠다. 눈사람도 만들고 눈싸움도 했다. 빙어잡기 체험도 했다. 나는 14마리를 잡았다. 눈썰매장은 재미있다.</p>
+    </text>
+</SJML>

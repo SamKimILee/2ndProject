@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612116</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어린이날</title>
+            <author id="P12116" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190506" subclass="null_어린이날">
+        <p>2019년 5월 6일 월요일</p>
+        <p>제목:어린이날</p>
+        <p>토요일 아침에 서천으로 가족여행을 갔다. 차가 너무 막혀서 저녁때 도착했다. 그날 밤, 어린이날 선물로 최강 동물왕 책을 받았다. 원하는 선물을 받아서 기분이 좋았다. 우리는 갯벌체험을 하고 생태원과 군산 철길마을, 음파 호수공원에 갔다. 월요일 새벽 5시에 일어나서 짐을싸고 출발했는데 아쉬워서 서울랜드를 들려서 놀았다. 여행이 힘들 었지만, 맛있는 것도 먹고 재미있는 체험도 하고 선물도 받아서 행복했다. 방정환 아저씨에게 어린이날을 만들어주셔서 고마웠다.</p>
+    </text>
+</SJML>

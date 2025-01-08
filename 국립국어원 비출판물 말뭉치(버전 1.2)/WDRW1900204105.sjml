@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204105</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밤2</title>
+            <author id="P04105" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">이주희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_자장가">
+        <p>
+            <s>행복하다고 말하는 입술에</s>
+            <s>달빛이 내려앉고</s>
+            <s>곤히 잠든 눈가에</s>
+            <s>별빛이 내려앉는다</s>
+        </p>
+        <p>
+            <s>나는 사랑스럽게 솟은 콘잔등을</s>
+            <s>살살 어루만지고 싶어라</s>
+        </p>
+        <p>
+            <s>내 품에 안긴 당신의 숨소리는</s>
+            <s>좀처럼 잠들지 못하는 밤을 위한 자장가</s>
+        </p>
+        <p>
+            <s>오래오래 듣고싶어라</s>
+        </p>
+    </text>
+</SJML>

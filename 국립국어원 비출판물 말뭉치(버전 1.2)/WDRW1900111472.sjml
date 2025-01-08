@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111472</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>토리를 받았어요</title>
+            <author id="P11472" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조예현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_토리">
+        <p>학교가 끝나고 집에 올때 엄마가 토리를 사와서 나한테줬다. 너무 좋았고 다 가진 임금님이 된거 같이 기분이 어마어마 할 정도로좋았다. 토리를 어디든지 데려 갔다. 오늘도 식당 갈때 데리고 갔다. 재밌고 신나는 토리와 나의하루 였다. 토리와 계속 함께 하고 싶다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811984</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아저씨</title>
+            <author id="P11984" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아저씨">
+        <p>무슨아저씨가우리를괴롭혔다 그리고우리것을가져갔다. 기분이안 좋았다. 아저씨를따라다녔다. 재미있었다. 또가고싶었다.</p>
+        <p>다음에는 오빠랑언니랑세명이랑오고싶다.</p>
+    </text>
+</SJML>

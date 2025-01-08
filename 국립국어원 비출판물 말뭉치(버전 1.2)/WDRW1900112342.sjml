@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112342</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울 강릉 여행</title>
+            <author id="P12342" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">황슬기</author>
+        </sourceInfo>
+    </header>
+    <text date="20200123" subclass="null_강릉">
+        <p>&lt;제목: 강릉&gt;</p>
+        <p>오늘은 새벽 7시쯤 일어나서 기차를 탔다.</p>
+        <p>강릉으로 갔다. 9시10분 에 출발해서 11시에 도착했는데 기차를 타보니 여러 가지 기능이 있는게 재미있었다.</p>
+        <p>아빠가 렌터카를 빌려 오죽헌에갔다.</p>
+        <p>우리는 율곡이이 교육관등을 가고,심사임당의 그림도 보았다. 선비옷을 있고, 보드게임을 하고 나서 선교장에 가서 설명을 들었다. 설명한가지는 아직도 18대손이 살고 있다고 했다.그 다음 강릉 중앙시장에서 튀김,오뎅,쥐포, 고로케, 슈크림빵,단팥빵을먹고 호텔로 갔는데 가로등이 없어 고불고불한산길을 갔다.</p>
+        <p>도착하고샤워를 한뒤, 게임을 하고, 잠을 잤다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712421</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>강아지 똥</title>
+            <author id="P12421" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">최지호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="책">
+        <p>제목 : 강아지 똥</p>
+        <p>1교시에 선생님께서 강아지 똥 책을 읽어 주솄다.</p>
+        <p>가장 기억에 남는 장면은 강아지 똥이 혼자 있어서 무서울어가다.</p>
+        <p>강아지 똥이 작다고 무시하면 안돼는 생각이이드러다.</p>
+    </text>
+</SJML>

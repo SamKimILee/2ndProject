@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311402</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>질식사</title>
+            <author id="P11402" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이윤서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_선인장">
+        <p>
+            <s>선인장을 보며 웃었다.</s>
+        </p>
+        <p>
+            <s>선인장아, 나를 따라 해봐</s>
+            <s>한 손으로 두 귀를 막고</s>
+            <s>등을 굽혀 둥글게 움츠리고</s>
+        </p>
+        <p>
+            <s>하나둘셋</s>
+        </p>
+        <p>
+            <s>어때, 깊은 저곳</s>
+            <s>혼자 바닥을 향해</s>
+            <s>끝을 모르고</s>
+            <s>서서히 가벼워지는</s>
+            <s>뼈가</s>
+            <s>느껴지지 않니</s>
+        </p>
+        <p>
+            <s>선인장이 깔깔 웃었다.</s>
+        </p>
+        <p>
+            <s>바보야</s>
+            <s>그건</s>
+            <s>죽어버리는 거야</s>
+        </p>
+    </text>
+</SJML>

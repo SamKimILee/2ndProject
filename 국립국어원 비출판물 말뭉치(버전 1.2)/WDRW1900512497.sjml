@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512497</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연극</title>
+            <author id="P12497" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박서진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_연극">
+        <p>태풍 몽레이가, 와서 연극에 못 갔는데 선생님께서 오후에 오라고 하셨다. 연극에서 나올노래를 배운다고 꼭 오라고하셔서 아무도안빠지고 왔다. 다같이 하니더 재미있었다.</p>
+        <p>노래를 다외워야 해서 힘들었다. 다다음주가연극이기 때문에 더열심히해야다다음주에잘할수있다.</p>
+    </text>
+</SJML>

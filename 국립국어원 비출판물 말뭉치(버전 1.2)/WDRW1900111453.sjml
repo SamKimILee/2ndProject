@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111453</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바람개비</title>
+            <author id="P11453" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이시윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바람개비">
+        <p>
+            <s>바람개비</s>
+            <s>-&name1&-</s>
+        </p>
+        <p>
+            <s>바람이 훨훨 불어온다.</s>
+        </p>
+        <p>
+            <s>어디서 불어오나? 하고,</s>
+            <s>두리번두리번</s>
+        </p>
+        <p>
+            <s>시원하게 바람 불어주는</s>
+            <s>바람개비</s>
+        </p>
+    </text>
+</SJML>

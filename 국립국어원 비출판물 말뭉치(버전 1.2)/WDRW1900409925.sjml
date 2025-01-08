@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409925</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인생의 살맛</title>
+            <author id="P09925" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">곽재준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인생의 살맛">
+        <p>
+            <s>인생의 살맛을 위해서</s>
+            <s>음식의 짠 음식 먹어보고</s>
+            <s>음식의 간 맞는 음식 먹지</s>
+        </p>
+        <p>
+            <s>인생의 살맛을 위해서</s>
+            <s>음식들 말고도 운동 있지</s>
+        </p>
+        <p>
+            <s>인생의 살맛을 위해서</s>
+            <s>운동장 한 바퀴 돌고</s>
+            <s>물 한잔 마시고 또 뛰지</s>
+        </p>
+        <p>
+            <s>어느새 열 바퀴 달리고</s>
+            <s>이제는 지치지 않는 몸</s>
+            <s>적응은 빠르고 느리지</s>
+        </p>
+        <p>
+            <s>인생의 살맛의 주의는</s>
+            <s>너무나 짜다고 뱉어도 안돼</s>
+            <s>너무나 간 맞는 음식도 안돼</s>
+        </p>
+        <p>
+            <s>인생의 살맛의 주의는</s>
+            <s>과하게 운동도 안돼</s>
+        </p>
+        <p>
+            <s>인생의 살맛의 주의는</s>
+            <s>운동장 띄면은 안되고</s>
+            <s>물 많이 마시면 안 되지</s>
+        </p>
+        <p>
+            <s>그러다 열 바퀴 포기되고</s>
+            <s>이제는 움직임 없는 몸</s>
+            <s>적응이 아니라 인생의 쓴맛이지</s>
+        </p>
+    </text>
+</SJML>

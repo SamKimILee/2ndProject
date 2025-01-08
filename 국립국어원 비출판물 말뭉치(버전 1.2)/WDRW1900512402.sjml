@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512402</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>크크크</title>
+            <author id="P12402" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191015" subclass="null_웃긴 날">
+        <p>제목: 크크크!</p>
+        <p>오늘은웃낀 날이였다.축구시함을 했는데 우리가 졌지만 나한테 많이 왔다. 그래서 늦게 움직여도 됐다.그런데 제일 웃겼던것은 두친구가 공을 가질려고 싸울때 공이 나한태 왔다.그냥 아무것도 생각하지 않고 찼더니 친구를 넘었다. 웃낀날이였다.</p>
+    </text>
+</SJML>

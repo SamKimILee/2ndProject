@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>라이온킹</title>
+            <author id="P12509" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_뮤지컬">
+        <p>라이온킹을 봤다. 한국 에서는 영화를 봤는데 미국에서는 뮤지컬을 봤다. 사람이 탈을 쓰고 나와서 하는 뮤지컬이 신기하고 재밌었다.</p>
+    </text>
+</SJML>

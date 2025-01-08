@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311816</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사과따기</title>
+            <author id="P11816" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사과따기">
+        <p>사과 따기</p>
+        <p>오늘 '충주 사과따기' 체험을하러 갔다. 나는 거의 가방1개 채울 정도로 땄다. 처음에 손으로 딸땐 높은 곳으로 손이 안 닸는대, 집게가 있 어서 높은곳까지 뻗어 잡았다. 사과 맛은 한마디로 최고 였다!</p>
+        <p>꿀사과 같은데, 즙도 맛있었다.</p>
+        <p>다음에도 사과따기 체험을 하고 싶다.</p>
+    </text>
+</SJML>

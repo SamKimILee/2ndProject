@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212631</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍이야기</title>
+            <author id="P12631" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_타파">
+        <p>태풍 바람이 쎄서 무서웠다. 엄마와 상가에 가려고 나갔다가 날아갈 뻔했다. 태풍 이름은 타파 인데 부산을 거쳐 동해안으로갔다고한다. 다음에는 태풍이 안 왔으면 좋겠다.</p>
+    </text>
+</SJML>

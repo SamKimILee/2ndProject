@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320062</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장미꽃 접기</title>
+            <author id="P20062" age="7" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_장미꽃 접기">
+        <p>오늘 장미꽃 접기를 했다. 내짝 &name1& 이랑 같이 접어서 커다랗고 하얀 도아지에 접은 장미꽃을 도화지에 붙이는 활동을 했다. 나는 2개를 만들고 &name1& 이는 3개를 만들었다. 내가만든 장미꽃은 잎사귀를 그려 색칠을 했다. 활동은 재미 있어고 왕성된작품은 멋졌다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112529</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍</title>
+            <author id="P12529" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190907" subclass="null_태풍">
+        <p>2019년 9월 7일 토요일</p>
+        <p>태풍</p>
+        <p>토요일에 태풍이 왔다.</p>
+        <p>아침에 일어났는데 날씨가 맑아서 저녘에 태풍왔을줄 알았는데 아니었다. 그리고 교회에 악기 연습을하러갔다.</p>
+        <p>가면서 태풍올것 같았다.</p>
+        <p>교회에 다녀와서 &name1& 와 &name2&이와 마인크래프트를 했다. 같이 게임 하던중에 갑자기 정전 됐다. 그래서 놀랐는데 태풍때문에 나무가 꺾여 전기가 끊겼던거다. 전기가 끊겨서 냉장고음식이 썪거나 핸드폰 충전 못할까봐 걱정했는데 다행이 다시 전기가 연결되서 다행이였다.</p>
+        <p>그리고 책을 읽다가 아빠가 창문을 조금 열었는데 바람이엄청 세게 들어왔다. 역시 태풍은 위험하다.</p>
+        <p>앞으로 조심해야 겠다.</p>
+    </text>
+</SJML>

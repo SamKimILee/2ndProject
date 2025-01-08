@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712666</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>15일간의 여행(핑크성당,한시장)</title>
+            <author id="P12666" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정예슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_핑크성당">
+        <p>오늘은 먼저 핑크성당을 갔다. 핑크성당은 천주교 신자들이 예배에 참여하기 위해 모이는 교회당 이라고했다. 핑크색 건물이  참 예쁘다고 생각했다.</p>
+        <p>그리고 한시장 에도 갔다. 한시장은 우리나라 동대문시장 같은 곳이라 했다.</p>
+        <p>물건이 많아 고르는게 힘들었다. 그래도 시장 구경은 참 재밌었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110680</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>보석과 유리알</title>
+            <author id="P10680" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이서현</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_보석과 유리알">
+        <p>
+            <s>모래밭에서 찾은 작은 보석</s>
+            <s>처음에는 그저 돌 조각 같아 보였지</s>
+            <s>바람에 흩날리는 모래알과</s>
+            <s>뒹구느라 아주 많이 깎였지만</s>
+            <s>깎인 틈으로 아름다운 색 빛이 나와</s>
+            <s>스포트라이트가 널 비출때의</s>
+            <s>그 반짝거림</s>
+            <s>바닷가의 작은 유리알</s>
+            <s>처음에는 날카로운 유리병 조각</s>
+            <s>넘실대는 하얀 파도를 타고</s>
+            <s>바다를 오가느라 많이 깎였지만</s>
+            <s>어느새 세월을 담은 멋 담아</s>
+            <s>손으로 집어 들면 비치는 바다의</s>
+            <s>그 푸른 빛</s>
+        </p>
+    </text>
+</SJML>

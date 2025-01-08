@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203367</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘의 일기.</title>
+            <author id="P03367" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시작">
+        <p>언제부터 이렇게 의욕이 떨어 졌는지 잘 모르겠다. 해야 된 다는 걸 아는데 막상 책상에 앉으면 손이 잘 가지 않는다. 시간이 언제까지고 나에게 허락 된 것도 아닌데. 10분씩, 한시간씩, 하루씩 미루다 보니 허송세월만 몇 달 째 보내고 있다.</p>
+        <p>먼저 계획을 세우는 것 부터 시작해야겠다는 생각도 든다. 효도해야지...</p>
+    </text>
+</SJML>

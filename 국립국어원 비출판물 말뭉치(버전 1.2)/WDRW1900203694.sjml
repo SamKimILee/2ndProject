@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203694</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 작품설명</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>본인 곡 설명</title>
+            <author id="P03694" age="20" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_작곡">
+        <p>이 곡은 크리스마스에 집을 그리워하는 마음과 함께 쓰기 시작한 곡입니다.</p>
+        <p>제가 기억하는 다섯 살 적 크리스마스, 머리 맡에 놓여있던 선물 그리고 그 선물을 본 저의 두근거림, 그 때의 향수를 곡에 담았습니다.</p>
+        <p>이 곡을 많은 사람이 들어줬으면 하는 마음을 가지고 있습니다.</p>
+    </text>
+</SJML>

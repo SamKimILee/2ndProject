@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시간</title>
+            <author id="P10249" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_해진 곳">
+        <p>
+            <s>빛바랜 추억만큼이나 해진 곳들은 나를 애석하게 만드는구나</s>
+            <s>그때 그 모습으로 영원히 남는다면 얼마나 좋으랴</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311756</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스케이트</title>
+            <author id="P11756" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_스케이트">
+        <p>날씨:휴, 다행이 눈이 안 오네</p>
+        <p>나랑 내 오빠는 오늘 스케이트를 배운다.</p>
+        <p>나랑 내 오빠는 운동화를 스케이트화로 신은 뒤, 일어나 보았더니 넘어지지 않아서, 나는 너무 놀랬다. 나랑 내오빠는 스케이트장에 들어가 보았더니 되괴 미끄러웠다. 처음에는 넘어졌는데, 일주일이 지났더니 조금박에 안 넘어졌다. 마지막 날에는 내 엄마가 나랑 내 오빠랑 같이 스케이트를 했다. 엄마랑 같이 연습을 했더니 내가 엄마보다 더 잘 했다.</p>
+        <p>아쉽지만 나랑 내 오빠가 너무나 바빠서 스케이트를 더이상 못하겠다.</p>
+    </text>
+</SJML>

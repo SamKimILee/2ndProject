@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203543</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘, 24</title>
+            <author id="P03543" age="29" occupation="무직" sex="F" submission="온라인" handwriting="No">김선영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시간">
+        <p>시간은  내 마음을 아는지 모르는지 허망하게 흘러갔다. 아무도 없는 텅 빈 집 안에서 홀로 있자면 큰 창으로 들어오는 따뜻하고 밝은 햇살과 몽글몽글한 구름의 그림자도 이따금씩 슬픈 모양새로 다가왔다. 차가운 콘크리트 벽 안에 갇혀 하늘을 올려다 본들 그것들에 가로 막혀 그 따스함을 온전히 느낄 수 없는 기분. 나는 늘 자유롭게 나는 저 새들이 부러웠다.</p>
+    </text>
+</SJML>

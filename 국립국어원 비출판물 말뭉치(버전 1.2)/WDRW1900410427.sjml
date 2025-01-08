@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410427</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자연의 법칙 1</title>
+            <author id="P10427" age="59" occupation="무직" sex="M" submission="온라인" handwriting="No">함동석</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_안정">
+        <p>
+            <s>떠있는 것은 무게 중심이 낮아야 하고</s>
+            <s>서있는 것은 밑면이 넓어야 안정하다.</s>
+        </p>
+        <p>
+            <s>산은 서서히 고도를 낮추고</s>
+            <s>물은 높은데서 낮은 곳으로 흐른다.</s>
+        </p>
+        <p>
+            <s>높은 것은 불안정하고</s>
+            <s>좁은 것은 위태롭다.</s>
+        </p>
+        <p>
+            <s>자연은 쉬지 않고 안정을 추구한다.</s>
+            <s>낮고 넓은 것은 안정이 내면화 되어 있다.</s>
+        </p>
+    </text>
+</SJML>

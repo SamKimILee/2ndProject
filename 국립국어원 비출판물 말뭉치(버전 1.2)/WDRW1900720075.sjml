@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900720075</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘은 옥상 수영장을 갔다. </title>
+            <author id="P20075" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190804" subclass="null_옥상 수영장">
+        <p>2019년8월4일</p>
+        <p>오늘은 옥상 수영장을 갔다. 친척동생&name1&이랑 내동생 &name2&이랑 옥상에올라왔다. 그런데 &name3&,&name4&이오빠,&name5&이가 있었다. 거기에서 수영을 했다</p>
+        <p>튜브를 타고 미끄럼틀도 내려왔다 그런데 튜브가 가라않지안아서 실망했다</p>
+        <p>엄마도없을때 천막이 찢어져서 나,&name2& &name1&,&name5&이가 힘을 합쳐서 천막을 막고있었다.</p>
+        <p>그런데 엄마아빠가 올라오셨다. 아까는 번개치고 비와서 무서웠다. 떡볶이를 먹었다. 목이 말랐다.</p>
+        <p>엄마가 마숫가루를 만들어주셨다. 씻고 옷을 입고있는데 큰아빠가오셨다. &name1&이가 가서 아쉬웠다.</p>
+        <p>다음에도 또같이 놀고싶다</p>
+    </text>
+</SJML>

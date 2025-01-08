@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900101829</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는</title>
+            <author id="P01829" age="26" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">정찬우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나">
+        <p>
+            <s>나는 앞서간 고양이에게 시선을 빼앗겼다.</s>
+            <s>나는 차가운 봄이다.</s>
+            <s>나는 빠짐없이 모두에게 속삭였다.</s>
+            <s>나는 구름 속에서 허우적거렸다.</s>
+            <s>나는 쏟아지는 별똥별과 춤을 추었다.</s>
+            <s>나는 소나기다.</s>
+            <s>나는 울음을 참고 웃음 또한 참았다.</s>
+            <s>나는 마지못해 나 자신을 밀어냈다.</s>
+            <s>나는 망각에서 벗어나기 위해 힘껏 줄을 당겼다.</s>
+            <s>나는 조각난 마음을 쓸어모아 조용히 태워버렸다.</s>
+            <s>나는 계속해서 걸음을 옮겼다. 모두 아무 일 없는 듯 각자 제자리로 돌아가기 시작했다.</s>
+            <s>나는 거품이 되기 싫어 자신을 파괴하였다.</s>
+            <s>나는 시간을 먹고 공간을 헤엄친다.</s>
+            <s>나는 네 꿈속에 가기 위해 눈을 감았다.</s>
+        </p>
+    </text>
+</SJML>

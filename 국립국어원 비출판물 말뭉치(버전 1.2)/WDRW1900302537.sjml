@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302537</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 감정</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감정</title>
+            <author id="P02537" age="24" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_감정선">
+        <p>사람들은 흥분을 하게되면 그 계기의 사건의 포인트를 벗어나는 이야기들을 한다. 항상 어떤때든 차분한사람들은 어떤기분일까. 과연 그런사람들이 있긴할까 감정이 너무 흘러 넘칠때는 말하고자 하는것을 정리못해서 나중에 그 시기가 지난후 그렇게 말한거에대해 후회할때가 많다. 좀더 참았어도 되는 말이였거나 정말 관련이없는 말을 같이했거나. 감정이 내가 말하고자하는걸 삼키게 된다면 그건 정말 힘든거같다.</p>
+    </text>
+</SJML>

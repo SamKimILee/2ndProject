@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900500916</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교 가기 싫어</title>
+            <author id="P00916" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김명주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="학교">
+        <p>
+            <s>나는 학교가 세상에서 제일 싫다.</s>
+            <s>이 세상에서 학교가 사라져버렸으면 좋겠다.</s>
+            <s>도대체 학교를 만든 사람은 어떤 생각으로 학교를 만들었을까?</s>
+            <s>자퇴하고 싶다.</s>
+            <s>학교가 정말 싫다.</s>
+            <s>공부도 싫다.</s>
+            <s>학교에 가면 보기 싫은 것들도 참 많다.</s>
+            <s>못생긴 교과서, 못생긴 책상, 못생긴 아이들, 못생긴 선생님.</s>
+            <s>모두다 너무너무 싫다.</s>
+            <s>기말고사도 너무 싫다.</s>
+        </p>
+    </text>
+</SJML>

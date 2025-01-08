@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112122</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이스크림 할인 매점</title>
+            <author id="P12122" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김하늘</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아이스크림">
+        <p>&lt;아이스크림 할인매점&gt;</p>
+        <p>오늘은 아이스크림 할인매점에서 아이스크림을 샀다.</p>
+        <p>나는 언제나 먹던 빠삐코를 집어들었다. 그런데 옆에 테드리스라는 아이스크림이 있어서 그것도 2개 샀다. 그리고 오빠가 좋아하는 투게더도 샀다. 한 10500원 정도 됐다. 그곳은 무인편의점 이라 기계로 계산을 해야하는데 너무 안돼가지고 3번이나 했다. 아이스크림을 먹을 생각에 기분이 너무 좋았다.</p>
+    </text>
+</SJML>

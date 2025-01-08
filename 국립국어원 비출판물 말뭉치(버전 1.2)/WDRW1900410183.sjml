@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410183</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삶</title>
+            <author id="P10183" age="60" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="삶">
+        <p>올해가 시작된지 얼마 지나지 않은 것 같은데 벌써 2월도 중반을 넘어 후반에 접어 들었다. 눈 깜짝할 사이에 3월이 오고 그렇게 또 시간이 흘러갈 것이다. 내 나이 벌써 62세. . .믿어지지 않는다.. .</p>
+        <p>지나온 삶을 돌이켜 보면 별로 이루어놓은 것도 없고 누구한테 내세울만한 것도 없다. 내 인생은 정말 별 것 없는 것 같다. 젊음이 얼마나 소중한 것인지 모르고 낭비했던 것 같고 또한 지금도 시간을 덧없이 흘려 보내는 것만 같은 생각이 종종 든다.</p>
+    </text>
+</SJML>

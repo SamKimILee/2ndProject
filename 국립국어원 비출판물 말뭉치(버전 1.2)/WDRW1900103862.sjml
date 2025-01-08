@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103862</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>별</title>
+            <author id="P03862" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_북극성">
+        <p>
+            <s>한바탕 장비가 지난 뒤</s>
+            <s>풍겨오는 뒷산의 향긋한 흙내는</s>
+            <s>동네에서 함께 뛰놀던 어린 동무들의 냄새</s>
+        </p>
+        <p>
+            <s>철없던 시절 동네에서</s>
+            <s>제일 큰 아름드리 고목나무에서의 굿판을</s>
+            <s>그저 구경만 하던 어린 나의 옛 추억</s>
+        </p>
+        <p>
+            <s>밥을 안치는 구수한 냄새는</s>
+            <s>해 뜰 참 모락모락 김서리는 푼푼한 엄마의 인심을 먹고</s>
+            <s>잔달음으로 학교에 달려가던 옛 시절</s>
+        </p>
+        <p>
+            <s>어둔 밤하늘 환히 빛나는 개밥바라기별은</s>
+            <s>더운 여름날 할머니께서 말씀해주신</s>
+            <s>옛 사람들의 흔적</s>
+        </p>
+        <p>
+            <s>그 과거의 모든 것들은 이제</s>
+            <s>저녁 무렵 희미한 별처럼 사라져가고 있는데</s>
+        </p>
+        <p>
+            <s>제 품을 떠난 자식에 대한 부모님의 내리사랑은</s>
+            <s>마치 새벽 즈음의 환한 북극성의 빛</s>
+        </p>
+    </text>
+</SJML>

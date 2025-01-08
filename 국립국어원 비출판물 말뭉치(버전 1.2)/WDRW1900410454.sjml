@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410454</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독서교실</title>
+            <author id="P10454" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이윤규</author>
+        </sourceInfo>
+    </header>
+    <text date="2020017" subclass="null_독서교실">
+        <p>제목:독서교실</p>
+        <p>해운대도서관 본관에서 여는 독서교실에 친구 &name1&님과 같이갔다. 도착했을때 우리가 제일 먼저 왔다.</p>
+        <p>조를나눴는데 나는 四조였고,&name1&님은三조였다. 우리조원이름은 &name2&,&name3&,&name4&이다.모둠원과 三日동안 잘지내면 좋겠다.</p>
+        <p>오늘은 자기소개, 도서관이용법,도서관탐정놀이,독서감상문쓰는 법을 수업했는데 도서관탐정놀이가 제일재밌었다. 왜냐하면 직접도서관에 어린이실에가서 문제푸는것이기 때문이다.</p>
+        <p>유익한 수업들어서 좋았다. 내일이 기대된다.</p>
+    </text>
+</SJML>

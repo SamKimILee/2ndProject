@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인간 관계에 대하여</title>
+            <author id="P10073" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">위영경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>
+            <s>우리는 인생을 살면서 많은 사람들과 만나고 교류하고 살아간다.</s>
+            <s>그렇게 성장하고 슬퍼하고 행복하고 이렇게 살아간다.</s>
+            <s>인생에 사람이 없다면 살아갈 원동력도 없어질 수도 있다고 생각한다.</s>
+            <s>하지만 이 관계를 힘들어 하는 사람도 분명히 있다.</s>
+            <s>어쩔 수 없다 모든 사람들이 다 잘 지낼 수는 없는 것이니까 그렇지만 너무 힘들어 하지는 말자 우리</s>
+            <s>어떻게 해서든 살아갈 방법이 있고 굳이 모든 사람과 잘 지내야 한다는 법은 없는 거니까 우리 그냥 그렇게 살아가지는 대로 살아보자</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211496</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설날</title>
+            <author id="P11496" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박주승</author>
+        </sourceInfo>
+    </header>
+    <text date="20200125" subclass="null_설">
+        <p>설에세배를 끝내고 밥을먹고 &name1&가 물고기한테 밥을주자고해서 누나,나,&name2&이가쌀밥을줬다그런대밥을 안 먹엇다. 그래서 물을 갈아줬다. 그리고 소를보러갔다.그옆에 개가 있었는데 계속앞으로갔다 아주머니가 개이름을 알려 주셨다 내가 개 이름을 말했더니 개가꼬리를 흔들었다 그래서 가까이 갔더니 개가크게짖어서 도망갔다. 개가 무서웠다</p>
+    </text>
+</SJML>

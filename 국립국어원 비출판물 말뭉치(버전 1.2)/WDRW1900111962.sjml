@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111962</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바이러스</title>
+            <author id="P11962" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바이러스">
+        <p>제목:바이러스</p>
+        <p>바이러스는 미생물의 종류이다. 바이러스 종류는 코로나, 감기, 독감, 등아있다.</p>
+        <p>감기나 독감은 약이 있는데 코로나는 약이 없다. 과학자들이 약을 개발하면좋겠다. 바이러스를 만든건 중국이다. 나는 중국이 너무 싫다. 바이러스 때문에 밖에도 못나간다.</p>
+    </text>
+</SJML>

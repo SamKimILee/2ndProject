@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512633</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동물원</title>
+            <author id="P12633" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_동물원">
+        <p>오늘은 재미잆는 동물원에가습니다신나습니다</p>
+        <p>유치워에도 안갔</p>
+        <p>사자랑 코끼리랑홍학이랑 호랑이라 만ㅇ만이 바서따</p>
+        <p>토끼는 못바다</p>
+    </text>
+</SJML>

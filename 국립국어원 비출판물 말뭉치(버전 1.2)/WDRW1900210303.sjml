@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210303</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그대는 내 마음을 가르며 날아가는 바람</title>
+            <author id="P10303" age="75" occupation="전업주부" sex="F" submission="온라인" handwriting="No">민정자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_그대">
+        <p>
+            <s>그대는 내 마음을 가르며 날아가는 바람</s>
+            <s>그 발걸음 닿는 곳곳에 나의 슬픔이 내린다</s>
+            <s>그대가 나의 가지를 스치고 지나갈때</s>
+            <s>나는 뿌리를 버리고 그대 뒤를 좇고싶다</s>
+        </p>
+        <p>
+            <s>그대는 어디로 흘러가는가</s>
+            <s>나는 너의 정착지이고 싶다</s>
+            <s>흐르고 흘러 마침내 도달하는 바다이고 싶다</s>
+            <s>지친 날개를 쉬이는 둥지이고 싶다</s>
+            <s>그러나 너는 바람</s>
+            <s>비로소 손에쥐면 증발해버리는 나의 찬란한 슬픔</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204858</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>30살의 나에게</title>
+            <author id="P04858" age="28" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">김소연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나">
+        <p>30살의 &name1&에게.</p>
+        <p>한국 돌아왔겠네..? 좋겠다 ^^.. 살아있는거지? 마약 안했지??? 흠흠.. 난 널 믿으면서도 가끔 걱정된다. 그래도 지금까지 인생은 큰 계획없이 물 흐르듯 살아와서 어느정도 비슷하게 흘러가겠지 라는게 있었는데. 이렇게 미래 고민 많이 해본 적 인생에서 거의 손에 꼽는듯..</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212241</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밀로의 모자마술</title>
+            <author id="P12241" age="44" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임화영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_밀로의 모자 마술">
+        <p>밀로는 마술사이다.</p>
+        <p>너무나 형편없는 마술사이다.</p>
+        <p>곰을 만나서 인기가 많은 마술사가 되었다.</p>
+        <p>공연을 많이하고 곰을 만난 자리에 데려다 주었다.</p>
+        <p>그리고  곰은 겨울잠을 잤다.</p>
+        <p>곰에게서 배운  마술로  모자속으로 들어가는 마술을 할수 있었다.</p>
+        <p>사람은 생각하는대로 할수 있다.</p>
+        <p>나도 좋은 생각만 하고 나쁜 생각은  버려야겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111200</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도시</title>
+            <author id="P11200" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">정윤서</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_도시">
+        <p>수많은 네온사인과 전구들은 저를 좀 봐달라는 듯 아우성친다. 그러나 공존하는 법에 미숙한 작자들은 각자를 뽐내는 것에 눈이 멀어 서로를 서서히 목 조른다. 그 힘은 너무나도 미약하고 하찮아서, 그 누구도 목 조르는 것을, 목 졸리는 것을 인지하지 못한다. 죽음이 눈 앞에 다가올 때 쯤 되어서야, 서로를 인식한다. 시간에 쫓기고, 일에 쫓기고, 인생에 쫓기고, 사회에 쫓긴 사람들의 종착역. 화려하고 아름답지만 조금씩 조금씩 좀먹어들어가는 곳. 마음 둘 곳 없고 편히 쉴 곳 없는 사람들의 마음 둘 곳 없고 편히 쉴 곳 없는 집합소.</p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204799</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가고싶은 곳과 가면 괜찮을 곳</title>
+            <author id="P04799" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나들이">
+        <p>다시 집으로 왔다. 5월에 다시와도 괜찮을것 갖다</p>
+        <p>4월4일 선생님과 방과후에 나들이를 3~4시간 갈수있다면 어디에서 무었을 하고 싶은가?</p>
+        <p>나는 가고싶은 곳과 가면 괜찮을 곳을 생각해 봤다. 그곳을 찾아봤다.</p>
+        <p>첫때, 과학 체험관. 과학체험을 하면 재미있고 배울수있는 곳 같다. 과학실처럼 실험을 하는데, 자신이 원하는데로 하는것이다. 그렇게 하면 궁금증도 풀고 실험을 재미있게 할수있을것이다. 그렇게 하면 더 좋을것 같다.</p>
+        <p>둘째, 역사 박물관,박물관에 가면 사회를 배울수 있다. 우리에 조상과 무기,그리고 어떻게 왕과 황제들이 나라를 다스렸는지 도 알고 싶을때는 가면 될것 같다. 그리고 우리가 지금 지도에 배우고 있는데, 박물관에 는더자세히 알수있다.그래서 내가 이 2곳을 추천하는 것이다</p>
+    </text>
+</SJML>

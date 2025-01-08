@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900309320</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목미상</title>
+            <author id="P09320" age="26" occupation="자영업자" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>
+            <s>한동안 계속</s>
+            <s>우울의 늪에 빠져</s>
+            <s>그저 허우적 허우적거리며</s>
+            <s>잠수만 하고 있겠지.</s>
+        </p>
+        <p>
+            <s>언젠가</s>
+            <s>언제 올지 모르는</s>
+            <s>마개를 뽑아줄 사람을 기다리며</s>
+            <s>하염없이 기다리겠지.</s>
+        </p>
+        <p>
+            <s>손만 뻗으면 닿을 그 거리를</s>
+            <s>혼자 못 나와서</s>
+            <s>아등바등</s>
+            <s>불쌍하고 가엾구나.</s>
+        </p>
+        <p>
+            <s>나 자신이.</s>
+        </p>
+    </text>
+</SJML>

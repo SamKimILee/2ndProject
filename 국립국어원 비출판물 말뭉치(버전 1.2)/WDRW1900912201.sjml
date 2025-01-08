@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>매미잡기</title>
+            <author id="P12201" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190826" subclass="null_매미">
+        <p>오늘 매미잡기를 했다.</p>
+        <p>말매미4마리를 잡고 참매미 작은거 1마리 잡았다. 근데 바람이 불어서 주차금지 표시가 넘어갔다. 나는놀랐다. 매미를 관찰하고 풀어주었다.</p>
+        <p>나는 무서워서 못 잡았다. 동생이 매미를 잡고 풀어주었다.</p>
+    </text>
+</SJML>

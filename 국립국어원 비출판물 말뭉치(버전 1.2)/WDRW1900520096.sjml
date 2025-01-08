@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520096</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>관광</title>
+            <author id="P20096" age="62" occupation="전업주부" sex="F" submission="오프라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20101108" subclass="null_관광">
+        <p>11월 8일- 오늘은 갑장계에서 관광을 가기로 했다. 새벽 6시 30분까지 농협으로 가기로 했다. 비가  온다고 하는 걸 &name1&이한테 맡겨 두고,   차를 타고 갔다. 애들한테 미안하지만,  집에 있어봐야  걱정만 한다고 해서 갔다. 계속 걱정이 되지만,  안 보고 친구들하고 노래 부르면서 가다가 보니까 집에 있는것보다는 덜 걱정이 되는 것 같아서 마음은 덜 상한다. 애들한테는 미안하지만, 자식들을 나한테 전부로 삼아온게 잘못은 아니였구나 생각하니 기쁘다.</p>
+    </text>
+</SJML>

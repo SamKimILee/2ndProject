@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411641</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>간식</title>
+            <author id="P11641" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191212" subclass="null_요구르트, 떡">
+        <p>제목: 간식</p>
+        <p>학교와 방과후를 마치고 집에오는 길에</p>
+        <p>요구르트 아줌마가 요구르트를팔고 있어서 요구르트를 사먹었다. 가격은 500원이었고 거꿀료된 요구르트였다 맛은 달고 살색이었다.</p>
+        <p>집에 와서 밖에는 콩가루로 되어있고 안은 흰색 찹살과검은 콩가루루로되어있고 맛은 쫄깃쫄깃했다, 내가 먹은 떡중에서는 제일 맛있었다</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100814</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠</title>
+            <author id="P00814" age="25" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_아빠">
+        <p>아빠와 보낼 수 있는 시간이 얼마 남지 않았다는 사실을 받아들이기 어렵다. 어렸을때부터 아빠는 자주 아팠다. 요 몇년간은 아빠와 많이 다퉈서 좋은 기억보다는 좋지 못한 기억이 더 많은게 사실이다. 언젠가 또 아플거라는 생각은 늘 해왔지만 그 시간이 이렇게 빨리 올줄은 미처 누구도 알지 못했다. 우리 가족 중 누구도 예상하지 못했다. 문득 아빠가 아무렇지 않게 웃을때나 평소와 다름없이 설거지를 하는 모습을 보면 더 실감이 나지 않으면서 매우 슬픈 감정을 느낀다.</p>
+        <p>아빠의 부재나 상실을 상상해보지만 전혀 준비되는 것은 없다.</p>
+    </text>
+</SJML>

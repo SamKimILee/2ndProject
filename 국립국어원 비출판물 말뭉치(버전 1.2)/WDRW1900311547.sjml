@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311547</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재밌는 사흘밤</title>
+            <author id="P11547" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_고모네, 바다">
+        <p>처음으로 엄마아빠 없이 할아버지와나랑 고모네 갔다. 거기서 게임도하고,닌텐도도 하고,바다에도 갔다. 그중에서 제일 재미있는거는바다가 제일 재미있었다.바다에서 모래성도 쌓고,튜부도 탔다.정말 재미있는 세밤이었다.</p>
+    </text>
+</SJML>

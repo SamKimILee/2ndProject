@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212513</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어푸어푸 수영장</title>
+            <author id="P12513" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정연우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190705" subclass="null_수영장">
+        <p>2019. 7. 5. 금</p>
+        <p>날씨:수영장 안이 따뜻해요.</p>
+        <p>오늘의 감사:수영장에 가서 감사해요.</p>
+        <p>제목 :어푸 어푸 수영장</p>
+        <p>오늘은 수영장에 가는 날이다.</p>
+        <p>수영장에 가서 좋은점 :1.물장난을 할 수 있어서. 2. 아빠의수영 실력을 볼수 있어서. 3. 엄마와즐겁게 산책 할수 있어서. 4. 아빠에게 자유형을 배울수 있어서. 5. 가족들과 즐거운 시간을 가 질수있어서.</p>
+        <p>그리고 수영장에오면 아빠가 가장 바쁘시다.우리수영 가르쳐야 하지.~</p>
+        <p>우리가 가자는곳 다 가여하지.~나는 이럴때의 아빠의모습이 가장좋다.</p>
+    </text>
+</SJML>

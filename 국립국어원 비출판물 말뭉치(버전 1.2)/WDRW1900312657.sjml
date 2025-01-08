@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312657</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>두발 자전거 타기</title>
+            <author id="P12657" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박재우</author>
+        </sourceInfo>
+    </header>
+    <text date="20181103" subclass="null_초막골생태공원">
+        <p>우리 가족과 초막골생태공원에 가서 운동을 했다. 야구, 줄넘기, 자전거를 탔다. 나는 보조바퀴를 올리고 두발 자전거 타기를 연습했다. 우리 가족은 나 빼고 모두 자전거를 잘 탄다. 내가 두발 자전거 타는 법을 알려주어서 금방 잘 타게 되었다. 넘어질까봐 조금 무서웠지만 나도 이제 두발 자전거를 타게 되어서 신난다.</p>
+    </text>
+</SJML>

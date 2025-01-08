@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900206001</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>기억이 나긴하니</title>
+            <author id="P06001" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="기억">
+        <p>왜, 우리가 함께 손을 잡고 바닷가를 걸어갔던 일 말이야. 너는 차가운 파도에 발가락 끝을 접었고, 나는 차가운 바닷바람에 머리카락이 휘날려서 눈 앞을 가렸을 때. 그때말이야 나는 커튼 사이로 너를 보는 것만 같아서, 그 평화로움이 너무나도 좋아서 가슴이 세게 울렁거렸어. 파도에 넘실거리는 배가 울렁거리듯 말이야.</p>
+    </text>
+</SJML>

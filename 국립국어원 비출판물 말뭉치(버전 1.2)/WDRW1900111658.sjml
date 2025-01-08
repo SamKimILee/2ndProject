@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111658</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나</title>
+            <author id="P11658" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나 19">
+        <p>헉!  코로나 19 때문에 개학이  3월 23일로 2주 뒤로  미뤄졌다</p>
+        <p>처음 개학이 한 주  미뤄지고 학원도 다 안 가게 되었을 때는 너무나 기쁘고 좋았다</p>
+        <p>내가 좋아하는 폰으로 웹툰도 실컷보고 유튜브도  맘껏 보고 노래도 신나게 듣고 말이다</p>
+        <p>그런데 시간이 지나면 지날수록 지루해지고</p>
+        <p>코로나 확진자들이 늘어나고 밖을 맘 편히 나갈 수도 없고 지옥이 따로 없었다</p>
+        <p>그런데 헉! 또 개학이 미뤄졌다 그것도 2주나.</p>
+        <p>난 이 2주를 또 어떻게 보내할지. 그리고 2주 뒤엔 정말 학교를 갈 수 있는지.</p>
+        <p>하루 빨리 코로나 19 바이러스가 없어져서 새학년 새선생님을 만나고 새로운 친구들을 만나고 싶다. 운동장에서 친구들과 즐겁게 축구할 그 날이 하루 빨리 오길, 가족과 함께 벚꽃구경 꼭 갈 수 있길 소망한다</p>
+    </text>
+</SJML>

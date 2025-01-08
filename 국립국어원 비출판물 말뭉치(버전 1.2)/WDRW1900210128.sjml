@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210128</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>차</title>
+            <author id="P10128" age="64" occupation="전업주부" sex="F" submission="온라인" handwriting="No">전매화</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="차">
+        <p>20년이 넘도록 나의 발 우리가족 발이 되주었던 우리차가 이제 고장도 잦고 낡아서 바꿀때가 되었다.</p>
+        <p>새차를 사면 마냥 좋을거라 생각했는데 막상 저 차를 처분하려니 왜이리 섭섭한지...</p>
+        <p>중고차 매매상이 와서 차 견적을 내고 언제 가져간다고 하는데 가져가는 날 눈물이 날것만 같다.</p>
+        <p>큰사고도 한번 있었지만 그래도 우리가족을 열심히 태워준 자동차야 그동안 너무 고마웠고 수고했어!!</p>
+    </text>
+</SJML>

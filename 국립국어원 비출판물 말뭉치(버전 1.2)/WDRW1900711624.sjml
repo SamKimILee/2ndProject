@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711624</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>실내화 잃어버린 날</title>
+            <author id="P11624" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">성윤호</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_실내화">
+        <p>실내화를 잃어버렸다. 태권도에 가봐도 없었다. 너무 당황했다. 일단 집으로 갔다. 내일찾아가야 한다. 운이 너무너무 안좋은 날이였다.</p>
+    </text>
+</SJML>

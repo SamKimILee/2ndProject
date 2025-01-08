@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211574</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피구</title>
+            <author id="P11574" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김단비</author>
+        </sourceInfo>
+    </header>
+    <text date="20200303" subclass="null_피구">
+        <p>
+            <s>피구</s>
+            <s>2020.3.3.</s>
+        </p>
+        <p>
+            <s>“잡아, 잡아!”</s>
+            <s>오늘도 공을 빼앗겼다.</s>
+        </p>
+        <p>
+            <s>우리반 애들</s>
+            <s>대부분은 피구를 잘한다.</s>
+            <s>하지만,</s>
+            <s>못 하는 아이들은 투명인간이다.</s>
+        </p>
+        <p>
+            <s>“나도 좀 잡자.”</s>
+            <s>“네가 잘 잡든가.”</s>
+            <s>어휴, 짜증난다.</s>
+            <s>오늘도 난 투명인간인 셈이다.</s>
+        </p>
+        <p>
+            <s>날아오르는 공을 힘차게 받는</s>
+            <s>그날을 위해 오늘도 난</s>
+            <s>열심히 뛰어본다.</s>
+        </p>
+    </text>
+</SJML>

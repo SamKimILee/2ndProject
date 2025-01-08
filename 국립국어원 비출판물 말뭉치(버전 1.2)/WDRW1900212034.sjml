@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212034</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장래희망</title>
+            <author id="P12034" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">구도현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190610" subclass="null_야구장">
+        <p>나는 커서 안전한 야구장 을 만들고 싶다</p>
+        <p>나는 야구를 좋아 해서 야구장</p>
+        <p>가는것 을 좋아 하는데 가끔 파올볼이 날라와서 무섭다 그래서 파울공이 날라와도 시스탬이 작동해서 자기 으자 뒤에서 글러 브가 자바주는 야구장을 만들 것이다</p>
+    </text>
+</SJML>

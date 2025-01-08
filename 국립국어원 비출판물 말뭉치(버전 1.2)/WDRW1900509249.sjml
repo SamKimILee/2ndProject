@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900509249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나에게</title>
+            <author id="P09249" age="21" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나">
+        <p>안녕 미래의 나야.</p>
+        <p>너는 어떻게 지내니?</p>
+        <p>가끔 말도 안되는 기대를 해. 너에게 답장이 오길 그런 말도 안되는...</p>
+        <p>그때는 무엇을 하고 있을까? 이제는 너의 모습이 그려지지않아. 마치 없는것처럼 말야.</p>
+        <p>근데 너가 꼭 잘지내길 바래. 잘 지낼거라 믿어. 항상 행복하면 좋겠어. 너를 사랑하고 아껴주길 바래. 우울한 생각은 안했으면 좋겠다. 항상 행복해야한다.</p>
+    </text>
+</SJML>

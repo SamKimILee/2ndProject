@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211895</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>금요일은</title>
+            <author id="P11895" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20181216" subclass="null_학교">
+        <p>금요일은수학 평가를 다 보고 학원숙제를하고 바로잤다. 그리고토요일은 컴퓨터와코딩을 공개수업을해서떨렸다.왜냐하면엄마가 보고 있었기 때문이다.</p>
+        <p>그래도잘했지만 코딩을틀 렸 다. 왜냐하면 만약~이라면을 넣지않았고폭죽이한개인데 사진이2개여서 2개로했다.원래1개였다.어쨌든공개수업은 평소처럼 재미있게 했다.</p>
+    </text>
+</SJML>

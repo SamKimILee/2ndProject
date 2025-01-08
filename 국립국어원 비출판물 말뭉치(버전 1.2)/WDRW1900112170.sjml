@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112170</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복한 우리 가족</title>
+            <author id="P12170" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김은찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20190318" subclass="null_가족">
+        <p>3월18일 월요일</p>
+        <p>&lt;글 나래&gt;</p>
+        <p>제목:행복한 우리가족</p>
+        <p>우리 가족은 핵 가족입니다.</p>
+        <p>우리 가족은 총 네식구입니다.</p>
+        <p>우끼끼끼 킹콩을 닮은 우리 아빠는 듬직하고상냥하지만 화나면 흐흐흐 귀신처럼 무섭습니다.</p>
+        <p>우리 엄마는 상냥하고그림을 잘 그리지만 화나면 낄낄낄 마녀 같습니다.</p>
+        <p>내동생서은이는 엉뚱발랄먈괄량이지만 귀엽고 사랑스럽습니다.</p>
+        <p>나는 장난꾸러기고 춤을 좋아합니다 하지만 동생이 장난치면 혼냅니다.</p>
+        <p>나는 그런 우리가족이 정말 좋습니다.</p>
+    </text>
+</SJML>

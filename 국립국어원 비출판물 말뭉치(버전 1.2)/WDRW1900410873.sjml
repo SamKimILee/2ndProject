@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410873</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밤</title>
+            <author id="P10873" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_밤">
+        <p>밤을 좋아한다. 정확히는 밤에 빛나는 것들을 보는 것이 좋다. 거리의 간판이나 고속도로 위의 가로등, 혹은 아득한 별과 달. 작은 빛이 모여 환한 밤은 사람을 차분하게 만드는 힘이 있다. 그 차분함이 모여 생각을 만든다. 그래서 항상 밤은 걱정이 많으며 근심에 잠긴다. 아마 오늘도 나는 그런 밤을 지새우겠지.</p>
+    </text>
+</SJML>

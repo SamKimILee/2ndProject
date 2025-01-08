@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203134</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>파란색</title>
+            <author id="P03134" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">강지민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_파란">
+        <p>
+            <s>코 끝에 머무는 파란 향기에 기분 좋게 눈을 감았다</s>
+            <s>눈을 뜨니 보이는 파란 하늘이 머리 끝까지 처언천히 저미어서</s>
+            <s>나는 그만 젖는 줄도 모르고 어느새 턱 끝까지 잠겨</s>
+            <s>진정 죽는 줄로만 알았다</s>
+            <s>알아차리지 못할 만큼 단숨에 차올라 허둥대며 입만 뻥끗 거리는 내 모습이 비쳐 어찌나 우습던지</s>
+            <s>사방 천지가 온통 파란 색이었다</s>
+            <s>파란의 색이었다</s>
+            <s>죽거든 내가 기억하는 너의 색으로 잠겨 죽길 소망한다</s>
+        </p>
+    </text>
+</SJML>

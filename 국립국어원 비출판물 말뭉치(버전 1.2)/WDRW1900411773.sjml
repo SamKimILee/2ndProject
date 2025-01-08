@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411773</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P11773" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200803" subclass="null_작가">
+        <p>한밤중 달빛식당을 쓰신 이분희 작가님을 만나러 중앙도서관에 갔다. 가서 싸인을 받을 때 내이름이 노래같다고 칭찬해주셨다.</p>
+        <p>달빛쿠키와 별빛사탕을 주셔서 맛있게 먹었다. 정말 제미있었다. 집에 가니 엄마가 자고 있었다. &name1&이는 TV를 보고 있었다.</p>
+    </text>
+</SJML>

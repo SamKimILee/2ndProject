@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>야구 NC VS Nexen</title>
+            <author id="P11649" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김준혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20170820" subclass="null_야구">
+        <p>&lt; 야구(NC VS Nexen) &gt;</p>
+        <p>야구를 봤다. 1회에 나성범의 3점 홈런으로 점수는 3  VS 0이 되었고, 그 다음 타자 이호준이 솔로 홈런을 치면서 4 VS 0이 됬다.</p>
+        <p>하지만, 선발 투구 강윤구가 홈런 한방을 맞으며 점수는 4 VS 2!</p>
+        <p>3회초에도 홈런을 맞으면서 4 VS 3!</p>
+        <p>불펜 투수들이 무실점을 하다가 2사 만루에 위기!</p>
+        <p>하지만, 나성범의 호수비로 3아웃!</p>
+        <p>NC는 9회초에 점수를 내지 못하여 그대로 9회말로 갔다.</p>
+        <p>Nexen이 선두 타자가 출루했지만, 그 다음 타자가 뜬공 아웃이 되었다.</p>
+        <p>그 다음 타자 3볼 2스타리이크에서 타자는 삼진!</p>
+        <p>도루했던 1루 주자가 아웃이 되면서 4 VS 3으로 이겼다. 이 야구 경기가 내 마음을 들었다 놔았다 하였다.</p>
+    </text>
+</SJML>

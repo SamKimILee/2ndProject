@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마추픽추</title>
+            <author id="P12509" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_마추픽추">
+        <p>마추픽추에 갔다. 정말 멋있었다. 마추픽추는 엄청길었다 끝도없이길었다. 산 꼭대기까지올라와서 구경하고 버스를 타려고 줄을섰는데 줄이너무너무길어서 꼭대기에서 걸어서 내려왔다. 정말힘들었다.ㅠㅠ다행다행 기차는 탔다.</p>
+    </text>
+</SJML>

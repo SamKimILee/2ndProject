@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312362</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>전주 한옥마을</title>
+            <author id="P12362" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김하성</author>
+        </sourceInfo>
+    </header>
+    <text date="20191227" subclass="null_한옥마을">
+        <p>일 기</p>
+        <p>2019년 12월27일화요일</p>
+        <p>제목:전주한옥 마을</p>
+        <p>나는 잠을 자다 더워깼다.오늘은 한옥마을을 가서 친척들과 신나게 놀았다.서바이벌이란 놀이도 하고 술래잡기도 했다.</p>
+        <p>그리고 만두와 소보로, 초코파이도먹었다.기념품도샀다. 점심이 되자 베테랑칼국수를 먹고 집으로갔다. 전주하농마을은 전통집과한 복을 많이입고 다녔다.역시전통은 우리나라다</p>
+    </text>
+</SJML>

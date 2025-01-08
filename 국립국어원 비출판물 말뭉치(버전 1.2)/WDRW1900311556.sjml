@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311556</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>낙엽</title>
+            <author id="P11556" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_낙엽">
+        <p>
+            <s>제목: 낙엽</s>
+            <s>부스스 부스스 낙엽이 떨어져요.</s>
+            <s>저쪽에서 부스스. 이쪽에서 부스스</s>
+            <s>알록달록 부스스. 저쪽에서 부스스.</s>
+            <s>저기 청소부 낙엽을 사각사각 가져가네요. 저기 아이들 나뭇잎을 부시네요. 저쪽에서 와즈작. 이쪽에서 와즈작. 나엽이부스스 떨어지네요. 흔들흔들 떨어지는 낙엽.</s>
+        </p>
+    </text>
+</SJML>

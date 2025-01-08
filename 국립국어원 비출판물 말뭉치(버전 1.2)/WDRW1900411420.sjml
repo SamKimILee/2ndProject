@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411420</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마, 아빠, 서완이에게</title>
+            <author id="P11420" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">추서율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_엄마, 아빠, 동생">
+        <p>엄마, 아빠, &name1&이 에게</p>
+        <p>엄마그리고아빠우주,땅 넘게 사랑해요.</p>
+        <p>엄마제를나아주셔서감사합니다.</p>
+        <p>아빠우리를안아주셔서감사합니다.</p>
+        <p>엄마그리고아빠 맨날 맨날 웃는 얼굴로 있어서고마싶미다.</p>
+        <p>&name1& 아유치원잘다녀유치왼에서 울지말고 &name1& 아 누나가화네서 미안 해. &name2& 올림</p>
+    </text>
+</SJML>

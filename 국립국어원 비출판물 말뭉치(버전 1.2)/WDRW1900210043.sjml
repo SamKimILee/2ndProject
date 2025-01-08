@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210043</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복한 주말의 끝</title>
+            <author id="P10043" age="10" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">최예선</author>
+        </sourceInfo>
+    </header>
+    <text date="20120000" subclass="null_행복한 주말">
+        <p>어제와 오늘은 너무너무 행복한 나날들을 보냈다. 스마트폰으로 마인크래프트0.4.0을 하였다. 그 곳에서 성을 지었다. 내 마음에 쏙 들었다. 또 방귀소리가 나는 apk도 깔았고 핸드폰을 흔들면 총소리가 나는 것도 깔았다. 처음 그 방귀소리를 듣고 나랑 같이 게임하던 &name1&이 형이 빵! 터졌다. 진짜 방귀 소리랑 똑같다. 하지만 더 심하다. 큭큭 날씨가 추운데 배까지 고팠다. 아빠에게 배가 고프다고 하니 &name1&이 형이랑 뭐 좀 사먹으라고 2000원을 주셨다. 우린 편의점에 가서 몸을 녹이려고 따끈따끈한 컵라면을 하나씩 사먹었다. 몸이 사르르 녹기 시작하고 우리는 둘만의 얘기를 하였다. 집에 돌아가고 또 게임을 시작하였다. 엄마께서 그만하고 학교 갈 준비를 하라고 하셨다. 이제 끝인가 행복한 주말은...</p>
+    </text>
+</SJML>

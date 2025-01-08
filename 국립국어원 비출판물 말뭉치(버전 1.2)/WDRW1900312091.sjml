@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312091</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>예술의  전당</title>
+            <author id="P12091" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">안채민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190330" subclass="null_예술의 전당">
+        <p>오늘은 예술의 전당에 작품을 찾으러 가야 한다.</p>
+        <p>그래서 낮에 예술의 전당에 갔다. 미술관(작품관)에 들어가보니 내 그림이 딱 보였다.나는 장미와 여러 꽃들이 담긴 화분을 그렸다.2번째이지만 여러사람들이 찾는 예술관에 내 그림이 전시돼 있다니 너무 뿌듯하고 자랑스러웠다.</p>
+        <p>나는 내 그림에 초콜릿과 사탕을 붙였다.예술의 전당에서 제일친한 친구인 &name1&의 그림에도 똑같이 붙였다.&name1&가 간식을 누가 붙였는지 궁금해하면 좋겠다. 모르면 더 좋고 말이다.그런데 당연히 모를 것 같다.ㅋ 예술의 전당 덕분에 우리 집은 내 작품들로 가득하다.정말 뿌듯하다.이 참에 우리집에 &name2&‘s 전시관을 하나 만들까?ㅎㅎ</p>
+    </text>
+</SJML>

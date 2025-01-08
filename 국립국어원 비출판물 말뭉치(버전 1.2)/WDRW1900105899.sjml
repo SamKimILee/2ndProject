@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105899</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑하기</title>
+            <author id="P05899" age="17" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_사랑">
+        <p>타인을 조건없이 무제한적으로 사랑한다는건 비단 나뿐만이 아니라 모두에게 불가능한 일 아닐까? 그래도 사랑이 넘치는 사람들 보면 너무 즐겁고 곁에 있고 싶고 멋있고 부럽다. 남을 좋아하는 정도를 떠나서 줄 수 있는 애정의 양과 전달방식은 사람마다 너무나 다르고 쉽게 고칠 수 있는게 아니라는 말에 전적으로 동의한다. 나는 남에게 애정을 주는것도 미숙하고 받는것도 부담스러워하는 사람인 것 같다. 아주 내향적인 것도 아니지만... 감정을 주고받는데 영 소질이 없는것 같다. 타인으로부터 이유를 추론할 수 없는 애정을 받게되면 넘 당황스럽고 어떻게 대처해야할지 감이 전혀 안 온다. 이런 것에 조금 더 능숙해질 수 있는 사람이 되고 싶다.</p>
+    </text>
+</SJML>

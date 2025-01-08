@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111530</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍</title>
+            <author id="P11530" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장원준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_태풍">
+        <p>&lt;제목:태풍&gt;</p>
+        <p>태풍때문에 &name1&(&name2&이형)이랑 못놀았다. “힝~원래 약속도 했는대 왜태풍이 지금오지” 타이밍때문에 진짜왕실망했다. 이게운명의 장난이란말인가 흑 너무화난다.</p>
+        <p>밖에서딱지도못치고 그리고피구도 못하고ㅠㅠ 난빨리때가(태풍이오는) 지나면좋겠다. 그냥태풍이사라지면좋겠다. '그건사람으로서 불가능 한 일이지많... 내생각이지많'... 흠 아무튼 태풍때문에&name2&이형이랑 못놀았다. '힝~미워태풍 빨리사라 져라 야아아~아압’</p>
+    </text>
+</SJML>

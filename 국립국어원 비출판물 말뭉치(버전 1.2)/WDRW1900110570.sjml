@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110570</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>보드게임방</title>
+            <author id="P10570" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김아인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191227" subclass="null_친구들">
+        <p>친구들과 보드게임방에 갔다. 야구게임이 제일 재미 있었다.내가 홈런을 했다. 기분이 좋았다.마리오 게임도 재미있었다.</p>
+        <p>스카이방방에 갔다. 농구도 하고, 축구도 했다. 노래도 불렀다.‘사랑을했다’,‘강남스타일’,‘비행기’, 춤도췄다.</p>
+        <p>친구들이랑같이 놀아서 좋았다.</p>
+    </text>
+</SJML>

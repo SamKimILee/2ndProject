@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510567</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>워터파크 간날</title>
+            <author id="P10567" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">허다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190804" subclass="null_워터파크">
+        <p>제목: 워터파크 간 날</p>
+        <p>워터파크에갔다. 아빠,엄마랑 갔다.</p>
+        <p>구명조끼를입고, 튜브를탔다.</p>
+        <p>아빠한테 수영하는 거를 조금 배웠다.</p>
+        <p>구명조끼를입어서 수영이 잘됐다.</p>
+        <p>배영도 했다. 튜브를타고 야외수영장으로 갔다. 놀이터도 있었다.</p>
+        <p>입이랑귀에 물이 많이들어갔다.</p>
+        <p>너무재미있었다. 다음에는 더많이 놀거다. 일기 끝</p>
+    </text>
+</SJML>

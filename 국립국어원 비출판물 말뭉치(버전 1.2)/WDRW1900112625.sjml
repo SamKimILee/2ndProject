@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112625</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스타필드</title>
+            <author id="P12625" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190920" subclass="null_스타필드">
+        <p>스타필드</p>
+        <p>오늘 난 스타필드로 갔다.</p>
+        <p>스타필드는 아주 큰 건물이다.</p>
+        <p>스타필드 안에 들어 갔다. 스타필드 안에는 사람들이 시끌벅적 했다. 사촌 동생, 아빠, 나는 장난감 코너로 갔는데 사촌동생이 주스만들기를아주 좋아했다. B1으로 가서 이층 침대를 보았다 계단이 서랍인게 너무 신기 했다. 1층 에서 피자를 먹었다. 다음에또 가고싶다.</p>
+    </text>
+</SJML>

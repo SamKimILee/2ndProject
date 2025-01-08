@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512009</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>슬라임</title>
+            <author id="P12009" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">임지유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_슬라임">
+        <p>쪽득쪽득 슬라임 만지니 기분 좋아진다. 말랑말랑 슬라임을 만지니 내마음도 말랑말랑 헤진다.</p>
+        <p>찰딱찰딱 슬라임을 만지니 꼭 인절미 같다.</p>
+    </text>
+</SJML>

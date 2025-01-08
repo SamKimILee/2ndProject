@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512684</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인성프로젝트 &lt;차별&gt; 역할극을 마치고</title>
+            <author id="P12684" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">황시현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="옛날">
+        <p>옛날 노비들이 너무 불쌍하다.</p>
+        <p>현재에 태어난게 너무너무 고맙다. 오늘 정말 부당했다. 내가 옛날에 태어났으면 그 법을 바꿨을 것이다.</p>
+        <p>양반과 노비는 극과극인것같다.</p>
+        <p>쉬는 시간에 못 놀아서 속상했다.</p>
+        <p>양반이 계속 놀려서 기분이 나빴다. 정말 많은 뜻이 있었던 것 같다.</p>
+    </text>
+</SJML>

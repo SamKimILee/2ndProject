@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312022</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태어난 이유</title>
+            <author id="P12022" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">최재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="삶">
+        <p>나는 왜 태어난 것 일까?</p>
+        <p>어머니가 나를 낳은 이유는 무엇일까?</p>
+        <p>신이 나를 만든 이유는 무엇일까?</p>
+        <p>가끔씩 내가 살아가는 삶에 대해 의문이 들때가 있다. 하지만 하나 분명한건, 내가 이 세상에 태어난 이유가 지금 이렇게 불행하려고 태어난건 아닐것이다. 만약 나에게 불행을 주려고 나를 태어나게 만든것 이라면, 나는 꼭 행복해야겠다. 나를 불행하게 만드는 것들이 박탈감을 느끼도록 나는 꼭 행복해야겠다.</p>
+    </text>
+</SJML>

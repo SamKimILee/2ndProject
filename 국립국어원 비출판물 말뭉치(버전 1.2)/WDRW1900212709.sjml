@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212709</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>농협은행 경제교육</title>
+            <author id="P12709" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">노건희</author>
+        </sourceInfo>
+    </header>
+    <text date="20190808" subclass="null_경제교육">
+        <p>&lt;제목&gt; 농협은행 경재교육</p>
+        <p>아침에 일찍 일어나서 경재교육을 받으러 농협은행에갔다. 들어가 보니 &name1&이와 &name2&이가있었다. 아는 사람이 있어서 다행이다. 여기서는 직접 손님과 직원 역할을 할수있어서 기대된다. 먼저 은행에서 볼 수 있는 여러 기계들을 다루는 법을 배웠다. 두 번째는 경재교육 게임을 했다. 난 &name1&이와 &name2&이랑 같은 조가 되서 하기 편했다. 게임도 재미있었다. 세번째로는 직원 역할을 해보았다. 직원역할이 제일 떨리고 재미있을 것 같았다. 직원은해야되는게 제일 많았다. 은행은 직원들이 얼마나 힘든지 알게 되었다. 이런경험은 정말 나한테 도움이 된것 같다.</p>
+    </text>
+</SJML>

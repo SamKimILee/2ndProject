@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312036</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠가슈퍼맨이 되었다.</title>
+            <author id="P12036" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191116" subclass="사건">
+        <p>꿈속에서 아빠가 영웅이 되었다. 친구들과신나게 커뮤니센터에서 놀고있었는데 빨간슈트를 입은 남자가 요란한 발소리와 함께왔다. 도둑이었다. 난 무서워서 도망쳤는데, 나만 도망친거 같아서 다시 들어갔더니 아빠가 누더기를 입고 나타나더니 도둑이놀라서 도망쳤다. 아빠가영웅 같았다</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403241</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화 구경</title>
+            <author id="P03241" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>가족들과 함께 영화를 보러갔다.</p>
+        <p>다른 사람들은 영화를 보러간다고 하지만 할머니는 영화 구경이라고 하셨다.</p>
+        <p>영화는 한 남자의 일생을 다룬 내용으로 20세기 한국의 시대상황이 잘 나타났다.</p>
+        <p>항상 역사책으로만 봐왔던 내용이 영화에 한 장면 한 장면 펼쳐졌다.</p>
+        <p>할머니는 그 영화를 보시며 그때는 그랬지, 그땐 그랬어라고 중얼거리셨다.</p>
+        <p>어려웠던 시대상황에서도 그 시대 사람들은 정말이지 억척스럽게 생활해왔고 또 굳세게 사셨다.</p>
+        <p>매번 할머니의 신세한탄을 들으며 지겹도록 들어왔던 이야기지만 영화로 보면 또 새롭게 느껴진다.</p>
+        <p>참으로 감명깊고 유익한 시간을 보낸 것 같다.</p>
+    </text>
+</SJML>

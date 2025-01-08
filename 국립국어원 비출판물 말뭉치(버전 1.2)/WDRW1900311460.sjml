@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311460</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어글리돌</title>
+            <author id="P11460" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조민규</author>
+        </sourceInfo>
+    </header>
+    <text date="20190501" subclass="null_영화 어글리돌">
+        <p>극장에서 영화 어글리돌을 봤다. 어글리돌에서루라는인형도있었는데루는너무안좋은녀석이였다. 다른에들은 착했는데루는너무나빠서 싫었다.자기를사랑해주는주인을못생긴인형들이만나서행복했다.</p>
+        <p>못생긴인형들도좋은주인을만날수있다는것을깨달았다.다음에는못생긴인형이라도잘다루어주어야겠다.</p>
+    </text>
+</SJML>

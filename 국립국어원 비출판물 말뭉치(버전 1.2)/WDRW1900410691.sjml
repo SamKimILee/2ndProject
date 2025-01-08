@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>언니</title>
+            <author id="P10691" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김정우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="언니">
+        <p>난 인생에서 단 한번도 언니가 있어본 적이 없다. 사촌언니도 없다. 그래서 항상 언니가 있는 친구들이 부러웠다. 언니랑 옷도 나눠입고, 화장품도 나눠쓰는게 내 로망이다. 어렸을 때는 엄마에게 언니를 만들어달라고 떼 써본 적도 있지만 이젠 안다. 나에게 언니가 생길 수 없다는 것을. 그 대신 누군가의 언니가 되어 그 누군가에게 멋진 존재가 되야겠다고 생각한다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320102</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스톱워치</title>
+            <author id="P20102" age="11" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김담원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190330" subclass="null_스톱워치">
+        <p>제목:스톱워치</p>
+        <p>홈플러스에서 에비츄 스톱워치를샀다. 구몬할때필요하기때문이다.</p>
+        <p>에비츄스톱워치는 시계,알람,스톱워치,타이머 4가지기능</p>
+        <p>을 가지고있다.  근데 시간설정하기가 힘들어 6번을 반복했다. 그래서 30분이나 걸렸다. 초맞추기, 시간맞추기,</p>
+        <p>분 맞추기 월, 일,요일을 맞추다보니 잘못맞추고</p>
+        <p>하다가 겨우 맞췄다. 헥... 정말힘들었다.</p>
+        <p>왜냐하면 이런건 거의 아빠가 해주기 때문이다.</p>
+        <p>이제 한번해봤으니 다음엔 실수안할거다.</p>
+    </text>
+</SJML>

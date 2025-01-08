@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212229</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>집에 갔어요</title>
+            <author id="P12229" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200215" subclass="null_집">
+        <p>2월 15일 토요일</p>
+        <p>제목:&name1&네 집에 갔어요.</p>
+        <p>옆동에 사시는 이모가 초대를 해주셔서</p>
+        <p>&name1&네 집에 놀러갔다. &name1&네 집에는 장난감도 많고 인형도 많았다.. &name2&이랑 &name1&랑</p>
+        <p>셋이서 학교놀이를 했다. 내가 선생님이 되어서</p>
+        <p>사랑이랑 친절을 가르처 주었다. 인형의 집을 가지고 인형놀이를 했다. 가게 놀이도 하고 음식을 만들어서 엄마랑 이모에게 주었다.   저녁밥으로 맛있는 칼국수랑 미역국도 먹었다.. 인형으로 연극 공연도 했어요. 재미있게 놀다가 밤늦게 집에 왔다. 이모가 선물로 클레이와 영어공책을 선물로 주셨다.</p>
+        <p>정말 재미있었다. 다음에 &name1&를 우리집에 초대해서 재미있게 놀았으면 좋겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900700723</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수기7(수학)</title>
+            <author id="P00723" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_수학공부">
+        <p>'이미 여러 번 풀었던 문제인데. 아는 문제인데'라고 자만하지 않고 계속 반복해서 풀었습니다. 결과는 백분위 85.</p>
+    </text>
+</SJML>

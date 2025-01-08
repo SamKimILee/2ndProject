@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900505376</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는</title>
+            <author id="P05376" age="21" occupation="무직" sex="M" submission="온라인" handwriting="No">배정주</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="지금">
+        <p>난...꼭 지금 내가 하는 일로 성공하고싶다.</p>
+        <p>1년이란 기간도 얻어냈다...나이가 많다고하지만</p>
+        <p>난 아직 무엇을 시작해도 좋을 나이다.</p>
+        <p>수명도 늘은 시대이다 30살도 40살도 무엇을 시작해도 늦지 않았다.</p>
+        <p>하지만...한국인들은 왜 20살을 조금만 넘어도 늦었다고 시도조차 안하는것일까?</p>
+        <p>이런 사회가 너무 싫다</p>
+    </text>
+</SJML>

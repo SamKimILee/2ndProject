@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112163</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연날리기</title>
+            <author id="P12163" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_연날리기">
+        <p>우리는 연날리기 준비를했다</p>
+        <p>그런데 바람이 불지 안아서 뛰어도 바람이 불지 안아서 연날리기를 못했다</p>
+        <p>그래서 많이 힘들어고 정말 아쉬웠다. 그래서아빠가 머리 끈을 아빠가 처음으로 사주어서 정말 고마웠다</p>
+    </text>
+</SJML>

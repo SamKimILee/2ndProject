@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203451</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>너의 존재</title>
+            <author id="P03451" age="15" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_너, 존재">
+        <p>"넌 나에대해 알아도 크게 놀라지 않는구나. 다른 사람들은 모두들 자신의 악한 부분을 보면 깜짝 놀라면서 숨기려드는데..."</p>
+        <p>"...너를 보고 딱히 놀라거나 하진 않았어. 널 보기 전에도... 이미 네 존재를 깨닫고있었으니까."</p>
+        <p>"...너는 내가 싫지않니?</p>
+    </text>
+</SJML>

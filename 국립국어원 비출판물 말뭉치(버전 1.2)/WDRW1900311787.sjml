@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311787</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>황산공원</title>
+            <author id="P11787" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강해랑</author>
+        </sourceInfo>
+    </header>
+    <text date="20200324" subclass="null_황산공원">
+        <p>3/24</p>
+        <p>친구들이랑같이황산공원에 갔다. 황산공원 놀이터에서 자전거뒤에 동생을태우고자전거를 탔다. 그러고 친구들이랑 엄마랑과자도 나눠 먹었다. 그러고 미끄럼틀도 타고 친구들이랑 ‘무궁화 꽃이 피었습니다’를 했다. 다음엔 아빠랑도 오고싶다. 코로나 때문에 아빠가 서울에서 못 오고 있다.</p>
+    </text>
+</SJML>

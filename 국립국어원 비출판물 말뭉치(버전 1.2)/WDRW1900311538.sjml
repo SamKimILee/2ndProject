@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311538</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>과학관 수업</title>
+            <author id="P11538" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이준용</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="과천 과학관">
+        <p>제목: 과학관 수업</p>
+        <p>오늘 은 과천 과학관에 가는 날이다.</p>
+        <p>나는 어제 부터 과학관에 간다는 생각에 들떠있었다. 그래서 기대된거다. 나는 과학관에 차를 타고 갔다. 나는 가면서 멀미를 했다 나는원래 멀미를 않하는데 아빠가 오늘 운전을 꼬불 꼬불 한길에서 더욱 빠르게운전 했기 때문 이다 나는 과학관에 도착 하고나서 과학관에 있는 교실에 가서 수업을시작 했다 오늘 수업은 비밀편지에 대한수업이다 드러가서 과학 수사대중 가장대표적인수사대 국과수와 인터폴을 배우고 시작했다.</p>
+        <p>오늘 편지에 여러 가지 거짓편지와 진실편지를 비교하는 걸했다. 편지를 비교하는 것은 여러가지 방법이 있었다.</p>
+    </text>
+</SJML>

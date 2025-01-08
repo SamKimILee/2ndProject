@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410793</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>살다보면</title>
+            <author id="P10793" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">정은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="마음">
+        <p>
+            <s>누구랑 대화 함에 따라</s>
+            <s>마음이 따뜻해지는 사람이 있고</s>
+            <s>그렇지 못한 사람이 있더라.</s>
+            <s>난 전자가 되고 싶었지만</s>
+            <s>쉽지 많은 않더라.</s>
+            <s>그래서 마음이 따뜻하다는 소릴 들으면</s>
+            <s>정말 내가 그런건가</s>
+            <s>의문이 들더라.</s>
+        </p>
+    </text>
+</SJML>

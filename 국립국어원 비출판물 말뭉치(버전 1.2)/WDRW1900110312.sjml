@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110312</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여러가지 사과</title>
+            <author id="P10312" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">조유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_스마트폰">
+        <p>사과란</p>
+        <p>사과는 각각다른 뜻을 가지고 있다.</p>
+        <p>빌헬름텔의 사과는 자유, 의지 였고 백설공주의 사과는 유혹,욕망, 파리스의 사과는 명예,성추 이고 에덴의 사과는 의심,지식이다 그리고 아낌없이 주는 나무 라는 책속 나무의 사과는 사랑이였다.</p>
+        <p>그중 백설공주의 사과로 백설공주의 사과와 닮은 것을 말해 보겠다.</p>
+        <p>내가 생각하는 사과는 스마트폰이다.</p>
+        <p>물론 백설공주의 사과는 좋은 점이 없었지만 스마트폰은 좋은점이 있다.</p>
+        <p>하지만 스마트폰의 단점은</p>
+        <p>백설공주의 사과 만큼 안좋은것같다.</p>
+        <p>어느 부분에서 제일 닮았나면 유혹하는</p>
+        <p>부분에서 닮은것 같다. 스마트폰은하면안되는걸 알지만 계속하고 싶고 이것만 볼려고하면</p>
+        <p>또 뭐가  보고싶은게 있다. 이것이 뭔가 백설공주와 닮은것 같아 스마트폰 인것 같다.</p>
+    </text>
+</SJML>

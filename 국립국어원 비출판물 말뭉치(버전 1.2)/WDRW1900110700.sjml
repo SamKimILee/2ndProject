@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110700</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이상한 초대장을 읽고</title>
+            <author id="P10700" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">김민규</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이상한 초대장">
+        <p>다람쥐야!!</p>
+        <p>안녕? 다람쥐야.</p>
+        <p>나도 너의 초대를 받고 싶어서 이렇게 편지를 쓰게 됐어.</p>
+        <p>음..아마 초대를 받고 싶을 때는 먼저 너를 초대하는 것이 더 좋겠지? 우리집은 경기도 군포시 궁내동 동성아파트야. 모르겠으면 나에게 다시 편지해줘!</p>
+        <p>짝귀야, 네가 만약 여기로 놀러온다면 내가 다친 다리를 꼭 고쳐줄게. 붕대로 감고 심하면 목발을 만들어줄게. 너희들은 세상에서 가장 똑똑한 다람쥐일거야. 왜냐하면 너희들은 말을 하잖니! 꼭 나를 초대해주길 바래~ 그럼 안녕. 잘 지내!</p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311634</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울랜드 간 날</title>
+            <author id="P11634" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김유빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190801" subclass="null_서울랜드">
+        <p>8월1일 목요일</p>
+        <p>제목: 서울랜드 간날</p>
+        <p>차를 타고 서울랜드에 갔다. 맨처음에는 롤러코스터 블랙홀 2000을 탔다. 블랙홀2000에는 트위스트가 있다.</p>
+        <p>트위스트를 할때 머리가 안전바에 계속 부딧힌다 좀 아프다</p>
+        <p>근데 재미 있고 사람도 없어서 연속 두번을 탓다</p>
+        <p>그리고 라바 트위스터를 타러갔다 정말 재미 있엇다.</p>
+        <p>또 월드컵 놀이기구를 타러 갔는데 전반전, 후반전 방향이다르게 돌았다 그리고 바이킹 끝자리 연속으로 3번을 타고 통나무 공연 이런것도보았다.</p>
+        <p>근데 은하 열차 8888은 타고 싶엇지만 사촌동생이 싫다고 해서 못탓다</p>
+        <p>다음엔 은하 열차 8888을 꼭 탈것이다.</p>
+    </text>
+</SJML>

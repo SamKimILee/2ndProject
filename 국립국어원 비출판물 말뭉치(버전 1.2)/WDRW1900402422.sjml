@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402422</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>알다가도 모름</title>
+            <author id="P02422" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="알다">
+        <p>개발이라는 업무는 알다가도 모를일이다. 공부를 하면 할 수록 깊어지고 급기야 컴퓨터의 구조까지 공부하게 되는 신기한 직종이다.</p>
+    </text>
+</SJML>

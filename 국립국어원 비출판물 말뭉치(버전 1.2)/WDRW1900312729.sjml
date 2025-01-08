@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312729</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외 할머니 집 안뇽~, 오빠 생일잔치</title>
+            <author id="P12729" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강보원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200309" subclass="null_오빠 생일잔치">
+        <p>외 할머니 집 안뇽~, 오빠 생일잔치</p>
+        <p>3월 8일 ~ 3월 9일</p>
+        <p>오늘은 엄마, 아빠가 데릴러 와서</p>
+        <p>친 할머니 집이나 우리 집으로 가려고</p>
+        <p>한다 그런데 오빠 생일이어서</p>
+        <p>케이크를 사고 나도 쿠키를 통을 얻어</p>
+        <p>먹었다 월래 그 다음 날에 가야지</p>
+        <p>더 놀수있는데 오빠가 오늘 간다고</p>
+        <p>해서 오늘갔다ㅠㅠ 게다가 8시어서 4시간 밖에</p>
+        <p>못놀았다 그다음 날아침, 아빠가</p>
+        <p>데릴러와서 살찐다고 등산을 하자고</p>
+        <p>했다 그래도 그날은 날씨가 좋아서</p>
+        <p>다행이었다 그리고 4시에 학원에 숙제를</p>
+        <p>받으러 가야되서 받고 바닷가를 갔다</p>
+        <p>거기서 탕후루를 먹었는데 딱딱해서 먹기는</p>
+        <p>힘들었지만 안에 딸기도 들어있고</p>
+        <p>과즙도 많아서 정말 맛있었다 다음에도</p>
+        <p>먹고싶다 하지만 마카롱 집은 문을 열지</p>
+        <p>않아서 아쉬었다. 끝</p>
+    </text>
+</SJML>

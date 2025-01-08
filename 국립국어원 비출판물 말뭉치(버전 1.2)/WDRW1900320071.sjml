@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>좋은 말만 하면?</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190827" subclass="null_좋은 말만 하면?">
+        <p>
+            <s>2019. 8. 27. 화 날씨(흐림)</s>
+        </p>
+        <p>
+            <s>좋은 말만 하면?</s>
+        </p>
+        <p>
+            <s>말이 씨가 된다고 한다</s>
+            <s>콩 심은데 콩 나고, 팥 심은데 팥 난다고 한다.</s>
+            <s>난 어떤 말씨앗을 심을까? &name1&샘은 항상 좋은 말이 복을 불러 온다고 말씀하셨다.</s>
+            <s>말씀 하셨다. 나도 이제 고운말만 해야 겠다. 친구가 나를 화나게 하면 친구에게 좋은말로 말해야겠다.</s>
+            <s>그래야지 친구도 기분이 좋고 나도 기분이 좋아질것 같다.</s>
+        </p>
+    </text>
+</SJML>

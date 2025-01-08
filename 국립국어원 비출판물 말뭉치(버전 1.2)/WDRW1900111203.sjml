@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>좋다는게 뭘까</title>
+            <author id="P11203" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="좋다">
+        <p>좋아한다의 정확한 의미는 뭘까 눈에 보이지 않는 것들을 글자로 표현하면 굉장히 모호해지는게 나는 마음에 들지 않는다 추상적인 의미를 가진 단어들은 상황이나 상대에 따라 뜻이 달라진다는 것도 말이야 이렇게 민감하게 반응하는 것도 내가 오해를 받은 적이 있으니까 더 그렇게 생각한다 물건의 품질을 말할때의 좋다와 사람의 마음을 말할때의 좋다는 비슷하면서도 다른게 솔직히 아직도 어렵다 가볍게 쓰면 이해가 간다만, 깊게 생각하면  가장 어려운게 좋다는 말 아닐까</p>
+    </text>
+</SJML>

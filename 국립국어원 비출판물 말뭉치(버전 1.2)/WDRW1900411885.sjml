@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411885</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>학교</title>
+            <author id="P11885" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김지수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="학생">
+        <p>학교 가고싶다</p>
+        <p>나는 학생인데</p>
+        <p>코로나때문에 나는 왜 맨날집에만 있는가</p>
+        <p>집에서 빈둥거리면서 평소에는 하지도 않던 짓 하고있음 막 케잌 만들고 달고나커피 만들까 찾아보고 이틀동언 드라마 다 봄 시크릿가든 너무 재밌어..</p>
+    </text>
+</SJML>

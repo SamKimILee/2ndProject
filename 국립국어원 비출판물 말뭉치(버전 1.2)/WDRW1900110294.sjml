@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110294</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>말</title>
+            <author id="P10294" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="말">
+        <p>
+            <s>아주 작은 말이었다</s>
+            <s>입밖으로 새어나가기 전까지는</s>
+            <s>순간의 유혹을 참지 못해</s>
+            <s>말은 점점 크기를 키워나갔다</s>
+            <s>말이 지나간 주변에는</s>
+            <s>말을 들은 이들이</s>
+            <s>저들끼리 속닥속닥</s>
+            <s>말은 더 커져서</s>
+            <s>이젠 잡지도 못하게 되어버렸다</s>
+        </p>
+    </text>
+</SJML>

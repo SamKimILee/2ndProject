@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512666</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>15일간의 여행(베트남 무이네)</title>
+            <author id="P12666" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정예슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_무이네">
+        <p>베트남 호치민에서 무이네로 가는 버스를 타고 5시간 걸려 무이네로 왔다. 무이네호텔 은 아주 좋았다. 호치민은 오토바이가 너무 많은데 무이네는 별로 없었다.</p>
+        <p>나는 호치민 보다 무이네가 더 좋았다.</p>
+        <p>그리고 숙소 수영장에서 놀았다. 수영은 계속해도 질리지가 않는 것 같다.</p>
+    </text>
+</SJML>

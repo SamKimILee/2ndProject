@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211450</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>J에게</title>
+            <author id="P11450" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_편지">
+        <p>신분을 밝힐 수 없는 나를 네가 이해하길 바라.</p>
+        <p>늦가을 너를 처음 봤던 날, 그날 본 달은 정말 잊히지 않을 거야.</p>
+        <p>지금껏 이 우주를 산 모든 사람들 중 내가 가장 예쁜 달을 보았다고 하여도 과언이 아닐테지.</p>
+        <p>J야, 밤이면 달에 편지를 써놓을게. 달은 아주 크니까 안경을 쓰는 너도 읽기 쉽겠지?</p>
+        <p>이 편지를 네게 전하는 것보다 우주로 가서 달에 편지를 쓰는 편이 더 용기가 나는구나.</p>
+        <p>오늘도 부치지 못할 편지를 써.</p>
+        <p>언젠가 이 편지가 다리를 놓아 너에게 닿일지 모르는 일이니.</p>
+        <p>사랑을 담아, E.</p>
+    </text>
+</SJML>

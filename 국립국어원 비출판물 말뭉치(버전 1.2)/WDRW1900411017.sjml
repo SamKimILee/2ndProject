@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411017</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>옛날 친구</title>
+            <author id="P11017" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">정소현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="옛날">
+        <p>며칠 전 교복점에서 옛 친구를 만났다. 나는 그 친구를 봤지만 걔는 날 봤을까?</p>
+        <p>중학교 2학년 이후로는 연락이 끊겼는데</p>
+        <p>갑자기 보니까 뭔가 말을 건네기두려웠다. 사람 참 신기하다. 몇 년 전에는 자연스레 불렀던 친구가 몇 년 지났다고 말 걸기가 두려운지... 그 친구는 날 기억할까? 기억 못 하는 건 아니겠지? 괜히 인사했다 그 친구가 날 못 알아보는 건 아닐까 두렵기도 하다.</p>
+    </text>
+</SJML>

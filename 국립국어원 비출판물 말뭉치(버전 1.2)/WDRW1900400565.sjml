@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400565</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구가 합격했다</title>
+            <author id="P00565" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>오늘 친구가 2년간 준비한 시험에 합격했다! 내가 다 잠을 설칠 정도였다... 정말 간절하게 바라고 자신에게 부끄럽지 않을 정도로 열심히 한다면 이루지 못할 것은 없는 듯 하다. 그렇게 이루어 낸 친구가 너무나 자랑스럽다. 이로 인해 물리적 거리는 조금 멀어지겠지만, 어디서든 친구가 행복하게 자신의 삶을 가꾸어나가길 진심으로 빌어본다. 친구야 정말 진심으로 축하해!</p>
+    </text>
+</SJML>

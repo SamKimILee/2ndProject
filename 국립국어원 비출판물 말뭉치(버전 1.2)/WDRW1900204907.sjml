@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204907</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>감각</title>
+            <author id="P04907" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">황정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>나는 지금 피씨방에 앉아 있다. 키보드가 예쁘다. 민트색과 하얀색. 주변은 시끄럽고 사람들은 떠들고 있다. 총 소리와 타격 소리가 들린다. 약간 어지럽고, 식사가 소화되지 않은 채라 살짝 체해 있다.</p>
+        <p>이런 것에 대해서 말고 나 자신에 대해 도무지 무엇을 얘기할 수 있을지 모르겠다. 무엇을 얘기해야 좋을지도, 정말 모르겠다. 누군가는 자신이 학생이라 말하고 누군가는 자신이 스타트업 사업가라 말한다. 내가 무엇이며 무엇이 될 수 있는지, 무엇이 되어야 할지, 도무지 무엇이 되어야 할지, 그런 것들을 나는 모른 지가 오래 되었다.</p>
+    </text>
+</SJML>

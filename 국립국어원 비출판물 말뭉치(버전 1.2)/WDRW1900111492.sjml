@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111492</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하루살이</title>
+            <author id="P11492" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">황현우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="활동">
+        <p>하루살이</p>
+        <p>쓴사람:&name1&</p>
+        <p>주말이 되면 우리집은 아주 바빠진다.나는청소하는데 바쁘다. 시작할때는짜증나지만 끝낸후엔 기분이 최고인 것이 바로 청소인것 같다고 생각하며 난 청소를 했다.</p>
+        <p>청소를 끝낸후엔 내 책상뒤에 있는 이불속에 들어가 보었다. 우와! 정말 멋졌다. 안에 빛이들어와서 음악을 연주하는 공연장 같았다. 그후에는 피아노 방으로 달려가 피아노를 치고 엄마는 노래를 불렀다. 정말 즐거운 시간이었다.</p>
+        <p>즐거운 음악속에 빠진 후엔 라면도 먹었다.</p>
+        <p>가족들과 함께 먹으니 아주 맛있었다.</p>
+        <p>그리고 우리 집 앞에있는 탄천을 걸었다.</p>
+        <p>엄마와 나는 줄넘기도 했다. 오늘은 내가 2단 뛰기를 4개나 했다. 4개를 한건 처음이었다.</p>
+        <p>내가 하루살이 였어도 오늘은 진짜 보람찼을것 같다</p>
+        <p>“하루살이야,너희도 보람찬 하루를 보내기를 바래.”</p>
+    </text>
+</SJML>

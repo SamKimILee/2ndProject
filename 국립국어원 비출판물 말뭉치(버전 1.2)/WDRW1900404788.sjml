@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404788</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>11월</title>
+            <author id="P04788" age="21" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">장하늘</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_한겨울">
+        <p>
+            <s>오월봄 가고 한가을</s>
+            <s>은사시나무 숲 가운데서 짐짓 한참을 자박인다</s>
+            <s>사카린임을 알아도 섣불리 깨물 수 없기에</s>
+        </p>
+        <p>
+            <s>검은 흙 파헤치면</s>
+            <s>한 번 죽음을 겪은 적도 없는 순결한 마디들,</s>
+            <s>그 비릿한 마디를 쥔 채 눈꺼풀은 버리고</s>
+            <s>장마철, 눌어붙은 사탕을 조각내면서</s>
+            <s>한 손으로 네 흰 목을 쥘 수 있었다면</s>
+            <s>스물을 전부 펼쳐서 조르고 졸이고 졸렸다면</s>
+            <s>모든 것을 왼쪽에서 오른쪽으로 밀어버릴 수 있었다면</s>
+        </p>
+        <p>
+            <s>녹슨 목과 술잔을 마주 댈 수도 있었겠지</s>
+            <s>노래를 부를 수도 있었겠지</s>
+            <s>이야기를 나눌 수도 있었겠지</s>
+            <s>있었겠지, 여전히</s>
+            <s>입을 다문다고 할 말이 없는 것은 아니다</s>
+            <s>아직은 오지않은 추위에 버릇처럼 푸릇한 혈관을 뱉는다면</s>
+            <s>중력을 잊은 발목은 영영 구르지 않겠지</s>
+        </p>
+    </text>
+</SJML>

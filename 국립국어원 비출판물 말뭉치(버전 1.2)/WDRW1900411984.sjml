@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411984</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인터뷰</title>
+            <author id="P11984" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200302" subclass="null_인터뷰">
+        <p>2020년 3월2일 월</p>
+        <p>인터뷰</p>
+        <p>언니랑나랑인터뷰를했다. 나는1 학년가는인터뷰를했고언니는캐나다학교인터뷰를했다.재미있었다.</p>
+        <p>이모가아이디어를줬다.</p>
+    </text>
+</SJML>

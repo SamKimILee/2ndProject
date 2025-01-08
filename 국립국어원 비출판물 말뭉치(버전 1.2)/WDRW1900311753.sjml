@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311753</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>창경궁 아경 투어</title>
+            <author id="P11753" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김혜린</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_창경궁 아경 투어">
+        <p>어제 친구들과 함께 창경궁 야경 투어를 다녀왔다. 창경궁은 조선시대 궁궐인데, 일본이 우리 나라를 빼앗았을때 창경원으로 이름이 바뀌었었다고 한다. 밤에 창경궁을 걸어보니 무서웠다. 그렇지만 친구들이 있어서 재미있었다.</p>
+        <p>창경궁 밖으로 나왔을때 친구들과 함께 놀았다. 택시에서는 병원놀이을 하다가 생각이 났다. 다음에는 어두운 밤이니까 플래시 라이트를챙기겠다. 다음주는 다른곳에 가보겠다.</p>
+    </text>
+</SJML>

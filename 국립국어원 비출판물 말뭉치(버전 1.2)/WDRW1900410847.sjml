@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>별이 된 너</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_너">
+        <p>
+            <s>너가 세상을 떠난 그 날</s>
+            <s>너는 별이 되었다.</s>
+            <s>너가 나에게서 떠난 그 날</s>
+            <s>너는 별이 되었다.</s>
+        </p>
+        <p>
+            <s>내가 밤을 지나지 못 할때</s>
+            <s>내가 어둠속에거 길을 잃었을 때</s>
+            <s>나를 위해 빛을 내려줘</s>
+            <s>이 어두운 밤에서 나를 구원해주렴</s>
+        </p>
+        <p>
+            <s>너는 별이 되었고</s>
+            <s>어디에도 없지만</s>
+            <s>어디에나 있는</s>
+            <s>나만의 별이 되었다.</s>
+        </p>
+    </text>
+</SJML>

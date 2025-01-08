@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211230</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수학은 어려워</title>
+            <author id="P11230" age="13" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="어렵다">
+        <p>이제 중학교 2학년 이 되기 때문에 수학 공부를 열심히 하자고 다짐했다. 이비에스에서 수학 강좌도 보고 문제집도 풀려고 노력했으나 핸드폰 게임이 자꾸 날 유혹했다. 한 판만 한 판만 더 하다가 수학 문제집 이틀 치를 밀려버렸다. 이럴 땐 내가 학원을 안다니는게 다행인것 같다.</p>
+        <p>이번주 일요일까지만 쉬고 다음주부터는 정말 열심히 할 것이다. 화이팅!</p>
+    </text>
+</SJML>

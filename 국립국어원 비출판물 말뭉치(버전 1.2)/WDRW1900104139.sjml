@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104139</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나를 대표하는 것</title>
+            <author id="P04139" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김가현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나'라는 사람">
+        <p>그것은 나라는 사람을 구성하는 수많은 요소 중 하나일 뿐. 나 자신을 대표하는 것이 아니다. 동시에 나의 성격, 재능과, 나라는 사람의 나머지는 희미해진다. 그 한 단어가 미치는 파장 때문에.</p>
+        <p>하지만 나를 구성하고 있는 나머지 요소는 글로 담을 수 없을만큼 얼마나 무궁무진한지. 겨우 ㅇㅇㅇ 환자라는 단어 하나로 나라는 사람의 존재를 정의하는 것이 마음에 들지 않는다.</p>
+    </text>
+</SJML>

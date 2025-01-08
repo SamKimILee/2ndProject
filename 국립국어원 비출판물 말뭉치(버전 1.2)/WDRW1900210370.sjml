@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210370</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>체육대회</title>
+            <author id="P10370" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_체육대회">
+        <p>오늘은 체육대회를 했다 정말 기대됬는데 운동회를 했다. 우리반은 짝수반이다. 줄다리기는 여 남 나눠서 했는데 여자는 2판 다 이기고 남자도 2판 다 이겼다 청팀 못한다. 그리고 개인 달리기를 했는데 팀은 &name1&,&name2&,&name3&,나였다. 1등 &name2& 2등 나 3등 4등은 모르겠다. 계주를 했다. 근데 어떤 여자애가 역주행을 해서 진심 빡쳤다. 근데 지고있는데 &name2&이 역전했다. 그리고 &name4&은 길이를 벌렸다. 마지막 &name5&, &name6&, &name7&이 먼저 들어와서 이겼다. 정말 기분이 좋았다. &name2&은 감동받아 울었나. 오늘 체육대회 진짜 재밌었고 가을에도 하면 좋겠다</p>
+    </text>
+</SJML>

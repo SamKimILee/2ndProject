@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212394</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안경</title>
+            <author id="P12394" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">서승연</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_안경">
+        <p>
+            <s>안경</s>
+            <s>&name1&</s>
+            <s>안경을쓰면</s>
+            <s>다른세상이보인다</s>
+        </p>
+        <p>
+            <s>빨간렌즈 빨간 세상</s>
+        </p>
+        <p>
+            <s>파란렌즈 파란 세상</s>
+        </p>
+        <p>
+            <s>노란랜즈 노란 세상</s>
+        </p>
+        <p>
+            <s>투명렌즈 선명한세상</s>
+        </p>
+        <p>
+            <s>내안경은 투명렌즈 나는</s>
+            <s>선명한 세상에서 현명하게 살아야지!</s>
+        </p>
+    </text>
+</SJML>

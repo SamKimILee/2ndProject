@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303872</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>청춘</title>
+            <author id="P03872" age="27" occupation="무직" sex="F" submission="온라인" handwriting="No">백지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인생">
+        <p>
+            <s>푸른 봄이 사그라든다</s>
+            <s>익어 수그러든다</s>
+        </p>
+        <p>
+            <s>나 아름다운 것</s>
+            <s>나만 알았던</s>
+            <s>우리의 지나간 허송세월을 위해</s>
+        </p>
+    </text>
+</SJML>

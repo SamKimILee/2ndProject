@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901511470</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>피구</title>
+            <author id="P11470" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190211" subclass="null_피구">
+        <p>어제 학교에서ㅇ앉아피구를 했다.게임이 끝나고 우리팀이 이겼다. 창체시간에 했다.재미있었다.</p>
+    </text>
+</SJML>

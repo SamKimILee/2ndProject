@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611520</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>에버랜드</title>
+            <author id="P11520" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장희망</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_에버랜드">
+        <p>에버랜드에 이모, &name1&이, 우리 가족이 함게 갔다. 어떤 놀이기구를 탔냐면? 회전목마, 비룡열차, 자동차왕국 세개를 탓다. 사람이 정말 많았다! 밤이 되어서 퍼레이드와 불꽃놀이를 보았다. 불꽃이 환상적이었다.</p>
+    </text>
+</SJML>

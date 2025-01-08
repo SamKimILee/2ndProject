@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204832</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필 > 메모</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삶의 기준</title>
+            <author id="P04832" age="26" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="자신">
+        <p>삶의 기준이나 가치를 남, 혹은 외부적인 것에 두는 것은 비교적 쉬운 삶의 태도다. 나라를 위해, 조직을 위해, 사랑하는 사람을 위해 사는 것 과 같이. 이는 여러 곳으로부터 오는 책임을 자신이 아닌 외부로 전가할 수 있는 심리적 구조를 갖는다.  그러나 스스로에게 기준을 두는 것은 그 책임을 외부로 돌리는 것을 허락하지 않는 삶의 태도이고, 이는 상대적으로 유지하기 어려운 삶의 태도다. 이는 자신이 세상을 관찰하는 사람에서 직접 세상을 살아내는 주체로 바뀐다. 전자보다 어렵지만, 그만큼 주체적인 삶을 살 수 있는 태도다.</p>
+    </text>
+</SJML>

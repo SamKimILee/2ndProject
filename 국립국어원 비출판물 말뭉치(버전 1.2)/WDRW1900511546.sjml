@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511546</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>알사탕</title>
+            <author id="P11546" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박경연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="먹다">
+        <p>동동이는 새 구슬이 필요하다 문방구에 들었갔다.</p>
+        <p>동동이가 구슬를 집었다. 어, 이건 못받던 구슬이다.</p>
+        <p>그건 알사탕이다 아주 달지 어쩐지 색도 크기도 다양하고 크다. 다섯개에 사탕을 먹고! 쇼파, 강아지, 돌아갔신 할머니, 아빠 마음속, 낙엽를 만났다. &lt;끝&gt;</p>
+    </text>
+</SJML>

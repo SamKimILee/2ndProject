@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511893</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>없음</title>
+            <author id="P11893" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장재인</author>
+        </sourceInfo>
+    </header>
+    <text date="20191015" subclass="null_그리기">
+        <p>10월15일 화요일</p>
+        <p>&name1&가 학교에서 토끼를 그려달라고 해서 토끼를 그려 주었다 근데 &name2&이가 잘 그렸다고 자기도 그려달라 햇다 그런데 &name2&이는 내일 그려 주겠 다고 했다</p>
+    </text>
+</SJML>

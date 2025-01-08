@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811459</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 바이러스</title>
+            <author id="P11459" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나 바이러스">
+        <p>요즘 코로나바이러스 떼문에 난리다.신천지라는 잘못된종교 때문에 코로나 바이러스가 더 잘전파됬다. 코로나 바이러스 걸린 사람은 너무불쌍하다. 괜히 신천지 종교 때문에... 친구의 말로는 코로나 바이러스가 여름까지 간다고 했다. 그건 너무 끔찍한 일인것같다.</p>
+    </text>
+</SJML>

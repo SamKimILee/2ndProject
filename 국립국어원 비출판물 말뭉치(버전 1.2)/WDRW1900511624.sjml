@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511624</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새해 다짐</title>
+            <author id="P11624" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">성윤호</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_새해 다짐">
+        <p>벌써 새해가 왔다. 새해다짐을써야 겠다. 첫 번째 학교를 더 열심히 다닐 겄이다. 두 번째 태권도를 훨씬 더 힘있게 할 것이다. 세 번째 평소 보다 일찍 일어 난다. 네 번째 엄마 말씀을 잘 들을 것이다. 새해다짐은 다 적었다. 너무 재미있는 하루였다.</p>
+    </text>
+</SJML>

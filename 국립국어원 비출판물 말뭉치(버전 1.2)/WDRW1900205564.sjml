@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205564</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>낙화</title>
+            <author id="P05564" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">박재현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_과오">
+        <p>
+            <s>아름답게 울려퍼지는 한뭉텅이 낙화여</s>
+        </p>
+        <p>
+            <s>청아하게 흐드러지는 한마디의 말이여</s>
+        </p>
+        <p>
+            <s>어쩌면 지구가 푸른 이유는 이들이 있을것이다</s>
+        </p>
+        <p>
+            <s>어쩌면 도시가 빛나는 이유는 이들이 있어서이다</s>
+        </p>
+        <p>
+            <s>어쩌면 너가 빛나는 이유는 이것이 있어서이다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900201425</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2월 1일 토요일.</title>
+            <author id="P01425" age="27" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">정재희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_운전면허">
+        <p>이월의 첫째날. 아침 8시에 일어나 운전학원으로 갔다. 어제두 병원에 가느라 8시에 일어났는데. 요즘 너무 일찍 일어나서 힘들다. (회사를 가는 날에는 9시에나 일어난다구.) 학원에 가서 처음으로 운전을 해보았다. 연습 수업 4시간 하고 시험인데, 연습 끝나고 시험 보기까지 대기시간이 꽤 길어서 쪽잠을 잤는데 그 사이에 배운 걸 다 까먹은 것 같아서 엄청나게 쫄렸었다. 출발하자마자 돌발 신호가 떠서 급브레이크를 밟았어야 했는데, 출발 직후 돌발이 뜬거는 처음이라 이게 돌발이란 생각을 못하고 나 실격인가? 뭘 잘못했지? 하고 잠깐 넋이 나갔다가 정신이 돌아와서 브레이크를 밟았는데 시간 초과 10점 감점 됐다. 힝. 시작부터 감점이라 점수 엄청 신경 쓰여서 완전 조심조심 운전했다. 덕분에 결과는 합격. 정말 떨어질까봐 얼마나 조마조마했는지 몰라.</p>
+    </text>
+</SJML>

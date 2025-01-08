@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204392</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>공항 가는 길</title>
+            <author id="P04392" age="25" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_공항">
+        <p>나는 항상 새벽 첫차로 공항에 갔었다. 새벽 안개로 가득한 인천 바다를 구경하면서 내가 모르는 한국을 느꼈었다. 그러다 처음으로 이른 아침 비행기를 타기 위해 심야공항버스에 올라탔다. 기분이 새롭더라. 꺼진 조명과 조용한 내부. 어두운 도로를 달리는 버스 안에서 야경을 내다보며 가니까 기사님께 온전히 의지하는 느낌이었다. 공항에 도착하면 커피 한 잔 마시고 출국 전까지 여유를 만끽해야지. 출국을 몇 시간 앞두고 설레는 마음으로 눈을 감았다.</p>
+    </text>
+</SJML>

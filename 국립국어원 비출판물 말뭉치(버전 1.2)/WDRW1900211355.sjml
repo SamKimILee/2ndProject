@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211355</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>응어리</title>
+            <author id="P11355" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">홍지은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_용서">
+        <p>
+            <s>당신을 용서했다 말하면서도</s>
+            <s>내 마음 속에는</s>
+            <s>작은 구슬이 남았습니다</s>
+            <s>내가 몸을 기울일 때에</s>
+            <s>그 작은 동그라미가</s>
+            <s>메마른 소리를 내며</s>
+            <s>도로록 굴러갈 때에</s>
+            <s>내 마른 마음도 함께</s>
+            <s>지이익</s>
+            <s>버석한 소라를 내며 찢어지는 것입니다</s>
+        </p>
+    </text>
+</SJML>

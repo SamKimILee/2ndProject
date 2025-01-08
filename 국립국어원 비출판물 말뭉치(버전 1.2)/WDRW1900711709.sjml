@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711709</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마지막 인사</title>
+            <author id="P11709" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권예령</author>
+        </sourceInfo>
+    </header>
+    <text date="20200102" subclass="null_인사">
+        <p>제목: 마지막 인사</p>
+        <p>어제는 &name1& 언니와 마지막으로 노는 시간이었다. 그래서 특별히 오빠의 닌텐도를 빌려서 같이 했다. 언니는 쿠킹마마를 선택했다.</p>
+        <p>나는 만두빚기를 잘하고 언니는 새우껍질벗기기를 잘해다 시간 가는 줄모르고 했다. 언니가 헤어질시간이 되었다.</p>
+        <p>인사를하고언니가 갔다. 그러니 내 가슴이 텅 빈 것 같았다.</p>
+    </text>
+</SJML>

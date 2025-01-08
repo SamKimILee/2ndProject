@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212440</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설맞이 요리</title>
+            <author id="P12440" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">문채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_약밥">
+        <p>설맞이 요리</p>
+        <p>오늘 친할머니 집에서 설날때 먹을 약밥을 꾸몄다. 마트에 가서 약밥 만드는 재료를 사고 집에서 엄마가 약밥을 만들어서 할머니 집으로 들고 가서 쿠키틀로 예쁜 모양을 만들었다. 내일은 내가 만든 약밥을 다 먹을거다.</p>
+    </text>
+</SJML>

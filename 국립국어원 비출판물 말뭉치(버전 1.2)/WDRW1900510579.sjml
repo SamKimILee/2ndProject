@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510579</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요리</title>
+            <author id="P10579" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김유찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200110" subclass="null_마카롱">
+        <p>1월 10일 (금)</p>
+        <p>날씨: 엄청춥다.</p>
+        <p>제목: 요리</p>
+        <p>컵케익을 만들러 갔다. 마카롱을 꾸몄다.</p>
+        <p>나는 곰돌이, 울라프, 꽃,하트를 반죽같은 걸로 꾸몄다.</p>
+        <p>너무 예쁘고 귀여웠다. 이제 빵위에 생크림을 발랐다. 그위에 마카롱을 얹었다. 그렜더니 너~무 예뻤다. 빨리 먹고싶었다. 집에가서 더예쁜 것은 할아버지에게 드리기로 했다. 다른것을 먹어보았는데 맛이 있었다. 근데 마카롱이 너~무 달아서 안 먹었다. 근데 너무 아까웠다.</p>
+        <p>할아버지가 생신이라서 일요일에 만나서 드리기로 했다. 왜냐면 오늘은 못 드리기 때문이다. 빨리 만나서 드리고 싶다.</p>
+    </text>
+</SJML>

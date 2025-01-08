@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510294</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 좋아하는 것</title>
+            <author id="P10294" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="좋다">
+        <p>나는 맛있는 걸 좋아한다.</p>
+        <p>휴대폰 하는 것도 좋아한다.</p>
+        <p>전자기기 수집하는 것도 좋아한다.</p>
+        <p>오늘은 버블티를 먹었다. 버블티는 정말 맛있다. 음료를 마시면 함께 씹히는 타피오카펄을 나는 정말정말 좋아한다.</p>
+        <p>사람은 사소한 것만으로도 행복해질 수 있다. 나는 내가 항상 행복하길 바란다. 그래서 나는 내일도 버블티를 먹을 것이다.</p>
+    </text>
+</SJML>

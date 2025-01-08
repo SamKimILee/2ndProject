@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612639</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>새끼 고양이</title>
+            <author id="P12639" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">신채은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200122" subclass="null_새끼 고양이">
+        <p>1월 22일 수요일</p>
+        <p>날씨 (더움)</p>
+        <p>제목: 새끼고양이</p>
+        <p>우리는 파고다를가서 보고</p>
+        <p>들어가밨다.</p>
+        <p>거기에는 내가 좋아하는 고양이가 있었다.</p>
+        <p>진짜로 만았다.</p>
+        <p>그중에서</p>
+        <p>새끼도 있엇다.</p>
+        <p>난 쌔끼고양이를 본적은 있어지만 만져본건처음이였다.</p>
+        <p>찐짜~정말</p>
+        <p>~재미있고</p>
+        <p>(할아버지와 아빠가)함께 해조서 고마웠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111762</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줄넘기</title>
+            <author id="P11762" age="11" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">설지원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190406" subclass="null_줄넘기">
+        <p>2019.4.6.</p>
+        <p>날씨: 반발을 입어도 될 날씨</p>
+        <p>제목: 재밌는 줄넘기 수업</p>
+        <p>줄넘기 수업에서 팔자마라톤 을 하 였다. 팔자마라톤은 줄잡이 두명이 줄을 돌리고 뛰는 사람이 줄이 자신의 눈높이에 있을 때들어가서 가운데어서 뛰고 자신이 처음 출발했던곳 반대로 나가는 것 이다. 나는 줄잡이를 하였다. 선생님께서 팔자마라톤 60개를 성공 하면 아이스크림을 사주신다고하셨다. 우리는 줄넘기 60개를 성공 했다. 그래서 아이스크림을 사러 가는데 아이스크림 집 문이 닫혀있었다. 그래서 선생님이 어제 사놓으셨던 아이스크림을 주셨는데 내가 좋아하는맛이 없어서 고루고 친구 한테 줬더니 선생님에 CU에가서 아이스크림을 사라고 해서 아이스크림을 샀다.</p>
+    </text>
+</SJML>

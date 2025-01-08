@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마,아빠께</title>
+            <author id="P12026" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예령</author>
+        </sourceInfo>
+    </header>
+    <text date="20200212" subclass="null_엄마, 아빠">
+        <p>&lt;편지&gt;</p>
+        <p>엄마,아빠께.......</p>
+        <p>엄마,아빠,안녕하세요? 저는 &name1&이에요. 먼저 저를 낳아주시고 좋은 추억을 쌓게 해주셔서 너무 고마워요. 저는 엄마아빠를 기쁘게하고 싶은 &name1&이가 되고 싶은데, 그게 너무 어려워요. 저는 엄마,아빠한테 미안한게 너무 많아요. 제가 기울여 지려고 하면, 똑바로 서게 해주시고, 제가 안정감을 갖게 해주 셔서 고마워요. 저에 2020년 꿈은, 엄마의 듬직한 오른팔, 아빠의 듬직한 왼팔이 되는 것이에요. 그럴수 있도록 노력할게요. 그리고 반드시 좋은 대학에 가서 엄마,아빠를 실망시키지 않게, 노력할게요, 엄마,아빠, 사랑해요~ “mom,dad,I love you ♡♡♡</p>
+        <p>2020년 2월12일 -&name1& 올림-</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512201</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무지개폭포</title>
+            <author id="P12201" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190808" subclass="null_무지개폭포">
+        <p>오늘 무지개폭포를 같다왔다. 거기서는 아주깊은 곳이 있었다. 내목 까지오는 곳이었다. 그리고 우린 물고기를 엄청많이 잡압다. 그리고 우린 개구리도 잡았다. 그런데 우라가 폭포 위쪽에 같다. 그런데 물이 위쪽에서 떨어지는 거다</p>
+    </text>
+</SJML>

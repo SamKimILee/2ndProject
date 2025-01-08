@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112357</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>찹쌀쫀바기</title>
+            <author id="P12357" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강영서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_찹쌀쫀바기">
+        <p>주제:찹쌀쫀바기</p>
+        <p>오늘 엄마와 요리를 했다.</p>
+        <p>음식 제목은 찹쌀쫀바기다.</p>
+        <p>요리방법은 간단하다.</p>
+        <p>1.찹쌀가루에 물을 살짝 묽게 붓는다.</p>
+        <p>2.소금,설탕을 넣는다.</p>
+        <p>3.잘섞어서 팬에 부친다.</p>
+        <p>4.꿀이랑 맛있게 먹는다.</p>
+        <p>맛은 '바삭바삭'하고 “쫀득쫀득” 하다.</p>
+        <p>찹쌀쫀바기의 뜻은 찹쌀로 만들고 바삭바삭하고 쫀득하기 때문이다.</p>
+        <p>무지 과자같다.</p>
+        <p>모양은 참 다양하다.</p>
+        <p>내 마지막 꿈은 요리사다.</p>
+        <p>백종원처럼 되고 싶다.</p>
+    </text>
+</SJML>

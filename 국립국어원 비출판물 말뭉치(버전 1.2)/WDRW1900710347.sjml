@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710347</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿀맛</title>
+            <author id="P10347" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조영욱</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_마트">
+        <p>오늘은 마트에 갔다. 마트에가서 오뎅도먹고 붕어빵도 먹었다. 붕어빵은 이십분이 걸렸지만 이십분 기다린 보람이 있다. 붕어빵 정말맛있었다. 정말 좋은 여행이였다.</p>
+    </text>
+</SJML>

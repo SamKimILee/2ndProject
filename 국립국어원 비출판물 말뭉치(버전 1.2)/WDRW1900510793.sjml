@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510793</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>첫 책</title>
+            <author id="P10793" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">정은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="책">
+        <p>
+            <s>부모가 책을 좋아하지 않아</s>
+            <s>내 소유의 책은 갖기 어려운 시절</s>
+            <s>그때 내 첫 책은</s>
+            <s>초등학교 시절 담임 선생님이 주신 수학관련 수필책</s>
+            <s>무슨 내용인지 도통 어려웠던 반면</s>
+            <s>너무 행복하더라.</s>
+            <s>처음이 중요한 이유를 알겠다.</s>
+        </p>
+    </text>
+</SJML>

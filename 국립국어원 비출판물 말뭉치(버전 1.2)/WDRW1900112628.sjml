@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112628</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여수여행</title>
+            <author id="P12628" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190816" subclass="null_여수">
+        <p>제목: 여수 여행</p>
+        <p>오늘은 동생 생일이라 아침일찍 일어나 기차를 타고 여수에 갔다. 기차가 3시간이나 걸려서 지겨웠지만 여수에 갈 생각에 신이났다. 맛있는 밥도 먹고, U월드에서 놀고, 루지도 타고 공룡 어드벤치에서 신나게 놀고 저녁에는 바다를 보러 산책도 나가고 정말 재미있었다. 다음날 아침 어린이 놀이터에서 놀고 해상 케이블카도 타고 이순신 광장, 하멜 전시관, 하멜 등대 되게 많은 곳에갔다. 하멜 등대는 하멜이 탈출을 시도했던 곳이다. 저녁이 되자 저녁밥을 먹고 빅요쇼를 봤다. 분수랑 전등으로 재미있는 이야기를 들었다. 다 보고 앞에서 나가서 사진을 찍었다.</p>
+        <p>다보고 아쉽지만 갈시간이 되어 기차를 탔다, 다음에 또 여수여행을 가고 싶다.</p>
+    </text>
+</SJML>

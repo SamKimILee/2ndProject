@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205962</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수면</title>
+            <author id="P05962" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권세진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_벗">
+        <p>
+            <s>술시에 조면 하였건만</s>
+            <s>어찌 해시에 기침하여</s>
+        </p>
+        <p>
+            <s>뜬 눈으로 나의 벗이 오길</s>
+            <s>하염없이 하염없이 기대어도</s>
+        </p>
+        <p>
+            <s>나의 벗이 오지아니하니</s>
+            <s>이보다 더 큰 고통이 어딨으랴</s>
+        </p>
+    </text>
+</SJML>

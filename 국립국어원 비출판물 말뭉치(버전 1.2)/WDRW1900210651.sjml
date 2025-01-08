@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210651</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아마도</title>
+            <author id="P10651" age="13" occupation="중학생" sex="M" submission="온라인" handwriting="No">이찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_버려야 할 것">
+        <p>
+            <s>허둥지둥 내 마음에 드는 것들을 넣었다.</s>
+            <s>너무 급해서 그런지</s>
+            <s>버려야 할 것 들도 챙겨온 듯 하다.</s>
+        </p>
+        <p>
+            <s>넌 나에게 깨달음이라는 소중한 걸</s>
+            <s>선물해준 사람이지만 너 자체가 소중한건 아니다.</s>
+            <s>너를 버려야했는데 챙겨온 듯 하다.</s>
+        </p>
+        <p>
+            <s>이게 진짜 잘 못 가져 온 건지</s>
+            <s>정때문에 챙겨온 건지 나는 잘 모르겠다.</s>
+        </p>
+    </text>
+</SJML>

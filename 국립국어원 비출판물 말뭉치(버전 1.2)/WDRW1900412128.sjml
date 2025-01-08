@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412128</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>신나는 방송댄스</title>
+            <author id="P12128" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">황다인</author>
+        </sourceInfo>
+    </header>
+    <text date="20200109" subclass="null_방송댄스">
+        <p>&lt;신나는 방송 댄스&gt;</p>
+        <p>나는, 방송댄스를 다니기로해서 스케줄이 바빠졌다. 하지만 친구들이 많아서 재미있다. 선생님도 좋다. 아쉬운 점과 좋은 점이 있다. 아쉬운 점은 일주일을 못 왔고 좋은점은 내가 시작하는 날이 새 춤을 배우는 날이기 때문이다. 여름방학에도 꼭 하고싶다. 하지만 샘이 좋은만큰 댄스를 잘 할수있다. 그래서나는 쌤이 좋으면 하고 쌤이 않좋으며 안할거다</p>
+    </text>
+</SJML>

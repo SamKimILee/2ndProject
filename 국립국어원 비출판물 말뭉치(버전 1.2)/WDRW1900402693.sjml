@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402693</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>화나는 날</title>
+            <author id="P02693" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">고은유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_서운함">
+        <p>안녕 , &name1&야</p>
+        <p>어쩜 너가 편지 하나두고 자취를 감춰버릴 수 있니 ....? 평상시대로 알림이 울려 아무렇지 않게 들어갔는데 처음에 읽을때는 군대얘긴줄 알았다 근데 이니더라 여자친구있던거 모르는사람없었고 다 덮어줬는데 미안하다 한마디적어줄수있는데 안적어주고 진짜 속상하다 20일넘게 나간다는말 한번안하고 여자친구랑 놀러다니고 진짜 나가주라</p>
+    </text>
+</SJML>

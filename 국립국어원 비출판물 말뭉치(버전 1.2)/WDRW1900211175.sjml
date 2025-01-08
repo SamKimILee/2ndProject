@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>잔상</title>
+            <author id="P11175" age="13" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_여름, 기억">
+        <p>
+            <s>여름, 기억을 걷는다.</s>
+            <s>매미소리, 풀내음, 달궈진 아스팔트 위 비눗방울,</s>
+            <s>녹슨 자전거 체인, 금방이라도 눈이 멀 것 같은</s>
+            <s>이 푸름.</s>
+            <s>그 끝엔 괘씸하게도, 그저 당연한 듯</s>
+            <s>늘 네가 있었다.</s>
+        </p>
+        <p>
+            <s>한 걸음, 걸을 때마다</s>
+            <s>시간은 네 이름을 좀먹는다.</s>
+        </p>
+        <p>
+            <s>두 걸음, 걸었더니</s>
+            <s>웬 소년 하나가.</s>
+        </p>
+        <p>
+            <s>아, 더위를 먹었나 보다.</s>
+        </p>
+        <p>
+            <s>뜨겁고 아린 여름이다.</s>
+            <s>아이스크림 하나 사 들고</s>
+            <s>다시 걸음을 옮긴다.</s>
+        </p>
+        <p>
+            <s>매미소리, 풀내음, 달궈진 아스팔트 위 비눗방울,</s>
+            <s>녹슨 자전거 체인, 금방이라도 눈이 멀 것 같은</s>
+            <s>이 푸름.</s>
+        </p>
+        <p>
+            <s>그리고 저 멀리,</s>
+            <s>아지랑이가</s>
+            <s>울고 있습니다.</s>
+        </p>
+    </text>
+</SJML>

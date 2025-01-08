@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311726</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>연말 파티</title>
+            <author id="P11726" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이종현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191228" subclass="좋다">
+        <p>제목=연말파티</p>
+        <p>촌놈집이라 는식당에서 내친구가 1000원짜리 슬라임을 사줬다.그 리고 놀이방 에서 게임도 하고 부롤스타스게임도했 다. 밥다먹고또게임을했다. 갈시간 이되 자 차에 타고서 친구 집에 갔다. 원 래는 &name1& 집에 가야되는데 &name2&집에 갔다. 왜냐하면 &name1&엄마 아빠가 안 와서&name2&집에 갔다. &name1& 엄마 아빠가 와서 &name1& 집으로 갔다. 놀다가 갈시간이되자 인사를 하고 갔다. 다음 에또 &name1&집에가고싶다.</p>
+    </text>
+</SJML>

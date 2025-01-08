@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212199</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>Hopping tour</title>
+            <author id="P12199" age="11" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">남시은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_여행">
+        <p>&lt; Hopping tour &gt;</p>
+        <p>오늘 5:30에 일어나서 옷갈아입고 지포니로( )타고 바닷가 해변으로 배를 타러 갔다. 우리는 돌고래를 보러 바다 한 가운데를 갔는데 못 봐서 아쉬웠다. 그 다음 코스로 스노쿨링을 하러 발리카삭섬 근처에서 거북이를 보았다. 거북이도 밖에서 숨을 쉰댄다.</p>
+        <p>그리고 발리카삭섬 다른 쪽에서는 물고기 모기장 산호초와 불가사리를 봤다. 그러고는 발리카삭 섬 안에 들어가서 밥을 먹었는데 진짜 꿀 맛이었다. 닭이랑 돼지랑 소시지랑 라면 &amp;밥 , 진짜 꿀 조합이었다. 그리고 나서 버진아일랜드(포카리 스웨트 광고) 에 가서 맨그로브 나무 밑에서 사진도 찍고 그랬다. 우리 아빤성지에도 알련디. 불가사리도 많았다.</p>
+    </text>
+</SJML>

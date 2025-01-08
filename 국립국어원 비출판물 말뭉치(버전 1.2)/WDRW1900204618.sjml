@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900204618</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>소금</title>
+            <author id="P04618" age="21" occupation="무직" sex="F" submission="온라인" handwriting="No">최지혜</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_소금">
+        <p>
+            <s>모두를 포용했을</s>
+            <s>푸르던 네가</s>
+        </p>
+        <p>
+            <s>틀에 갖혀</s>
+            <s>바짝 마르게 되었다</s>
+        </p>
+        <p>
+            <s>버석거리며 하얗게  부서져</s>
+            <s>하나하나 셀 수 없을 정도로</s>
+        </p>
+    </text>
+</SJML>

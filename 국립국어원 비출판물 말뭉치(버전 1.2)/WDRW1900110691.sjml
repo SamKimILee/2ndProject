@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가다</title>
+            <author id="P10691" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김정우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="가다">
+        <p>2019년이 가고 2020년이 왔습니다. 가고 나서 바로 2020년이 와서 다행입니다. 가끔 어떤 이가 가고 다시 돌아오지 않거나 다른 이가 와서 빈자리를 채워주지 않을 때에는 어찌 할 바를 모르겠습니다. 빈자리에 대해 익숙함을 익혀야할 것 같습니다. 그렇게 익숙함을 익히다 이제는 빈 자리가 더 편안해지면 어떨까요? 혹시라도 빈자리가 채워지면 안절부절 못하고 빈자리를 채운 사람을 쫓아버리게 되진 않을까요? 역시 빈자리에 대한 익숙함을 익히지 않는 것이 나을 것 같습니다.</p>
+    </text>
+</SJML>

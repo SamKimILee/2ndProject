@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411776</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>공개 수업을 하고 나서</title>
+            <author id="P11776" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190320" subclass="null_공개수업">
+        <p>3월 20일 (수)</p>
+        <p>날씨: 쏟아져 내린 비</p>
+        <p>제목: 공개수업을 하고 나서</p>
+        <p>오늘 5교시에 공개수업을 했다</p>
+        <p>바람의 빛깔 노래를 불렀다</p>
+        <p>그리고 자기소래를 했다 내가 좋아하는 것은 동물 키우기다 그래서 나는 사육사가 꿈이다 행복합니다 오징어 춤을 다 못 외워서 어렵고 부끄러웠다. 모래주머니 전달놀이가 제일 재미있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 설명하는 글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>윈도우 OS</title>
+            <author id="P11493" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이환희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_윈도우">
+        <p>윈도우 OS</p>
+        <p>나는 집에서 오랫동안 있다보니 어느새 윈도우라는 컴퓨터 운영 체제를 익히게 되었다. 윈도우는 데스크톱에서 쓰이는 OS(operating system, 운영체제)의 77%를 차지한다(이것은 엄청난 수준이다.) 윈도우는 역사가 깊다. 옛날에 1985년(정확하지는 않음) 부터 윈도우의 역사가시작 되었고 그 전에는 MS-DOS를 사용했다. MS-DOS는 Microsoft사에서 낸 거의 최초의 윈도우이다. MS-DOS를 기반으로 윈도우 98까지(이것도 정확하지는 않음)까지의 윈도우 OS가 개발된다. MS-DOS를 바탕으로 Microsoft사에서는 윈도우 1.0을 제작하였다. 그리고 윈도우 2.0에서는 요즘 많이 사용하는 멀티테스킹(창 옮기는 기능)이 가능해졌다. 윈도우 3.1부터는 한글윈도우가 있기도 했다. 그 다음 여러윈도우 다음에 윈도우 95라는 전설적인 OS를 Microsoft사에서 내놓게 된다. 이때 우리나라에서 뚱뚱한 컴퓨터에 이 OS가 탑재되게 된다. 이때까지만 해도 컴퓨터의 허락을 받아야만 컴퓨터를 쓸수 있었다. 이 다음에 여러가지 OS가 있지만 그렇게 쓰게되면 글이 너무 길어지니 생략하도록 하겠다. 이 글을 보는 대부분의 사람의컴퓨터는 윈도우일 것이다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405962</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>죄</title>
+            <author id="P05962" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권세진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_죄">
+        <p>
+            <s>죄일까 죄의 삯이 죽음이라</s>
+            <s>나는 점점 죽음으로 몰려가는걸까</s>
+        </p>
+        <p>
+            <s>정신부터 아득하고 멍해져</s>
+            <s>내가 드디어 죽었구나 하지만</s>
+            <s>죽기싫어 그리 죽고싶어 했으면서</s>
+        </p>
+        <p>
+            <s>낙상 죽음이 코앞에 있으니</s>
+            <s>너무 두렵고 무서워</s>
+        </p>
+        <p>
+            <s>내가 살아있나 느끼끼 위해</s>
+            <s>칼을 들어 살을 베어야지</s>
+            <s>실감이 나니</s>
+        </p>
+        <p>
+            <s>곪디 곪은 상처는</s>
+            <s>언제쯤 괜찮아 질까</s>
+        </p>
+    </text>
+</SJML>

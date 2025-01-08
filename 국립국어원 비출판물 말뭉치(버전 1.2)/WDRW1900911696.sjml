@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900911696</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비눗방울</title>
+            <author id="P11696" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최은민</author>
+        </sourceInfo>
+    </header>
+    <text date="201907010" subclass="null_비눗방울">
+        <p>제목: 비눗방울</p>
+        <p>오늘 친구들과 비눗방울 놀이를 했다. 내가 크개하고싶어는더 성공했다. 그다음에 파리 잡기를했다. 다음에꼭해야겠다. 하지만 나도 비눗방울따라 가고싶다.</p>
+    </text>
+</SJML>

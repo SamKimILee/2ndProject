@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220051</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>음악회</title>
+            <author id="P20051" age="72" occupation="전업주부" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200201" subclass="null_음악회">
+        <p>(2月1日)</p>
+        <p>어제는 음악회를 해서 “&name1&엄마랑 맨앞에 앉아 있더래, 기뻐더 더 잘했대.</p>
+        <p>저녁에 아빠가 장미꽃 한송이 사 오셔서 “수고했다. 이거받어" 그래서</p>
+        <p>“고맙습니다. 아빠 잘 다녀 오셨어요” 했단다. &name2&는 좋겠다. 자상하고 좋은아빠를 두어서-.</p>
+    </text>
+</SJML>

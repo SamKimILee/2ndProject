@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110459</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>과거</title>
+            <author id="P10459" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="시간">
+        <p>시간만큼 신기한 존재는 절대 없을 것이라 내 새끼 손톱의 하얀 부분을 걸고 확신한다. 침대에 누워 시계를 보고(안 봐도 상관 없이) 현재를 느끼려고 한다면 이게 무슨 멍청한 짓인가 ?하는 물음이 떠오르기 때문에 시간이 최고로 신비한 존재라고 나는 더더욱 확신한다. 내가 "지금!!"이라고 외치면 그 순간은 어느새 과거가 되어있고 그것을 인식할 땐 그 상황이 이미 몇 초 전이기에 현재를 느끼기에는 현대의 기술이 많이 부족하지 않을까 싶다. 만약 현재가 있다면 과거의 장면이 초단위로 나뉘어 멈춰있는, 혹은 무한의 시간이 첨가된 그런 모습이지 않을까 망상해본다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900308043</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>올겨울 첫눈</title>
+            <author id="P08043" age="65" occupation="자영업자" sex="M" submission="온라인" handwriting="No">김병준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="눈">
+        <p>벌써 2월하고도 중반을 넘어섰건만 이제야 창밖으로 눈다운 눈이 펑펑 내리군요.</p>
+        <p>마당까지 달린 단독 주택이라 눈이 싫죠.올겨울은 포근해서 참 다행이긴하지만요.</p>
+        <p>수도 동파사고로 개고생했던 수년전 겨울은 생각하기도 싫네요.툭하면 한파특보에</p>
+        <p>이렇게 올 겨울이 빨리 지나갔으면 좋겠습니다.그러나 겨울산만은 참 아름답기도 해요.</p>
+    </text>
+</SJML>

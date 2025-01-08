@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211619</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>컴퓨터 수업첫날</title>
+            <author id="P11619" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">강채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200307" subclass="null_수업">
+        <p>3월 7일 월요일 날씨 : 공기가 탁함.</p>
+        <p>제목 : 컴퓨터 수업첫날</p>
+        <p>컴퓨터 수업의 첫날이었다. &name1&와 함께 수업을 같이 들어서 폴짝폴짝 뛸듯이 기뻤다.</p>
+        <p>새로운 컴퓨터 선생님은 조금 뚱뚱하셨다. 나는 ‘선생님은 왜 뚱뚱하실까? 라고 생각했다. 하지만 외모와는 달리 마음은 좋으신분 같았다.</p>
+        <p>첫날 수업주제는 &lt;컴퓨터수업 알아보기&gt;였다.선생님이 스티커판에 스티커를 다 모으면 선물을 주신다고했다. 그래서 나는 훨훨 날듯이 기뻤다. 다음번에는 무 수업을 할지 궁금하다.</p>
+    </text>
+</SJML>

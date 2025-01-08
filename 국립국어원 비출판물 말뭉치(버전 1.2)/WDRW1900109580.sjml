@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900109580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>뻗은 손은 내게 뿌리를 내리고</title>
+            <author id="P09580" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김태연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>
+            <s>다가온 구름의 손금에서는</s>
+            <s>이내 비가 내리고</s>
+        </p>
+        <p>
+            <s>비 내린 구멍에서 자란</s>
+            <s>하얀 반달의 조각은</s>
+            <s>이내 씨를 뱉으니</s>
+        </p>
+        <p>
+            <s>하염없이 아스러지는</s>
+            <s>파편의 흔적들에선 곧</s>
+            <s>무언가의 거스러미 마냥</s>
+            <s>나를 옭아매고</s>
+        </p>
+        <p>
+            <s>뻗은 손은 그렇게</s>
+            <s>마디 속에서 움트되</s>
+        </p>
+        <p>
+            <s>휘감겨진 엉켜진 덩쿨은</s>
+            <s>결국 내게 뿌리를 내리고</s>
+        </p>
+        <p>
+            <s>뻗은 손은 내게</s>
+            <s>뿌리를 내리고</s>
+        </p>
+    </text>
+</SJML>

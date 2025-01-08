@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110036</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>19년 2월 13일 일기</title>
+            <author id="P10036" age="13" occupation="중학생" sex="F" submission="온라인" handwriting="No">박지연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_일기">
+        <p>다시 일기를 쓸 것이다.</p>
+        <p>글로 쓰는 것만큼 진정성 있고 오래 남는 것은 없다.</p>
+        <p>모든 질린다. 난 늘 손에 쥔 것에 만족을 못 하고 불평을 갖는다.</p>
+        <p>그건 불행의 지름길이라고 생각한다.</p>
+        <p>그런 점을 고치고 싶지만 내 주변에는 본받을 만한 사람이 쉬이 나타나지 않는 것 같다.</p>
+        <p>나는 방법만 알려주면 잘할 자신이 있는데, 내게 방법을 알려주는 사람이 없어 속상하고 답답해 발만 동동 구르고 있다.</p>
+        <p>언제쯤 나타날까.</p>
+        <p>또 한탄하는 글이 될 것 같아서 이제 그만할래.</p>
+    </text>
+</SJML>

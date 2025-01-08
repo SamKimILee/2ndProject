@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112206</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>비</title>
+            <author id="P12206" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">황준기</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_비">
+        <p>
+            <s>비</s>
+        </p>
+        <p>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>아.... 비가오네</s>
+            <s>우산은 없는데</s>
+            <s>비는 멈추질 않고</s>
+        </p>
+        <p>
+            <s>아....비가오네</s>
+            <s>우산이 없으니</s>
+            <s>학교에서기다릴까?</s>
+        </p>
+        <p>
+            <s>아... 비가 너무</s>
+            <s>차갑네 그냥 집으로</s>
+            <s>뛰어갈까?</s>
+        </p>
+        <p>
+            <s>''야'', 엄마가 우산을</s>
+            <s>가지고왔네다행이다</s>
+            <s>휴―</s>
+        </p>
+    </text>
+</SJML>

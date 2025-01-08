@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320160</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&lt;나이브스 아웃&gt;을보고나서</title>
+            <author id="P20160" age="14" occupation="중학생" sex="M" submission="오프라인" handwriting="No">민결</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나이브스 아웃">
+        <p>‘나이브스 아웃’은 어떤 대저택에서 유명 추리소설작가가 죽게 되고, 그 사건을 수사하러 명탐정이 온다는 내용의 정통 추리소설의 느낌이 물씬 풍기는 영화이다. 사실 이런 장르의 영화에선 탐정이 주인공이 되어 극을 주도적으로 이끄는게 하나의 클리셰이나 작가의 간병인이라는 주인공을 이 영화에선 극의 주도자로 등장시키며 긴장감을 더한다.</p>
+    </text>
+</SJML>

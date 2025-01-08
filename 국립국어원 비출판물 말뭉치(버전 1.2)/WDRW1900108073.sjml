@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900108073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>요즘 너무 우울함</title>
+            <author id="P08073" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_행복">
+        <p>요즘 어떡해야할지모르겠다</p>
+        <p>이렇게 사는것도 지겹다.....</p>
+        <p>트위터나 하면서 지낸다</p>
+        <p>트위터에 우울트 좀 쓰고....나도 이렇게 우울하게살고싶지않은데. 곧있으면 학교가는데 내가 사회생활 잘할수있을까? 그냥 먹고자고폰하고밖에안한다</p>
+        <p>언제쯤 행복하게 살수있을지모르겠다</p>
+        <p>사실 왜사는지도 별로 이해안가서...뭐ㅋㅋ</p>
+        <p>에휴 언젠가는 나도 행복해지겠지</p>
+        <p>언젠가는??</p>
+    </text>
+</SJML>

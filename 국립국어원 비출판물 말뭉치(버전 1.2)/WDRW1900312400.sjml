@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312400</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그림 그리기 놀이가 좋아</title>
+            <author id="P12400" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양하연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_그림">
+        <p>난 오늘 그림 그리기를 했다. 무슨 그림을 그렸냐면 반달 가슴곰을 그렸다. 그 옆에는 항아리가 꿀로 꽉 찬 항아리를 그렸다. 옆에 그린 그림이내가 설명한 그림이다.</p>
+        <p>내 동생도 빨리 빨리 커서 이런, 저런 그림을 잘 그렸으면 좋겠다.</p>
+    </text>
+</SJML>

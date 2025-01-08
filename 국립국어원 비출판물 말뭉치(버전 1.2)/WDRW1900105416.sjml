@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105416</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구와의 전화</title>
+            <author id="P05416" age="25" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">임지혜</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>오늘 슬비랑 전화로 내일 합정에 있는 곱창집에 가기로 약속을 잡았다. 요즘 곱창을 먹고 싶다는 생각을 자주 했는데 주말에 먹을 수 있어서 너무 기대되고 오랜만에 만나는 친구라 설레임이 가득하다</p>
+    </text>
+</SJML>

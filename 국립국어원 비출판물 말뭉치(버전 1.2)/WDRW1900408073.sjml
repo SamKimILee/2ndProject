@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900408073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울</title>
+            <author id="P08073" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="서울">
+        <p>
+            <s>덜컹덜컹</s>
+            <s>지하철이 지나가는 소리</s>
+            <s>서울의 아침</s>
+        </p>
+        <p>
+            <s>짹짹 짹짹</s>
+            <s>새가 짹짹거리는 소리</s>
+            <s>평화롭고 고요한</s>
+            <s>서울의 낮</s>
+        </p>
+        <p>
+            <s>하하호호</s>
+            <s>시끌벅적한 소리</s>
+            <s>한강을 따라</s>
+            <s>맥주한캔들고 산책하는 소리</s>
+            <s>한강을따라</s>
+            <s>온 가족이 나와 노는 소리</s>
+            <s>서울의 밤</s>
+        </p>
+        <p>
+            <s>시계가 똑딱똑딱</s>
+            <s>뻐꾸기대신 시계소리만 들리는</s>
+            <s>서울의 새벽</s>
+        </p>
+    </text>
+</SJML>

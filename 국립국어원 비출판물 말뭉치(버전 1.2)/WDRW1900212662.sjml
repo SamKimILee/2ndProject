@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212662</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>슈바이처께</title>
+            <author id="P12662" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_슈바이처">
+        <p>&lt;슈바이처께&gt;</p>
+        <p>안녕하세요? 저는 한국에 사는 한아이에요.</p>
+        <p>당신은 너무나 대단한 것같아요.</p>
+        <p>왜냐하 면휼륭한음악가였다가 게다가 젋은나이에 신학박사와 철학박사까지!</p>
+        <p>너-무 대단하세요. 그리고 거기에다가 아프리카 사람들의 병까지고치시다니! 와! 짝!짝!짝!짝! 거기에다 병원까지지으 셨네요!!!</p>
+        <p>진-짜, 너-무 대 단 하 세요!!!</p>
+        <p>근데 왜 하필이면 돌아 가셨어요!</p>
+        <p>흑...!흑...!흑...! 으앙...!!! 하늘나라에가셔도</p>
+        <p>늘행복하세요!</p>
+    </text>
+</SJML>

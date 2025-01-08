@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900307303</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이랑 노는것</title>
+            <author id="P07303" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>&name1&이랑 노는건 재미있다. 이 여자는 늘 화려하게 꾸미고 오기 때문에 평소처럼 무채색으로 입고나가면 자칫 스님으로 오해받을 수 있다. 나도 나름 소유와 탐욕에 허덕이며 사는 편인데 이 여자 앞에서는 혜민스님이 된다. 나도 본받아야 하지 않을까. 내가 너무 소탈하게 살고 있나 반성하게 해 주는 참친구이다. 귀걸이도 모걸이 도 이 친구의 화려함을 뛰어넘을 수가 없다. 이 여자는 집에서도 화장을 하기 때문에 나는 절대 이 사람을 뛰어넘을 수가 없다.</p>
+    </text>
+</SJML>

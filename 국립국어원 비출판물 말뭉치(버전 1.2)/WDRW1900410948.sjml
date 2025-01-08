@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410948</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>빗방울</title>
+            <author id="P10948" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_빗방울">
+        <p>
+            <s>추적추적</s>
+            <s>툭 툭 툭</s>
+            <s>떨어져 내리는 빗방울</s>
+        </p>
+        <p>
+            <s>너를 내 근처에 두면</s>
+            <s>내가 짜증난단다</s>
+        </p>
+        <p>
+            <s>내 멋지고 소중한 신발을</s>
+            <s>은근히 망가트리는 나쁜 너</s>
+        </p>
+        <p>
+            <s>우산이 없으면</s>
+            <s>밖을 돌아다니기 힘들게 방해하는 이상한 너</s>
+        </p>
+        <p>
+            <s>갑자기 당황스럽게 찾아와서</s>
+            <s>나를 힘들게 만드는 알 수 없는 너</s>
+        </p>
+        <p>
+            <s>하지만 미워할 수는 없어</s>
+            <s>바닥에 닿으면</s>
+            <s>같은 빗방울끼리</s>
+            <s>똘똘 뭉치는 우정과 협동</s>
+        </p>
+        <p>
+            <s>그런 네 모습은 멋지고 아름다워</s>
+            <s>그런 네 모습은 본받고 싶더구나</s>
+        </p>
+    </text>
+</SJML>

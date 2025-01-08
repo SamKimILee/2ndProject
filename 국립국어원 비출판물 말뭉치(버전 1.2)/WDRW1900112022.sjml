@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112022</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 손</title>
+            <author id="P12022" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">최재원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>사람는 누구에게나 손이 있다.  사람의 손을 보면 그 사람이 어떤 사람인지 알 수 있다. 밤새워 힘들게 일한 사람에게는 더럽지만 깨끗한 손이, 남을 속이며 편하게 일한 사람에게는 깨끗하지만 더러운 손이 있다. 누군가 나에게 나는 어떤 손을 갖고 있는지 묻는다면, 나는 "나에게는 아직 손이 없다" 고 말할 것 이다. 왜냐하면 나는 아직 이 세상에서 살아갈 '사람' 의 책임을 갖추지 못했기 때문이다. 또 누군가 나에게 어떤 손을 갖고 싶은지를 묻는다면 나는, 힘들게 일한 어른들의 어깨를 주물러 줄 수 있는 손을, 용기가 필요한 약자들의 손을 붙잡아 줄 수 있는 손을, 마지막으로 내가 사랑하는 사람들을 따뜻하게 안아줄 수 있는 손을 갖고싶다. 자랑스러운 태극기 앞에서 나의 깨끗한 '손'을 나의 숭고한 심장 위에 당당하게 올릴 수 있는, 나는 그런 '사람' 이 되고싶다.</p>
+    </text>
+</SJML>

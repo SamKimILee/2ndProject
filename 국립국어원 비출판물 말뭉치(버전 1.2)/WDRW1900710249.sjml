@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900710249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무제</title>
+            <author id="P10249" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="의미">
+        <p>
+            <s>내가 다시 당신 앞에 서게 된 이유는 그간의 두터운 믿음 때문이어서일까 아님, 당신에게 연정을 품어서일까.</s>
+        </p>
+    </text>
+</SJML>

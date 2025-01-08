@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302253</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>M에게</title>
+            <author id="P02253" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="사랑">
+        <p>손을 맞잡을 적, 당신과 심장의 고동 소리가 겹칠때마다 나는 비로소 내가 살아있음을 증명하곤 하였다</p>
+        <p>그러니 부디 어디서 누구의 사랑을 받더라도, 내가 한 철 사랑했던 당신의 두근거림을 잃지 않았으면 한다</p>
+        <p>별처럼 기약 없이 멀어져가는 당신에게 지금은 작별을 고하나</p>
+        <p>분명 우리는 이대로 끝날 인연이 아님을 나는 알고 있다</p>
+        <p>시간이 얼마나 더 오래 걸리더라도 다시 만나게 될 당신이니,</p>
+        <p>그 때는 당신이 내게 먼저 인사해 주겠다고</p>
+        <p>약속해주었으면 한다</p>
+    </text>
+</SJML>

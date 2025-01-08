@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미용실</title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_미용실">
+        <p>학교 끝나고 머리가 길어서 자르러 미용실에 갔다. 머리를 자르기 시작했다.</p>
+        <p>너무 짧지 않게 다듬어 달라고 말씀드렸다. 자르고 나니 어색했다. 조금 마음에 안. 들었다. 머리가 빨리 길었으면 좋겠다.</p>
+    </text>
+</SJML>

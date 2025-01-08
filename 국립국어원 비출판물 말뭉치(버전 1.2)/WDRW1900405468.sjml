@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900405468</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>타인과 나</title>
+            <author id="P05468" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김수완</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_타인">
+        <p>
+            <s>남에게 눈치를 많이 주는 사람은</s>
+            <s>눈치를 많이 보게 되고</s>
+        </p>
+        <p>
+            <s>남을 깎아내리는 사람은</s>
+            <s>자신을 곧 잘 깎아내리는 사람이다.</s>
+        </p>
+        <p>
+            <s>남을 별것도 아닌 일로 몰아붙이는 사람은</s>
+            <s>자신을 너덜너덜하게 몰아붙여 지쳐있다.</s>
+        </p>
+        <p>
+            <s>남을 사랑하지 못하는 사람은</s>
+            <s>결국 나를 사랑하지 못한다.</s>
+        </p>
+        <p>
+            <s>모두가 타인과 본인에게 야박하게 군다.</s>
+            <s>그것이 제 살을 곪게 한다는걸 알면서도</s>
+        </p>
+    </text>
+</SJML>

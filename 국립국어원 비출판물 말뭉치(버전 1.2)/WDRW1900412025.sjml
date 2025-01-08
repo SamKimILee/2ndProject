@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412025</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>생일파티</title>
+            <author id="P12025" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200111" subclass="null_생일파티">
+        <p>오늘 회의실에서 &name1&이 생일파티를했다. &name1&이,&name2&이,&name3&,&name4&이,&name5&이,&name6&,&name7&이.&name8&이,&name9&,&name9&동생,&name10&,&name10&언니가왔다. 회의실에서 케이크도먹고 놀이터에서모래로 음식 만들기도했다. 그리고 &name1&이엄마가 숨은그림찾기도주셨다 그래서 &name4&이랑숨은그림찾기를했다. 올해는 생일파티를 꼭하고싶다</p>
+    </text>
+</SJML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611864</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도서관</title>
+            <author id="P11864" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정민기</author>
+        </sourceInfo>
+    </header>
+    <text date="20190511" subclass="null_도서관">
+        <p>안락도서관에 갔다.</p>
+        <p>도서관에서 나는 정말</p>
+        <p>기뻤다.  맨날 추천도서</p>
+        <p>를 봤는데, 오늘은 내</p>
+        <p>마음대로 골랐다. 나는</p>
+        <p>우리집 위에는 킹콩</p>
+        <p>이 산다 가 가장 재미</p>
+        <p>있었다. 그런데 옛날</p>
+        <p>집에서는 내가 킹콩이</p>
+        <p>었던 것 같다. 내가 맨</p>
+        <p>날 시끄럽게 해서 인</p>
+        <p>터폰이 자주 왔기 때</p>
+        <p>문이다.</p>
+    </text>
+</SJML>

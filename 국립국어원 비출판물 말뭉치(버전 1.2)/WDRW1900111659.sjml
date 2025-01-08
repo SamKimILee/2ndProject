@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111659</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>멸치 손질하기</title>
+            <author id="P11659" age="13" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">송윤성</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_멸치 손질">
+        <p>멸치 손질하기</p>
+        <p>현제시각 오후 10:30분</p>
+        <p>나는 멸치를 손질했다. 여기서 말하는 손질이란 멸치의 내장을 분리하는 것을 말하는데...</p>
+        <p>이작업은 손목 나갈 각오를 하고 시작해야한다. 물론 이일을 하게 된 이유가 없을수 없다. 내일 친척들과 만나서 국수를 만들어 먹기로 했는데, 국수국물을 만들때 멸치육수를 사용하실거라 했다. 그런데, 멸치의 내장을 제거하지 않은체로 육수를내면 육수에서 쓴 맛이 난다고 한다. 그래서이일을 하는 건데 방법은 간단하다.</p>
+        <p>먼저, 멸치의 대가리를 돌려서 따준다. 그다음, 몸통을 잡고 몸을 반으로 가른다.그다음 내장을 제거한다. 이런 식으로하는건데... 하다보면 손목이 매우 아프다.</p>
+        <p>그래서, 자신의 손 목을 걸고 해야한다. 설명하면 쉬워 보이지만 상상을 초월한다.</p>
+    </text>
+</SJML>

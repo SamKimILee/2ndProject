@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212471</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아빠 보고싶었어요</title>
+            <author id="P12471" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김경환</author>
+        </sourceInfo>
+    </header>
+    <text date="20191230" subclass="아버지">
+        <p>나는 오늘 아빠가 출장을갔다가 돌아왔다.</p>
+        <p>아빠가돌아와서기분이좋았다. 왜냐하면아빠가보고싶었는데돌아와서기분이 좋았다. 그리고아빠랑맛있는과일도 먹었다.정말 맛있었다.</p>
+    </text>
+</SJML>

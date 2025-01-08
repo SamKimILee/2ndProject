@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312374</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이상한 날</title>
+            <author id="P12374" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김성연</author>
+        </sourceInfo>
+    </header>
+    <text date="20191029" subclass="null_이상한 날">
+        <p>오늘은이상하다 분명 내가 3반 &name1&한태 &name2& 쫐아 다니지마라고했는데</p>
+        <p>계속&name1&가 말을 안 들어준다</p>
+        <p>이상하다? 오늘 내가 3반내가 아는 친구한테 &name1&한테하지말라고 전해주 라고했는데? 하이튼나는일단&name1&한테 말하러 가야겠다.&name1& 너!</p>
+        <p>그나저나&name2&힘들겠다</p>
+        <p>헙! 망했다. 시간이지났어! !</p>
+        <p>다음에써야겠어 탁! !</p>
+    </text>
+</SJML>

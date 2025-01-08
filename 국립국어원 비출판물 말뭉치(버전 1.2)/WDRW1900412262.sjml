@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412262</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>삼양목장</title>
+            <author id="P12262" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">홍승범</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_삼양목장">
+        <p>강원도 평창으로 여행을 왔다. 대관령 삼양목장을 갔다. 차를 타고 꼭대기까지 가보니 눈이 아주 많이 쌓여 있었다. 눈사람도 만들고, 눈싸움도 하고 썰매도 신나게 탔다. 양에게 먹이도 주었다. 엄마양은 이불처럼 푹신하고 아기양은 귀여웠다. 목장에서 신나게 놀고, 호텔집으로 갔다. 저녁에 아빠와 목욕탕에 가서 물놀이를 했다. 물이 따뜻해서 좋았다. 깨끗하게 씻고 맛있는 저녁도 먹었다. 신나고 재미있었다.</p>
+    </text>
+</SJML>

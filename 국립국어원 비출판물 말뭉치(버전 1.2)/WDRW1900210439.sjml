@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210439</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친 할아버지의 집</title>
+            <author id="P10439" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정채훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20191221" subclass="null_친 할아버지의 집">
+        <p>&lt;친 할아버지의 집&gt; 오늘은 친할아버지집에 갔다. 친할아버지 사는대는 인천 이다. 그래서 차를 나고 한시간 가야 한다.</p>
+        <p>그리고 거기서 아빠가 과자랑, 킨더조이를사주셨다.</p>
+        <p>그리고 동생이랑 풍선을 가지고 놀았다. 그리고 심심할때 아빠가 핸드폰을 보여주셨다. 그리고 친할아버지집에서 한밤을잤다. 이제곧 방학이여서 친할아버지집에서 5섯밤 자고 싶다. 참잼있는 하루였다.</p>
+    </text>
+</SJML>

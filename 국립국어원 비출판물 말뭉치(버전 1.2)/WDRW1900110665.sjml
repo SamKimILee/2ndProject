@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110665</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>200228 일기</title>
+            <author id="P10665" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김시진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_오늘">
+        <p>&name1&이가 어제 피자를 먹고 싶다고 해서 &name1&이네 집에 &name2&이랑 피자를 먹으러 갔다 티키타카를 하다보니까 3시간이 훌쩍 지나서 &name1&이네 엄마가 우리를 보냈다 그렇지만 나는 &name2&이랑 더 놀고 싶었기 때문에 &name2&이네 집에 공부를 한다는 핑계로 &name2&이네 집에 갔다 아직도 &name2&이네 집에 있다 &name2&이네 방에는 제노가 가득가득해서 참 행복하다 뮤즈 시그 특전을 훔치고 싶다 너무 귀엽다 사실 제노를 좋아한 지 일주일도 안됐는데 이렇게 진심이 되어버릴 줄은 몰랐던 것이다 내 배경화면도 브루니에서 제노로 바꿨다 덕분에 &name2&이랑 커플 배경화면이 되어버렸다 방금 우리 수학 선생님이 누구신 지를 들었는데 작년 수학 선생님이었던 &name3& 선생님이라는 것이다 지금 너무 기쁘다 나 정말 &name3&쌤한테 진심인데 이렇게 또 2학년을 맡아주시고 지금 너무너무 뛸 듯이 기쁘다 학교 가자마자 선생님한테 뽀뽀까지는 못하고 사랑한다고 해야겠다 오늘의 일기 끝</p>
+    </text>
+</SJML>

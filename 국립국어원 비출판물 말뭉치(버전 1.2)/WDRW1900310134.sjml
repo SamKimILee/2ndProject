@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310134</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿈</title>
+            <author id="P10134" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최이재</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_정약용, 정조">
+        <p>
+            <s>꿈</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>더 더욱</s>
+            <s>편리하게</s>
+        </p>
+        <p>
+            <s>더 더욱</s>
+            <s>실용성있게</s>
+        </p>
+        <p>
+            <s>정약용과 정조의</s>
+            <s>꿈은</s>
+        </p>
+        <p>
+            <s>계속 계속</s>
+            <s>커져서</s>
+        </p>
+        <p>
+            <s>더 큰</s>
+            <s>꿈을</s>
+            <s>이룹니다.</s>
+        </p>
+    </text>
+</SJML>

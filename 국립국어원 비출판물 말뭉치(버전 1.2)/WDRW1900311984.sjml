@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311984</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마</title>
+            <author id="P11984" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양태은</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마">
+        <p>엄마</p>
+        <p>아침에 엄마가 없어서 속상했다.</p>
+        <p>엄마는 정읍에 가있었다. 어제 증조할머니께서 돌아가셨다.나도 속상했다.</p>
+    </text>
+</SJML>

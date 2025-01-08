@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303983</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오래된 사진</title>
+            <author id="P03983" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김신재</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="옛날">
+        <p>
+            <s>집 구석 먼지쌓인 앨범 속</s>
+            <s>때 묻은 부모님의 결혼사진</s>
+            <s>지금은 없는 할아버지의 모습</s>
+            <s>기억도 못하는 나의 어릴적</s>
+        </p>
+        <p>
+            <s>지금도 그때의 마음일까</s>
+            <s>지금도 그때를 기억할까</s>
+            <s>지금도 그때의 모습일까</s>
+        </p>
+        <p>
+            <s>점차 새것같은 사진들</s>
+            <s>끔찍했던 나의 졸업사진</s>
+            <s>부모님과 함께한 가족여행</s>
+            <s>언제나 사랑했던 모두의 추억들</s>
+        </p>
+        <p>
+            <s>지금도 언제나 사랑했지</s>
+            <s>지금도 언제나 기억했지</s>
+            <s>지금도 언제나 멋지시네</s>
+        </p>
+        <p>
+            <s>빛바랜 사진들</s>
+            <s>빛나는 마음들</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301967</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>옛 친구들에게</title>
+            <author id="P01967" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">이수민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>나의 옛 친구들아, 여전히 잘 지내고 있는지 궁금해. 카톡하면서 지내고 있긴해도 언제 다시 만날지 모르니까 그립니다. 과거는 과거로 추억은 추억대로 남는 것인데 어째서 나는 여전히 앞을 보지 못하고 있는 걸까? 과연 이게 나의 길이 맞는지 의문점을 품고 살아가고 있어. 너네들도 미래에 관해 여러가지 생각할 것이 많겠지? 나는 늘 너희들을 응원하고 있어. 그럼 이만 이 정도 말하고 다음에 만나서 그동안 있었던 일을 들려주길 바랄게. 대학생이 될 때 그때 한번 만나서 이야기 하자!! 마지막까지 힘내자!!</p>
+    </text>
+</SJML>

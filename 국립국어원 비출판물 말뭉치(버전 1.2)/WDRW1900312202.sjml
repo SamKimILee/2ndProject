@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312202</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울 방학식</title>
+            <author id="P12202" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191227" subclass="null_겨울방학">
+        <p>날씨:해가쨍쨍하면서도추운날씨</p>
+        <p>제목:겨울 방학식 2019.12월27일(금)</p>
+        <p>겨울 방학식이 되었다. 곧있으면 2학년에 올라간다.하지만 1학년도 좀 남았긴 했다.</p>
+        <p>선생님이 4교시 밥을 먹고나서 급식을 나누어 주던 할머니들께 인사하라고 하셨다.</p>
+        <p>우린 밥을 다 먹고 급식 할머니께 감사의 마음을 담아 인사했다. "우리 1학년 한해동안급식을 날라주셔서 감사합니다." 라고말이다. 2학년에는 급식을 자기혼자 받아야되서 2월달에는 우리가 직접해보는 것을 연습하는 것이다. 겨울 방학이어서 좋지만 곧 선생님 친구들과 헤어지려니 아쉽다.</p>
+    </text>
+</SJML>

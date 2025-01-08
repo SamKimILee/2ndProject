@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512029</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나무를 보다가</title>
+            <author id="P12029" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이진욱</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="환경">
+        <p>
+            <s>나무를 보다가</s>
+        </p>
+        <p>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>열매가</s>
+        </p>
+        <p>
+            <s>흔들흔들 흔들리다</s>
+            <s>뚝 떨어져</s>
+            <s>데굴 데굴</s>
+        </p>
+        <p>
+            <s>동굴 안으로 들어가</s>
+            <s>동굴 어딘가에 박혔네</s>
+            <s>으슬으슬 두근두근</s>
+        </p>
+        <p>
+            <s>떨 다</s>
+            <s>열 매를 찾았네</s>
+        </p>
+        <p>
+            <s>신이 나서</s>
+            <s>폴짝폴짝뛰다</s>
+            <s>친구도 허겁지겁 달려왔네</s>
+        </p>
+    </text>
+</SJML>

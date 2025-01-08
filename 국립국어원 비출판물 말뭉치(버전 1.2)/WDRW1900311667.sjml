@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311667</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가행복할 때</title>
+            <author id="P11667" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180509" subclass="null_행복">
+        <p>1. 친구랑 놀때행복하다.왜냐하면 친구랑 밖에서뛰어놀고, 게임을하고,이야기를할수있으니까.</p>
+        <p>2. 방학때행복하다.왜냐하면친구랑놀수있으니까,여행을갈수있으니까,집에서쉴수있으니까,가족이랑놀러갈수있으니까.</p>
+        <p>3. 가족이랑있을때행복하다왜냐하면 이야기를나눌수있으니까, 놀 수있으니까,같이그림을그릴수있으니까, 같이책을읽을수있으니까</p>
+    </text>
+</SJML>

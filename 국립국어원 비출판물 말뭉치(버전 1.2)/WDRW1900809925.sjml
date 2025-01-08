@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900809925</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시</title>
+            <author id="P09925" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">곽재준</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시">
+        <p>
+            <s>내 마음에 처음</s>
+            <s>와 닿았던 순간</s>
+            <s>내 인생을 바꿨네</s>
+        </p>
+        <p>
+            <s>처음에는 차갑던</s>
+            <s>'시'가 한순간에</s>
+            <s>내 마음 녹여주네</s>
+        </p>
+        <p>
+            <s>너라는 '시'가</s>
+            <s>다른 사람 마음도</s>
+            <s>''사르륵'' 녹여주네</s>
+        </p>
+        <p>
+            <s>네가 없어지면</s>
+            <s>나의 마음에</s>
+            <s>칼을 찌르네</s>
+        </p>
+        <p>
+            <s>내 인생에 '시'는</s>
+            <s>희망을 가져다주는</s>
+            <s>인생역전 메시지</s>
+        </p>
+    </text>
+</SJML>

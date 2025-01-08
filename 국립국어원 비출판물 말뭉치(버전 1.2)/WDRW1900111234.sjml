@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111234</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>윤회</title>
+            <author id="P11234" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">박은빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_윤회">
+        <p>
+            <s>이슬비 내리는 하늘</s>
+            <s>오늘은 어디로 갈까, 헤매는 새들을</s>
+            <s>아무것도 남지 않은 액자</s>
+            <s>잃었으니 이제 잊기로 해요, 말뿐인 사랑을</s>
+            <s>기억하기 쉬운 사랑을 이름을</s>
+            <s>전부 잊고 다시 시작하는 거예요</s>
+            <s>다시 시작하는 계절로, 그때의 마음으로</s>
+            <s>나는 다시 한번 당신의 곁으로 가요</s>
+            <s>엷은 구름에 다시 한번 못 본 척하는 달을 지나쳐</s>
+            <s>꽃이 말라비틀어져도 신경 쓰지 않는 해를 지나쳐</s>
+            <s>목숨뿐인 거죠, 우리들</s>
+            <s>다시 만난다면 그날의 위로로 사랑으로 애증으로</s>
+            <s>잃었으니 이제 잊어버렸죠, 당신의 말을</s>
+        </p>
+    </text>
+</SJML>

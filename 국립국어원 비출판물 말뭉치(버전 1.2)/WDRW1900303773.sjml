@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303773</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>공부해야하는날</title>
+            <author id="P03773" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="현실">
+        <p>이불 잘못 널었다가 날아가서 진짜 편의점까지 3초만에 뛰어갔다. 어이없고 웃긴 하루. 2층 구석탱이에 처박혀있었다. 거기 내 이불 말고 다른 이불도 하나 떨어져있었음ㅋ 그 사람도 이불 잃어버림ㅋㅋㅋ진짜 나 노본새다 미친</p>
+    </text>
+</SJML>

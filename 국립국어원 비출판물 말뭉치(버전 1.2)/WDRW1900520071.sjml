@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>야구장</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190623" subclass="null_야구장">
+        <p>2019 6/23 날씨: 맑음</p>
+        <p>야구장</p>
+        <p>오늘은 야구장 가는 날이다.</p>
+        <p>빨리 빨리 준비를 했다.</p>
+        <p>야구장에 도착해 친구들 도 만났다. 친구와나는 기아 팬이다. 친구와 응원 을 해서 7/0으로 기아가 이겼다. 정말 좋았다.</p>
+    </text>
+</SJML>

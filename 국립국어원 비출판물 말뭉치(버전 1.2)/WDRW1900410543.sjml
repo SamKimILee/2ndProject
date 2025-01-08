@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410543</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>김치찌개</title>
+            <author id="P10543" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임혜윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200113" subclass="null_김치찌개">
+        <p>모녀식당에 가서 김치찌게를 먹었다.</p>
+        <p>너무 맛있어서 3공기나 먹었다. 먹고 배가터지는줄 몰라다. 그래서 오후 훌련을 하다가 너무열심히해서 배가곱팠다.</p>
+        <p>왜배는 먹어도먹어도 곱울까? 내배속에 거지가 들었나보다.</p>
+    </text>
+</SJML>

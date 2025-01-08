@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212080</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하루일과</title>
+            <author id="P12080" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190630" subclass="null_오늘">
+        <p>오늘은 즐거웠다. 왜냐하면 도서관에갔다.거기에서엉덩이탐정을 조금읽었기때문이다그리고놀이터에서그네도타도말도타고 운동기구도탔다.</p>
+        <p>그런데&name1&가혼자뛰다가넘어졌다 깜짝놀랐다.</p>
+        <p>그래도많이.안다쳐서괜찮았다.그리고아버지와</p>
+        <p>함께아이스크림을먹었다.</p>
+    </text>
+</SJML>

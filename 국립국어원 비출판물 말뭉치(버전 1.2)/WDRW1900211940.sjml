@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211940</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리들의 보물 수리산</title>
+            <author id="P11940" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최연우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_수리산">
+        <p>우리들의 보물 수리산!</p>
+        <p>우리반은 10월21일에 수리산으로 자연 관찰을 떠났다. 처음으로 관 찰 한것 울타리를 위해 심은 식물의 열매인 부엉이를 관찰했다. 이름의 유래는 열매가 부엉이의 모습과 비슷해서 부엉이 이다. 그다음은 도꼬마리도 보았다. 열매에 갈고리 모양이 있어서 신기했다. 또 소나무와 잣나무 모습이 비슷해서 구별하기 어려웠지만 선생님께서 잎을보고 구별하는 방법을 알려주셨다. 다음에는 또다른 식물을 관찰하고 싶다.</p>
+    </text>
+</SJML>

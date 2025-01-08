@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305962</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>불행</title>
+            <author id="P05962" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">권세진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_고통">
+        <p>
+            <s>내 모든 것이 죽은거 같다</s>
+            <s>살아있어도 살아있는게 아니듯</s>
+            <s>내가 과연 살아있는걸까</s>
+        </p>
+        <p>
+            <s>고통에 무게가 있을까</s>
+            <s>고통에 익숙해 불행에 익숙해</s>
+        </p>
+        <p>
+            <s>내 모든 운명은 불행을 다해왔고</s>
+            <s>앞으로도 고통스러워 지겠지</s>
+        </p>
+    </text>
+</SJML>

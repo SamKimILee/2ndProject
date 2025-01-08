@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설렘</title>
+            <author id="P00079" age="37" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사람">
+        <p>오늘 마음의 기록. 여전히 그가 좋다. 그냥 존재로 감사하고 좋은 사람이다, 나에겐. 사랑스러운 사람이고 존경하는 사람이다. 어떠한 상상도 필요하지 않다는 걸 느끼게 된다. 그냥 그 자체로 충분히 빛나고 좋은 사람. 그거면 됐다.</p>
+    </text>
+</SJML>

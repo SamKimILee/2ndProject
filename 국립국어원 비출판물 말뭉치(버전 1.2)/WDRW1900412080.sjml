@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412080</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&에게</title>
+            <author id="P12080" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_친구">
+        <p>&name1&에게</p>
+        <p>&name1&야 나 &name2&야 1학년때 너가 처음 왔잖아그런대 니가 중간에와서 많이 너랑지네지 못했지만 2학년에 또 같은 반이됬네 앞으로도 친하게 지네자 그럼 안녕 ♡</p>
+        <p>-&name2&가 -</p>
+    </text>
+</SJML>

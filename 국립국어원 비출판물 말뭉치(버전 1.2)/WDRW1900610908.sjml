@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610908</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>벌레가 싫어</title>
+            <author id="P10908" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김시호</author>
+        </sourceInfo>
+    </header>
+    <text date="20180606" subclass="null_벌레">
+        <p>제목: 벌레가 싫어</p>
+        <p>난 오늘 벌레장에 벌레들이 와구와구 붙어있지만 살아있어서 안심이 되진 않았다. 그래서 밖에나가지 않고 모기 스프레이를 마구마구 뿌려댔다. 그리고 10분뒤에야 벌레들은 어디로 사라졌는지 모르겠지만 다른곳으로 갔다. 그래서 문을 열고 빨리 뛰쳐 나갔다 다시는 그 모기와 벌레들을 보고싶지 않다</p>
+    </text>
+</SJML>

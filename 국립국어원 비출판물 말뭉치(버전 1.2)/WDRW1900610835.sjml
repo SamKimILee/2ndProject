@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610835</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나19</title>
+            <author id="P10835" age="66" occupation="전업주부" sex="F" submission="온라인" handwriting="No">임귀숙</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나19">
+        <p>
+            <s>나쁜넘이다</s>
+            <s>너는</s>
+            <s>멀리 가 버려라 제발</s>
+            <s>친하고  싶지 않다</s>
+            <s>만나고 싶지도  않다</s>
+            <s>우리의  삶을  우울하게 만들지 말라</s>
+        </p>
+        <p>
+            <s>떠나라</s>
+            <s>사라져라</s>
+        </p>
+        <p>
+            <s>세상이  아름답게  돌아갈 수 있게</s>
+            <s>도와줘</s>
+            <s>멀리 멀리  사라져라</s>
+            <s>사라져라</s>
+        </p>
+    </text>
+</SJML>

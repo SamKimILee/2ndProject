@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300736</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>산수유에게</title>
+            <author id="P00736" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김예지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_산수유">
+        <p>
+            <s>구불구불 청록색 길을 지나</s>
+            <s>현관에서 실내화를 꺼내고</s>
+            <s>왁자지껄 복도를 밟다가</s>
+            <s>밤톨 색 교실 문을 열었다</s>
+        </p>
+        <p>
+            <s>등에 업혀있던 가방을 내려놓고</s>
+            <s>창가에 앉은 아이에게 인사를 건네고</s>
+            <s>햇살마냥 환히 피어있는 너를 향해</s>
+            <s>오늘도 손을 흔든다</s>
+        </p>
+        <p>
+            <s>처음 만났던 3월의 봄</s>
+            <s>무르익어갔던 7월의 여름</s>
+            <s>붉게 물들었던 10월의 가을</s>
+            <s>눈이 내려앉아 사랑옵던 12월의 겨울</s>
+        </p>
+        <p>
+            <s>긴긴 방학을 끝내고</s>
+            <s>다시 교문으로 들어서던 순간</s>
+            <s>그루터기만 덩그러니</s>
+            <s>너는 어디 갔을까</s>
+        </p>
+        <p>
+            <s>손가락을 뻗어 마지막 남은 너를 더듬어 본다</s>
+            <s>이내 곧 유몌를 거두고 네게 인사를 보낸다</s>
+        </p>
+        <p>
+            <s>안녕, 오랜만이야</s>
+        </p>
+    </text>
+</SJML>

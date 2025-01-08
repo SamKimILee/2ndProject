@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812739</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>페어리스타를 키우다.</title>
+            <author id="P12739" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_페어리스타">
+        <p>내가 라벤더가 키우고 싶었는데 꽃집에 라벤더가 없었다. 대신 선인장을 키우려고 했는데 예쁜게 없었는데 예쁜 식물을 찾았다.</p>
+        <p>이름이 페어리스타였다. 그 식물은 하얀색과 분홍색이 있었다. 분홍색 하나 하얀색 하나를 샀다. 나도 드디어 뭔가를 키울수 있게 돼서 너무너무 좋았다.</p>
+    </text>
+</SJML>

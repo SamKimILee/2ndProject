@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900505451</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈</title>
+            <author id="P05451" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="눈">
+        <p>눈 내리는 날이면 전에 읽은 소설이 생각난다.</p>
+        <p>핵이 터져 모든 문명이 날아간 뒤의 이야기를 그린 소설이었다.</p>
+        <p>눈처럼 흩날리던 건 핵 먼지. 닿는 순간 죽을지 모르는 핵 먼지.</p>
+        <p>물론 내가 보는 눈은 만지면 차갑기만 한 지구온난화 눈이지만.</p>
+    </text>
+</SJML>

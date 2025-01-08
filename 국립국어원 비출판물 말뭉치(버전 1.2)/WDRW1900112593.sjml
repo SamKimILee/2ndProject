@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112593</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>농구의 대한것</title>
+            <author id="P12593" age="14" occupation="중학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="운동">
+        <p>
+            <s>농구 참 많이도 들어본 이름이다</s>
+            <s>농구 참 많이도 해본 스포츠이다</s>
+            <s>골대에 공이 들어갈때 참 기분 좋은 운동이다</s>
+            <s>축구보다 야구보다 더 좋은 운동이다</s>
+            <s>열심히 드리블치면서 슛을 넣으면</s>
+            <s>그것만큼 행복할때가 또 따로없다</s>
+            <s>나는 농구공처럼 정해진 골대에만 들어가는것이 아닌</s>
+            <s>공을던지는 손처럼 원하는 방향으로 가고싶다</s>
+        </p>
+    </text>
+</SJML>

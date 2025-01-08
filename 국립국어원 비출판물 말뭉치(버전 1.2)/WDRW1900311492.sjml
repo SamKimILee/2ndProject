@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311492</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>누나와의 전쟁</title>
+            <author id="P11492" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">황현우</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="마음">
+        <p>누나와의 전쟁</p>
+        <p>쓴사람: &name1&</p>
+        <p>나는 요즘에 누나와 아주 많이 싸운다. 어제는 누나와 너무 많이 싸워서 엄마가 저녁밥도 먹지 말라고 했다.</p>
+        <p>그런데 나는 생각해보면 누나와 나와 싸우면 두명다 좋은점이 없는 것 같다.</p>
+        <p>이렇게 서로의 뜻이 잘 통하지 않아 생기는 문제는 더이상 생기지 않도록 노력해야 겠다고 나는 이글을 쓰며 느끼는 것 같다.</p>
+        <p>어제는 내가 생각해도 너무 티격태격 싸운것 같다.</p>
+        <p>이제 진짜 더 이상은 누나와 싸우지 않고 친하게 지내야 겠다.</p>
+        <p>"누나, 어제는 미안하고, 우리 앞으로 싸우지 말자."</p>
+    </text>
+</SJML>

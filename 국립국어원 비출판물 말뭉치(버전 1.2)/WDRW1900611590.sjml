@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611590</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>지하방 그 아저씨</title>
+            <author id="P11590" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정현수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_지하방 그 아저씨">
+        <p>&lt;지하방 그아저씨&gt;</p>
+        <p>나는조금의편견이존재하는 책을 읽었는데 나도 예전에한번그런적이있 어 반성했다. 그리고 난 이책을 읽고 더욱 그러면 안됀따고 생각했다 나는 이제 그런 사람들을 도아줘야겠다다고 다짐했다. 나는 어른이돼어 돈을 벌어그런돈없는 사람한데기부하고싶다.</p>
+    </text>
+</SJML>

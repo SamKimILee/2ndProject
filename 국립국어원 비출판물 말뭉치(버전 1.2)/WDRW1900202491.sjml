@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202491</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기 02</title>
+            <author id="P02491" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">정나영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_어떤 사람">
+        <p>나는 어떤 사람이 되고 싶은가.</p>
+        <p>나는 농부가 되고 싶었고, 화가가 되고 싶었고, 나는 작가가 되고 싶었고, 나는 유치원 선생님이 되고 싶었고, 나는 작곡가가 되고 싶었다.</p>
+        <p>아직까지도 나는 농부가 되고 싶고, 작가가 되고 싶고, 유치원 선생님이 되고싶고, 작곡가가 되고 싶다.</p>
+        <p>그치만 학교에선 한가지만 적어라고 하는걸!</p>
+        <p>언젠가는 유치원선생님을 하면서 작곡을 해서 아이들에게 노래를 들려주고, 유치원이 끝나면 농사를 지으면서 농사를 지은 얘기를 글로 적으면 안 되나 하고 생각을 했다.</p>
+        <p>음, 몸이 열 개라도 모자랄 것 같다. 이래서 하나만 적으라고 하는거구나.</p>
+        <p>선생님과 학교는 날 생각해서 하나만 적으라고 한 거였다.</p>
+        <p>선생님 최고최고. 감사했습니다.</p>
+    </text>
+</SJML>

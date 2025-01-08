@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112014</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나</title>
+            <author id="P12014" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이설</author>
+        </sourceInfo>
+    </header>
+    <text date="20170310" subclass="null_나">
+        <p>
+            <s>나</s>
+            <s>작은눈에 오똑한코.</s>
+            <s>나는 누구게?</s>
+        </p>
+        <p>
+            <s>작은 입술에 단발머리.</s>
+            <s>나는 누구게?</s>
+        </p>
+        <p>
+            <s>길 쭉길쭉한 키에 통통한 몸매.</s>
+            <s>나는 누구게?</s>
+        </p>
+        <p>
+            <s>나야나!</s>
+            <s>바로 나!</s>
+        </p>
+    </text>
+</SJML>

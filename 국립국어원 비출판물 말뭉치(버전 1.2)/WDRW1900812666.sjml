@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900812666</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>15일간의 여행(한국 가는 날)</title>
+            <author id="P12666" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정예슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_한국으로">
+        <p>오늘은 한국으로 돌아가는 날이다. 보름이나 아빠를 못봤더니 갑자기 많이 보고싶어졌다. 아빠와 같이 왔었으면 더 좋았을것 같다. 내가 보고 느낀 것 들을 아빠에게 이야기 해드려야 겠다고 생각했다. 아빠 조금만 기다려요. 우리가 가요.</p>
+    </text>
+</SJML>

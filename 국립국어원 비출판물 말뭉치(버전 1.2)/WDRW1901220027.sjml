@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901220027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나에게 ㅇ이 되는 행동</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190329" subclass="null_행동">
+        <p>3월 29일   날씨:목욕탕 에 온 것 처럼 따뜻한날</p>
+        <p>주제글: 나에게 0이 되는 행동</p>
+        <p>1 수업 시간에 떠들기</p>
+        <p>2 선생님 말씀 할 때 끼어들기</p>
+        <p>3 수업 시간에 집중 하지 않기</p>
+        <p>4 글씨 예쁘게 쓰지않기</p>
+        <p>5 급식 시간에 조용히 밥않 먹기</p>
+        <p>6 쉬는 시간에 떠들기</p>
+        <p>7도서실에서 시끄럽게하기</p>
+    </text>
+</SJML>

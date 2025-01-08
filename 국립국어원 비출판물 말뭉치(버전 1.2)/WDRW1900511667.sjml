@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511667</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>찰리에게('찰리와 초콜릿 공장'을 읽고)</title>
+            <author id="P11667" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_찰리와 초콜릿 공장">
+        <p>찰리야 안녕 난 &name1&이야 넌왜 황금티켓을원했니? 다른친구들이 없어졌을때 어땠어? 넌 어느나라에살았니? 윙카아저씨는어땠어? 아저씨는 너랑 잘 맞았니?그마술 앨리베이터는 어땠어? 보는건재미있었니?초콜릿은먹어봤니?맛있었어? 나도가보고싶어.어느나라인지 알면 난 꼭 놀러갈거야</p>
+    </text>
+</SJML>

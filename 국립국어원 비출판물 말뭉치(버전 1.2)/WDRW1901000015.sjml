@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901000015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고양이</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191004" subclass="null_고양이">
+        <p>고양이가 꾀를내어서 셋째아들이 고양이떼문에 부자가돼었는데 그렇게 해준 고양이가 자랑스럽다.</p>
+    </text>
+</SJML>

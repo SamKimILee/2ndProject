@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412509</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자전거타기</title>
+            <author id="P12509" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190815" subclass="null_자전거">
+        <p>할머니가 큰 자전거뒤에 태워주셨다. 처음엔 무서웠는데 타고보니 재미있었다. 나도 엄마가 사준 두발자전거를 잘 탈 수 있다.</p>
+        <p>뉴욕에 갔을때 공원에서 엄마랑 아빠랑 나랑 두발자전거를 빌려서 타고 다녔다. 자전거 배우기 참 잘했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311586</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 영혼을 바꿀 수 있다면 누구와 바꿀 것인가</title>
+            <author id="P11586" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">한우준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190418" subclass="만약">
+        <p>2019년 4월 18일 목요일</p>
+        <p>날씨 조금더워서 밖에서 놀지못함</p>
+        <p>&lt;72. 내가 영혼을 바꿀수 있다면 누구와 바꿀 것인가 &gt;</p>
+        <p>&name1&이와 바꿀 것이다.</p>
+        <p>&name1&이는 키가 커서 높이 있는 물건도 뺄수있을 것이다.</p>
+        <p>그리고 누나도 있어서 좋을 것이다. 그리고 나도 농구를 잘하면좋겠다.</p>
+        <p>그리고 할리갈리를 잘하니 좋을 것이다.</p>
+    </text>
+</SJML>

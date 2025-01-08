@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901620026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>추운날</title>
+            <author id="P20026" age="6" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20191231" subclass="null_눈">
+        <p>2019년 12월 31일 토요일</p>
+        <p>날씨:추운날</p>
+        <p>오늘 눈이 왔다.나는눈이 온걸 몰랏다.근데오빠가 엄마 한테 눈이 온다고 말해서 눈이온걸 알았다.</p>
+    </text>
+</SJML>

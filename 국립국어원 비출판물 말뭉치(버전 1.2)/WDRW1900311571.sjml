@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311571</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>잊지 못할 추억</title>
+            <author id="P11571" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최정서</author>
+        </sourceInfo>
+    </header>
+    <text date="20191203" subclass="눈">
+        <p>날씨:  핫팩을 만지고 싶은 날</p>
+        <p>나는 오늘 눈이 온 것을 처음 봤다. 근데 눈이 좀 엉뚱했다. 왜냐면, 신나는 겨울노래를 불러주면 눈이 많이 내렸고 공부를 열심히 하면 눈이 조금 내렸다. 눈도 나처럼 신나는걸 좋아하나보다. 나가서 &name1&랑 눈사람도 만들고, &name2&이랑 눈싸움도 했다. 잊지 못할 최고의 겨울이였다. "엉뚱한 눈!다음에도 또 내려줘!~"♥♥</p>
+    </text>
+</SJML>

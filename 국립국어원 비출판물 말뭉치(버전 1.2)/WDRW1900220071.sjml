@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>안면도 여행</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190617" subclass="null_안면도">
+        <p>2019 6 17 월</p>
+        <p>안면도 여행</p>
+        <p>오늘은 안면도 가는 날이다. 금요일 저녁에 안면도로 출발 했다. 안면도에 도착해서 일찍 자고 다음날 아침 갯벌 체험을 했다.</p>
+        <p>정말 재미 있었다.</p>
+        <p>파티도 했다.</p>
+    </text>
+</SJML>

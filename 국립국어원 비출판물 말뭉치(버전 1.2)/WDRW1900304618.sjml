@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304618</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>섬</title>
+            <author id="P04618" age="19" occupation="무직" sex="F" submission="온라인" handwriting="No">최지혜</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_외톨이">
+        <p>
+            <s>오로지</s>
+            <s>너만</s>
+            <s>기다렸어.</s>
+        </p>
+        <p>
+            <s>푸른 바다가 출렁거릴 때,</s>
+            <s>내 마음도 함께 움직였었지.</s>
+        </p>
+        <p>
+            <s>우리가 함께</s>
+            <s>모래사장을 거닐때면</s>
+            <s>넌 언제나</s>
+            <s>간지럽다고 얘기했었어.</s>
+        </p>
+        <p>
+            <s>지금은</s>
+            <s>어디에 있니?</s>
+        </p>
+        <p>
+            <s>외톨이가 되어버린 듯</s>
+            <s>너의 흔적을 찾아 보고는 해</s>
+        </p>
+        <p>
+            <s>어디에, 있는거니</s>
+        </p>
+    </text>
+</SJML>

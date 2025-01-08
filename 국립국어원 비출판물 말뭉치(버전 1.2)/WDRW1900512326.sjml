@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512326</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외로우면 살이 찐다</title>
+            <author id="P12326" age="73" occupation="무직" sex="F" submission="온라인" handwriting="No">이복희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="먹다">
+        <p>꼼짝없이 집에 혼자 있으니 세끼 다 먹고도 무언가 아쉬워 자꾸 간식을 먹는다. 소화도 안되는데...</p>
+    </text>
+</SJML>

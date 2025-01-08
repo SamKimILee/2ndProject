@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311730</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>백의 민족</title>
+            <author id="P11730" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="지금">
+        <p>
+            <s>병이 돌고 돈다.</s>
+            <s>검은 것이 나라를 감는다.</s>
+        </p>
+        <p>
+            <s>결국</s>
+            <s>우리는 걷는다.</s>
+        </p>
+        <p>
+            <s>흰 옷을 입고 먼지 가득한 거릴</s>
+            <s>걷는다.</s>
+        </p>
+        <p>
+            <s>결국</s>
+            <s>우리는 걷는다.</s>
+        </p>
+        <p>
+            <s>그 거먼 먼지들을</s>
+            <s>걷는다.</s>
+        </p>
+    </text>
+</SJML>

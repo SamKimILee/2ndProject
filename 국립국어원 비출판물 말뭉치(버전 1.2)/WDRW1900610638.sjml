@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시간</title>
+            <author id="P10638" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_시간">
+        <p>
+            <s>얼마의 시간이 지났다고 하면 좋을까</s>
+            <s>어두운 무채색의 교복을 입고 익숙한 길을 제쳤던 시간</s>
+            <s>노력의 끝은 생각보다 기쁘지 않았다고 느꼈던 시간</s>
+            <s>원하는 대학에 입학하도서도 한숨이 끊이지 않았던 시간</s>
+            <s>피할 수 없었던 예기치 못한 사정들에 허우적거리던 시간</s>
+            <s>살기 위해 악착같이 흘렸던 시간</s>
+            <s>안정된 삶이 보장되지 않았음에도 잠시 숨을 돌렸던 시간</s>
+            <s>마냥 행복하기만 했던 나날을 쉽게 소비한 시간</s>
+            <s>스며든 일상의 익숙함을 무시했던 시간</s>
+            <s>잃어버린 소중함은 그때서야 빛난다고 깨달았던 시간</s>
+        </p>
+    </text>
+</SJML>

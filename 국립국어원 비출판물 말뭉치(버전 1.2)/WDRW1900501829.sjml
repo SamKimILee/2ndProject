@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900501829</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>단소</title>
+            <author id="P01829" age="26" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">정찬우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_단소">
+        <p>
+            <s>단소로 맞은 기억이 난다</s>
+            <s>적당한 굵기의 그립감</s>
+            <s>적당한 길이의 편안함</s>
+            <s>단단하고 가벼운 대나무..</s>
+            <s>사실 이것의 정체는</s>
+            <s>'악기'가 아니라</s>
+            <s>'사랑의 매'가 아닐까..</s>
+            <s>학교서 음악 수행평가를 위해 구매한 '악기'는</s>
+            <s>집에서는 '사랑의 매'가 된다..</s>
+            <s>귀를 즐겁게 해줌과 동시에</s>
+            <s>살에 고통을 안겨주는 양날의 검..</s>
+            <s>단소..</s>
+            <s>그 특유의 공명하는 소리가 아니라</s>
+            <s>휘두를 때 나는 바람소리가 더 기억에 남는건 왜일까..?</s>
+            <s>어린시절의 나에게 물어보고싶다.</s>
+        </p>
+    </text>
+</SJML>

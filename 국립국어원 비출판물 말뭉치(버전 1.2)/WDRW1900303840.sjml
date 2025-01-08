@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303840</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마</title>
+            <author id="P03840" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">반세민</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="말">
+        <p>일단 어디부터 이야기 해야 할지 모르겠다. 학생 때는 일단 나는 우리집 자체가 너무 싫었고 제일 고통스러운 곳이었거든. 학교나 학원에선 그렇게 즐거웠는데 말이야. 확실히 기숙사에 나와서 살고 자취를 시작하고 가족이랑은 가끔 보는 지금이 제일 행복해.</p>
+    </text>
+</SJML>

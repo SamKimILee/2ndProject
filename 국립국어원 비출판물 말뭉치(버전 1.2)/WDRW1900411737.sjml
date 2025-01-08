@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411737</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>주말에 있었던 일</title>
+            <author id="P11737" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_주말">
+        <p>어재 내가 일어났는대 엄마가 창문을 열어나서 쌀쌀했어요. 그레서 다시 이불속에 들어갔어요. 다시일어나서 엄마가 화장실갔을때 작은벼란다 큰 벼란다에문을 한게만다들려고 했는대 그런대귀찬하서 안했어요.</p>
+    </text>
+</SJML>

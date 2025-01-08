@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112375</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>늦잠</title>
+            <author id="P12375" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김능환</author>
+        </sourceInfo>
+    </header>
+    <text date="20200305" subclass="null_늦잠">
+        <p>최근따라너무늦게자고늦게일어난다어떨땐 새벽1~2시 때 자고 10~11시에일 어난다이러니까 개학하고도 이럴까걱정이다이러면몸에도 안좋을껐 같기도하다 그래서 약간씩이나마 빨리 자고 빨리일어나도록 노력 해야 할 것같다.</p>
+    </text>
+</SJML>

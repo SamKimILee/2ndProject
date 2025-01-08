@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412465</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나쁜 코로나</title>
+            <author id="P12465" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나">
+        <p>제목: 나쁜 코로나</p>
+        <p>지은이: &name1&</p>
+        <p>코로나는 나쁘다. 괌도 못가게 했다.</p>
+        <p>중국때문에그렇다. 박쥐를먹어서 사람들이 코로나가 걸렸다. 박쥐를왜먹을까???그리고 코로 확진자가 7041명 이다.</p>
+        <p>괌도 못가고 이게 무슨일이야?박쥐는왜 있지? 박쥐한태는 외 코로나가있지??</p>
+        <p>? 참웃기내! 괌을 얼마나 기대했는데 짜증난다. 으이그!</p>
+        <p>내년에는 언제쯤가지? 나쁜코로나는 왜있니? 이세상이 발달해서 바이러스를 업애면 좋겠다.</p>
+    </text>
+</SJML>

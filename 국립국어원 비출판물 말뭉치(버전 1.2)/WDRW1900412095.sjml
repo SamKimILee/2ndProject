@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412095</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나만의 행성</title>
+            <author id="P12095" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강다현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나만의 행성">
+        <p>나만의 행성</p>
+        <p>우리는 때때 로 이런 꿈을 꿈다.</p>
+        <p>내가 행성을 정복하는 꿈이다.</p>
+        <p>나는 엄마의 토끼행성이 좋다.</p>
+        <p>그곳에는 무지개가 있다.</p>
+        <p>그곳에서는 무지개를 타며 신나게 온 세상을 구경한다. 비가 오면 비는 방으로 들어가서 수영을 한다. 초코렛 시소를 타고 놀기도 하고 닭을 구워먹기도 하고 소의 우유도 짜주고 우유로 레몬차도 만들고 즐거웠다. 들한테 쫓기기도 했고 샌드위치 속에서 숨어있다 사람에게 잡아먹힐 뻔도 했다. 다음에도 이런 꿈을 또 꾸고 싶다.</p>
+    </text>
+</SJML>

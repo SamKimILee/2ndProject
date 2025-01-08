@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세엄마 이야기</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191204" subclass="null_세엄마">
+        <p>나도 세엄마가 있었으면 좋겠다.하지만 않좋은점도있다. 안좋은점은 잔소리를 너무많히하는것이 않좋다.</p>
+    </text>
+</SJML>

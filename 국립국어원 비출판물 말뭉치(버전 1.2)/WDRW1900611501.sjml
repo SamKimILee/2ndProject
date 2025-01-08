@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611501</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>펭귄 슬라이드</title>
+            <author id="P11501" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김수정</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_펭귄 슬라이드">
+        <p>오늘키즈카페에 가서 &name1&이와 &name2&과 펭귄 슬라이드 놀이를 했다. 너무 재미있어서 봉봉을 계속 뛰었다. 게속뛰니 배가 고마 졌다. 음료수를 마시러 같는대 내 컵이 없었다. 그래서 한바탕 소동이 났다. 그리고 음료수를 마셨다. 펭귄 슬라이드를 또 타고 싶다</p>
+    </text>
+</SJML>

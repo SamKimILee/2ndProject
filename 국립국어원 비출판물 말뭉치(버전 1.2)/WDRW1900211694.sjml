@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211694</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아니 어째 이런일이!</title>
+            <author id="P11694" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">여서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200302" subclass="null_코로나 바이러스">
+        <p>제목:아니 어째 이런일이!</p>
+        <p>오늘 아주 충격적인 소식을 들었다.</p>
+        <p>뉴스에서 학교 개학이 2주일 연기 된 것이었다.</p>
+        <p>집에만 계속있어서 지겨워 죽겠는데 또 연장이라니!</p>
+        <p>그것도 2주일이나!</p>
+        <p>난 빨리 학교가서 새 선생님, 새 친구들을 만 나고 싶은데 말이다.</p>
+        <p>앞으로 3월23일까지 뭘 할까?</p>
+        <p>이제 너무 지루하다ㅠㅠ.</p>
+        <p>코로나바이러스는 내 행복을 다 뺏어간다.</p>
+        <p>학교,자저거타기,보고싶은사람들을 만나는것,여행, 하고 싶은게 많은데 너무 힘들다. 빨리 코로나 바이러스 백신을 만들어서 코로나 바이러스가 없어지면 좋겠다.</p>
+        <p>코로나가 없어지면 서울에 있는 사촌 형아,누나 만나러갈거고, 학교가면 친구들도 많이 사귀고, 선생님도 보고, 공부도 열심히 해야겠다.</p>
+    </text>
+</SJML>

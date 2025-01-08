@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411743</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>서울대공원</title>
+            <author id="P11743" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_서울대공원">
+        <p>수요일</p>
+        <p>오늘은 서울대공원에갔다. 동물원에 갈때리프트를 타고 가야했는데 뻥 뚤려 있어서 무서울줄 알았는데 실제로는 무섭지 않고 재미있었다. 의자를 타고 산을 올라갔는 것 같았다. 다올라갔을때 동물원에 도착했다. 동몰을 보다가 목말라서 펀이점에 갔다. 그런데라면을 끊여주는 자판기가 있었다. 새로운 거라서 한번해보았다. 오는에 호랑이도 볼수 있었다. 다시 리프트를 타고 코끼리기차를 타는 곳으로 갔다. 코끼리기차를 타고 주차장에 가서 차를 타고 집으로 왔다. 서울대공원 재미있었다.</p>
+    </text>
+</SJML>

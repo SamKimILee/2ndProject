@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901020026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우한폐렴</title>
+            <author id="P20026" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나19">
+        <p>-걸음으로 집으로 갔다.</p>
+        <p>요즘 밖에 잘 나가지 못 하였는데 오랫만에 여기저기 다녀서 잠깐 이지만 숨 통이 트이는 하루 였다.</p>
+        <p>우한폐렴이 끝났으면 좋겠다</p>
+    </text>
+</SJML>

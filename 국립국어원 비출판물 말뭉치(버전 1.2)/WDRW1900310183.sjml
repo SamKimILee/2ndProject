@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310183</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화</title>
+            <author id="P10183" age="60" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화">
+        <p>난 영화감상이 취미이다. 영화관에서도  보지만  tv에서도 일주일에 여러편 본다. 감동있게 본 영화는 여러번 보기도 한다. 심지어 고등학교때 자율학습시간에 감독교사의 눈을 피해 교실을 빠져나가 학교 근처에 있던 영화관에서 영화를 본 기억도 있다. 요 근래에 내가 감동있게 본 영화는 기생충이다. 봉준호감독의 영화를 좋아하고 거의 다 봤지만 기생충을 보고나서 제일 재밌다고 하였는데 아카데미상까지 받으니 정말 대단하다고 다시 느꼈다.</p>
+    </text>
+</SJML>

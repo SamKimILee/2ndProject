@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900207547</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독자가 계속 이어서 써야 하는 시</title>
+            <author id="P07547" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">조민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_너">
+        <p>
+            <s>독자가 계속 이어서 써야 하는 시</s>
+            <s>-류시화의 시에 이어서</s>
+        </p>
+        <p>
+            <s>네가 건네어 준</s>
+            <s>따뜻한 시가 흐르는 손과</s>
+            <s>살아있음을 좋아한다</s>
+        </p>
+        <p>
+            <s>잡은 손 사이로</s>
+            <s>내리는 조그만 비와</s>
+            <s>떨림을 좋아한다</s>
+        </p>
+        <p>
+            <s>그 손으로 쓰다듬어주는</s>
+            <s>내 볼과 내 머리카락과</s>
+        </p>
+        <p>
+            <s>그 무엇보다</s>
+            <s>그 손을 가진 너를 좋아한다.</s>
+        </p>
+    </text>
+</SJML>

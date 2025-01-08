@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212110</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도쿄디즈니랜드</title>
+            <author id="P12110" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">장지윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190423" subclass="null_도쿄디즈니랜드">
+        <p>오늘은 도쿄 디즈니랜드에서 롤러코스터를 탔다. 롤러코스터는 3가지 높이서 내려오는 롤러코스터, 청룡열차, 그리고 360도 돌으는 롤러코스터가 있었다. 1번째는 재미있었고 2번째는 안 무서웠고 3번째는 쓰릴이 넘쳤다.</p>
+    </text>
+</SJML>

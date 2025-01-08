@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112117</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바라섬의검은말</title>
+            <author id="P12117" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">변세경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바라섬의검은말">
+        <p>제목:바라섬의 검은말</p>
+        <p>내용:검은말은 함께지낼 아내가 필료했어요.그래서 점쟁이가 준 물약을 먹고 사람이 되어서 아름다운 소녀와 결혼했어요.</p>
+        <p>느낌:처음에 말은 자신의 생각만 했어요.그런 검은 말이 잘못된 생각을 한것 갔아요. 왜냐하면 자신만생각하면 다른 사람이 불편하기 때문이에요.</p>
+    </text>
+</SJML>

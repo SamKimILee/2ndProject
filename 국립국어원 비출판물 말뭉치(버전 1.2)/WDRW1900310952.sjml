@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310952</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 사람</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 이상형</title>
+            <author id="P10952" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이상형">
+        <p>내 이상형은 일단 키와 손이 크고 눈은 무쌍이며 나를 좋아해 주는 사람이다 나는 그런 사람 본 적 없는거 같다. 우리 나라에 잘생긴 사람은 너무 많은데 나와는 이어질 수 없다ㅠ 얼굴은 몰라도 마음씨는 착하고 어른들께 예의가 바르면 너므 호감이 간다. 그런 사람은 많을 테니 괜찮다.</p>
+    </text>
+</SJML>

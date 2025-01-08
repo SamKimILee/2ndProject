@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104232</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밥심</title>
+            <author id="P04232" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">신보련</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="밥">
+        <p>한국인은 밥심이다.</p>
+        <p>나는 알바할 때 사장이 악덕사장인가? 일을 할 만한 곳인가? 판단할 때의 기준을 밥으로 한다.</p>
+        <p>밥 잘 주면 그럭저럭 일 할만한 곳이다.</p>
+        <p>그런 의미에서 재작년에 일했던 돈까스집은 천국이었다.</p>
+        <p>수제돈까스집이었는데 밥으로 돈까스를 줬다.</p>
+        <p>등심까스와 안심까스중 한 개를 골라서 먹고 원한다면 우동 등의 사이드메뉴도 먹을 수 있었다.</p>
+        <p>두툼한 수제돈까스는 정말 맛있었다.</p>
+        <p>숙취에 찌들어 출근한 후 먹는 우동도 꿀맛이었다.</p>
+        <p>그에 비해 웨딩홀 알바는 밥시간도 주지 않았다.</p>
+        <p>이건 좀 아니지..</p>
+        <p>하루 일하고 그만뒀다.</p>
+        <p>전국의 사장님들이어 밥을 잘 줍시다.</p>
+    </text>
+</SJML>

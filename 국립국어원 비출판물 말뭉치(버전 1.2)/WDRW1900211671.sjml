@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211671</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줄넘기</title>
+            <author id="P11671" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_줄넘기 시험">
+        <p>제 목:줄넘기</p>
+        <p>오늘은 줄넘기 시험을 봤다. 오늘에 시험은 발 모아 뛰기 였다. 처음에는 못할까봐 걱정이 되었다. 마음도 뛰었다. 드디어 내 차례가 왔다. 시험을 볼라 하는 순간 힘이 다 빠졌다. 그리고 엄청 잘뛰어지기 시작 했다. 난 싸인을 받았다.제미있었고 싸인을 받아서 그런지 기분이 좋고 다음엔더 열심히 해야겠다고 생각학다.</p>
+    </text>
+</SJML>

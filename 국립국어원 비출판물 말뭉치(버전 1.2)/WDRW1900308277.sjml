@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900308277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>네 생각뿐인 것은</title>
+            <author id="P08277" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_사랑">
+        <p>
+            <s>아름다운 풍경을 보며 너와 나누고 싶다는 생각이 드는 것은</s>
+            <s>맛있는 음식을 먹어도 네가 자꾸만 생각이 나는 것은</s>
+        </p>
+        <p>
+            <s>어딘가를 거닐어도 네 생각만 오롯이 나를 잠식하는 것은</s>
+            <s>수식들을 나열하며 집중을 하는 시간에도 네 생각들이 나를 온통 들쑤시는 것은</s>
+        </p>
+        <p>
+            <s>감미로운 음악 소리를 들어도 온통 네 생각뿐인 것은</s>
+            <s>네 생각, 네 생각, 네 생각</s>
+        </p>
+        <p>
+            <s>하루 종일 너를 그리다 잠자리에 들며</s>
+            <s>또다시 네 생각에 빠져든다</s>
+        </p>
+        <p>
+            <s>사랑인 걸까?</s>
+        </p>
+    </text>
+</SJML>

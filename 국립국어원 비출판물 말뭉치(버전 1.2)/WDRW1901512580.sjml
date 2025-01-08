@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901512580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이빨</title>
+            <author id="P12580" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이예언</author>
+        </sourceInfo>
+    </header>
+    <text date="20190815" subclass="null_이빨">
+        <p>이빨을 뽑았다. 쪼끔 따가웠다. 언니가 동영상을 찍었는데 언니가 자꾸 웃어서 조금 속상했다. 치!</p>
+    </text>
+</SJML>

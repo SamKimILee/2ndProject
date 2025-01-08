@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400079</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑</title>
+            <author id="P00079" age="37" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사랑">
+        <p>이 생각이 왜 나를 사로잡았는지, 그리고 그 이유가 무엇인지에 대한 비판 의식도 없이 나는 그냥 이 감정이 나를 끌고 가는 대로 내버려 두기로 마음먹었다. 매일을 그의 생각을 하며 도림동 유수지를 걷고 또 걸었다. 음악을 들으며 이룰 수 없는 사랑에 대해 생각했다. 그리고 가끔 기도도 했다. 무절제한 생각으로 내 본분을 잊었다는 자의식이 나를 사로잡을 때만 말이다. 결국 내 신앙심이 내 생각의 고삐를 잡는다는 걸 알게 되었다.</p>
+    </text>
+</SJML>

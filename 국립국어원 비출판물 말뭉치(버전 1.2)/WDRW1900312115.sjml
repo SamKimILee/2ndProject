@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312115</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사회시험</title>
+            <author id="P12115" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정은찬</author>
+        </sourceInfo>
+    </header>
+    <text date="20181128" subclass="시험">
+        <p>題目 : 사회시험</p>
+        <p>오늘 사회 시험을 봤다. 2단원(고려) 시험이었는데, 34문제(!)였고, 80점 이하(인지 미만인지)인 재시험이었다. 한 문제는 3점, 2점, 4점이었다. 왜 그런 진 모르겠지만 1단원보단 좀 쉬웠다. 아마 범위(1단원 : 선사시대, 고조선, 삼국, 남북국)(2단원:고려)가 1단원보다 적어서 그런 것 같다. 약간 애매한 게 있어서 시험 끝나고 책을 봤는데 다행히 맞았다. 1개 틀렸거나 100점일 거라고 생각했다.</p>
+        <p>그런데 동아리 시간에 선생님이 시험지를 주셨는데, 100점이었다!!!!!! 그래서 집에 가서 게임 보너스 받고, 게임도 했다. 3단원 시험도 백점 맞았으면 좋겠다.</p>
+    </text>
+</SJML>

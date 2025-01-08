@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311527</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>로밍기아의 노래를 들은 날</title>
+            <author id="P11527" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김효진</author>
+        </sourceInfo>
+    </header>
+    <text date="20181124" subclass="인간">
+        <p>로밍기아의 노래 들은 날</p>
+        <p>나는 로밍기아의 노래라는 연극을 봤다.</p>
+        <p>그이야기는 어느 방글라데시 여자애랑 로힝기아 여자애가 만나서 펼처지는 이야기이다.</p>
+        <p>처음엔, 민족이 다르다고 다툼을 벌였지만 시간이 지나니 민족이 달라도 친하게 지낼 수 있다는 걸 깨닫는다.</p>
+        <p>로밍기아는 원래 미얀마 소수민족이다. 그런데 군인들이 집에 불을 지르고, 로밍기아 사람들을 잡아가고 죽여서 피신 왔다. 로밍기아는 원래 이슬람교를 믿고 미얀마인들은 불교를 믿기 때문에, 같은 종교인 방글라데시로 와, 난민이 됐다.이야기를 듣고 알았다.</p>
+        <p>피부색이 다르든 다른나라에서 왔든 똑같이 대하고 편견을 갖지 않겠다.</p>
+    </text>
+</SJML>

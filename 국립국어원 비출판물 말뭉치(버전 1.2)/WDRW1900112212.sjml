@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112212</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 자기소개</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의소개</title>
+            <author id="P12212" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나">
+        <p>나의소개</p>
+        <p>안녕하세요저는이제 초등학교에입학하는&name1&입니다.</p>
+        <p>제가싫어하는음식은버섯입니다그리고제가좋아하는거는떡국입니다</p>
+        <p>그리고저의꿈은학교선생님입니다 그리고저는학교에빨리가고싶습니다그리고저의버릇은입술띁기입니다아맞다우리가족은엄마,아빠,언니,나로이루어집니다</p>
+    </text>
+</SJML>

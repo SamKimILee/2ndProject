@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302333</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 안내글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인이어 플레이트에 대해서</title>
+            <author id="P02333" age="25" occupation="자영업자" sex="F" submission="온라인" handwriting="No">이유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_인이어 디자인">
+        <p>인이어 디자인과 관련한 부분에 대한 안내입니다. 아티스트가 유펄 블랙 플레이트를 디자인으로 골랐습니다만, 브랜드별로 선택 할 수 있는 커스텀 플레이트가 달라서 웨스톤 모델과 UE모델에서의 펄이 들어간 양이 다르고, 최종적으로 디자인이 완성되었을때의 느낌이 달라진다고 업체측에서 연락을 받았습니다. 참고용으로 사진 링크를 첨부합니다. 업체측에도 아티스트가 매장 방문시 웨스톤 모델의 플레이트 샘플을 확인 할 수 있도록 부탁드려놨습니다. (UE모델은 플레이트 샘플이 매장에 없기 때문에 실물 확인이 어렵다고 합니다)</p>
+    </text>
+</SJML>

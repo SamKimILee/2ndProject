@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420074</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title> 운동회날</title>
+            <author id="P20074" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_운동회날">
+        <p>오늘은 운동회 날이다. 운동회날 우리 엄마는 얼굴에 그리는 걸 했다. 나는 언니 오빠들이 줄다리기 할때 “청팀 이겨라 예~~!!” 이렇게 외쳤다. 정말 힘이 들었지만 신났다. 그리고 점심시간에 밥을 먹고 엄마께 가서 엄마께서 손에 그림을 그려주셨다. 정말 좋았다. 또 운동회날이 오면 좋겠다.~~~!!!!</p>
+    </text>
+</SJML>

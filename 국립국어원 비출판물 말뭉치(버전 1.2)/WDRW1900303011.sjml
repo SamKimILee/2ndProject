@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303011</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>두 갈래</title>
+            <author id="P03011" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">류희령</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="관계">
+        <p>너와 나는 우연한 만남으로 우리로 변하였다. 그리고 우리라는 의미에 묶여있던 우리의 관계는 단 한 순간의 감정을 이기지 못한 것에 의하여 너와 나로 나뉘어졌다. 분명 너와 나는 우리라는 울타리에 들어가있었는데 이제껏 꾹꾹 눌러담아두었던 그 감정에 작은 틈이라도 생긴 것인지 '우리'에서 '너' 그리고 '나'로 나뉘어진 이 관계는 다시 우리로 돌아갈 수 있을까</p>
+    </text>
+</SJML>

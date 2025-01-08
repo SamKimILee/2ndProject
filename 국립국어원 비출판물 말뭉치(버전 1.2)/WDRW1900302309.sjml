@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302309</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>산책하는 오후</title>
+            <author id="P02309" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_산책">
+        <p>빛과 어둠이 부드럽게 경계지는 풍경이 좋다. 너울대는 빛의 일렁임이 마음을 홀리게 한다.</p>
+        <p>오후를 머금은 노오란 민들레가 어찌나 예뻐 보이던지. 흰옷으로 갈아입고 떠날 채비를 하는 민들레를 보면 다음 여행지는 어디일지 궁금해진다.</p>
+        <p>가을볕에 보행자 표지판이 다정해 보였다. 그들과 낙엽이 지는 길을 함께 걸었다.</p>
+    </text>
+</SJML>

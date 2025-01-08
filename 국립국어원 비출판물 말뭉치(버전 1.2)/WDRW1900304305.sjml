@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900304305</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>유학 일지</title>
+            <author id="P04305" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_풍경">
+        <p>연수를 가게 된 곳은 마음에 드는 모양의 집들이 늘어선 시골이었다.</p>
+        <p>반짝이는 물비늘, 잔잔이 일렁이는 물의 모양이 기억에 남는 곳.</p>
+        <p>연수의 주된 목적은 화산에 대한 연구였다.</p>
+        <p>연구라고 하면 거창하고, 담당 교수님과 함께하는 관광 중에 화산과 관련된 장소들을 들르는 것이었다.</p>
+        <p>박물관(/체험관)에서 본 쏟아져 내리는 화쇄류의 모습은 꼭 살아 있는 생물 같았다. 인간이 손쓸 수 없을 정도로 거칠게, 빠르게 쏟아져내리는 용암과 그것들이 만들어낸 새로운 봉우리, 그 위로 느리지만 꾸준히 자라 다시 번성한 풀과 나무 같은 것들이 신비로웠다.</p>
+        <p>박물관의  뒷편으로는 너무 파래 하늘이 하얗게 보이던 바다가 있었다.</p>
+        <p>새로운 풍경과 그 강렬한 대비가 오래도록 생각난다.</p>
+    </text>
+</SJML>

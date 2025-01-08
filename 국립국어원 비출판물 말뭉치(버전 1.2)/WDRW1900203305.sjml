@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203305</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>무제</title>
+            <author id="P03305" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">유가현</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_나">
+        <p>
+            <s>그때의 나는</s>
+            <s>손에 쥔 무언가를 버리자니 아까웠고</s>
+            <s>어디 처박아 두자니 공감이 마땅치 않았다고 생각한다</s>
+        </p>
+        <p>
+            <s>이를 조금만 더 일찍 알았다면</s>
+            <s>뭐라도 달라지지 않았을까</s>
+        </p>
+        <p>
+            <s>미련하지 않기 위해 미련하게 구는 걸</s>
+            <s>과연 미련하다고 할 수 있을까</s>
+        </p>
+        <p>
+            <s>모두가 나와 같지 않다는 걸 깨달은 건</s>
+            <s>맑은 가을 하늘의 푸른색도</s>
+            <s>짙고 깊은 심연의 푸른색도 아닌</s>
+            <s>잔뜩 멍들어버림 내 무릎의 푸른색을 마주했을 때였다</s>
+        </p>
+        <p>
+            <s>평소처럼 날 비추는 달빛에</s>
+            <s>훤히 드러난 내 멍이 부끄러워 고개를 떨구니</s>
+            <s>달은 그런 나를 보고 괜찮다며</s>
+            <s>아무말 없이 구름으로 나를 가려 주었다</s>
+        </p>
+        <p>
+            <s>그때의 나는</s>
+            <s>손에 쥔 무언가를 버리자니 아까웠고</s>
+            <s>어디처박아 두자니 공간이 마땅치 않았다고 생각한다</s>
+        </p>
+    </text>
+</SJML>

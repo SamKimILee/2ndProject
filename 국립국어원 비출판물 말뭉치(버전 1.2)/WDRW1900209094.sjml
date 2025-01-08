@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900209094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>그저 사람이 좋아서요.</title>
+            <author id="P09094" age="23" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">박윤민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_사람">
+        <p>먼저 기분 좋은 인사를 건넬 수 있는 것도</p>
+        <p>기회가 날 때마다 대화를 더 나누려고 하는 것도</p>
+        <p>사소함의 차이를 볼 수 있는 것도</p>
+        <p>사람이 좋아서 할 수 있어요.</p>
+    </text>
+</SJML>

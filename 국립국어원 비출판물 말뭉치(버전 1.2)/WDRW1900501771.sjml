@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900501771</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화 ‘우리집’ 을 보고</title>
+            <author id="P01771" age="18" occupation="무직" sex="F" submission="온라인" handwriting="No">김민선</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>당신에게 집은 어떤 기분을 들게하는가? 집은 때때로 싫어진다. 사실 ‘집’은 가족을 뜻하기도 하다. 왜냐하면 가족과 함께 살고있고 가족과 싸웠을 때 집이 싫어지기 때문이다. ‘우리집’에서도 초등학생 아이들이 집에 대해 걱정하고 힘들어하는 모습이나온다. 사실은 가족과 관련해있다. 가족들과 한 식탁에서 밥을 먹고싶어하는 주인공은 가출로 인해 그 소원을 이루게된다. 집을 떠나자 가족들은 소중함을 알아차린 것이다. 세상의 모든 집이 평화롭기를 바란다.</p>
+    </text>
+</SJML>

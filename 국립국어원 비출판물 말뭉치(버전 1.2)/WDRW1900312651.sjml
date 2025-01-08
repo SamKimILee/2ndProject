@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312651</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>콩나물요리</title>
+            <author id="P12651" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_콩나물요리">
+        <p>제목: 콩나물요리</p>
+        <p>오늘 우리가 키운 콩나물로 콩나물국도 해먹고 콩나물 밥도 해먹었다. 맛있었다. 근데 너무 많았다. 그래서 다음에는 조금만 키워야 될것 같다.</p>
+        <p>아직 한참 남았다. 왠지내일도, 그다음날도 콩나물을 먹을 것 같다. 으악! 이젠 콩나물 무침까지~! ㅠㅠ</p>
+    </text>
+</SJML>

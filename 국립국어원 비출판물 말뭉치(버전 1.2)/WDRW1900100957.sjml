@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900100957</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>'좋다'의 의미</title>
+            <author id="P00957" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">윤다현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="좋다">
+        <p>'좋다'라는 말은 일상생활에서 흔하게 쓰이는 말이다. 그만큼 사람들은 좋다라는 말을 자주, 다양하게 이용한다. 신기한 것은 '좋다'라는 말이 아주 오래전부터 전해 내려오면서도 그 의미가 전혀 퇴색되지 않았다는 것이다. 사람들이 여전히 자신에게 기쁨을 선사해주는 것, 긍정적인 무언가를 좋다라고 말한다. 무엇을 좋아한다, 라는 말에서 '무엇'은 언제나 바뀔 수 있다. 그러나 '좋아한다'는 변하지 않을것이다. 아무리 긴 시간이 지나더라도 사람들은 기쁨과 사랑의 감정을 늘 간직하고 있을 것이며, 그것은 우리가 살아가는데 큰 힘이 되어줄 것이다. 그러므로 아무리 긴 시간이 지나더라도 우리는 늘 무언가를 사랑하고 좋아하는데 온 힘을 다할 것이고, 그러므로 좋다라는 호의 감정은 우리가 살아가는 의미가 될 것이다.</p>
+    </text>
+</SJML>

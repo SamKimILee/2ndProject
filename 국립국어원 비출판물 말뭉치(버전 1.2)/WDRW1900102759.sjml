@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102759</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 사랑하는 사람에게</title>
+            <author id="P02759" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">신예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_글">
+        <p>내가 사랑하는 사람에게 글을 쓰는 일은 참 어렵다고 생각했다. 본디 나는 오글거리는 것을 잘 견디지 못하는 사람이며 내가 쓴 낯간지러운 말들을 확인하고 다시 읽을 정도로 뻔뻔하지 못했기 때문이다. 그러나 내가 진정으로 사랑하는 사람이 생긴 뒤 내 생각은 완전히 변화했다. 내가 하고자 하는 말을 가장 잘 전달하기 위해선 글로 적는게 가장 낫다고 생각하기 때문이다. 그래서 나는 내가 좋아하는 사람이 생기면 만날 때마다 꼬박꼬박 글로 편지를 써가는 편이다. 편지를 받고 기뻐하는 모습을 보면 나 또한 행복해지니까. 내가 사랑하는 사람에게 사랑을 표현하는 법은 글이다</p>
+    </text>
+</SJML>

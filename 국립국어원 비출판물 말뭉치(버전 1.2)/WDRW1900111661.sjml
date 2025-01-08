@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111661</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이언 북을 만든 날</title>
+            <author id="P11661" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191214" subclass="null_아이언 북">
+        <p>크리스마스 선물로 받은 아이언 북을 만들었다. 아이언북은 아침, 오후와 밤까지 만들었다. 아이언북은 52피규어 사람들이 있다.아이언 맨 피규어 사람들을 한두개를 만들었을 때 밥을 먹고학교에 가서 방가후를 하고 다시 집에 와서밖에나가서 놀고 집에 와서 밤이되서 밥먹고 일기쓰고 아이언북을 만들었다. 아이언북을만드는게 너무 재미있었다.</p>
+    </text>
+</SJML>

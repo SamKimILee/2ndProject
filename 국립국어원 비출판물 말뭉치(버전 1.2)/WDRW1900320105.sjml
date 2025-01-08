@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900320105</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오랜만에 외출</title>
+            <author id="P20105" age="16" occupation="고등학생" sex="F" submission="오프라인" handwriting="No">문가경</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사촌 언니">
+        <p>오랜만에 외출</p>
+        <p>&name1&</p>
+        <p>오래 만에 대학생이 된 사촌 언니를 만났다. 집 앞에 산책로를 오랜만에 걸으면서 많은 얘기를 나누었다. 잘 가지 않던 거리라서 새롭게 변환 것이 정말 많았다. 사촌 언니와 이렇게 많은 얘기를 나눈 것은 거의 처음이었던 것 같다. 언니가 내가 모르는 것을 많이 알려주어서 너무 신기했다. 어른이 된 언니를 보니 궁금한 것이 정말 많아 끊임없이 물어보고 언니가 답을 해주었다. 언니랑 둘이서는 처음으로 외식을 하러 닭 갈비집에 갔다. 가서도 언니랑 계속 얘기를 했다. 그러자 시간이 얼마나 흘렀는지도 몰라 밤 10시가 거의 되어버렸다. 언니랑 더 놀고 싶지만 너무 늦어 마지막으로 마트에 가서 여러 가지를 구경하고 난 뒤 헤어졌다. 다음에도 언니랑 또 놀았으면 좋겠다는 생각이 들었다. 언니 덕분에 하루 동안 재밌었고 내가 모르는 많은 이야기도 들을 수 있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400398</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나에게</title>
+            <author id="P00398" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">노수빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나">
+        <p>거울을 봤어 많이 수척해졌더라</p>
+        <p>언제부터였니 그렇게 살이 빠진 게</p>
+        <p>혹시 매일 변기를 부여잡고 구토를 하는 건 아니지</p>
+        <p>그동안 네가 많이 괴로워 했다는 게 눈에 보여</p>
+        <p>다 느껴져</p>
+        <p>얼마나 외로웠던 거니</p>
+        <p>외롭다는 말을 입 밖으로 꺼내기 위해 "외롭다" 세 글자를 생각해 내는 것도 힘겨웠지</p>
+        <p>말을 하려면 생각을 해야 하니까</p>
+        <p>인간은 참 복잡하고 쓸데없는 존재야</p>
+        <p>스스로를 좀먹어야 살아갈 수 있는 존재고</p>
+        <p>다 이유가 있다는 말은 무책임한 것 같아</p>
+        <p>모든 것엔 이유는 없어</p>
+        <p>이유는 다 궁색일 뿐이야</p>
+        <p>애초에 이유라는 걸 생각할 수 있는 생명체가 뭔데?</p>
+        <p>이유라는 단어를 만든 생명체는 누구지?</p>
+        <p>가혹한 사람들</p>
+        <p>그리고 나도 사람</p>
+        <p>나는…….</p>
+        <p>이렇게 살고 싶지 않았는데</p>
+    </text>
+</SJML>

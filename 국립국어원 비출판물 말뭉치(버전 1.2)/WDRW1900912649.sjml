@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900912649</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>예방접종</title>
+            <author id="P12649" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정해민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_독감">
+        <p>독감 예방접종을 하러 갔다. 예방접종을 하러 가니까 조금 무서웠다. 진료를 받고 왼쪽 어깨에 맞았다. 조금 아팠다.</p>
+        <p>오래 할 줄 알았는데 빨리 끝났다. 주사를 맞고나니 뿌듯했다. 그리고 독감에 안 걸렸으면 좋겠다.</p>
+    </text>
+</SJML>

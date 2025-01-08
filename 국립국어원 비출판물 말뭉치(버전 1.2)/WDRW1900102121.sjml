@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102121</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어렸을때 파리파게트</title>
+            <author id="P02121" age="19" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_추억">
+        <p>유치원생 때 엄마가 미술원장이셨는데 맨날 퇴근 기다리고 하다 보니까 배가 고팠음 밥은 챙겨주기엔 시간이 없으시니까 맨날 돈 쥐여준 걸로 학원 앞 파리파게트에 혼자 쫄래쫄래 갔음 항상 먹던 거만 먹는 타입이라 반년을 꽈배기만 사 먹었었음 직원분들이 내가 들어오면 꽈배기 소녀다 다들 너무 환대해주셔서 나도 좋았는데 비극은 내가 꽈배기에 질리기 시작했던 거임 이번엔 마늘빵에 빠졌지만 내가 매장에 들어가는 순간 직원분들이 꽈배기 소녀 왔다며 알아서 꽈배기 포장해주시고 며칠 동안 기대에 부응해주고싶어서 억지로 꽈배기 먹었다가 도저히 말을 못 하겠어서 결국 더 먼 뚜레쥬르로 옮겼음 지금 생각해보면 그분들 날 기다렸을 텐데 죄송하기도 하고 잘 지내셨으면 좋겠다 그땐 혼자 있는 시간이 많으니까 외로워서 늘 고마웠었음</p>
+    </text>
+</SJML>

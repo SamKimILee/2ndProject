@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611142</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>.</title>
+            <author id="P11142" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">최고원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_펜">
+        <p>끄적끄적..펜을 사용하는 느낌은</p>
+        <p>말로 이루어 표현할 수가 없다.</p>
+        <p>소리며 써지는 느낌이며 고요한 공간에 나와 사각거리는 펜만이 존재하는 듯한 착각을</p>
+        <p>느끼고 있노라면</p>
+        <p>감정이 벅차올라서 뭐든지 끄적거린다.</p>
+        <p>일기든, 그림이든, 시든, 소설이든.. 펜이 사명을 다할때까지, 감정은 벅차올라서 감당할 수 없게 넘쳐흘러버린다</p>
+    </text>
+</SJML>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212651</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘 하루</title>
+            <author id="P12651" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_뜻깊은 날">
+        <p>&lt;오늘하루&gt;</p>
+        <p>오늘은부모님께서 출근하셨다.</p>
+        <p>그래서 할머니께서 오셨다.</p>
+        <p>오늘 아침밥은 호박전,계란,미역국이다.</p>
+        <p>왜냐하면 내일은 내 생일이기 때문이다. 그리고</p>
+        <p>난 생일선물로 받은 책들을 읽었다. 그리고</p>
+        <p>피아노로 반짝반짝 작은별을 쳤다.</p>
+        <p>그리고 동생이랑 신놀이를하다가</p>
+        <p>점심밥을 먹었다. 반찬은 맛있는소세지</p>
+        <p>였다. 밥을다먹고 줄넘기를했다. 그러다가 승부욕이</p>
+        <p>올라서 234개를 했다. 그동안 운동을 않해서 그런지</p>
+        <p>너무 힘들었다. 다음엔 훌라우프다. 동생은 1000번더하고</p>
+        <p>나는 1000번 조금못했다. 나는 녹초가 돼서 견과류를 먹었다. 그리고 동생이란 펜싱을 했다. 내가 이겼다.</p>
+        <p>땀이 엄청 났다. 그러고 영어책을 읽는데 엄마가</p>
+        <p>오셨다. 오늘은 뜻 깊은 날이었다. 왜냐하면</p>
+        <p>줄넘기의 최고기록을 세웠기 때문이다.</p>
+    </text>
+</SJML>

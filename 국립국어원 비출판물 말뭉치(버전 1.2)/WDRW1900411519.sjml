@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411519</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>행복 콘서트</title>
+            <author id="P11519" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">차시우</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_행복 콘서트">
+        <p>오늘 행복 콘서트 를 봤다 그대 조금 짜증 났다. 그래서 핸도폰 에 꽂는걸 귀에 끼었습니다. 빨간응원봉을 갖구 왔다. 노란봉 하얀봉 파란봉도있었다.</p>
+    </text>
+</SJML>

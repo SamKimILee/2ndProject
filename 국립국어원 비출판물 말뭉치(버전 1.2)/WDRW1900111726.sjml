@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111726</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>줄넘기</title>
+            <author id="P11726" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">이종현</author>
+        </sourceInfo>
+    </header>
+    <text date="20191208" subclass="null_줄넘기">
+        <p>12월 8일 일요일</p>
+        <p>제목: 줄넘기</p>
+        <p>오늘 밖에서 줄넘기를 했다. &name1&이랑 아빠는 이어달리기를 했다. 자전거를타다가 &name2&를 만났다. &name2&엄마가두발자전거를잘탄다고 말해서 기분 이 좋았다.번갈아뛰기 연습을하고있었는데 &name3&이랑 &name3&엄마가 왔다.&name3&이랑 같이 줄넘기연습을 했다.심심해서&name3&이랑 &name1&이랑 이어달리기를 했 다. 그중에서내가제일빨랐다. 다음에또하고싶다.</p>
+    </text>
+</SJML>

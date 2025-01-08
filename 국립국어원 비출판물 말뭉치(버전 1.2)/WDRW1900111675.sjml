@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111675</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>공부 바이러스를 이긴 날</title>
+            <author id="P11675" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정현우</author>
+        </sourceInfo>
+    </header>
+    <text date="202001013" subclass="null_공부">
+        <p>2020 13/1 /일</p>
+        <p>&lt; 공부 바이러스를 이긴 날&gt;</p>
+        <p>오늘은 여전히 공부 바이러스가 날 괴롭힌다. 그순간 전화가 왔다. 엄마께서 하시는 이야기를 들어보니 할머니께서 놀러 오라는 전화였다.</p>
+        <p>가서 재밌게 놀다 보니 5시간이 흐르고 엄마께서 전화가 왔다. 하지만 지금 밥을 먹고 있어서 2시간을 더있게 해주셨다.</p>
+        <p>난 오늘이 기쁘다. 아침에는 공부 바이러스때문에 머리가 아팠지만 7시간은 평화를 얻었다. 할머니께서는 공부 바이러스를 이기는 주사같다.</p>
+    </text>
+</SJML>

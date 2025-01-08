@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311669</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마의 휴식, 나의 기분</title>
+            <author id="P11669" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_엄마">
+        <p>오늘은 엄마가 엄마답지 않게 아빠처럼 그냥 쇼파에서 자 버렸다. 엄마가 모처럼 쉬는 거라서 나는 엄마가 쉬는게 좋았다.</p>
+        <p>근데 동생이 자꾸 엄마한테 올라타서 나는 자꾸 화가 목구멍으로 올라왔다. 지금도 무지 기분이 안좋다. 이번엔 삐지기도 하고, 샘 나기도 하고, 가족만 보면 짜증내게 된다.</p>
+        <p>난 엄마가 안아 주면 괜찮을텐데...... “나 기분안좋다고 해도 혼나고”, 혼나기 싫어서 말 안하면 마음 불편 하고 이럴땐 어떻게야 할까?</p>
+    </text>
+</SJML>

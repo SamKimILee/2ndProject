@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212224</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마의 잔소리</title>
+            <author id="P12224" age="10" occupation="중학생" sex="F" submission="온라인" handwriting="No">강현서</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_엄마, 잔소리">
+        <p>
+            <s>빨리 일어나라!</s>
+            <s>빨리 공부해라!</s>
+            <s>빨리 다라!</s>
+        </p>
+        <p>
+            <s>게임하디마ㅏ!</s>
+            <s>TV보지 마라!</s>
+            <s>밥 남기디 마라!</s>
+        </p>
+        <p>
+            <s>항상 나의 곁에 있는 잔소리</s>
+            <s>잔  소  리</s>
+            <s>잔  소  리</s>
+        </p>
+    </text>
+</SJML>

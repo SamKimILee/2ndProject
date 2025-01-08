@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900520073</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>왕건</title>
+            <author id="P20073" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_왕건">
+        <p>왕건은 어려서 칼싸움을 했어요. 아이들은 왕건이 칼싸움을 잘해서 왕건을 존경했어요.</p>
+        <p>고구려랑신라랑 전쟁을 했어요. 고구려가 이겼어요. 신라의 왕은 스스로 목숨을 끊어야했어요. 왕건은 또 신라랑 싸웠어요. 왕건이돌아가실때 훈요10조를남기고 죽었어요.</p>
+    </text>
+</SJML>

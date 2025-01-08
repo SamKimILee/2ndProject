@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211546</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>헬로방방</title>
+            <author id="P11546" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">박경연</author>
+        </sourceInfo>
+    </header>
+    <text date="20190721" subclass="활동">
+        <p>오늘을 엄마아빠 동생이랑 헬로방방을 갔다 트램폴린을 탔다 정말 재밌었다 나중에 또 가고 싶다! 저녁에 쿠우쿠우에 가서 꽃게장을 먹었다 정말 맛있었다</p>
+    </text>
+</SJML>

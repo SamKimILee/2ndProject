@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202146</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>밥</title>
+            <author id="P02146" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">홍지영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="밥">
+        <p>
+            <s>365일</s>
+            <s>매일 3번</s>
+            <s>30분씩</s>
+        </p>
+        <p>
+            <s>아침엔 따뜻하게</s>
+            <s>점심엔 든든하게</s>
+            <s>저녁엔 가볍게</s>
+        </p>
+        <p>
+            <s>매일 다른 국으로</s>
+            <s>매일 다른 반찬으로</s>
+            <s>그렇게 먹지 못하지만</s>
+        </p>
+        <p>
+            <s>엄마가 만든 정성스런 음식은</s>
+            <s>항상 맛있다.</s>
+            <s>맛있으면 된거지</s>
+            <s>난 만족해!</s>
+        </p>
+    </text>
+</SJML>

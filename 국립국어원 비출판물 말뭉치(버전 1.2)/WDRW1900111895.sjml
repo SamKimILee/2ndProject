@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111895</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어제는</title>
+            <author id="P11895" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20181223" subclass="null_어제">
+        <p>어제는 컴퓨터에갔다가 &name1&이는 머리 때문에 피부과를 가고 난머리를 잘랐다. 그리고 1시에 포켔몬 ‘모두의이야기’를 보았다.근데 &name2&,&name3&,&name4&,&name5&,&name6&은 문산에서 짱구영화를하는데 않한다고하며금촌으로 간게 너무어이 없었다. 왜냐하면어제엄마가예약해줄때 짱구가있었는데아무리말해도 없다고했기때문이다.</p>
+    </text>
+</SJML>

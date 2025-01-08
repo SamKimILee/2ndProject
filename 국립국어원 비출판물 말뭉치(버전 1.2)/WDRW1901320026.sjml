@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901320026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>까치까치 설날</title>
+            <author id="P20026" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_설날">
+        <p>제목:까치까치 설날</p>
+        <p>할아버지댁 에서 차례를 지냈다.맛있는 음식을 먹고서 세배를 했다.나는 오늘 한복을 입었다.한복을 입고 세배를 하니 너무 내가예뻐 보였다.세배돈도 12만원을 받았다.그리고 오랜만에 친척들을 만나서 기분이좋았다.</p>
+    </text>
+</SJML>

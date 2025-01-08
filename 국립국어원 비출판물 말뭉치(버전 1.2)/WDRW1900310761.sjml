@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310761</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오늘 내 아침과 점심</title>
+            <author id="P10761" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">성은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="밥">
+        <p>아침에 일어난 후 방학이니까 학교를 가지는 않았다. 그래서 집에서 밥을 해결해야하는데 그떄 밥이 한공기 남아있었다. 물론 나만 있으면 상관이 없지만 나는 여동생이 있다. 그렇다 내 동생이 남아있던 밥 한공기를 먹은거다. 덕분에 밥을 먹으려면 밥을 해야하는 상황이였는데 난 너무 귀찮고 배가 고팠다. 그래서 대충 냉장고를 보니까 떡국떡이랑 즉석 떡볶이가 있던것이다 그래서 그냥 떡볶이 만들어 먹었다. 떡볶이도 오랜만에 먹으니까 맛있더라 크으 역시 한국인은 매운것도 먹으면서 살아가야하는거같다. 김치 강국</p>
+    </text>
+</SJML>

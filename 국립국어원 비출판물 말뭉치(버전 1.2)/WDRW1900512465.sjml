@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512465</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>잇몸</title>
+            <author id="P12465" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박승현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_잇몸">
+        <p>
+            <s>제목: 잇몸</s>
+            <s>지은이: &name1&</s>
+            <s>내가 잇몸을 물었다. 완전 울트라초초 아팠다. 화장실에서 거울로 보니 잇몸에 구멍이 나 있었다.</s>
+            <s>안돼!!</s>
+        </p>
+    </text>
+</SJML>

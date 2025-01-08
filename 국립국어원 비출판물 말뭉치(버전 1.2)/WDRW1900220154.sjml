@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220154</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을방학이오면</title>
+            <author id="P20154" age="10" occupation="중학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20150917" subclass="null_가을방학">
+        <p>2015년 9월 17일 木요일 날씨: 맑음</p>
+        <p>제목: 가을방학이 오면</p>
+        <p>가을 방학이 온다면 난 제일먼저 외할머니 댁에 가서놀고 싶다. 사촌인 &name1&언니와 &name2&이,  &name3&이, &name3&이동생인 4개월쯤 된 아가도 보구 싶다. &name4& &name5&도 만나고 돈놀이도 하고싶다. 화투치는 것도 구경하고 어른못잖게 잘하는 언니하고 말이통하려면 배우긴 해야 겠다.</p>
+        <p>바둑돌은 돈 놀이의 일부분 인데 검은돌은 만원, 하얀돌은 십만원이다. 알바나 용돈으로 돈을버는 것이다. 은행은 물론 돈에 관련된 거라면 모두있다. &name1& 언니는 고리대금업자, &name2&이는 구두쇠, &name3&이는 떼쟁이, &name6&이는 자린고비 였다.</p>
+        <p>언니는 안마사 일을 하면서 30만원씩 벌었고, &name2&이는 엄마였던 내게 아양을 떨면서 용돈을 뜯어냈다. &name3&이는 용돈을 적게 줬더니 떼를썼고,&name6&이는 돈이 생기면 꽉 잡고 놓지 않아 큰 부자가 되었다. 언니도 마찬가지였지만 더 심했다. 언니는 내가 돈을 빌리면 이자를 3배붙여 갚았다.</p>
+        <p>용돈은 일주일에 한번씩 줬는데, 언니는 30만원, &name2&은 20만원, &name6&은 10만원, &name3&이는 7만원씩 주었다.</p>
+    </text>
+</SJML>

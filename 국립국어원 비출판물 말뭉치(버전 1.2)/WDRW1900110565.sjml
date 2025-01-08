@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110565</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>욕조</title>
+            <author id="P10565" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">조은채</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_욕조">
+        <p>
+            <s>맑게 빛나는</s>
+            <s>흰 욕조에</s>
+            <s>천천히</s>
+            <s>몸을 담그면</s>
+        </p>
+        <p>
+            <s>손이 녹아 열정이 되고</s>
+            <s>목이 녹아 표현이 되고</s>
+            <s>마음이 녹아 두려움이 되고</s>
+            <s>머리가 녹아 생각이 되고</s>
+            <s>발끝이 녹아 길이 되고</s>
+            <s>눈알이 녹아 빛이 되고</s>
+        </p>
+        <p>
+            <s>욕조는 까맣게 물든다</s>
+            <s>까맣게 물들어서</s>
+            <s>아무것도 볼 수 없도록</s>
+            <s>아무것도 할 수 없도록</s>
+            <s>결국</s>
+        </p>
+    </text>
+</SJML>

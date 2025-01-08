@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511494</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시험 100점!</title>
+            <author id="P11494" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">전은재</author>
+        </sourceInfo>
+    </header>
+    <text date="20191212" subclass="null_백점">
+        <p>나는 오늘 돌봄교실에서 시험을 봤다. 문제는 두자리수 곱하기 한자리수 이었다. 다행이 엄마랑 집에서 공부를 해서 다행 이었다. 항상 시험은 내가 백점이고, 일등이었다. 다 문제를 푸니까 선생님이 계산기로 채점을 하라고 하셨다.</p>
+        <p>다 채점을 하니까 또 백점 이었다. 선생님은 내가 푼 것을 보고 다른 친구들 거를 채점한다고 하셨다. 나는 내가 참 자랑스럽다.</p>
+    </text>
+</SJML>

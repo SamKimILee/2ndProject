@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>반복</title>
+            <author id="P03187" age="16" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">박세연</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_인생">
+        <p>
+            <s>아픔이 반복된다고 무뎌지나요.</s>
+            <s>아프지 않은 척 하는 데 무뎌질 뿐이죠.</s>
+            <s>우리는 반복되는 슬픔에 잔뜩 절여진 존재.</s>
+            <s>그래도 끊임없이 소금물을 빨아들이는 불쌍한 인생.</s>
+        </p>
+    </text>
+</SJML>

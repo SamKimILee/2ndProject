@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612275</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>방콕</title>
+            <author id="P12275" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">전승훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190922" subclass="null_방콕">
+        <p>9월 22일 일요일</p>
+        <p>제목: 방콕!</p>
+        <p>오늘 빛을 본적이 없다. 방콕을 했기 때문이다. 아침에 TV보고 아침밥을 먹었고 점심때는 놀고 휴대폰,점심밥,져녁에는 TV를 보았다. ‘방콕이 이런거였구나’</p>
+    </text>
+</SJML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110841</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나는 누구일까?</title>
+            <author id="P10841" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나">
+        <p>
+            <s>나는 누구일까?</s>
+        </p>
+        <p>
+            <s>행복해 하는 저 사람이 나일까?</s>
+            <s>웃고 떠드는 저 사람이 나일까?</s>
+            <s>아무 걱정 없어보이는 사람이 나일까?</s>
+        </p>
+        <p>
+            <s>나는 누구일까?</s>
+        </p>
+        <p>
+            <s>괴로워 하는 저 사람이 나일까?</s>
+            <s>슬퍼하는 저 사람이 나일까?</s>
+            <s>걱정이 많아 한숨만 쉬는 사람이 나일까?</s>
+        </p>
+        <p>
+            <s>나는 누구인가?</s>
+            <s>나를 한 단어로 설명할 수 있는가?</s>
+            <s>두 단어로 설명할 수 있는가?</s>
+            <s>나는 몇 개의 단어로 설명할 수 있을까?</s>
+        </p>
+    </text>
+</SJML>

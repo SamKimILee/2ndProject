@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711470</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노는게 제일 좋아</title>
+            <author id="P11470" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180902" subclass="null_놀이">
+        <p>오늘 놀이터에 갔다. 가서 미끄럼틀도 타고 자전거도 탔다.</p>
+        <p>자전거를 탄게 제일 제일 재미있었다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512357</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 신석기시대에 살았다면?</title>
+            <author id="P12357" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">강영서</author>
+        </sourceInfo>
+    </header>
+    <text date="20191214" subclass="null_내가 신석기시대에 살았다면?">
+        <p>주제:내가 신석기 시대에 살았다면?</p>
+        <p>1.조개 팔지를 만들것 이다.</p>
+        <p>2.돌을 갈아볼것이다.</p>
+        <p>3.농사를 지을 거다.</p>
+        <p>4.물고기를 잡을 것이다.</p>
+        <p>내가 청동기 시대에 살았다면?</p>
+        <p>1.고인돌을 만들 것이다.</p>
+        <p>2.청동검을 만들고 싶다.</p>
+        <p>내가 고조선에 살았다면?</p>
+        <p>1.단군 할아버지를 만나고 십다.</p>
+        <p>2.청동검과 청동검과 청동거울을 보고싶다.</p>
+        <p>내가 옥저에 살았다면?</p>
+        <p>1.민며느리가 되 보고 싶다.</p>
+        <p>2.고구려에 안 끌려 갈것이다.</p>
+        <p>내가 삼한에 살았다면?</p>
+        <p>1.쌀밥을 먹을 것 이다.</p>
+        <p>2.소도에 가보고 싶다.</p>
+    </text>
+</SJML>

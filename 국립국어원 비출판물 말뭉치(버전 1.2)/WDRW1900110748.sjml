@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110748</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>열등에 대하여</title>
+            <author id="P10748" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_열등">
+        <p>열등을 인정하는 순간 열등이 아니다.</p>
+        <p>내가 느껴본 열등이란  남 잘난 것을 부정하고 어떻게든 깎아내리려는 것이다. 자신이 열등이라고 생각하는 '부럽다 난 왜저럴까' 이것은 존경과 부러움르로 부터 나온 자기 비하가 아닐까? 누군가에게 열등을 느끼는 당신도 누군가에겐 열등유발 존재이다.</p>
+    </text>
+</SJML>

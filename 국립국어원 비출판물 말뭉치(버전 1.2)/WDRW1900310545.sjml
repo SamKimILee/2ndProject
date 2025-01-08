@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310545</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>정권에 따라 달라지는 개인의 잣대</title>
+            <author id="P10545" age="17" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="나라">
+        <p>분명 야당이 하면 입에 거품을 물고 욕을 했던 그 행동이</p>
+        <p>여당이 하면 칭찬을 하게 되는 것을 어느날 느끼고 말았다</p>
+        <p>분명 내 자신이 주관적이 아니라 객관적으로 생각하고 있다고 믿고 있었는데 이런 걸 느끼고 나니 혼란이 느껴졌다</p>
+        <p>어느순간부터 선거때에도 개인이 아니라 정당을 우선시하고 공약보다도 정당을 우선시하게 되었다</p>
+        <p>이러면 내가 그렇게 욕하던 광화문어르신들과 무엇이 다른지 훗날 내가 뒷세대젊은이들에게 그런 눈초리를 받게 되지 않을까라는 생각을 잠시 하게 되었다</p>
+    </text>
+</SJML>

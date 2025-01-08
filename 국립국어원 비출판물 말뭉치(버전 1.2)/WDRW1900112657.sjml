@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112657</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독감주사</title>
+            <author id="P12657" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박재우</author>
+        </sourceInfo>
+    </header>
+    <text date="20181013" subclass="null_주사">
+        <p>소아과에 독감주사를 맞으러 갔다. 의사선생님을 만나기 전부터 심장이 쿵쾅쿵쾅 뛰었다. 우리 형아가 먼저 맞았다. 심장이 더 세게 뛰었다. 드디어 내 차례가 되자 저절로 눈이 감기고 집에 가고 싶었다. 눈을 꼭 감고 숨을 참으니 꾹 주사가 끝났다. 아팠지만 속이 후련하다.</p>
+    </text>
+</SJML>

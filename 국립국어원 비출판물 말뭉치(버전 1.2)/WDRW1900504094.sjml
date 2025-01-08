@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900504094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 가장 아끼는 것은?</title>
+            <author id="P04094" age="13" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20140000" subclass="null_최애품">
+        <p>아끼는 것이니, 물건이라고 제한을 두었을 때에 한해서</p>
+        <p>나는 소설 책과 반쯤 빈 아이스크림이 든 아이스크림 통을 가장 아낀다.</p>
+        <p>물론 녹차맛의 사르르 녹아드는 그 맛이 일품인 아이스크림을 말한다.</p>
+    </text>
+</SJML>

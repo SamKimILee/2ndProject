@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511752</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동물원</title>
+            <author id="P11752" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">손동재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_대공원">
+        <p>과천에 있는 대공원에 갔다. 코끼리 열차를 타고 리프트을 타고 동물원에 갔다. 곰,호랑이, 사슴등을 보았다. 추어서 코코아를 마셨다. 나씨가 추워서 동물들이 실래로 들어가 있었다. 바다사자가 누워서 배를 긁고 있는 모습이 재미있었다. 다음에는 날씨가 따뜻할때 가고 싶다.</p>
+    </text>
+</SJML>

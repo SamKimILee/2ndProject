@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511709</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>강아지(말티즈)</title>
+            <author id="P11709" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">권예령</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_강아지">
+        <p>
+            <s>2019년 8/31</s>
+            <s>강아지(말티즈)</s>
+            <s>&name1&</s>
+            <s>나는 말티즈예요</s>
+            <s>내가 귀여워서</s>
+            <s>애완동물로</s>
+            <s>많이 생활하고</s>
+            <s>있지만</s>
+            <s>다른 비글,비숑,</s>
+            <s>푸들,말티즈들은</s>
+            <s>힘들게 살고있어서</s>
+            <s>우리가도와줘야돼요</s>
+            <s>그래서 제말을 꼭 들어주세요.</s>
+        </p>
+    </text>
+</SJML>

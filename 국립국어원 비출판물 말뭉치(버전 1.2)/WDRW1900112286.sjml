@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112286</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1& 선생님과 마지막 식사</title>
+            <author id="P12286" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_선생님">
+        <p>오늘은 교회 3학년 마지막 날이다. 그래서 &name1& 선생님이 떡볶이를 사주셨다. 그래서 더 바스켓에가서 맛있게 먹었다. 감자 튀김이 가장 먼저 나왔는데 선생 님이 먹지 말랬는데 어떤 애가 먹었다. 그리고 선생님이 왔는데 선생님한테 혼나고 기도하고 먹기 시작했다. 근데 먼저 어떤애가 금나 많이 떠가서 나도 많이 떠갔다. 그리고 모두 정당하게 먹고 끝나고 엄마를 기다리는데 같이 따따따 따따따따따를 외쳐서 재밌었다. 맛있었고 선생님 2년동안 감사합니다</p>
+    </text>
+</SJML>

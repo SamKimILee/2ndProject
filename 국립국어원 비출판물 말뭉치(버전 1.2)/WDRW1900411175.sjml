@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411175</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미신</title>
+            <author id="P11175" age="14" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_미신">
+        <p>
+            <s>온몸이 흙투성이가 될 때까지 네잎클로버를 찾거나,</s>
+            <s>크리스마스에 산타를 기다리다 밤 잠을 설치거나,</s>
+            <s>뒷마당에 타임캡슐을 묻어 놓거나,</s>
+            <s>해 질 때까지 숨바꼭질을 하거나,</s>
+            <s>귀신이 무서워 이불 속에 숨어 자거나.</s>
+        </p>
+        <p>
+            <s>언젠가부터 나는</s>
+            <s>그것들을</s>
+            <s>하지 않게 되었다.</s>
+        </p>
+        <p>
+            <s>아,</s>
+            <s>푸르구나.</s>
+            <s>머리 위의 것이</s>
+            <s>하늘인지 바다인지</s>
+            <s>손을 뻗고는.</s>
+        </p>
+        <p>
+            <s>그래, 오늘은 종이비행기를 접어 날리자.</s>
+            <s>저기 먼 구름의 색에 대해 이야기하자.</s>
+            <s>내일도 하늘이 푸를지</s>
+            <s>꽃잎을 뜯어 점을 치자.</s>
+        </p>
+        <p>
+            <s>우리</s>
+            <s>조금만 더</s>
+            <s>유년으로 있자.</s>
+        </p>
+    </text>
+</SJML>

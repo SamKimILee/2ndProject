@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412657</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>우리집에  &name1&이가 놀러왔다.</title>
+            <author id="P12657" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박재우</author>
+        </sourceInfo>
+    </header>
+    <text date="20191020" subclass="null_놀이">
+        <p>제목: 우리집에 &name1&이가 놀러왔다.</p>
+        <p>&name1&이가 우리집에 왔다. 우리는 엄마가 차려주신 피자를 먹고 내방에 들어갔다.</p>
+        <p>먼저 야구 보드게임을 했다. 먼저 내가 치고 &name1&이가 던졌다. 내가 삼진아웃을 당할쯤 내가 홈런을 쳤다. 그래서 점수는 1:0이다. 내가 삼진아웃이되자 &name1&이가 치고 내가 던졌다. 내가 던지자 &name1&이가 안타를 쳤다. 나는 아쉬웠다.</p>
+        <p>내가 또 던졌는데 &name1&이는 홈런을 쳤다. 그래서 2:1로 &name1&이가 이겼다.</p>
+        <p>&name1&이는 보드게임을 잘한다. 다음은 우리 형도 같이했다. 게임의 이름은 ‘다빈치 코드’이다. 이 게임은 숫자가 있는데 그 숫자를 맞추는 게임이다. &name1&이는 나를 공격했고, 나는 &name1&이를 공격했다. 형아는 아무도 안 공격해서 &name1&이와 나는 형을 공격했다.</p>
+        <p>결국 나와 형은 모두 &name1&이에게 졌다.</p>
+        <p>그리고 밖에 나가서 축구도 했다 오늘 &name1&이와 놀아서 재미있었다. 다음에 또 놀고싶다.</p>
+    </text>
+</SJML>

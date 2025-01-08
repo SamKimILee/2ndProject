@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203716</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바람</title>
+            <author id="P03716" age="21" occupation="직장인/전문직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_마음">
+        <p>
+            <s>곁을 스치는 바람이 있어</s>
+            <s>감은 눈에 깊은 한숨</s>
+            <s>혹여 너의 소식 들리지 않을까</s>
+            <s>귀를 기울인다</s>
+        </p>
+        <p>
+            <s>옷자락을 더듬는 바람이</s>
+            <s>너의 손길로 느껴질 즈음</s>
+            <s>귓가에 웅웅대는 바람이</s>
+            <s>너의 속살거림으로 느껴질 즈음</s>
+            <s>나는 그만 눈을 뜬다</s>
+        </p>
+        <p>
+            <s>타는 마음</s>
+            <s>너에게도 전해지기를</s>
+            <s>부는 바람에 실어 보내는</s>
+            <s>나의 바람</s>
+        </p>
+        <p>
+            <s>정말로 간절한 바람이 있어</s>
+            <s>감은 눈에 모은 두 손</s>
+            <s>혹여 너에게 전할 수 있을까</s>
+            <s>마음을 기울인다</s>
+        </p>
+    </text>
+</SJML>

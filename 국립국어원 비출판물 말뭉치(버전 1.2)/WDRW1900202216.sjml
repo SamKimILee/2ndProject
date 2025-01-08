@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202216</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>미래</title>
+            <author id="P02216" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바람">
+        <p>교수가 너무 그지 같다</p>
+        <p>근데 벗어날 수가 없다</p>
+        <p>나중에 전세계인이 먹고사는데 문제가 없어지면</p>
+        <p>일하고 싶은 사람만 일하고 공부하고 싶은 사람만 공부하고 그런 세계에서 살았다면</p>
+        <p>나는 과연 뭘하고 있었을까</p>
+        <p>일단 부모가 공부하라고 닥달하지 않았을테니</p>
+        <p>이렇게까지 부모에 대한 적대감이 깊지는 않았겠지</p>
+        <p>그리고 돈버는 남자친구한테 밥얻어먹는것도 미안해하지 않아도 됬을테고</p>
+        <p>돈을 안벌어도 되면 쓸모없는걸 배운다는 회의감에 사로잡혀있지 않고</p>
+        <p>때려치웠을텐데</p>
+        <p>불합리한거 보이면 그냥 가서 욕하면 되고</p>
+        <p>그럼 시간도 많아져서</p>
+        <p>남자친구랑 더 많이 놀수 있었을텐데 말이다</p>
+        <p>신데렐라 하지말고 여행도 가고</p>
+    </text>
+</SJML>

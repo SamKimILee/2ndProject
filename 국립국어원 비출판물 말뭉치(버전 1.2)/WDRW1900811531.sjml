@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900811531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>히야신스</title>
+            <author id="P11531" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김온유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200322" subclass="null_히야신스">
+        <p>해피의이사</p>
+        <p>&lt;히야신스 관찰 일기3&gt;</p>
+        <p>! 뉴스특보! 해피가 다자랐다. 나는 아주 뿌듯하다. 해피한테고맙다는 인사를 하고싶다.</p>
+        <p>해피는 이사간다. 우리없어도 잘자라줘!</p>
+        <p>(해피집이 작아서)</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312380</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>검은 고양이</title>
+            <author id="P12380" age="12" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_검은 고양이">
+        <p>&lt;검은 고양이&gt;</p>
+        <p>이 책을 읽고 둥물중 특히 고양이를 좋아하기 때문에 화가 났다. 왜냐하면 온순했던 사람이 술 때문에 광기,공포, 복수심에 빠져 살다가 동물,그리고 심지어 사람을 죽였기 때문이다.</p>
+        <p>그리고 살인을 저지르 고도 자기가 자유로워 졌다는 생각에 안도감을 느껴 행복하고 즐거워하는 주인공이 죽었으면 좋겠다.</p>
+        <p>그리고 자신의 결백을 더 확실하게 하기 위해 경찰들에게 벽을 후려친 주인공이 바보같았다. 그리고 아주온순하고 인정이 많은 사람이 술 때문에 변한 모습을 보고 나는 술을 안마셔야 겠다고 다짐했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900105564</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>버스</title>
+            <author id="P05564" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">박재현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_흔들린 '나'">
+        <p>
+            <s>버스를 탄다 알수없는 행선지로 가는</s>
+            <s>감정없는 철 상자에 모든것을 맡기고</s>
+        </p>
+        <p>
+            <s>감정없는 이들이 흔들림에 저항없이 하늘거린다</s>
+            <s>감정없는 이들의 마음조차 흔들림에 하늘거린다</s>
+        </p>
+        <p>
+            <s>나는 온힘을 다해 저항하며</s>
+            <s>나는 온힘을 다해 거부한다</s>
+        </p>
+        <p>
+            <s>나는 결국 그들이 주는 달콤함에 취해</s>
+            <s>어쩌면 달콤할지 모른다는 기대감으로 나를 달래며</s>
+            <s>몸을 흔든다</s>
+        </p>
+        <p>
+            <s>2019년4월28일</s>
+            <s>버스안에 모두가 하늘거리며 흔들림에 몸을 맡긴다</s>
+        </p>
+        <p>
+            <s>어쩌면</s>
+            <s>어쩌면 버스는 제자리에 서있을지도 모른다</s>
+            <s>어쩌면 버스는 흔들리지 않았었다</s>
+        </p>
+    </text>
+</SJML>

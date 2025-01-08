@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410376</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>책</title>
+            <author id="P10376" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">심다움</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="책">
+        <p>책을 읽으면 마음이 풍성해진다고 하고 지식을 많이 모을수있다고 한다. 나도 이렇게 생각한다. 나는 어릴때 책을 좋아해서 초등학교때는 다독상을 받았다. 그때 하루에 최대로 빌릴 수 있는게 3권이었는데 그걸 꼬박 꼬박 빌려 읽었다. 그때는 시간이 너무너무 많아서 책을 실컷 읽을 수 있었다. 그렇게 읽어도 나랑 비슷하게 읽은 애가 있어서 나는 매우 놀랐다. 요즘은 종이책이 아닌 전자책을 많이 읽는다. 요즘 내가 읽는 건 좀비가 꾸에에 하면서 달려드는 좀비로부터 생존하기 라고 해야할까 그런 소설이다</p>
+    </text>
+</SJML>

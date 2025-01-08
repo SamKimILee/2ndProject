@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900206988</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>변화를 받아들인다는 것</title>
+            <author id="P06988" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">류보미</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="변화">
+        <p>변화를 받아들인다는 것, 나에겐 조금 어려운 것 같다. 익숙한 곳이 좋고, 익숙한 사람들이 좋은 나는 변화가 때론 무섭기도 하다. 내 곁의 사람이 변한다는 것, 내가 자라온 환경이 변해버리는 것 모두 아직은 받아들이기 힘들다. 변화를 좋아하고 환영하는 사람들이 그저 부럽다.</p>
+    </text>
+</SJML>

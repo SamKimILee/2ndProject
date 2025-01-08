@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312275</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영장에 갔다.</title>
+            <author id="P12275" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">전승훈</author>
+        </sourceInfo>
+    </header>
+    <text date="20190811" subclass="null_물">
+        <p>제목:수영장에갔다.</p>
+        <p>&name1&이 형이랑 누나들과 같이 수영장에 갔다.</p>
+        <p>물이 시원했다, 물에서 나오니까 추웠다.</p>
+        <p>그래서 고기를 빨리 먹고 빨리 물에 들어갔다.</p>
+        <p>물이 따뜻하다. 그래서 또 신나게 놀다가 나와서 점심을먹고 또 들어가서 놀았다. 토요일, 일요일 물 놀이를 하니까 얼굴이 찐해졌다</p>
+    </text>
+</SJML>

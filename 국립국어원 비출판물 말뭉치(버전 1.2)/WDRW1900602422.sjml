@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900602422</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구</title>
+            <author id="P02422" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">김정현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="친구">
+        <p>
+            <s>제목 : 친구</s>
+            <s>우리는 모두 친구다</s>
+            <s>지구에 사는 모든 인류는 친구다</s>
+        </p>
+        <p>
+            <s>진정한 친구를 둔다는 것은 정말 힘든 일이다.</s>
+            <s>인생을 혼자이기 때문이다.</s>
+        </p>
+        <p>
+            <s>사실 친구는 없다.</s>
+            <s>모두 살기 바빠지면 힘들기 때문이다.</s>
+        </p>
+    </text>
+</SJML>

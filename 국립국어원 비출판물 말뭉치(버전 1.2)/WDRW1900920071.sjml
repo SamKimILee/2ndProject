@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900920071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가을저녁 추석</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190908" subclass="null_추석">
+        <p>2019.9.8 화 날씨 (흐림)</p>
+        <p>가을 저녁 추석!</p>
+        <p>봄에 농사를 시작하여 가을에 추수를 한다. 이것을 축하하고 조상들께 감사도 드리는 날은? 추석이다 가을 저녁에 보름달을 보며 즐겁게 지내는 잔치를 한다</p>
+        <p>나는 추석에 친 할머니집에가기로 했다. 나는 보름달을 보고싶다. 난 달만 보면 떨린다 이번에도 떨릴까? 집에가면 송편도 먹고 다른 것도 먹을거다</p>
+    </text>
+</SJML>

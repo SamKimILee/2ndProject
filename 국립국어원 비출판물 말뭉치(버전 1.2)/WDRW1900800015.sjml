@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900800015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하늘을 나는 가방</title>
+            <author id="P00015" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20191004" subclass="null_하늘을 나는 가방">
+        <p>소년이 돈을 펑펑 쓰지않고 아버지가 모은걸 마구 쓰지 안으면좋겠다.</p>
+    </text>
+</SJML>

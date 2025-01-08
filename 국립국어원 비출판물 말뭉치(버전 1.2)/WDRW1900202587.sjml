@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900202587</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>바람</title>
+            <author id="P02587" age="15" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">황수정</author>
+        </sourceInfo>
+    </header>
+    <text date="20160000" subclass="null_바람">
+        <p>
+            <s>바람이 새를 옮겨주고</s>
+            <s>바람이 잎새와 함께</s>
+            <s>꽃내음을 몰고 오면</s>
+            <s>바람이 머리를 빗겨준다</s>
+        </p>
+        <p>
+            <s>바람이 햇살을 몰고 와</s>
+            <s>내 눈꺼풀을 두드리면</s>
+            <s>나는 내 속눈썹 사이사이를 간질이며</s>
+            <s>들어오는 하늘 어딘가를 쫒는다</s>
+        </p>
+        <p>
+            <s>달을 들어올린 하늘은</s>
+            <s>점점이 박힌 작은 옛 추억들을 빛내먀</s>
+            <s>내 두 눈을 뜨겁게 달구고</s>
+            <s>휘몰아치는 밤바람이 무섭게</s>
+            <s>내 머리카락을 엉기고 가면</s>
+            <s>바람은 바람은</s>
+            <s>언제 그랬냐는 듯이</s>
+            <s>낮게 가라앉는다</s>
+        </p>
+        <p>
+            <s>시간이 지난지 몰라</s>
+            <s>달이 떨어진지 몰라</s>
+            <s>바람이 다시 내 머리를 정리해 주고 간지 몰라</s>
+        </p>
+        <p>
+            <s>새를 옮겨준 바람이</s>
+            <s>아득한 내음을 몰고 온 바람이</s>
+            <s>얼마나 그리운 친구였는지</s>
+        </p>
+        <p>
+            <s>오늘도 그저</s>
+            <s>건조한 내 하루에</s>
+            <s>바람이 방문했는지</s>
+            <s>가만히 언덕에 올라</s>
+            <s>그냥 너를 기다린다</s>
+        </p>
+    </text>
+</SJML>

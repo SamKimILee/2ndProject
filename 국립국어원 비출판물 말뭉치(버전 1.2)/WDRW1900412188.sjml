@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412188</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나바이러스</title>
+            <author id="P12188" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200202" subclass="null_코로나바이러스">
+        <p>오늘 엄마가 코로나 바이러스가 나타 났다는 걸 엄마가 나한테 알려주었다. 코로나바이러스는 어디서 생기게 되었냐면 중국 야생동물에서 생겨난거다. 그바이러스 가 부산에 온 다면 부산 사람들이 난리 나겠다. 조심해야 겠다.</p>
+    </text>
+</SJML>

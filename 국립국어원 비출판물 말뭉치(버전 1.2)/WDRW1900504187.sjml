@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900504187</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이정표</title>
+            <author id="P04187" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_이정표">
+        <p>인생에도 의정표가 있으면 좋겠다. 너무 힘들때 이쪽으로 가라고 누군가가 나에게 알려줬으면 좋겠다. 아무도 알려주지 않아서 너무 힘들다. 만약 잘못된 선택을 한다면 본인이 아닌 그 이정표 탓을 해버리고싶다. 나는 너무 많은 책임을 지고싶지 않다.</p>
+    </text>
+</SJML>

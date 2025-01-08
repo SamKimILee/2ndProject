@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711366</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>엄마집</title>
+            <author id="P11366" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이소윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_엄마집">
+        <p>엄마가 3일 동안 살 집 에 가봤았다.</p>
+        <p>그런데...</p>
+        <p>신기한게 물이업썼다!.</p>
+        <p>그레서이모에게물을가저오라고했다.</p>
+        <p>그레서다행이물을가저왔다.</p>
+        <p>거기에, 감자튀김도줫다.</p>
+        <p>그런데.</p>
+        <p>메운소스가무더있었다.</p>
+        <p>너무너무메웠다.  끝</p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900302476</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2019년 나의 일기 모음</title>
+            <author id="P02476" age="26" occupation="무직" sex="F" submission="온라인" handwriting="No">김에녹</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_어느 하루">
+        <p>데이빗 보내고 걸어서 센트럴파크까지 븨랑 걸어갔다</p>
+        <p>사진 잠깐 찍고 박물관 가려다가 지루해서 걍 버스타고 타임스퀘어 가기러 결정</p>
+        <p>타임스퀘어 ㅅㅂ.......</p>
+        <p>사람들 발에 치이는거 너무 싫다 진짜 사람 많은거 빼곤 좋았는디</p>
+        <p>점심 뭐먹지 고민하다가 케이타운 뉴원조가서 삼계탕이랑 감자탕 먹었다</p>
+        <p>그리고 엠파이어스테이트 빌딩 가고</p>
+        <p>너므 추워서 스토어 들어가서 두꺼운 숄 하나 사고..</p>
+        <p>그레고리 카페 가서 노닥거리다가 닥터김이랑 만나러 동의보감으로 감...</p>
+        <p>닥터김이랑 소고기 먹었는데 거의 400불 나옴 뜨헉 내돈으론 절대 못사먹어 닥터김이 사주셨는데 내돈주고는 한식당에서 소고기 안사먹을듯</p>
+    </text>
+</SJML>

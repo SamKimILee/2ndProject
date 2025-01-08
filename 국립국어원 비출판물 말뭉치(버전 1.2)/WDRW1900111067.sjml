@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111067</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>장애인</title>
+            <author id="P11067" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">양은세</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_장애인">
+        <p>
+            <s>&lt;장애인&gt;</s>
+            <s>장애인은 부끄러운것이 절대 아니다.</s>
+            <s>장애인은 놀랄대상이 절대 아니다.</s>
+            <s>장애인은 신기한대상도 우리가 관광을 할</s>
+            <s>대상도 절대 아니다. 그저 장애인은 우리와 같은 사람이다. 장애인은 그냥 그저 장애가 있는 것 뿐이다. 절대 우리와 다른 사람이 아니다. 듣는 것이 감사한 사람, 보는 것이 감사한 사람, 느끼는 것이 감사한 사람이 우리보다 더 대단한 사람. 우리는 평범한 사람, 그렇지만 “장애인”은 이 삶이 얼마나 소중한지 아는사람. 우리보다 더 중요하고 즐거운 삶을 사는 사람. 존경해야할 사람.</s>
+            <s>“장애인”.</s>
+        </p>
+    </text>
+</SJML>

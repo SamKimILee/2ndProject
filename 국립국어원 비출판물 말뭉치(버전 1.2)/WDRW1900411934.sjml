@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411934</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 이야기책</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아홉살 마음사전</title>
+            <author id="P11934" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">양태민</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_감격">
+        <p>감격스러워</p>
+        <p>넌멋진 구름이야!!!!!</p>
+        <p>시험100점을 맛았을때</p>
+        <p>야구에서홈런</p>
+        <p>을쳤을때</p>
+        <p>선생님께</p>
+        <p>칭찬을받았을떼</p>
+        <p>나빠</p>
+        <p>진석이가</p>
+        <p>내가위를 허락없</p>
+        <p>이가져 갔을때</p>
+        <p>동생이 내</p>
+        <p>말을 안들을때</p>
+    </text>
+</SJML>

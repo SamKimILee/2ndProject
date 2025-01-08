@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511553</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>개학</title>
+            <author id="P11553" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김래형</author>
+        </sourceInfo>
+    </header>
+    <text date="20200129" subclass="null_개학">
+        <p>2020년 1월 29일 (수)</p>
+        <p>&lt;개학&gt;</p>
+        <p>오늘은 방학 마지막 날이다. 방학이 끝나서 아쉽다.</p>
+        <p>더 놀고 싶었는데..... 그래도 개학을 하면 급식을 먹을 수 있고 선생님과 친구들을 만날 수 있어서 좋다. 친구들은 어떤 방학을 보냈는지 궁금하다</p>
+    </text>
+</SJML>

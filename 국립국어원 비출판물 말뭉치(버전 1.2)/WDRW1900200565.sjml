@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900200565</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>만약 다시 어린 아이로 돌아간다면?</title>
+            <author id="P00565" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="만약">
+        <p>소설에 많이 나오는 단골 소재. 내가 만약 다시 어린 아이로 돌아간다면? 음, 몇 살로 돌아가볼까? 5살? 내 가장 어린 기억은 6살인 것 같다. 유치원에서 친구들과 잘 못 어울려서 슬펐던 기억이 난다. 사실 초등학교 2학년까지도 사교성이라곤 눈꼽만큼도 없었는데! 무슨 생각을 하고 살았는지 궁금하다 하하 다시 살게 되면 어린이일 때 더 많은 걸 해보고 배우고 싶다. 특히 운동! 난 내가 몸이 둔해서, 놀림 받는게 싫어서, 내가 못하는 것에 내 자신감을 잃어버리게 되서 등등의 이유로 운동을 거의 하지 않았는데, 다시 돌아간다면 뜀박질도 열심히 하고, 수영도 꼭 배우고 싶다. 지금의 기억으로 뭔가 대단한 것을 해보기엔... 아는게 많이 없는 것 같고 그저 더 많은 것을 배우고 도전하고 싶은 생각이 가장 크다.</p>
+    </text>
+</SJML>

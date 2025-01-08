@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311644</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>하루</title>
+            <author id="P11644" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_하루">
+        <p>
+            <s>매일 매일이 똑같은 하루</s>
+        </p>
+        <p>
+            <s>처음에는 어색했던 것들이</s>
+            <s>익숙해져 가는 게 싫다 가도</s>
+        </p>
+        <p>
+            <s>이 똑같은 날들 속에</s>
+            <s>그 하루에만 있는 일상들이 느껴질 때면</s>
+        </p>
+        <p>
+            <s>그 하루가 오직 그 하루가 되고</s>
+            <s>익숙해져 가던 게 새로워지고</s>
+        </p>
+        <p>
+            <s>이 작고 세세한 것들이</s>
+            <s>내 하루를 특별하게 만든다</s>
+        </p>
+    </text>
+</SJML>

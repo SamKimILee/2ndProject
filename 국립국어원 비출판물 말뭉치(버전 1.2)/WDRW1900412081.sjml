@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412081</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>충치 치료 한 날</title>
+            <author id="P12081" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최승채</author>
+        </sourceInfo>
+    </header>
+    <text date="20191115" subclass="null_충치">
+        <p>오늘은 충치 치료를 했다. 충치 치료를 시작했을 때 떨렸다. 특히 마취주사가 제일 떨렸다. 너무 아파서 엄마가 손을 꼭 잡아주셨다. 치료가 끝나고 퉁퉁 부었다. 물먹을때 아무런 느낌이 없었다. 다음주에 치료를 마무리 할것이다.</p>
+    </text>
+</SJML>

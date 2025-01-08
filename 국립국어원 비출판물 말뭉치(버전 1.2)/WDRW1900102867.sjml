@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102867</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>복스 </title>
+            <author id="P02867" age="52" occupation="전업주부" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_활자체">
+        <p>복스의 분류법은 시대와 문화, 혹은 글씨를 쓸 때 사용하는 도구에 따른 형태의 차이를 기반으로 하여 활자체의 변화 양상과 해당 활자체가 나타난 시대에 대한 이해를 넓히는 데 도움을 주지만, 디지털 활자 시대에 접어들면서 활자체의 수와 형태가 매우 다양해짐에 따라 그 기능을 제대로 하지 못하고 있다. 위의 10가지 분류를 크게 보면 세리프와 산세리프 활자체로 나뉘는데, 이는 Rotis Semi Serif, Semi Sans-serif 등의 활자체를 분류하기에는 적합하지 않다. 이 외에도 9가지의 항목에 들어가지 못하는 활자체는 모두 Graphic으로 분류되어 상반된 성격을 가지는 활자체가 같은 범위에 속하게 되는 한계를 보인다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212015</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나무심기</title>
+            <author id="P12015" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">박종원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190330" subclass="null_나무심기">
+        <p>오늘은 나무심기를 약속하고 심으러간날, 가슴이 설렜다.</p>
+        <p>산에 올라가 삽을 들었다.</p>
+        <p>구덩이를 파서 식물을 구덩이에 넣은 다음 흙으로 덮었다.</p>
+        <p>스스로 혼자 해서 그런지 왠지 더 기분이 좋았다.</p>
+        <p>나는 이런 활동을 좋아한다.</p>
+        <p>자연을 사랑하고 아끼기 때문이다.</p>
+        <p>오늘은 마음에 간직하고 싶다.</p>
+    </text>
+</SJML>

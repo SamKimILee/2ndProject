@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212245</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>에어쇼</title>
+            <author id="P12245" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20151025" subclass="null_에어쇼">
+        <p>10/25(일)</p>
+        <p>날씨:여름처럼 햇 빛이 뜨거웠다.</p>
+        <p>뜨거워서 내몸이 불덩이가될 것 같다.</p>
+        <p>(에어 쇼)</p>
+        <p>느즈막이 일어나 엄마 아빠랑 에어쇼를 보러 갔다. 가든파이브 옥상 정원으로 갔는데 사람들이 많이 있었다. 전투 기 두대가 하트 모양한개를 만드는 게 멋있었다. 태극무늬도 전투기 두대가 만든건데 흰 색 연기가 부족해 태극무늬가 잘 안보 여 아쉬웠다. 이 멋진 쇼를 보여 주려고 연습을 많이한 조종사 들이 고마웠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300857</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 소설</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독배</title>
+            <author id="P00857" age="20" occupation="무직" sex="F" submission="온라인" handwriting="No">임사영</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_죽음">
+        <p>당신은 독에도 죽지 않으니 우리는 같은 독배를 나누어 마실 수도 없는 노릇이다. 죽음이 낭만적이라는 생각은 해본 적이 없었으나 그는 문득 그런 생각을 떠올렸다. 정확히는 어쩌다 초대받은 자리에서 로미오와 줄리엣을 보면서 든 생각이지만, 연극이 그의 삶에 크나큰 감명을 줄리가 없었으니 '문득'도 틀린 말은 아닐 것이다. 그들의 죽음과 사랑이 그에게 크게 감흥을 주지 못했음은 말하지 않아도 대부분이 추측할 사실이겠다. 그에게 죽음은 그저 죽음이라고. 명예도 무엇도 남지 않는 '끝'. 죽으면 명예라는 것이 무슨 소용일까. 그는 죽음 이후에 남는 명예를 위해 생을 바칠 이름을 하나 알고 있었으나 단 한번도 그것을 이해한 적은 없었다. 명예를 추구하던 그 사람을 존중하지만 그 자신에게 죽음을 불사하고 쟁취하는 명예라는 것은 멀고 먼 이야기로, 마치 먼 이국의 비극을 듣는 것처럼 현실감 없었다.</p>
+    </text>
+</SJML>

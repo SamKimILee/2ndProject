@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900409353</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>지금</title>
+            <author id="P09353" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="지금">
+        <p>
+            <s>지금</s>
+            <s>이세상에서 소중한 금</s>
+            <s>지금.</s>
+        </p>
+        <p>
+            <s>모두가 가지고 있는 금</s>
+            <s>지금</s>
+        </p>
+        <p>
+            <s>지금 이순간에도 계속 가진 금</s>
+            <s>지금.</s>
+        </p>
+        <p>
+            <s>언제나있고 언제나 부족한</s>
+            <s>지금</s>
+        </p>
+        <p>
+            <s>지금 우리는 무엇에 사용하고 있을까.</s>
+        </p>
+    </text>
+</SJML>

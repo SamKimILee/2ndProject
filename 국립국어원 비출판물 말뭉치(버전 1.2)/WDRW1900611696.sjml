@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611696</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내 집</title>
+            <author id="P11696" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최은민</author>
+        </sourceInfo>
+    </header>
+    <text date="201907020" subclass="null_내 집">
+        <p>&name1&내 집</p>
+        <p>내 유치원 친구 &name1&네 집에 갔다. 동생 &name2&가 짜증을 부려서 힘들었다. 누구 편을 들어야 할지 모르겠다. 다음에 우리 집에 초대하고 싶다.</p>
+    </text>
+</SJML>

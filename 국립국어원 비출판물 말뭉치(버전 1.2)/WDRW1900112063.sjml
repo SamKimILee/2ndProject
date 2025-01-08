@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112063</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>포천할머니집.크리스마스</title>
+            <author id="P12063" age="5" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조성혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_포천할머니">
+        <p>오눈은성탄절날그리고포천할머니네집으로갔다.그리고할머니집으서TV을봤다그리고할머니가돈을줬다.우리그리고가을이랑여름이랑이랑산책을했다</p>
+        <p>너무재미있었다.제미있었다</p>
+    </text>
+</SJML>

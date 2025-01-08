@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900420500</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>제목없음</title>
+            <author id="P20500" age="10" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">신재혁</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_가족">
+        <p>저희 가족은 평일엔 3명 휴일엔 4명입니다. 평일엔,아빠,엄마,나 입니다</p>
+        <p>휴일엔 ,아빠,엄마,나, 이모, 입니다.</p>
+        <p>저는 7.00. 시에 일어나 7.30 아침을 먹고 8.00시에 학교 갈 준비을 하고 8.40, 8.30에 학교을</p>
+        <p>갑니다 12 30에 집에와서 2.00 방과 후를 가서 4. 20 시에 집을 와서 6.00 시에 밥을 먹고 10.30. 에 잠을 잡니다.</p>
+    </text>
+</SJML>

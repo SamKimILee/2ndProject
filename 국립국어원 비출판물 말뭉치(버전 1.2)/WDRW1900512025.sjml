@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512025</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>스파밸리를 갔다.</title>
+            <author id="P12025" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200119" subclass="null_스타밸리">
+        <p>오늘 엄마 아빠랑 스파밸리에 갔다. 그런데 차가엄청많았다. 수영복으로 갈아입고 아빠랑 미끄럼틀을 탔다. 큰 미끄럼틀은 아빠랑 같이 타고 작은 미끄럼틀은 나혼자 탔다. 그리고 아빠랑유수풀을 타고 놀았다. 그리고 나서 아빠와 닥터피쉬체험을 했는데 엄청 간지러웠다. 돈까스를 먹고 집에돌아왔다. 참즐거운하루였다</p>
+    </text>
+</SJML>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205059</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>구름꽃</title>
+            <author id="P05059" age="15" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_구름꽃">
+        <p>
+            <s>가지에 걸린</s>
+            <s>구름꽃</s>
+            <s>행여 날아갈까봐</s>
+            <s>눈으로 만져봅니다</s>
+        </p>
+        <p>
+            <s>할머니가 피워낸</s>
+            <s>구름꽃</s>
+            <s>이리봐도 저리봐도</s>
+            <s>고운내납니다</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900711457</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>달샤베트를 읽고</title>
+            <author id="P11457" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">장지아</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_달샤베트">
+        <p>달 샤베트 를보았다.</p>
+        <p>부지런한 반장 할머니가 큰 고무 대야로 달방울을 받아서, 달샤베트를 많이, 만들어서, 주민들에게 나누어 주는, 이야기다.</p>
+    </text>
+</SJML>

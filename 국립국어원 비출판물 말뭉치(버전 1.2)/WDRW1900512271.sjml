@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512271</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>수영 평영</title>
+            <author id="P12271" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김도연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200113" subclass="null_평영">
+        <p>수영 평영</p>
+        <p>2020년 1월 13일 월요일</p>
+        <p>따뜻한 날</p>
+        <p>수영강습 들어간지 7일 밖에 안 됐는대 평영을 배운다. 자유영, 배영은 쉬운데 평영은 처음했는데 잘하진 않고 어럽지도 않다. 수영이 끝날 때 평영을 조금 했다. 꼭 끝 나기전에는 수영 시합이나 잠수대결을 한다. 평영을 배워서 좋았다.</p>
+    </text>
+</SJML>

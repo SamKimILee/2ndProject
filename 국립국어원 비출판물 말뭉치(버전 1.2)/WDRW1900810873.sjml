@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900810873</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>사랑의 말</title>
+            <author id="P10873" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김하은</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="말">
+        <p>
+            <s>좋아한다는 말은 어리숙해 보여 참았고,</s>
+            <s>보고 싶다는 말은 나만 애타는 것 같아 말았다.</s>
+            <s>그립다는 말은 서랍 속 빛 바랜 사진 같았고,</s>
+            <s>사랑한다는 말은 너무 뜨거워 도저히 뱉을 수 없다.</s>
+        </p>
+        <p>
+            <s>더이상 형용할 수 없는 사람의, 사랑의 말.</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511142</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고요</title>
+            <author id="P11142" age="17" occupation="고등학생" sex="F" submission="온라인" handwriting="No">최고원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고요">
+        <p>허공속의 바람소리도 나뭇잎들이 장난치는 소리도 들리지 않던 그 순간이 좋았다</p>
+        <p>맑은 하늘의 구름들은</p>
+        <p>오로지</p>
+        <p>나를 위해 존재하는 것만 같았고</p>
+        <p>나에게만 주어지는 것 같은 순간이었다</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110796</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화의 소재</title>
+            <author id="P10796" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">함수현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="영화">
+        <p>영화는 언제나 새로운 사건의 기승전결로 쓰여진다. 그렇다면 우리의 평범한 일상은 영화가 될 수 없는걸까?</p>
+        <p>트루먼 쇼 같은 것 말고.. 그냥, 일어나서 밥먹고 학교가서 밥먹고 학원가서 간식먹고 밥먹고 집와서 숙제하고..........</p>
+        <p>..........</p>
+        <p>안되겠구나..</p>
+        <p>하지만.. 이렇게 똑같고 재미없는 일상 속에서 우리가 내일 하루를 그리는 까닭은</p>
+        <p>분명 이런 하루들 사이에도 새로운 것이 있고 즐거움이 있기 때문이 아닐까?</p>
+        <p>그럼 그러한 것도 영화로 만들 수 있을 것만 같다.</p>
+        <p>하지만 상업성이 없기 때문에 반려되겠지..ㅜㅠ</p>
+    </text>
+</SJML>

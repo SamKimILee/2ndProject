@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310793</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어떻게 하나도 모르니.</title>
+            <author id="P10793" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">정은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="모르다">
+        <p>
+            <s>살다보면 내가 신이 아닌 이상 모르는 게 있을 수 있다.</s>
+            <s>모르는 게 좀 많을 수도 있고</s>
+            <s>적을 수도 있다.</s>
+            <s>다들 처음은 모르고 어려운 법인데</s>
+            <s>예전 자기 생각은 못하고</s>
+            <s>말하는 사람들이 있다.</s>
+            <s>그런 사람들을 보면 한마디 하고 싶지만</s>
+            <s>모르니까.</s>
+        </p>
+    </text>
+</SJML>

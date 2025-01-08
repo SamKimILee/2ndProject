@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900712326</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>이런 세계화는 반갑지 않다.</title>
+            <author id="P12326" age="73" occupation="무직" sex="F" submission="온라인" handwriting="No">이복희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="세계">
+        <p>전세계적인 전염병 확산, 언젠가 지금은 고인이 된 대통령이 '세계화(세계하)'를 강조할 때 발음 때문에 웃었는데</p>
+        <p>전염병의 세계화라니 이것은 그분도 원하지 않았겠지 싶다.</p>
+        <p>누군가 앞으로는 바이러스의 창궐로 인류가 위협을 받는다고 했는데 실감이 난다.</p>
+    </text>
+</SJML>

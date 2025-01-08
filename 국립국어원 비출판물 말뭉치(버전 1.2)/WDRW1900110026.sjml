@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>천둥</title>
+            <author id="P10026" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신지율</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_천둥">
+        <p>오늘 학교를 마치고 블럭 버스에서 놀았다. 엄마와 집으로 오려는데 천둥 번개가 치고  비가 왔다. 우산을 써도 비가 옆으로 다들어와서 다리가추웠다. 옷도 다 젖었다.</p>
+        <p>번개가 꽝 치고나니 우르르쾅 소리가 났다. 너무 무서웠다. 천둥 소리가 고양이 소리면 좋겠다.</p>
+    </text>
+</SJML>

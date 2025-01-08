@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211704</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외국인 친구와 잘 지내는 방법은?</title>
+            <author id="P11704" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김지후</author>
+        </sourceInfo>
+    </header>
+    <text date="20191222" subclass="null_외국인 친구">
+        <p>2019년 12월 22일 일요일 날씨:해님이 미소를 방긋</p>
+        <p>제목:외국인 친구와 잘 지내는 방법은?</p>
+        <p>우리나라와 언어와 문화, 생김새가 다른 외국인과 잘 지내는 방법은 무엇이 있을까?</p>
+        <p>첫번째로, 우리와 언어가 다르다고 흉보면 안된다.</p>
+        <p>두번째로, 우리와 다른 문화를 존중해 주어야 한다.</p>
+        <p>세번째로, 흑인이나 백인의 생김새를 무시하거나 놀리면 안된다. 마지막으로, 외국인이 말을 걸면 친절하게 답변해 주어야 한다. 이런 것 들을 잘 지켜야 외국인과 잘 지낼 수 있다고 생각한다.</p>
+    </text>
+</SJML>

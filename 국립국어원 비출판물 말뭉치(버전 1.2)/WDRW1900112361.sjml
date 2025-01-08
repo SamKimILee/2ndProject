@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112361</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>꿈 이야기</title>
+            <author id="P12361" age="9" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이연제</author>
+        </sourceInfo>
+    </header>
+    <text date="20191118" subclass="null_꿈">
+        <p>11/18</p>
+        <p>&lt;꿈 이야기&gt;</p>
+        <p>꿈이야기다.</p>
+        <p>지금의 장소는 학교이다.</p>
+        <p>내 꿈이야기는 다 이상하다.</p>
+        <p>선생님이(&name1& 쌤 아님) 2만원을 들었다.</p>
+        <p>“2만원으로 모든 것을 할 수 있다면 무엇을 할 것입니까!”</p>
+        <p>선생님이 말했다.</p>
+        <p>“미국에 가고 싶어요”</p>
+        <p>내가 말했다.</p>
+        <p>고작 2만원으로는 절대! 미국엔 못가지만....!</p>
+        <p>(그래서 내꿈이 이상한 것)</p>
+        <p>“내! 이, 2만원을 줄 테니, 네가 미국에 가게 해주마.”</p>
+        <p>선생님이 말했다.</p>
+        <p>“와우 대박”</p>
+        <p>그래서 난 미국에 가게 됬다</p>
+    </text>
+</SJML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412424</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>설거지</title>
+            <author id="P12424" age="6" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190908" subclass="null_설거지">
+        <p>2019년 9월 8일</p>
+        <p>날씨: 맑음   제목: 설거지</p>
+        <p>고무장갑을 꼈는데 크기가 안 맞았다.</p>
+        <p>고무장갑 크기가 안 맞아서 조금 불편했다.</p>
+        <p>그렀지만 설거지는 잘 됐다.</p>
+        <p>설거지량이 적어서 잘 됐다.</p>
+        <p>그릇 3개, 큰 그릇2개, 뚜껑1개, 접시1개, 숫가락3개를 설거지 했다.</p>
+        <p>뜨거운 물로 해야 소독이 잘 되는데 화상을 입을까봐 따뜻하게 했다.</p>
+        <p>오빠도 저번에 했었는데 오빠는 미지근한 물로 설거지를 했다</p>
+        <p>옜날에는 소독기가 있어서 물로 행구기만 했는데 지금은 고장나서 없다.</p>
+        <p>하고 나니까 힘들지도않고, 뿌듯했다.</p>
+    </text>
+</SJML>

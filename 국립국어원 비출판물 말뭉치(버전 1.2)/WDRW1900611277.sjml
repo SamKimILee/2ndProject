@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900611277</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>손가락이 하는 일</title>
+            <author id="P11277" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">오은지</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>
+            <s>누구에게는 저마다 왼손 오른손이 있지</s>
+            <s>엄지.검지.중지.약지.소지</s>
+            <s>한 손마다 다섯가지의 손가락</s>
+        </p>
+        <p>
+            <s>우리의 손가락들이하는 일은 다양하지</s>
+            <s>예를 들어 보면 엄지로는 기분표현을 검지로는</s>
+            <s>무엇을 가르킬 때 소지로는  약속을 할때</s>
+        </p>
+        <p>
+            <s>이렇게 다양한 손가락이 하는 일들</s>
+            <s>꼼지락 꼼지락 거리며 열심히  움직이면서</s>
+            <s>제 할 일을 하는 고마운 손가락</s>
+        </p>
+    </text>
+</SJML>

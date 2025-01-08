@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900303443</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>2019년 12월 24일~29일</title>
+            <author id="P03443" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_잠">
+        <p>불규칙이 규칙적으로 이루어진 날들. 시간이 지나면 그리워질 수도 부끄러울 수도 있을 인생에 몇 없을 불규칙의 날들. 잠의 연속이다. 아침 일찍 해가 뜰때 잠에 빠지고, 눈을 뜨고 머지않아 해가 진다. 태양과 술래잡기를 반복한다. 잡는 사람도 잡히는 사람도 없이 규칙적이 되어버린 불규칙만 남아있다.</p>
+    </text>
+</SJML>

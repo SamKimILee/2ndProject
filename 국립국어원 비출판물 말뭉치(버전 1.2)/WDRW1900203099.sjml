@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900203099</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일본과 중국의 북춤</title>
+            <author id="P03099" age="20" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_북춤">
+        <p>일본의 북춤은 파란 민소매 도복같은 옷을 입고 흰 두건을 두른 남성들이 등장한다. 피리를 불어 멜로디를 이끌어가는데, 이것은 깊은 울림과 청아함을 가진 한국의 소금보다 더욱 얄쌍하고 높은 소리가 난다. 북을 무대 밖으로 나가 관중석에서 치기도 한다. 춤을 추거나 박수를 치기도 한다. 향발 같은 형태의 타악기를 금속악기를 치기도 한다. 막대 두 개만을 가지고 춤을 추는 사람도 있는데 그 모습이 춤보다는 체조에 가까워 보인다. 사무라이 문화가 남아 있는 듯한 모습이다. 중국은 마치 오케스트라처럼 무대위치를 칼같이 맞춰 서있다. 아주 화려하고 금장식이 많이 달린 붉은 옷을 입고 있는데 이 생김새가 마치 갑옷 같아 보인다. 멜로디를 이끌어 갈 만한 악기는 나오지 않고 오로지 타악기로만 구성되어 있다.</p>
+    </text>
+</SJML>

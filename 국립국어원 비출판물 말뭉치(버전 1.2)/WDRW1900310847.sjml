@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아이</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_아이">
+        <p>
+            <s>안녕 아이야</s>
+            <s>안녕 아이야</s>
+        </p>
+        <p>
+            <s>너는 어째서 웃지 않니?</s>
+        </p>
+        <p>
+            <s>아이야, 아이야</s>
+        </p>
+        <p>
+            <s>나를 향해서 웃어주렴</s>
+        </p>
+        <p>
+            <s>아이야, 아이야</s>
+        </p>
+        <p>
+            <s>내 앞에선 울어도 된단다.</s>
+        </p>
+        <p>
+            <s>아이야, 아이야</s>
+        </p>
+        <p>
+            <s>나는 너의 쉼터야</s>
+        </p>
+        <p>
+            <s>아이야, 아이야</s>
+        </p>
+        <p>
+            <s>여기 앉아 울음을 그치렴</s>
+        </p>
+        <p>
+            <s>아이야, 아이야</s>
+        </p>
+        <p>
+            <s>너가 언젠가 떠날 때</s>
+            <s>너에게 이렇게 인사할게</s>
+        </p>
+        <p>
+            <s>안녕 아이야</s>
+            <s>안녕 아이야</s>
+        </p>
+    </text>
+</SJML>

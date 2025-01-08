@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220062</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>자랑스러운 우리나라 병풍 만들기</title>
+            <author id="P20062" age="7" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_병풍">
+        <p>오늘 병풍만들기를 했는데 수제로 가져왔던 우리나라소게하기 자료를 사용 해서 병풍을 만들었다.</p>
+        <p>짜꿍이 가져오지 않아서 빌려주었다. 병풍은 우리반친구들 다같이 만들어서 전시해 놓았다. 다른 가져온 자료를 보고 ‘아, 굉장히 다양하고 멋진 건충물들이 우리나라에 많구나’라고 생각했다. 태권도도 우리나라의 자랑거리라고 해서 매우기분이 좋았다.</p>
+    </text>
+</SJML>

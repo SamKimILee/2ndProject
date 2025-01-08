@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212633</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>물놀이</title>
+            <author id="P12633" age="6" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_오늘">
+        <p>오늘한일물놀이햇는데</p>
+        <p>다슬기를잡고놀아습니다</p>
+        <p>물고기도잡고놀아는데</p>
+        <p>한아도안잡펴습니다</p>
+        <p>큐부도 타고놀아습니다</p>
+        <p>탠트에서한밤잤고았서요</p>
+    </text>
+</SJML>

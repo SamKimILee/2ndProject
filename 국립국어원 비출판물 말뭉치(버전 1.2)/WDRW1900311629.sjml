@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311629</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>세상에서 가장 소중한 너에게</title>
+            <author id="P11629" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20170000" subclass="null_가족">
+        <p>저도 나중에 크면 세상에서 가장 소중한 사람한데 편지를 보내거나 소중한 사람을 주인공 으로 하고 싶어요!</p>
+        <p>언젠간 크면 저도 그런 책을 만들고 싶어요! 그리고 만약 제가 만들게 된다면 가족을 주인공 으로 하고 싶어요</p>
+    </text>
+</SJML>

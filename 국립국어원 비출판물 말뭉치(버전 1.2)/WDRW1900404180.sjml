@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404180</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화 사도</title>
+            <author id="P04180" age="54" occupation="자영업자" sex="M" submission="온라인" handwriting="No">하형욱</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_영화">
+        <p>두번 보고 나니 영조가 이해 됐다. 설민석 쌤의 배경지식을 들은 덕이 컸지만. 영조의 행동이 조금은 이해가 됐고, 이는 정해진 답이 없는, 무어라 정의 내릴 수도 없이 그저 가슴 아픈 비극적 사건이라 생각했다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900103550</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울-너</title>
+            <author id="P03550" age="19" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김다연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_바람">
+        <p>
+            <s>겨울 - 너</s>
+        </p>
+        <p>
+            <s>잊힌 것이 많을 수록</s>
+            <s>발자국이 더 무거워진다는 건 학교에서도 가르쳐주지 않는다</s>
+        </p>
+        <p>
+            <s>들쑥날쑥한 눈밭을 걸었어</s>
+            <s>종아리까지 빠지는 바람에 집에 오기까지 온 다리가 다 젖었더라</s>
+            <s>너는 그걸 보고 말했지 넌 잊혀진 것이 많구나</s>
+        </p>
+        <p>
+            <s>잊혀지다는 문법적으로 틀린 말이래</s>
+            <s>잊지 않기 위해 눈 감았다</s>
+            <s>잊혀지지 않기 위해</s>
+        </p>
+        <p>
+            <s>잊혀지다</s>
+            <s>믿겨지다</s>
+            <s>쓰여지다</s>
+        </p>
+        <p>
+            <s>왜 틀린지 모르겠어</s>
+            <s>믿어지는 일이 있고</s>
+            <s>믿겨지는 일이 따로 있지 않니</s>
+            <s>쓰여지는 시가 있고 쓰이는 책이 있듯이</s>
+        </p>
+        <p>
+            <s>그렇게 말하는 네 눈을 감긴다</s>
+            <s>틀려도 맞는 것들이 있길</s>
+            <s>가령 네가 밤마다 행복하자고 암송하는 시처럼</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510580</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>해와 달이 만나는 시간</title>
+            <author id="P10580" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_해 달">
+        <p>
+            <s>해야 해야</s>
+            <s>내 너에게 갈 수 없으니</s>
+            <s>그림자에게 속삭여 본다</s>
+            <s>너를 좋아한다고</s>
+        </p>
+        <p>
+            <s>달아 달아</s>
+            <s>내 너에게 갈 수 없으니</s>
+            <s>바람에게 속삭여 본다</s>
+            <s>너를 사랑한다고</s>
+        </p>
+        <p>
+            <s>우리 직접 만날 수는 없지만</s>
+            <s>너가지고 내가뜨는 그 중간 쯤에서</s>
+            <s>서로의 빛을 느낄 수 있기를</s>
+        </p>
+    </text>
+</SJML>

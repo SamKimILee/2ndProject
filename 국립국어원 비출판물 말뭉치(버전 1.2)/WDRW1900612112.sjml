@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612112</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>어승생악에간날</title>
+            <author id="P12112" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">배서윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20180809" subclass="null_어승생악">
+        <p>날짜:8월9일목요일(날씨 맑음)</p>
+        <p>제목 : 어승생악에간날</p>
+        <p>한라산에 있는 오름,어승생악에 갔다. 해발이 1169m였다. &name1&이와 같이 갔다. 좋았다. 어승생악에 올라갔을 때 다리가 실처럼 생긴 실거미를 봤다. 수컷노루도 보고, 개구리도 봤고,매뚜기도 봤다. 신기했다. 정상에는 풍경이 좋고 시원했다.</p>
+        <p>올라올때 힘들었지만,재밌었다.</p>
+    </text>
+</SJML>

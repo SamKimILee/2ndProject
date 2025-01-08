@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211554</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈이 오는 날</title>
+            <author id="P11554" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">공소현</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_눈">
+        <p>
+            <s>눈이 오는 날</s>
+            <s>&name1&</s>
+        </p>
+        <p>
+            <s>눈이 오는 날</s>
+            <s>눈사람 만들지</s>
+            <s>눈싸움 할지</s>
+            <s>고민이다.</s>
+        </p>
+        <p>
+            <s>그래서</s>
+            <s>친구들과</s>
+            <s>모여서</s>
+            <s>다수결로</s>
+            <s>정했다.</s>
+        </p>
+        <p>
+            <s>그래서</s>
+            <s>눈이오는</s>
+            <s>날에는</s>
+            <s>눈사람 만들지</s>
+            <s>눈싸움 할지</s>
+        </p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111571</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재롱잔치</title>
+            <author id="P11571" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">최정서</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_재롱잔치">
+        <p>나는 오늘 정말로 신났다 왜냐면 &name1&이가 재롱잔치를 하는 날 이였다. 그래서 &name1&이가 가자마자 준비해서 갔다. 거기엔 사람들이 북적북적 있어서 시끄러웠다. &name1&이 차래가 되자, 나는 박수를 쳤다. &name1&이는 엄청 잘했다. 옷도 멋지고 오늘따라 더 귀여웠다. 재롱잔치가 끝나자마자 &name1&이한태 말했다. "&name1&아 정말 잘했어</p>
+    </text>
+</SJML>

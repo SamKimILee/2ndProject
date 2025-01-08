@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301932</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>재밌다.</title>
+            <author id="P01932" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">송한슬</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="재밌다">
+        <p>글을 이렇게 아무말이나 쓰는 건</p>
+        <p>아주 즐겁고 재미난 일이다</p>
+        <p>내 생각을</p>
+        <p>아무렇게나 쓸 수 있는 건 재미난일이다.</p>
+    </text>
+</SJML>

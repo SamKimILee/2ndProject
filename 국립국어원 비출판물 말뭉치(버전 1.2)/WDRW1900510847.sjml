@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 좋아하는 것</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_너">
+        <p>
+            <s>나른한 오후의 따뜻한 햇살</s>
+            <s>통통한 강아지의 배</s>
+            <s>고양이의 발바닥</s>
+            <s>아침에 먹는 차가운 물</s>
+            <s>새벽에 들려오는 새소리</s>
+            <s>몸이 사르르 녹는 침대</s>
+            <s>한여름의 바다</s>
+            <s>달달한 초콜릿</s>
+            <s>새하얀 구름</s>
+            <s>해질녁 주황색 하늘</s>
+            <s>반짝이는 가루들</s>
+        </p>
+        <p>
+            <s>그리고 너</s>
+        </p>
+    </text>
+</SJML>

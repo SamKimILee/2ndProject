@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312486</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>도시락</title>
+            <author id="P12486" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김동준</author>
+        </sourceInfo>
+    </header>
+    <text date="20190906" subclass="null_도시락">
+        <p>2019년 9월 6일</p>
+        <p>오늘 정말 황당한 하루였다.점심시간에 즐겁게 밥을 먹으려고 갔는데 황당한 일이 일어났다. 도시락을 열려고 했는데 안 열렸다.선생님한테 도움을 청했지만 열리지 않았다.</p>
+        <p>학교에서 제일 힘이 센 선생님께서도 열지 못하셨다.</p>
+        <p>나는 이런 상황을 처음 봤다. 나는 밥 대신 과자를 먹어서 신이 났다. 그런데 배는 좀 고팠다.</p>
+    </text>
+</SJML>

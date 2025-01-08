@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900400525</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>깊이</title>
+            <author id="P00525" age="23" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_몰입">
+        <p>무언가에 정신 없이 빠져보고 싶다. 사람이든 물건이든 장소든 그 무엇이든 상관 없이 깊게. 내 생애 하나밖에 없는 인생을 바쳐 빠져들 수 있는 그런 감정을 가지고 싶다. 그런 사람들을 보면 부럽다. 나도 저렇게 좋아할 수 있을까. 무의식적으로 언제든 빠져나갈 수 있도록 깊이 파고들지 않는 것 같다.</p>
+    </text>
+</SJML>

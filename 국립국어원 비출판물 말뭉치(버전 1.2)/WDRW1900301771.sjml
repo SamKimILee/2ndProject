@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900301771</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>노래를 듣자 기억이 되살아났다</title>
+            <author id="P01771" age="18" occupation="무직" sex="F" submission="온라인" handwriting="No">김민선</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="기억">
+        <p>자기전에 노래를 한 곡 들었다. 그러자 13년 전 무려 6살 때 어린이집에서 수학여행처럼 2박3일인가로 여행가서 저녁에 어린이집일행들 다 모여있고 앞에서 레크레이션강사처럼 누가 말하고 그때 났던 공기냄새랑 촉감이랑 기분이 떠오르는 노래였다. 엄마랑아빠 없이 맞았던 밤, 다신 오지 않을 것 같던 장면, 그리고 친구들.. 페이스페인팅하고 친구랑 산을 올랐던 기억까지 ..다 얼마 전인 것 처럼 기억이 났다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412044</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>ZOO</title>
+            <author id="P12044" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">서민진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200427" subclass="null_ZOO">
+        <p>오늘은 ZOO를 했다. 나는 너무너무 떨렸다. 나는 선생님과, 친구들의 얼굴을 보았다. 선생님께서 주말에 무었을 했는지 물어보셔서 두류공원에 갔다고 말씀드렸다. 나는, &name1&이, &name2&이, &name3&이 얼굴을 보았다. &name2&이는 오랜만에 만나서 너무 반가웠다. 나는 선생님과, 친구들을 보니 얼른 학교에 가고 싶은 마음이 들었다. 오늘은 선생님과, 친구들을 보니 참 행복했다.</p>
+    </text>
+</SJML>

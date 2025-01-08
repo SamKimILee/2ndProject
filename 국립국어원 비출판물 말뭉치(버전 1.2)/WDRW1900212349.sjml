@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900212349</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>시</title>
+            <author id="P12349" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_손톱깎이">
+        <p>
+            <s>&lt;시조&gt; &lt;손톱깎이&gt;</s>
+            <s>내 친구는 / 오독오독 / 손톱먹는 / 손톱깎이</s>
+            <s>손톱을/잘근잘근/ 질근질근/ 씹어먹지/</s>
+            <s>손톱이/ 날카로운 /내친구는/손톱깎이/</s>
+        </p>
+    </text>
+</SJML>

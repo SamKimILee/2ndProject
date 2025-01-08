@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900311691</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>초능력</title>
+            <author id="P11691" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김민재</author>
+        </sourceInfo>
+    </header>
+    <text date="20190428" subclass="null_초능력">
+        <p>나에게 초능력이 생긴다면 나는 멋지게 하늘을 나는 초능력을 제일 갖고 싶다. 왜냐하면 조금 있으면 여름인데 하늘을 날으면 시원하기 때문이다. 그리고 에어컨도 안틀어서 전기세도 아낄수 있기 때문이다. 또 난 날아서 해외여행도 갈수있기 때문이다. 그리도 베트남에 있는 나트랑에가서 시원하게 수영도 하고 싶다.</p>
+    </text>
+</SJML>

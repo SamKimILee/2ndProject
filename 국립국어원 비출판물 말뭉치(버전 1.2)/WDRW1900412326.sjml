@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412326</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>고령이란</title>
+            <author id="P12326" age="73" occupation="무직" sex="F" submission="온라인" handwriting="No">이복희</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_고령">
+        <p>65세 이상 고령자는 외출을 자제하라는 당부, 게다가 혈압도 있다. 오랜 비염도 한몫 한다.  고령도 무섭고 아무것도 할 수 없는 일도 무섭다.</p>
+    </text>
+</SJML>

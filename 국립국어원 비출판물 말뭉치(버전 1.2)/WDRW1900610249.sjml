@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610249</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>외사랑</title>
+            <author id="P10249" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">김민정</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_그 사람">
+        <p>
+            <s>그 사람은요, 그 사람한테는요. 안 그래요. 온갖 미사여구 따위 붙이고 싶지도 않아요.</s>
+            <s>그저 진실된 나를 보여주고 싶어져요. 근데, 그게 안 될 거 같아. 내가, 그이 곁에서 함께할 사람이 아닌 거 같더라고 .</s>
+            <s>그렇게, 또, 나는요. 매일 밤 그이 생각에 잠겨 아등바등 거리겠죠. 눈물이 뺨을 타고 흘러내리겠죠.</s>
+            <s>그렇게 울다 지쳐 잠들 거에요. 그 짓을 수없이, 고통스럽게, 마음 저리게 반복하다</s>
+            <s>마지막으로 내 입에서나오는 말은, 그 사람 이름 석자가 되겠지.</s>
+        </p>
+    </text>
+</SJML>

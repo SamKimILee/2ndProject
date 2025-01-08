@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900804094</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>만약</title>
+            <author id="P04094" age="14" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20150000" subclass="null_후회">
+        <p>나도 건강한 사람이었으면 좋았을 걸.</p>
+        <p>친해질 수 있었으면</p>
+        <p>놓치지 않았으면</p>
+        <p>나를 혐오하지 않았으면</p>
+        <p>나를 사랑할 수 있었으면</p>
+        <p>그랬으면 정말</p>
+        <p>더 바랄 것이 없었을 텐데.</p>
+        <p>미련도 후회도 슬픔도</p>
+        <p>무엇 하나 남기지 않고</p>
+        <p>이 무게에 짓눌리지 않고</p>
+        <p>마주 웃어줄 수 있었을 지도 모르는데.</p>
+    </text>
+</SJML>

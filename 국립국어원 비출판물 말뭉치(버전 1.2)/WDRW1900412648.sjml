@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412648</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>친구</title>
+            <author id="P12648" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20180511" subclass="놀다">
+        <p>오늘외과에가서 건강검진을했다.</p>
+        <p>그러고와서 동생들이랑놀았다</p>
+        <p>그저께는 개교기념일이어서 카라반에 갔다</p>
+        <p>한번자고 어제 왔다</p>
+        <p>남목초등학교에 처음들어왔을 때 친구를못사귈까봐 걱정했는데 소풍가서 &name1&가장난치다가&name1&랑친해졌다</p>
+        <p>그래서 &name1&랑그림그리다가&name2&이와친해졌고 많이 친구를 사귀었다</p>
+        <p>남목초등학교에 계속 있고싶다</p>
+    </text>
+</SJML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900210150</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 감상문</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>독서 일기</title>
+            <author id="P10150" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">김희재</author>
+        </sourceInfo>
+    </header>
+    <text date="20180000" subclass="null_책먹는 여우">
+        <p>(독서일기)</p>
+        <p>책제목:책먹은여우,등장인물:사람들,사서,경찰,여우아저씨.</p>
+        <p>줄거리:여우아저씨는감옥에갔다. 여우아저씨는슬퍼하였다. 교도소아저씨에게종이하고연필을달라고하였다그래서책을만들어서감옥에풀려났다.</p>
+        <p>느낌?여우아저씨는도서관에가서책을먹어서안된다는느낌이난다.</p>
+        <p>생각!여우아저씨가 제발책을안먹었다면은이런일도없었을텐데.</p>
+        <p>나는책먹는여우아저씨는이상하다.</p>
+        <p>외냐면 여우는책을안먹기때문이다.</p>
+        <p>책이라서그런걸까?</p>
+    </text>
+</SJML>

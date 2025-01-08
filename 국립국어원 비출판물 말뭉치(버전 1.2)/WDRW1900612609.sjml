@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900612609</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>여행</title>
+            <author id="P12609" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">조용원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_여행">
+        <p>&lt;순천여행&gt;</p>
+        <p>이번 방학은 방학식을 못하고 바로 여행을 하였다 순체은정말 멀어서 9시쯤에 출발하였다 3시간 30분을 달려 먼저 여수에 도착하였다. 먼저 점심을 먹으러 아귀찜집에 갔다 가서 정말 배불리 먹고 해산물 시장에 가였다 시장에서 살거 사고 구경을 조금 하다가 카페에 들어가서 나와 동생은 핫초고,엄마아빠는,커피를 먹고 있다가 여수 케이블카를 타러 갔다. 여수케이블카는 거의 송도 케이블카보다 두배더 길었다 그렇게 좀 더 구경을 하다가 순처으로 갔다 가니 어두컴컴해졌다. 순천자연휴양림 펜션에 가서 고기도 구워먹고 막창도 먹었다. 다음날 일어나서 우리나라3대 사찰인 송광사를 갔다. 가서 기와에 이름도 적고 좋은 공기도 맡아서 좋았다. 그런다음 점심으로 엄청 유명한 돈까스집에 가서 점심먹고 집에왔다. 그런데 집에와서 도착했는데 차가터질뻔하였다</p>
+    </text>
+</SJML>

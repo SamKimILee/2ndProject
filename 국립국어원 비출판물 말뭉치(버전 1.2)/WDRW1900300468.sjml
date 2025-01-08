@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900300468</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>작심삼일과 습관</title>
+            <author id="P00468" age="21" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_작심삼일">
+        <p>작심삼일이라면 그 다음 날 다시 처음부터 시작하면 되는 거다. 물론 이어서 해도 되는 거고, 무언가를 놓았다가 다시 붙잡는 게 아니라 잠깐 쉬는 거라고 생각해도 되겠지. 하지만 습관으로 만들고 싶은 좋은 행위를 몸이 기억하게끔 하는 건 너무 어려운 일이다. 사실 나는 계획을 완전히 세우지 않는 것까지는 아닌데, 계획을 세우기'만' 하는 게 굉장히 큰 문제인 것 같다. 습관은 생각이 아니라 행동으로 굳어지는 것일 테니까. 무언가를 무결하게 하기 위해 집착하는 대신 일단 하고 보는 태도가 중요하겠지. 일단 하고 보자. 공부도 글도.</p>
+    </text>
+</SJML>

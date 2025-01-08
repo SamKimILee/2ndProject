@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900110419</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>짱고구마</title>
+            <author id="P10419" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">이지윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20200108" subclass="null_고구마">
+        <p>
+            <s>지은이 : &name1&</s>
+        </p>
+        <p>
+            <s>달큰달큰 신났다</s>
+            <s>달콤씨 고구마</s>
+        </p>
+        <p>
+            <s>우물우물 맛있다</s>
+            <s>오물씨 고구마</s>
+        </p>
+        <p>
+            <s>핑크보라 예쁘다</s>
+            <s>자주씨 고구마</s>
+        </p>
+        <p>
+            <s>말랑말랑 재밌다</s>
+            <s>물렁씨 고구마</s>
+        </p>
+        <p>
+            <s>부들부들 지똑해</s>
+            <s>방귀씨 고구마</s>
+        </p>
+    </text>
+</SJML>

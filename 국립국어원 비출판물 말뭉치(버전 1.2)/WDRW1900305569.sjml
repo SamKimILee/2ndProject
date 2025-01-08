@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900305569</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>칼은 손잡이가 달려야 칼이라지요</title>
+            <author id="P05569" age="47" occupation="직장인/전문직" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_손때, 손길">
+        <p>
+            <s>칼은</s>
+            <s>손잡이가 달려야</s>
+            <s>칼이라지요</s>
+        </p>
+        <p>
+            <s>퍼렇게 선 날에</s>
+            <s>손잡이 달고</s>
+            <s>뜨뜻한 손때 묻어야</s>
+            <s>비로소 칼이라지요</s>
+        </p>
+        <p>
+            <s>사람 손도 닿지 못하는</s>
+            <s>시리기만 한 날붙이가</s>
+            <s>홀로</s>
+            <s>무엇하겠습니까</s>
+        </p>
+        <p>
+            <s>사람도 똑같다지요</s>
+            <s>그냥</s>
+            <s>말로</s>
+            <s>그냥</s>
+            <s>행동 뿐으로는</s>
+            <s>아무것도</s>
+            <s>될 수 없다지요</s>
+        </p>
+        <p>
+            <s>거기에 비로소</s>
+            <s>사람 손이 실렸기에</s>
+            <s>무언가가 된 것</s>
+            <s>아니겠습니까</s>
+        </p>
+        <p>
+            <s>생각해보시길 바라요</s>
+        </p>
+        <p>
+            <s>칼도</s>
+            <s>손잡이가 달려야</s>
+            <s>비로소</s>
+            <s>칼이랍니다</s>
+        </p>
+    </text>
+</SJML>

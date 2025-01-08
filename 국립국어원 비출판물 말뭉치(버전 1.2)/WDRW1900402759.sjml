@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900402759</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울</title>
+            <author id="P02759" age="8" occupation="고등학생" sex="F" submission="온라인" handwriting="No">신예은</author>
+        </sourceInfo>
+    </header>
+    <text date="20120000" subclass="null_겨울">
+        <p>
+            <s>눈이 오는 겨울</s>
+            <s>아이 추워 겨울</s>
+        </p>
+        <p>
+            <s>친구와 씽씽</s>
+            <s>썰매 타고</s>
+        </p>
+        <p>
+            <s>씽씽</s>
+            <s>달리자</s>
+            <s>달리자</s>
+        </p>
+        <p>
+            <s>눈이 오는 겨울</s>
+            <s>입김 솔솔 겨울</s>
+        </p>
+    </text>
+</SJML>

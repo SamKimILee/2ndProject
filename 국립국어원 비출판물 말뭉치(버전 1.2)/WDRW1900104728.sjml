@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900104728</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인간관계</title>
+            <author id="P04728" age="22" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20130000" subclass="null_관계">
+        <p>문득 그런 생각이 들었다. 사람과 사람 사이의 관계라는 것에 대해.  처음에는 그저 언제나 한결같이 흘러갈 줄만 알았다. 그러나 세상은 내 예상처럼 그렇게 호락호락하지 않았으며, 인간 관계란 목적지를 잃어버린 유람선같다고 느껴졌다.</p>
+        <p>호감을 가졌던 대상이 한 달 후에는 눈엣가시처럼 변모할 수도 있는 것이었다. 나의 경우, 좋았던 감정이 나쁜 감정으로 변했던 경우가 대부분이라 그 반대의 경우는 잘 모르겠다. 마음을 주는 만큼 꼭 되돌려 받을 수는 없는 법이며 자신이 그 사람과의 관계를 어떠한 식으로 생각했다 하더라도 상대방은 자신과 똑같이 생각하지 않을 수도 있다. 그렇기에 인생은 고독하다. 물론, 마음이 맞는 사람과 모든 것을 터놓고 영혼의 동반자처럼 지내는 사람들도 있을 수는 있다. 그것은 아주 드물고 보기 힘든 특수한 케이스라고 생각된다.</p>
+    </text>
+</SJML>

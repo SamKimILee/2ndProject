@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512259</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>오카리나</title>
+            <author id="P12259" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김다은</author>
+        </sourceInfo>
+    </header>
+    <text date="20181221" subclass="null_오카리나">
+        <p>2018년 12월 21일</p>
+        <p>제목:오카리나</p>
+        <p>오늘을 오카리나 공연을 하였다 나는 너~무 너~무 긴장이된나머지순서까지 잊어버릴뻔하였다.</p>
+        <p>나는 나비아는 쉬웠지만 고향의 봄은 조금 했갈렸다. 하지만티가나지 안았다.</p>
+        <p>나는뭔가 부족했다. 나의친구 &name1&이는 오카리나를 가져오지 못하고 놓고왔다 나는 안절부절 안타까웠다. 그런데다행희협력선생님이 오카리나를 빌려주었다.</p>
+        <p>나는 다행이라고 생각했다. 그래서 무사희 마쳤다. 다행이다. 나는오카리나공연을 또 하고 싶다. 재미있는 하루 였다.~끝</p>
+    </text>
+</SJML>

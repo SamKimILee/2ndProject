@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900220156</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 편지글</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&이에게</title>
+            <author id="P20156" age="15" occupation="중학생" sex="F" submission="오프라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200329" subclass="null_생일">
+        <p>2. &name1&이에게</p>
+        <p>해피벌스데이 &name1&~~</p>
+        <p>올해 다른 반 됐지만 친하게 지내자ㅎㅎ 10반에 놀러오렴ㅠㅠ 나도 가끔 6반 갈게!! 나중에 꼭 드림네컷이랑 아기지성이 증사 줄게~~ 아기지성이는 너무 귀엽ㅋㅋ 딴소리 안하고 다시 할 말 해야지~~^^ &name1& 너 엄청 착하고 예쁘고 걍 완벽한듯□□ 작년에 세계사 가르쳐 준거 너무 고마웠어 !! 나 진짜 이해 하나도 못했는데 너 설명해준거 듣고 이해함!! 진짜 고마워ㅠㅠㅠ 넌 뭘해도 잘할거야 진짜 !! 우리 올해는 사진 많이 찍고 더 친하게 지내♥♥ 오늘 하루 즐겁게 보내고 맛있는 거 많이 먹어♥♥♥ 사랑해♥ 생일 완전 축하해□</p>
+        <p>2020년 3월 29일 From. &name2&</p>
+    </text>
+</SJML>

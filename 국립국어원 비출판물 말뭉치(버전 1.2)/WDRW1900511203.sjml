@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511203</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>인류의 축복</title>
+            <author id="P11203" age="16" occupation="고등학생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="손">
+        <p>사람의 시작은 직립보행으로 인한 손의 사용 가능으로 알고있다 실제,나는 이 손의 사용이 인류의 축복이라 느낀다 이 손으로 도구를 만들고 밥을 먹고 글도쓰고 언어도 될 수있는데 이 무궁무진한 쓰임에 나는 신체중 가장 매력적인 부위에 적합하다고 생각한다</p>
+    </text>
+</SJML>

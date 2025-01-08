@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901020071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>슬라임카페</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190923" subclass="null_슬라임카페">
+        <p>2019. 9. 23 월. 날씨(좋음)</p>
+        <p>슬라임 카페</p>
+        <p>오늘 학교 마치고 슬라임가게에 왔다. 생일파티라서 빨리 나와서 도착 했다.</p>
+        <p>친구랑 간식 먹다. 슬라임을 만들었다. 다만든 후에 바풍 대결도 했다. 대결에서 내가 일등 했다.</p>
+        <p>너무 기분 좋았다.</p>
+    </text>
+</SJML>

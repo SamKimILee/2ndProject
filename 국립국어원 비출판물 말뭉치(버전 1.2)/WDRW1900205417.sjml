@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205417</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>12월 8일</title>
+            <author id="P05417" age="23" occupation="무직" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_산책">
+        <p>동생 차를 타고 동백섬과 송정으로 산책을 다녀왔다. 이모랑 콩지도 같이 갔다. 우리 애기 하루종일 귀엽다, 인형 같단 소리 엄청 들었다. 산책 후 이모집에 애기들만 두고 저녁도 먹고왔다ㅠ 애기가 엄청 반겨줬다. 집에 와서 잘 먹고 잘쉬었는데 귀를 너무 긁길래 내일은 병원 데려가야겠다.</p>
+    </text>
+</SJML>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900312394</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>테니스</title>
+            <author id="P12394" age="10" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">서승연</author>
+        </sourceInfo>
+    </header>
+    <text date="20180122" subclass="운동">
+        <p>테니스 노박조코비치 VS 정현</p>
+        <p>“악 아악~ 안돼!” “오예, 예스 안된다. 아~”</p>
+        <p>이런소리가들리는 우리집, 우리집가족은</p>
+        <p>모두 한 마음으로 TV를 보고 있었다 TV에서는 노박 조코비치와 정현이 테니스 세기의 대결이 생중꼐되고있었다</p>
+        <p>나는 테니스룰을몰라서 아빠에게 설명해 달라하였는데 뭐시라뭐시라 이해도 안돼게 설명을 하니</p>
+        <p>“아↘”라고 하면 “아↘”라고 하고 “오예”라고 하면 “오예”라고 했다.</p>
+        <p>장장 3시간의게임이 끝나고 결과가나왔다</p>
+        <p>결과는 정현승!</p>
+        <p>정현이 꼭 우승까지 갔으면 좋겠다 그리고</p>
+        <p>나는3시간도 서있지 못하는데 뛰어다니고</p>
+        <p>점프하고 다리찢기도하고 나는 못할것같다</p>
+        <p>정현은 정말 훌륭한사람이될 것 갇다</p>
+        <p>정현 우승까지 화이팅!</p>
+    </text>
+</SJML>

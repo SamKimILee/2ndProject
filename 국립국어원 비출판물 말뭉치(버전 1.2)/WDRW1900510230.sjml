@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900510230</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>일기</title>
+            <author id="P10230" age="59" occupation="전업주부" sex="F" submission="온라인" handwriting="No">김인자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_꽃산행, 노루귀">
+        <p>20. 02. 26. 수요일</p>
+        <p>오늘도 나는 꽃산행을 나섰다. 이 추운 날씨에도 노루귀가 나왔을까 궁금하여 노루귀가 있는 곳으로 갔다. 그런데 아니나 다를까 이 추운 날씨에도 불구하고 세수하고 예쁜 얼굴로 인사하 듯 고개를 내밀고 있었다. 솜털이 보송 보송하게 피어있는 노루귀를 보자 카메라를 가지고 나오기 잘했다는 생각이 들었다.</p>
+    </text>
+</SJML>

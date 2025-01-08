@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900411234</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>히바나</title>
+            <author id="P11234" age="14" occupation="중학생" sex="F" submission="온라인" handwriting="No">박은빈</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_사랑">
+        <p>
+            <s>상처받는 사랑을 사랑하고 싶지 않아</s>
+            <s>끝이 있는 것들은 전부 나를 외롭게 만들 뿐이야</s>
+            <s>이런 말조차도 나를 외롭게 만드는 걸 알아</s>
+            <s>그러니까 오늘도 지옥의 끝에 서있다고 말하는 거야</s>
+            <s>폐허가 된 세계의 심장을 부술수만 있다면</s>
+            <s>그럴수만 있다면 행복할 거야, 끝이 날 거야</s>
+            <s>미완성인채 버려진 나는 이제 미래를 볼 수 없어</s>
+            <s>좀 더 제대로 아프게, 다시는 일어서지 못하게 해줘</s>
+            <s>여기에 오면 안 돼, 너도 나처럼 될 테니까</s>
+            <s>전부 농담이라고 마지막이라고 해 줄래?</s>
+            <s>한심한 사랑도 사랑이라고 부르는 거라면</s>
+            <s>이런 나조차도 사랑해줄 누군가가 있을까</s>
+        </p>
+    </text>
+</SJML>

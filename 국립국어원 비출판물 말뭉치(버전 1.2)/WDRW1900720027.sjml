@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900720027</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>부모님은혜</title>
+            <author id="P20027" age="8" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김단호</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_부모님, 은혜">
+        <p>주제글:부모님은혜</p>
+        <p>엄마,아빠를 생각해보면 부모님이 우리를 지켜 주신다.</p>
+        <p>첫번째는 부모님이 우리를 낳으셨기 때문이다</p>
+        <p>두번째는 우리를 보호 해주신다.</p>
+        <p>세번째는 우리를 아끼고 사랑하는 마음이다.</p>
+        <p>네번째는 우리를 똑똑한 사람이 되기 위해 공부를 도와주신다</p>
+        <p>다섯번째는 우리집을 깨끗하게 하기 위해 또우리를 다치지 않게 청소를 해주신다.</p>
+        <p>이런것 이 부모님은혜 라고 생각 한다.</p>
+        <p>하지만 엄마아빠가 우리를사랑하는 마음이 제일 중요하다.</p>
+    </text>
+</SJML>

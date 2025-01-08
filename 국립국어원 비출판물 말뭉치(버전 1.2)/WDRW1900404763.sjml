@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900404763</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>좋아하는 것</title>
+            <author id="P04763" age="24" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">김혜진</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="좋다">
+        <p>나는 깊게 좋아하는게 많다. 가볍게 좋아하는게 없다는 건 아니다. 그러나 무언가에게 마음을 주기까지 시간이 좀 걸려서 한번 마음을 주면 계속 좋아한다. 그리고 계속 좋아하다보면 결국 감정이 커져서 깊게 좋아하게 된다. 매일 입는 잠옷이 그러하고, 배게가 그러하고, 이불이 그러하다. 하지만 맹세코 처음부터 좋았던 건 아니다. 오히려 처음에는 싫었다. 그 전에 좋아하는 잠옷이 있었고, 배게가 있었고, 이불이 있었으니까.</p>
+    </text>
+</SJML>

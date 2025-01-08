@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111459</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>&name1&와 찜질방</title>
+            <author id="P11459" age="7" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">신유진</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_찜질방">
+        <p>어재는 &name1&와 찜질방에 가서 한밤자고 왔다. 거기가선 &name1&와 수영도하고 딱지도치고 신나게놀았더니 어느새 플래이존이 끝날시간이됬다. 나는&name1&와 잠자리옆애서 보드게임을했다. 어느새 잠이왔다. 자고 일어나서 밥먹으로갔다. 그후&name1&와 축구도 같이했다.</p>
+    </text>
+</SJML>

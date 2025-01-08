@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900102405</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 소설</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>악몽</title>
+            <author id="P02405" age="22" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_도피처">
+        <p>진서현은 이 지긋지긋한 악몽의 끝이 존재하기는 하는가 하고 스스로에게 던진 질문에 힘없이 헛웃음을 토해냈다. 처음에는 그럴거라 생각했지. 그저 눈을 한번 감았다 뜨면 끝나는 악몽일거라고 그러니 무슨 일이 일어나도 마음에 담아두지 말자 동요하지 말자 침착하게 내가 할 수 있는 일들을 하다보면 분명 이 꿈 속에서 나갈 수 있을테니까. 그게 얼마나 어리석은 생각이였는지는 스스로가 뼈져리게 느끼고 있을 터였다. 이제 그만 도피하고 받아들여, 이건 악몽이 아니야 악몽보다도 더 지독한 현실이지.</p>
+        <p>그저 스스로의 양심의 가책을 줄이기 위해 악몽이라는 이름의 도피처가 필요했던거잖아? 이 위선자.</p>
+    </text>
+</SJML>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901620071</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>영화 보는 날</title>
+            <author id="P20071" age="9" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191104" subclass="null_영화">
+        <p>2019 11. 4 월. 날씨 좋음</p>
+        <p>영화 보는날</p>
+        <p>오늘은 친구들과 영화를 보기로 하였다 영화 제목은 말레피센트 이다. 늣어서 빨리 가야했다. 오로라 공주가 필립 왕자와 결혼을 하고 싶어 했다. 그런데 왕자 엄마는 나쁜 사람이다. 마지막은 둘이 결혼한다.</p>
+        <p>말레피센트2</p>
+    </text>
+</SJML>

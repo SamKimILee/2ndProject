@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410493</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>태풍</title>
+            <author id="P10493" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">정채원</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_태풍">
+        <p>난 오늘 태풍이와서 감판 4개가 다떨렸다. 그리고 태풍 을 뚫고 아침에 10시 지나고 간는데 문을 닫다따. 밤에 갈는 데 문을 두구두구 열었다. 그러서 샀다 너무너무 조았다 크 아빠엄마랑 다견화 했다 그리고 엄마랑 친키도 멈어다 멈어다 그리고엄마 가 화내닸</p>
+    </text>
+</SJML>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900211505</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>가장 핑크색인 것은</title>
+            <author id="P11505" age="10" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_엄마, 아빠">
+        <p>
+            <s>&name1&</s>
+            <s>엄마의 사랑이예요</s>
+            <s>엄마아빠의 눈물이 섞여 만들어진</s>
+            <s>두근거림이 예요.</s>
+            <s>엄마 아빠가 느끼게 해준떨림</s>
+            <s>그건 사랑</s>
+            <s>♡ 사랑해요. 엄마.아빠. ♡</s>
+        </p>
+    </text>
+</SJML>

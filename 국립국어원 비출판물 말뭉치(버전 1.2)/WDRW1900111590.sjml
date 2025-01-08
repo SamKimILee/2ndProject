@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111590</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 시(동시)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>겨울아 가지마</title>
+            <author id="P11590" age="11" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">정현수</author>
+        </sourceInfo>
+    </header>
+    <text date="20200106" subclass="null_겨울">
+        <p>
+            <s>&lt;겨울아 가 지 마&gt;</s>
+        </p>
+        <p>
+            <s>겨울이왔다춥고추운겨울이왔다.</s>
+            <s>신난아이들은썰매장을가썰매를타고</s>
+            <s>또어떤아이들은붕어빵을먹는다.</s>
+            <s>그리고추우면 이불에들어가낮잠을잔다.</s>
+            <s>할 거 많은 겨울이안갔으면좋겠다.</s>
+        </p>
+    </text>
+</SJML>

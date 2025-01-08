@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900911531</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>마포내고장</title>
+            <author id="P11531" age="9" occupation="초등학생" sex="M" submission="오프라인" handwriting="Yes">김온유</author>
+        </sourceInfo>
+    </header>
+    <text date="20200326" subclass="null_마포내고장">
+        <p>&lt;마포내고장&gt;</p>
+        <p>마포 내고장에 내가 2학년때 쓴 시가 나왔다. 뿌듯하고 행복하다. 이제 벚꽂이 핀다. 또우리에게 선물처럼 내릴거&lt;uclear&gt;다</p>
+    </text>
+</SJML>

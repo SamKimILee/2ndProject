@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900111753</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>민속촌에 추석이 왔어요.</title>
+            <author id="P11753" age="7" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김혜린</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_한국민속촌">
+        <p>어제 사촌들과 한국민속촌에 갔다. 추석이라서 더욱 다양한 공연과 체험들이 많았다. 특히 사자탈춤은 두 명이 함께 춤을 추는데, 팔로 혀와 꼬리를 조종하는 모습이 재미있었다. 민속촌에 한복을 입고 온 사람들이 무척 부러웠다. 다음에는 나도 한복을 입고간다면 진짜 옛날 사람이 된 기분이 들 것 같다.</p>
+    </text>
+</SJML>

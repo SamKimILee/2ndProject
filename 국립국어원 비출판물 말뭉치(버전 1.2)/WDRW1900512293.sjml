@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900512293</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>귀여운 우리오빠</title>
+            <author id="P12293" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">김다영</author>
+        </sourceInfo>
+    </header>
+    <text date="20200111" subclass="오빠">
+        <p>오늘인형놀이를했다. 인형 머리가 헝클어져서할머니가 빗어주셨다. 그래서 자유롭게 놀았다. 하다가다른놀이를하기도했다. 그런데 갑자기오빠야가 숨바꼭질를 하자고했다. 난,안한다고했다. 오빠야가“제발요”라고 했다. 난 할수없이했다</p>
+        <p>막상해보니재 밌었다. 다음에는더빨리하자고말해야지!</p>
+    </text>
+</SJML>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900509960</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>나의 꿈, 나의 야망</title>
+            <author id="P09960" age="15" occupation="중학생" sex="M" submission="온라인" handwriting="No">이준규</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_나의 꿈">
+        <p>모든 아픔을 치료할 법은 왜 국회에 정지 되어있는가</p>
+        <p>나는 철학이라는 이름을 빌려 비판하고 싶다.</p>
+        <p>또, 철학과 행정을 합하여 이상적인 어떠한 것을 이루어 내고 싶다.</p>
+    </text>
+</SJML>

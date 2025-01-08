@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900511592</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 바이러스에 대한 생각</title>
+            <author id="P11592" age="9" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">남주원</author>
+        </sourceInfo>
+    </header>
+    <text date="20200128" subclass="null_코로나">
+        <p>제목: 코로나바이러스에대한생각</p>
+        <p>처음엔 싸쓰 바이러스가무서운줄 알았는데 코로나바이러스가 더 엄청나다.</p>
+        <p>우리가족이걱정이다. 나는 괜찮은데... 우리엄마아빠가 감기가 걸려서 문제다.</p>
+        <p>빨리빨리 엄마와아빠가 나았으면 좋겠다.</p>
+        <p>엄마가 바이러스를 예방하기위해서 알려주신 방법이있다. ① 흐르는물에 비누로 30초이상씻기 ② 기침을 할때 입과코를 가리고 한다.</p>
+    </text>
+</SJML>

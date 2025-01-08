@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1901820026</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>할머니 집에 간 날</title>
+            <author id="P20026" age="7" occupation="초등학생" sex="F" submission="오프라인" handwriting="Yes">김나연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_할머니">
+        <p>&lt;할머니 집에 간 날&gt;</p>
+        <p>나는 오늘 할머니네 집에 놀러 갔다.내가 수족구에 걸려서 나가지 못 했다.</p>
+        <p>하지만 이모가 슈팅스타 아이스크림을 사주셨다.</p>
+        <p>입안에서 톡!톡!톡! 터지고 맛있었다.</p>
+    </text>
+</SJML>

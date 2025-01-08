@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112404</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>코로나 바이러스</title>
+            <author id="P12404" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_코로나 바이러스">
+        <p>오늘은 코로나 바이러스에 대해서를 할거다. 코로나 바이러스는 위험 하다.코로나 바이러스에 걸리면 처음에는 열이 않나다가 열이 난다. 코로나 바이러스에 걸리면 죽은 사람도 있다.안죽을 수도 있다.나는 코로나 바이러스가 없어졌으면 좋겠다. 그래서 아주 건강하게 살았으면 좋겠다. 오늘은 마스크가 불편 했다.</p>
+    </text>
+</SJML>

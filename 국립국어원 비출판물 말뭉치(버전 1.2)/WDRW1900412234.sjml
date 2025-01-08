@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900412234</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>따뜻한 겨울</title>
+            <author id="P12234" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20191227" subclass="null_포켓몬 놀이">
+        <p>12월 27일 금요일   날씨:  마음날씨:</p>
+        <p>제목: 따뜻한 겨울</p>
+        <p>즐거운 겨울방학식 날이었다. 친구들이 집에 놀러왔다. &name1&이,&name2&이,&name3&이,나 이렇게 넷이서 우리집에서 포켓몬 놀이를 했다. 포켔몬 놀이는 트레이너가 야생 포켓몬을 곤충 채집망으로 잡아 파트너로 만드는 놀이다. 나랑 &name2&이랑 &name3&이가 포켔몬 역할을 하고 &name1&이는  트레이너 역할을 했다. 그런데 &name1&이가 &name3&이를 곤충 채집망으로 잡으려다가 둘이서 곤충 채집망에 엉켜서 모두 깔깔 웃었다. &name1&이가 &name1&이 &name1&이 머리에 곤충 채집망을 씌우고 그물맨이라 해서 웃겼다. 그래서 엄청 웃었다. 몸이 추워도 마음이 따뜻하면 겨울도 따뜻한 계절인것 같다.</p>
+    </text>
+</SJML>

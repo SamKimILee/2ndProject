@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900112464</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>눈이 팝콘처럼 펑펑 온 날</title>
+            <author id="P12464" age="8" occupation="초등학생" sex="M" submission="온라인" handwriting="Yes">윤진서</author>
+        </sourceInfo>
+    </header>
+    <text date="20181125" subclass="null_눈">
+        <p>11월 25일 날씨: 눈이 팝콘처럼 펑 펑 온날</p>
+        <p>첫 눈이 펑펑 온 날</p>
+        <p>오늘 6시 부터 첫 눈이 팝콘처럼 엄청 나게 쏘다 졌다. 아침밥을 가족과 함께  다먹고 밖으로 나갔다. &name1&랑 내 친구 &name2&도 나왔다. 그래서 눈 싸움을 했다.그런데 방과후에 가야 될 시이다.&name2&랑 나랑 같이 눈을 밟으며 갔다.</p>
+        <p>눈을 밟았는데 '뽀드득' 하고 소리가 났다.학교에 도착해서도 눈이 아직도왔다. 방과후수업이 끝나자 눈이 그쳤다. 아쉽게도 눈이 녹고있었다.다음 눈이 왔 을 때는 많이 많이 오면 좋겠다.</p>
+    </text>
+</SJML>

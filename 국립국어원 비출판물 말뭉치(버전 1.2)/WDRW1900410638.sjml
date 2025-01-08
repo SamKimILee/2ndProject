@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900410638</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 기타 > 어젯밤을 담은 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>아침이 오려면 까마득했다</title>
+            <author id="P10638" age="16" occupation="고등학생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_어두운 밤">
+        <p>아침이 오려면 까마득했다. 등불에 눈을 맡겨 어둠을 비췄다. 나는 지금 어둔 밤 아래, 복슬한 이불 속에서 깨어있다. 우리집은 그늘진 곳에 있다. 집 앞 가로등마저 이틀 전에 죽어버렸다.</p>
+        <p>'어둡다. 벼랑 끝으로 낙오된 거 같아.'</p>
+        <p>누나가 종종 하던 말이었다. 곱씹던 생각 탓에 불쑥 입이 열렸다.</p>
+        <p>'그래도 별을 볼 수 있어서 다행이야. 그치 누나.'</p>
+        <p>누나가 이불을 뒤척였다.</p>
+        <p>'누나 안 자는 거 다 알아.'</p>
+        <p>여전히 돌아오는 말은 없었다. 벽에 진 그림자를 한참이나 보고서야 눈을 감았다. 아침이 오려면 까마득했다.</p>
+    </text>
+</SJML>

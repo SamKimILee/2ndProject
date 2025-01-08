@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900205635</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>양면</title>
+            <author id="P05635" age="24" occupation="대학생/대학원생" sex="M" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_만남">
+        <p>피곤한 상태에서 누군가를 선의에 의해서, 호의적으로 만난다는 건 막중한 책임감을 요하는 일이었다.</p>
+        <p>나의 신체적, 정신적 상태를 외부로 날 것 그대로 표출하지 않는 다는 것은, 스시집 앞에 앉은 너 앞에서, 뚱한 상태로 앉아 있지 않기란 결코 쉽지만은 않았다.</p>
+    </text>
+</SJML>

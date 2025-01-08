@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900310543</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 일기</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>내가 청소했다.</title>
+            <author id="P10543" age="8" occupation="초등학생" sex="F" submission="온라인" handwriting="Yes">임혜윤</author>
+        </sourceInfo>
+    </header>
+    <text date="20190811" subclass="null_청소">
+        <p>오늘은 내가한번 청소를했다. 청소기와 밀대를 밀고 걸래로 티비 책상등등을 딱았다. 청소기밀때는 뒤에있는 전선끈이 잘못따라와서힘이들었다. 하지만 먼지가 없어져서 좋았다. 밀대밀때는 힘을조서밀어야하기 때문에 집이이러게 컸나?라고생각할정도였다. 그리고 걸래로딱을 데는 우리집은 티비가 큰게두게챙상큰게너무많아서 딱을 대 이리저리 움직여야되서 힘들었고 하고나니 땀이 주룩주룩 있었다.</p>
+    </text>
+</SJML>

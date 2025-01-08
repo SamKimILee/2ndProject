@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900610847</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 소설(동화)</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>돌맹이 이야기</title>
+            <author id="P10847" age="15" occupation="중학생" sex="F" submission="온라인" handwriting="No">김서연</author>
+        </sourceInfo>
+    </header>
+    <text date="20200000" subclass="null_돌멩이">
+        <p>숲속의 아주 작은 돌맹이</p>
+        <p>돌맹이는 세상이 궁금해 여행을 떠납니다.</p>
+        <p>길을 따라 시냇물에 도착한 돌맹이는 송사리를 만났습니다.</p>
+        <p>송사리는 돌맹이에게 깨끗한 시냇물의 순수함을 알려주었습니다.</p>
+        <p>시냇물을 따라 들판에 도착한 돌맹이는 꽃들과 나무를 만났습니다.</p>
+        <p>꽃들은 돌맹이에게 언제나 미소를 잃지 않는 꽃들의 긍정을 알려주었습니다.</p>
+        <p>나무는 돌맹이에게 쓰러지지 않는 나무의 의지를 알려주었습니다.</p>
+        <p>들판을 따라가다 밤이 된 돌맹이는 별을 만났습니다.</p>
+        <p>별은 돌맹이에게 어두워도 빛을 잃지 않은 별들의 희망을 알려주었습니다.</p>
+        <p>-끝~~!!^^-</p>
+    </text>
+</SJML>

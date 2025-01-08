@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SJML>
+    <header>
+        <fileInfo>
+            <fileId>WDRW1900403451</fileId>
+            <annoLevel>원시</annoLevel>
+            <category>비출판물 > 수필</category>
+        </fileInfo>
+        <sourceInfo>
+            <title>동경하는 삶</title>
+            <author id="P03451" age="18" occupation="대학생/대학원생" sex="F" submission="온라인" handwriting="No">개인글작성자</author>
+        </sourceInfo>
+    </header>
+    <text date="20190000" subclass="null_원하는 삶">
+        <p>원하는 곳에서 책을 읽고 하고싶은 공부를 하고 맛있는 식사를 하다가 아름다운 거리와 저녁노을과 야경을 배경으로 산책을 하고 편안한 잠자리에 누워 하루를 끝맺는 그런 하루를 나는 간절히 바란다.</p>
+    </text>
+</SJML>
