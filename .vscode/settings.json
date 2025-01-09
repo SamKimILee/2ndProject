@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:/labs_python/.venv/Scripts/python.exe",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "python.terminal.executeInFileDir": false,
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\labs_python\\instantclient;${env:PATH};",
+        "PYTHONPATH": "${workspaceFolder};${env:PYTHONPATH};"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.wordWrap": "on",
+}
