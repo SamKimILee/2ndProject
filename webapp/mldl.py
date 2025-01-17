@@ -11,18 +11,18 @@ from keras.preprocessing.sequence import pad_sequences
 import pickle
 
 # 비속어/혐오 필터링 모델 로드
-model = keras.models.load_model('../욕설(LSTM)/model/model_insult_GRU_0115.keras')
+model = keras.models.load_model('모델/model_GRU_0115_cleaned_mecab_stop.keras')
 # tokenizer = Tokenizer()
 
 # Tokenizer 불러오기
-with open('../욕설(LSTM)/tokenizer.pkl', 'rb') as f:
+with open('모델/tokenizer_cleaned_mecab_stop.pkl', 'rb') as f:
     load_tokenizer = pickle.load(f)
 
-max_length = 480
+max_length = model.get_layer('embedding_1').input_shape[1]
 
 
 # 불용어 목록 로드
-df_stopwords = pd.read_csv('../욕설(LSTM)/all_stopwords.txt', header=None, encoding='utf-8-sig')
+df_stopwords = pd.read_csv('../불용어/all_stopwords_0115.txt', header=None, encoding='utf-8-sig')
 stop_words = df_stopwords[0].to_list()
 
 # 기본 페이지
