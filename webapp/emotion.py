@@ -1,5 +1,5 @@
 from clean_text import clean_str
-from flask import json, render_template
+import json
 from keras.preprocessing.text import tokenizer_from_json
 from keras.preprocessing.sequence import pad_sequences
 from konlpy.tag import Mecab
@@ -18,7 +18,7 @@ def remove_stopwords(text, stop_words):
 
 def predict_emotion(text):
     # Tokenizer 불러오기
-    with open('모델/emotion_tokenizer_0115.json', 'r') as f:
+    with open('모델/emotion_tokenizer.json', 'r') as f:
         tokenizer_json = json.load(f)  # JSON 형식으로 로드
         tokenizer = tokenizer_from_json(tokenizer_json)  # Tokenizer 객체로 변환
 
@@ -45,7 +45,7 @@ def predict_emotion(text):
     encoded_text = tokenizer.texts_to_sequences([text])
     padded_text = pad_sequences(encoded_text, maxlen=max_length, padding='post')
 
-    emotion_model = keras.models.load_model('모델/emotion_model_0115.keras')
+    emotion_model = keras.models.load_model('모델/emotion_model.keras')
 
     # 1. 단어 리스트를 다시 문장으로 결합
     sentence = ' '.join(text)
@@ -56,8 +56,13 @@ def predict_emotion(text):
 
     pre = emotion_model.predict(padded_text, sequences_len)
 
-    emotion_label = ['공포', '놀람', '분노', '슬픔', '중립', '행복', '혐오']
-    emotion_result = emotion_label[np.argmax(pre)]
+    # emotion_label = ['공포', '놀람', '분노', '슬픔', '중립', '행복', '혐오']
+    emotion_label = ['공포', '행복', '분노', '슬픔', '중립', '행복', '혐오']
+    print('모델 출력: ', pre)
+    index = np.argmax(pre)
+    percentage = f"{pre[0][index] * 100:.2f}"
+    emotion_result = emotion_label[index]
 
     print('감정 분류 결과: ', emotion_result)
-    return emotion_result
+    print('정확도: ', percentage)
+    return {'result': emotion_result, 'percentage': percentage}

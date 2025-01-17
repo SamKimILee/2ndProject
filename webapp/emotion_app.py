@@ -19,8 +19,7 @@ def classifying():
     # 예측
     pre = predict_emotion(user_input)
 
-    # 입력된 텍스트를 처리 (여기서는 텍스트 그대로 반환)
-    result = f"{user_input} <br> 감정 분류 결과: {pre}"
+    print(pre['result'], pre['percentage'])
     
     # 결과를 JSON 형태로 반환
-    return jsonify({'result': result})
+    return jsonify({'result': pre['result'], 'percentage': pre['percentage']})
