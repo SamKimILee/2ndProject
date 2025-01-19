@@ -1,13 +1,27 @@
-"""
-실행파일
-"""
-from webapp import app
-# __init__.py는 import가 실행되면 자동으로 먼저 실행됨. 
-# import할때 app.py 실행. 그 다음 한번 더 실행
+from flask import Flask, jsonify, render_template, request
+from emotion_filtering import predict_emotion, predict_filter
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return render_template('test.html')
+
+@app.route('/api', methods=['POST'])
+def predict():
+    # 폼에서 입력된 텍스트를 받아옴
+    text = request.form['user_input']
+
+    # 예측
+    pre_filter = predict_filter(text)
+    pre_emo = predict_emotion(text)    
+
+    # 결과를 JSON 형태로 반환
+    return jsonify({'filter_result': pre_filter['result'],
+                    'filter_percentage': pre_filter['percentage'],
+                    'emo_result': pre_emo['result'], 
+                    'emo_percentage': pre_emo['percentage']})
+
 
 if __name__ == '__main__':
-    #app.run() 
     app.run(debug=True)
-#app.run(host='172.16.10.248')
-#app.run(host='0.0.0.0')
-

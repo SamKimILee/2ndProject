@@ -28,12 +28,12 @@
                 
                 // AJAX 요청
                 $.ajax({
-                    url: '/filtering',  // Flask 라우트
+                    url: '/api',  // Flask 라우트
                     type: 'POST',  // POST 요청
                     data: { 'user_input': userInput },  // 전송할 데이터
                     success: function(response) {
                         // 서버에서 받은 결과를 페이지에 표시
-                        $('#result').html('<h2>입력한 텍스트는: <strong>' + response.result + '</strong></h2>');
+                        $('#result').html('<h2>입력한 텍스트는: <strong>' + response.filter_result + '</strong></h2>');
                     },
                     error: function(error) {
                         console.log("Error:", error);
